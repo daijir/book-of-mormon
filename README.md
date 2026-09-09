@@ -1,13 +1,11 @@
-# 📖 Book of Mormon Deep Study & John W. Welch Notes
-### モルモン書 聖句テキスト＆詳細研究ノート アーカイブ
+# Book of Mormon Personal Study
+### モルモン書個人研究
 
-本リポジトリは、**モルモン書（The Book of Mormon）**の全巻聖句テキストと、古代聖典研究の権威である **ジョン・W・ウェルチ（John W. Welch）氏の注解ノート（John W. Welch Notes / Scripture Central）** を体系的にまとめた個人研究用リポジトリです。
-
-古代近東およびヘブル文学構造（交差配列法等）、歴史的・法律的文脈、そして何よりも中心主題である**イエス・キリストの贖罪と福音**を深く探求するためのリソースがあります。
+このリポジトリは、**モルモン書（The Book of Mormon）**と、**John W. Welch's Notes** をまとめたモルモン書の個人研究用のものです。
 
 ---
 
-## 🌟 預言者と学者によるモルモン書研究の力と証
+## 預言者と学者によるモルモン書の証
 *(Prophetic Promises & Scholarly Insights on Studying the Book of Mormon)*
 
 ### 1. 宗教のかなめ石 — ジョセフ・スミス
@@ -60,58 +58,8 @@
 
 ---
 
-## 📚 リポジトリ目次・各書ナビゲーション (Contents)
+## 参考リンク(References)
 
-各フォルダには、該当する書の聖句テキスト（`.txt`）および詳細な研究ノート（`_notes.md`）が収録されています。
-
-| フォルダ | 書名（日本語） | 英語名 | 章数 | 主なテーマ・ハイライト |
-| :--- | :--- | :--- | :---: | :--- |
-| [`00_special_topics/`](00_special_topics/) | **特別研究トピック** | Special Topics | 2編 | 回復の祝祭、イースターと贖罪の省察 |
-| [`01_1nephi/`](01_1nephi/) | **第1ニーファイ書** | 1 Nephi | 22章 | エルサレムの脱出、命の木の示現、真鍮の版 |
-| [`02_2nephi/`](02_2nephi/) | **第2ニーファイ書** | 2 Nephi | 33章 | 選択の自由（2章）、贖罪（9章）、イザヤ書引用、キリストの教え（31-32章） |
-| [`03_jacob/`](03_jacob/) | **ヤコブ書** | Jacob | 7章 | 義の警告、オリーブの木のたとえ（5章）、シェルムとの問答 |
-| [`04_enos/`](04_enos/) | **エノス書** | Enos | 1章 | 魂の飢え、熱烈な祈りと赦し、レーマン人への愛 |
-| [`05_jarom/`](05_jarom/) | **ジャロム書** | Jarom | 1章 | ニーファイ人の系図維持、預言者の勧めと防衛 |
-| [`06_omni/`](06_omni/) | **オムナイ書** | Omni | 1章 | ザラヘムラの発見、モーサヤ王とミュレク人の合流 |
-| [`07_wordsofmormon/`](07_wordsofmormon/) | **モルモンの言葉** | Words of Mormon | 1章 | 小版と大版の連結、モルモンの編集意図と霊感 |
-| [`08_mosiah/`](08_mosiah/) | **モーサヤ書** | Mosiah | 29章 | ベニヤミン王の説教、アビナダイの証、アルマの改宗とバプテスマ |
-| [`09_alma/`](09_alma/) | **アルマ書** | Alma | 63章 | 信仰の成長（32章）、アルマ36章の交差配列法、救いの計画、戦いの記録 |
-| [`10_helaman/`](10_helaman/) | **ヒラマン書** | Helaman | 16章 | 秘密結社、岩なるキリスト（5章）、レーマン人サムエルの預言 |
-| [`11_3nephi/`](11_3nephi/) | **第3ニーファイ書** | 3 Nephi | 30章 | 復活されたイエス・キリストのニーファイ人への御来臨と教導 |
-| [`12_4nephi/`](12_4nephi/) | **第4ニーファイ書** | 4 Nephi | 1章 | 200年間にわたるシオンの平和と繁栄、その後の背教 |
-| [`13_mormon/`](13_mormon/) | **モルモン書** | Mormon | 9章 | モルモンの生涯、ニーファイ国民の終焉、後世への熱烈な証 |
-| [`14_ether/`](14_ether/) | **エテル書** | Ether | 15章 | ヤレド人の歴史、ヤレドの兄弟の驚くべき信仰、エテルの警告 |
-| [`15_moroni/`](15_moroni/) | **モローナイ書** | Moroni | 10章 | 教会の規律と儀式、信仰・希望・慈愛（7章）、モローナイの約束（10:3–5） |
-
----
-
-## 🔍 本研究アーカイブの特長と学習法 (Study Approaches)
-
-### 1. ジョン・W・ウェルチ氏による精緻なテキスト分析
-各章のノート（`_notes.md`）には、以下の学問的・霊的観点が凝縮されています：
-- **交差配列法（Chiasmus）とヘブル詩の修辞法**:
-  古代ヘブルの反転並行法や同義並行法など、モルモン書全体に埋め込まれた緻密な文学的構造（例：アルマ36章の中心点にあるキリストへの叫び）。
-- **古代近東・聖書的法律の背景**:
-  律法（モーセの律法、盟約の儀式、法廷の手続き、古代の証人制度）の正確な反映。
-- **ニーファイの預言的視点（Nephite Prophetic View）**:
-  ニーファイがイザヤ書の章句を4つの歴史的・預言的段階（①キリストの降誕と降臨、②ニーファイ人の拒絶と散乱、③異邦人の日々と回復、④悪人の滅びとシオンの勝利）に照らし合わせて引用・適用した枠組み。
-
-### 2. ファイル構成と活用手順
-- **聖句テキストファイル (`XX.txt`)**:
-  各章の純粋なテキスト。素読や通読、キーワード検索に適しています。
-- **研究ノート (`XX_notes.md`)**:
-  - **Table of Contents**: 章内の論点ごとの目次
-  - **Historical & Cultural Context**: 歴史的・文化的・地理的背景
-  - **Detailed Verse Commentary**: 各節・トピックごとの詳細注解
-  - **Companion Study Links**: 関連する他の章やトピックへのクロスリファレンス
-  - **Further Reading**: Scripture Central / KnoWhy などの学術文献参照
-
----
-
-## 🔗 参考リンク & クレジット (References)
-
-- **[Scripture Central (Book of Mormon Central)](https://scripturecentral.org/)**:
-  モルモン書をはじめとする末日聖徒の聖典研究・KnoWhy記事・メディアを提供する主要リソース。
 - **[John W. Welch Notes Archive](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)**:
   ジョン・W・ウェルチ教授によるモルモン書各章の注解ノート原本。
 - **[The Church of Jesus Christ of Latter-day Saints - The Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm)**:
