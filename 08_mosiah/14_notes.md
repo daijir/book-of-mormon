@@ -1,0 +1,14 @@
+# John W. Welch Notes: Mosiah 14
+
+- [📖 View Scripture Text: 14.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/14.txt)
+- **Source**: [Scripture Central — Mosiah 11-17](https://scripturecentral.org/archive/books/book-chapter/mosiah-11-17)
+
+## Table of Contents
+
+- [Mosiah 14:1 — Abinadi Went on to Quote Isaiah 53](#mosiah-141-abinadi-went-on-to-quote-isaiah-53)
+
+---
+
+### Mosiah 14:1 — Abinadi Went on to Quote Isaiah 53
+
+Abinadi, of all the people we meet in the Book of Mormon, came the closest to actually experiencing what Jesus went through in terms of making a suffering sacrifice, and thus it is appropriate that he held the attention of the priests by rehearsing the chapter in Isaiah that addresses the suffering of the servant of the Lord. Abinadi most likely recited Isaiah 53 from memory. It was a classic text. Abinadi may or may not have anticipated that the priests would turn to Isaiah 52, and he may well not have known that they were going to charge him with false prophecy. He likely had no time to prepare for this trial, and no defense lawyers were used in ancient Israelite criminal cases. He most likely had not anticipated that he would need to use Isaiah 53 in his defense, but he was prepared nonetheless. Further Reading Monte S. Nyman, “ Abinadi’s Commentary on Isaiah ,” in The Book of Mormon: Mosiah, Salvation Only Through Christ , ed. Monte S. Nyman and Charles D. Tate, Jr. (Provo, UT: Religious Studies Center, Brigham Young University, 1991), 161–186. Ann N. Madsen, “‘What Meaneth the Words that Are Written?’ Abinadi Interprets Isaiah,” Journal of Book of Mormon Studies 10, no. 1 (2001): 4–15. Mosiah 14:3–12—Abinadi Presented Isaiah’s “Suffering Servant” Text Messianically The prophets knew a lot more than most people give them credit for. How could Isaiah have known with such specificity what was going to happen to Jesus Christ? One reason may be that the original language in the ancient texts wa s a little clearer than it is in our modern translations. Some of the literary nuances would have been easier for them to pick up on, such as the suffering servant being wounded. It says, “He would be marred” (Isaiah 52:14), but in the Isaiah scroll from Q umran, the word for marred is not there — one letter had been added to that word and it changed the word from marred into anointed. He shall be anointed beyond our recognition. In other words, he will be so much greater. And the word for anointed in Greek is Christos. Abinadi must have had this version because he says, “even until the resurrection of Christ —for so shall he be called” (Mosiah 15:21). Further Reading Book of Mormon Central, “Why Did Abinadi Talk About the Suffering Messiah? (Mosiah 14:4),” KnoWhy 91 (May 3, 2016). John W. Welch, “Isaiah 53, Mosiah 14, and the Book of Mormon ,” in Isaiah in the Book of Mormon , ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998) , 293–312.
