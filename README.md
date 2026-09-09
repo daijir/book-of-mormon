@@ -1,7 +1,7 @@
 # Book of Mormon Personal Study
 ### モルモン書個人研究
 
-このリポジトリは、**モルモン書（The Book of Mormon）**と、**John W. Welch's Notes** をまとめたモルモン書の個人研究用のものです。
+このリポジトリは、**モルモン書（The Book of Mormon）**と、**John W. Welch Notes** をまとめたモルモン書の個人研究用のものです。
 
 ---
 
@@ -58,9 +58,9 @@
 
 ---
 
-## 参考リンク(References)
+## 参考資料(References)
 
-- **[John W. Welch Notes Archive](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)**:
-  ジョン・W・ウェルチ教授によるモルモン書各章の注解ノート原本。
+- **[John W. Welch Notes](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)**:
+  ジョン・W・ウェルチ教授によるモルモン書の注解資料。
 - **[The Church of Jesus Christ of Latter-day Saints - The Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm)**:
   末日聖徒イエス・キリスト教会 公式聖典オンライン版。
