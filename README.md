@@ -1,7 +1,6 @@
-# Book of Mormon Personal Study
 ### モルモン書個人研究
 
-このリポジトリは、モルモン書（The Book of Mormon）と、John W. Welch Notes をまとめたモルモン書の個人研究用のものです。
+このリポジトリは、モルモン書と、John W. Welch Notes をまとめたモルモン書の個人研究用のものです。
 
 ---
 
