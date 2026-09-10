@@ -61,6 +61,5 @@ His answer was a profound balance between obedience and redemption:
 
 To prove this central point from their own scriptural canon, Abinadi proceeds immediately to recite Isaiah 53 in Mosiah 14.
 
-#### Further Reading
-- Book of Mormon Central, “Did Abinadi Prophesy During Pentecost? (Mosiah 13:5),” *KnoWhy* 90 (May 2, 2016).
+#### Further Reading-Book of Mormon Central, “Did Abinadi Prophesy During Pentecost? (Mosiah 13:5),” *KnoWhy* 90 (May 2, 2016).
 - John W. Welch, Gordon C. Thomasson, and Robert F. Smith, “Abinadi and Pentecost,” in *Reexploring the Book of Mormon*, ed. John W. Welch (Provo and Salt Lake City, UT: FARMS and Deseret Book, 1992), 135–138.

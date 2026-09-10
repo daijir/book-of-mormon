@@ -58,8 +58,7 @@ Several other terms in this chapter of Isaiah come from that same semantic root 
 
 All these words are linguistically related to the word “kindness,” and all those things have to do with the Lord’s covenant “kind,” “kinship,” and “kingly” relationships with His people. His “everlasting kindness” (22:8) is truly merciful, binding, and eternally sealing.
 
-#### Further Reading
-- Cynthia L. Hallen, “The Lord’s Covenant of Kindness: Isaiah 54 and 3 Nephi 22,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: Foundation for Ancient Research and Mormon Studies, 1998), 313–349.
+#### Further Reading-Cynthia L. Hallen, “The Lord’s Covenant of Kindness: Isaiah 54 and 3 Nephi 22,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: Foundation for Ancient Research and Mormon Studies, 1998), 313–349.
 
 ---
 

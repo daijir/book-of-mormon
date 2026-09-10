@@ -39,6 +39,5 @@ Why would Nephi, writing in the New World around 550 BC, quote an ancient oracle
 1. **Babylon as Archetype**: In prophetic literature, Babylon represents the universal archetype of spiritual wickedness, materialism, and rebellion against God—what Nephi elsewhere terms "the great and abominable church" (1 Nephi 13–14; 22:13–14; 2 Nephi 28).
 2. **Divine Inevitability**: Just as the seemingly impregnable city of Babylon fell to ruins precisely as Isaiah had spoken, so too all worldly powers and secret combinations that oppress the saints will crumble before the triumphant reign of Christ.
 
-#### Further Reading
-- Book of Mormon Central, “Why Does Nephi Quote a Prophecy About the Destruction of Babylon in the Last Times? (2 Nephi 23:6),” *KnoWhy* 46 (March 3, 2016).
+#### Further Reading-Book of Mormon Central, “Why Does Nephi Quote a Prophecy About the Destruction of Babylon in the Last Times? (2 Nephi 23:6),” *KnoWhy* 46 (March 3, 2016).
 - John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.

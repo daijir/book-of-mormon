@@ -16,9 +16,7 @@
 
 ---
 
-### Mormon 1 — Mormon as a Teenager: Some Questions to Keep in Mind
-
-- How did the events and concerns of Mormon’s formative youth and during his mid-life challenges influence his composition of the entire Book of Mormon?
+### Mormon 1 — Mormon as a Teenager: Some Questions to Keep in Mind-How did the events and concerns of Mormon’s formative youth and during his mid-life challenges influence his composition of the entire Book of Mormon?
 - Mormon tells us that he grew up in a very difficult time. The cultural environment was already bad when he was born. Yet he grew up to be extraordinarily faithful, righteous, and dutiful. How might that have happened? Are there lessons that we as his readers can apply to strengthen the current rising generation (Mormon 1:1–14)? What happened to Mormon when he was 15 and 16 years old, and then as a very young adult?
 - Is it implausible to think of a person so young being put in charge of thousands of soldiers at a very critical moment (Mormon 1:15–2:7)?
 
@@ -73,7 +71,5 @@ Mormon marked that date by stating both his age and the date in Mormon 2:2, whic
 
 Based on Mormon’s evident precociousness, spirituality, lineage, and physical stature, Ammaron was thus certainly inspired five years earlier as he confidently selected Mormon at such a young age as the next record-keeper. Ammaron himself was no doubt quite old. He received the plates from his brother Amos, and they were both sons and grandsons of another Amos, who was a son or a grandson of leaders named Nephi in 4 Nephi. Although the chronological record is not explicit here, one can well imagine that Ammaron had searched and waited long, during the deteriorating years between AD 250–321 when Ammaron spoke to Mormon when he was “about ten years of age” (Mormon 1:2). Ammaron needed someone reliable and able to make and edit records. It is likely that his positive statements about Mormon’s strengths encouraged Mormon to develop those strengths further. An adult’s trust often proves to be invaluable to the development of young people. It is worthwhile to consider how and when we may want to provide positive reinforcement to young people.
 
-#### Further Reading
-
-- Richard Neitzel Holzapfel, “Mormon, the Man and the Message,” in *The Book of Mormon: Fourth Nephi Through Moroni, From Zion to Destruction*, ed. Monte S. Nyman and Charles D. Tate, Jr. (Provo, UT: Religious Studies Center, 1995), 117–131.
+#### Further Reading-Richard Neitzel Holzapfel, “Mormon, the Man and the Message,” in *The Book of Mormon: Fourth Nephi Through Moroni, From Zion to Destruction*, ed. MonteS. Nyman and Charles D. Tate, Jr. (Provo, UT: Religious Studies Center, 1995), 117–131.
 - Book of Mormon Central, “What Do We Know about Mormon’s Upbringing? (Mormon 1:2),” *KnoWhy* 226 (November 8, 2016).

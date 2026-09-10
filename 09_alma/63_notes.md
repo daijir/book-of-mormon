@@ -45,8 +45,7 @@ During this period of post-war exhaustion and economic realignment, an exceeding
 - **Landward Colonization**: Many others migrated into the land northward by foot.
 - **Corianton**: Alma’s youngest son Corianton, having fully repented of his moral transgressions in Alma 39–42, was among those who journeyed northward in a ship to carry provisions unto the colonists (Alma 63:10).
 
-#### Further Reading
-- Book of Mormon Central, “Why Did Mormon Mention Hagoth? (Alma 63:8),” *KnoWhy* 171 (August 23, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Mormon Mention Hagoth? (Alma 63:8),” *KnoWhy* 171 (August 23, 2016).
 
 ---
 
@@ -81,5 +80,4 @@ As you think ahead to the conclusion of the Nephite record, Mormon has meticulou
 - The absolute necessity of individual repentance, covenant fidelity, and family bonds.
 - The assurance that God’s covenant promises will never fail, even across the fall of empires.
 
-#### Further Reading
-- Book of Mormon Central, “How Does Chiasmus Teach Us to Reverse the Pride Cycle? (Alma 62:48),” *KnoWhy* 468 (September 18, 2018).
+#### Further Reading-Book of Mormon Central, “How Does Chiasmus Teach Us to Reverse the Pride Cycle? (Alma 62:48),” *KnoWhy* 468 (September 18, 2018).

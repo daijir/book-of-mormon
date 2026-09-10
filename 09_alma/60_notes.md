@@ -26,8 +26,7 @@ It may be easy for us to assume that Moroni was quite a hothead. However, Teancu
 
 Moreover, he may have worried that a less pointed or bold correspondence would result in inaction by whoever was responsible for the deprivation of the Nephite armies. After all, he had already written once and received no answer. Pahoran revealed in his reply that he was up to his neck in his own problems. Perhaps the letter was delivered to Zarahemla after Pahoran had fled. It may have not been delivered on time.
 
-#### Further Reading
-- Book of Mormon Central, “Why Did Moroni Refer to Vessel Impurity in Condemning the Central Government? (Alma 60:23),” *KnoWhy* 169 (August 19, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Moroni Refer to Vessel Impurity in Condemning the Central Government? (Alma 60:23),” *KnoWhy* 169 (August 19, 2016).
 
 ---
 

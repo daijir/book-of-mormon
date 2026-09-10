@@ -67,8 +67,7 @@ Watch for the development of these same four stages in Nephi’s selection of Is
 
 Studying 2 Nephi 12–24 this way, see how many more words of Isaiah you can relate to Nephi’s four main prophetic stages. This approach offers power in not only interpreting the words of Isaiah, but also analyzing the prophetic outlook of all writers in the Book of Mormon who follow in Nephi’s tradition. The writings of Isaiah are puzzling for all modern readers, but the fact that Isaiah’s complicated overall scheme goes hand in hand with Nephi’s worldview adds additional credence to Nephi’s testimony that he and Isaiah were talking about the same things. In 2 Nephi 25–30, Nephi’s use of Isaiah in light of his prophetic overview will make coherent sense of these impossibly difficult passages.
 
-#### Further Reading
-- John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
+#### Further Reading-John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
 - Book of Mormon Central, “What Vision Guides Nephi’s Choice of Isaiah Chapters? (2 Nephi 11:2),” *KnoWhy* 38 (February 22, 2016).
 - Book of Mormon Central, “Who Are the Witnesses of Christ in 2 Nephi? (2 Nephi 11:2–3),” *KnoWhy* 37 (February 19, 2016).
 
@@ -79,7 +78,7 @@ Isaiah was active as a prop het of Judah living in Jerusalem from 740 –701 BC.
 
 ### 2 Nephi 11:2 — Nephi’s Love of Isaiah
 
-When Nephi wrote these passages, he was without his father. Nephi would have rejoiced in knowing that there is a plan , that the covenant of the Lord was still firm, t hat his arm was outstretched, that his people were not going to be forgotten, and that even the isles of the sea would not be ignored. Think about being desperately in need of that kind of comfort. We can see why these texts of Isaiah would have meant the world to Nephi. Further Reading Book of Mormon Central, “ Why is the Lord’s Hand ‘Stretched Out Still’? (2 Nephi 19:12),” KnoWhy 49 (March 8, 2016).
+When Nephi wrote these passages, he was without his father. Nephi would have rejoiced in knowing that there is a plan, that the covenant of the Lord was still firm, that his arm was outstretched, that his people were not going to be forgotten, and that even the isles of the sea would not be ignored. Think about being desperately in need of that kind of comfort. We can see why these texts of Isaiah would have meant the world to Nephi. Further Reading Book of Mormon Central, “ Why is the Lord’s Hand ‘Stretched Out Still’? (2 Nephi 19:12),” KnoWhy 49 (March 8, 2016).
 
 ### 2 Nephi 11:2 — How Much Did Isaiah Know about Christ and His Suffering?
 

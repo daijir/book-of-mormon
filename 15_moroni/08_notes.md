@@ -48,9 +48,7 @@ In Mormon 3, the prophet Mormon had been commanded to preach repentance to the p
 
 Although Moroni 8 is commonly thought of as only being about the baptism of infants, it is also about repentance. The dominant refrain is “Repent! Repent!” Sinners are called to repentance; parents must teach repentance; parents must repent; little children need no repentance. The whole letter circles back to the issue of repentance. Little children should not be baptized because they cannot repent. They do not need to repent. They are unable to repent. The first fruits of repentance are baptism. One may not, then, baptize children until they are able to repent. Repentance makes baptism and the atonement meaningful.
 
-#### Further Reading and Additional Views
-
-- Joseph M. Spencer, “On the Dating of Moroni 8–9,” *Interpreter: A Journal of Latter-day Saint Faith and Scholarship* 22 (2016): 131–148.
+#### Further Reading and Additional Views-Joseph M. Spencer, “On the Dating of Moroni 8–9,” *Interpreter: A Journal of Latter-day Saint Faith and Scholarship* 22 (2016): 131–148.
 - Alan C. Miner, “A Chronological Setting for the Epistles of Mormon to Moroni,” *Journal of Book of Mormon Studies* 3, no. 2 (1994): 94–113.
 
 ---
@@ -101,9 +99,7 @@ Mormon’s response leads to an important question: What does a person’s attit
 
 One may wonder if in an effort to have power, they had started their own splinter church organizations by deciding to do something differently in order to appease the people and to stay in control of the situation. Such people, one might say, would have the appearance of good efforts, but they would lack the authority to make such changes. In response, Mormon was quite harsh, and did not identify any righteous reason for the change. In Mormon 3:2, the Lord says to Mormon, “Cry unto my people, repent ye … and build up again my church,” which may indicate that there actually had arisen another church competing for the people’s minds and hearts. Forming alternative religious orders, as with the Order of Nehors, had a long history among the Nephites.
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Did Moroni Include Mormon’s Condemnation of Infant Baptism? (Moroni 8:12),” *KnoWhy* 253 (December 15, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Moroni Include Mormon’s Condemnation of Infant Baptism? (Moroni 8:12),” *KnoWhy* 253 (December 15, 2016).
 
 ---
 

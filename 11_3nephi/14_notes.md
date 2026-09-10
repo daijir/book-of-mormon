@@ -38,9 +38,7 @@ Thus, President Brigham Young wisely taught:
 
 The risk here is that we may want to play it safe and not judge at all, attempting to avoid judging unrighteously, but we are commanded to “judge righteously” (Alma 41:14), so we may not be keeping the whole commandment if we try to play it too safe. We are commanded to help our brother by casting the fleck of sawdust, the “mote,” out of a brother’s eye (14:5), but in order to do so, we must first get the huge wooden ceiling beam out of our own eye or field of vision. Obviously, we have to be careful. We need to consider how we will be judged and what the final judgment will look like. Notice that the judging principle is similar to the forgiveness concept. If we forgive a lot, we will be forgiven a lot. How we judge is how we will be judged. In the end, combining these principles, Jesus teaches that mercy triumphs over judgment.
 
-#### Further Reading
-
-- Dallin H. Oaks, “Judge Not and Judging,” BYU Devotional, March 1, 1998.
+#### Further Reading-Dallin H. Oaks, “Judge Not and Judging,” BYU Devotional, March 1, 1998.
 
 ---
 

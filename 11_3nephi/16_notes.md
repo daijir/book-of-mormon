@@ -25,9 +25,7 @@ In this chapter, Jesus next explains that He will go to “other sheep” (16:1)
 
 The believing Gentiles will be blessed, but the “fullness” of the gospel will be taken from “the unbelieving Gentiles” who commit all kinds of sins. But if they will repent, they shall yet “be numbered among my people” (16:13). Otherwise, they will be “trodden under foot” (16:15), as the salt that has lost its savor (12:13).
 
-#### Further Reading
-
-- Book of Mormon Central, “Why is the Sermon at the Temple Echoed throughout the Rest of 3 Nephi? (3 Nephi 16:6),” *KnoWhy* 208 (October 13, 2016).
+#### Further Reading-Book of Mormon Central, “Why is the Sermon at the Temple Echoed throughout the Rest of 3 Nephi? (3 Nephi 16:6),” *KnoWhy* 208 (October 13, 2016).
 - John W. Welch, “Echoes from the Sermon on the Mount,” in *The Sermon on the Mount in Latter-day Scripture*, ed. Gaye Strathearn, Thomas A. Wayment, and Daniel L. Belnap (Provo and Salt Lake City, UT: Religious Studies Center, Brigham Young University and Deseret Book, 2010), 314–315; reprinted as “Reusages of the Words of Christ,” *Journal of Book of Mormon Studies and Other Restoration Scripture* 22, no. 1 (2013): 63–71.
 
 ---
@@ -40,6 +38,4 @@ I suspect that Jesus was thinking at that time that He would discuss Isaiah 52:8
 
 But as Jesus was turning to leave thinking He had already overwhelmed them (quoting Isaiah tends to do that to people), Jesus saw that the people were in tears. Moved with deepest compassion, He magnificently stayed on, as we will learn next in 3 Nephi 17–18.
 
-#### Further Reading
-
-- Dana M. Pike, “‘How Beautiful upon the Mountains’: The Imagery of Isaiah 52:7–10 and Its Occurrences in the Book of Mormon,” in *Isaiah in the Book of Mormon*, ed. Donald Parry and John Welch (Provo: FARMS, 1998), esp. 266–272.
+#### Further Reading-Dana M. Pike, “‘How Beautiful upon the Mountains’: The Imagery of Isaiah 52:7–10 and Its Occurrences in the Book of Mormon,” in *Isaiah in the Book of Mormon*, ed. Donald Parry and John Welch (Provo: FARMS, 1998), esp. 266–272.

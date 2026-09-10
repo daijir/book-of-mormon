@@ -29,9 +29,7 @@ The chaos, tension, and horror of the similar military scene at the landing were
 
 People used to read the Book of Mormon account and say, “This just sounds too fantastic to be true,” but it is true. We know today that such things happen. Many war participants have verified similar experiences, and with embedded television participation, the public can now observe at a safe distance some of the realities of war.
 
-#### Further Reading
-
-- Hugh Nibley and Alex Nibley, *Sergeant Nibley PhD: Memories of an Unlikely Screaming Eagle* (Salt Lake City, UT: Shadow Mountain, 2006).
+#### Further Reading-Hugh Nibley and Alex Nibley, *Sergeant Nibley PhD: Memories of an Unlikely Screaming Eagle* (Salt Lake City, UT: Shadow Mountain, 2006).
 
 ---
 
@@ -55,9 +53,7 @@ The most graphic description of the atrocities is not in Mormon’s public writi
 
 It happened in Mormon’s time, and it happened when Jerusalem was attacked by the Romans and they would not let anybody in or out of the city of Jerusalem. Josephus recorded that they had nothing at all to eat, so they started eating their children. It has happened in South Sudan more recently. According to CNN, “Forced cannibalism, gang rapes, and death by burning are among the atrocities marking the brutal civil war taking place in South Sudan, according to an African Union (AU) report.” The report describes heart-wrenching events too ugly to detail, and assures the reader that the details of Mormon’s experiences are not fantasy and were thankfully under-reported.
 
-#### Further Reading
-
-- Susannah Cullinane, “Cannibalism, gang rapes -- the brutal toll of the South Sudan conflict,” *CNN* (October 29, 2015).
+#### Further Reading-Susannah Cullinane, “Cannibalism, gang rapes -- the brutal toll of the South Sudan conflict,” *CNN* (October 29, 2015).
 
 ---
 
@@ -67,9 +63,7 @@ The “horrible scene of the blood and carnage” described by Mormon in his rec
 
 In addition, when Spanish soldiers arrived in Mexico to conquer, they were met by a number of Aztec soldiers, who, they reported, could decapitate a horse with their swords. People assumed the conquistadors had exaggerated in order to make themselves look better when they reported what a great victory they had won. Later evidence supports that they were not exaggerating. Weapons and records found in archaeological work have supported their statements. Although no one is certain that such weapons were used in Mormon’s battles, they would certainly have added to the appearance of a great deal of “blood and carnage” when compared with the traditional weapons that were known in Europe and the Americas in the 1800’s.
 
-#### Further Reading
-
-- Matthew Roper, “To Inflict the Wounds of Death,” FairMormon Presentation 2016, online at fairmormon.org.
+#### Further Reading-Matthew Roper, “To Inflict the Wounds of Death,” FairMormon Presentation 2016, online at fairmormon.org.
 - Matthew Roper, “Swords and ‘Cimeters’ in the Book of Mormon,” *Journal of Book of Mormon Studies* 8, no. 1 (1999): 35–43.
 
 ---
@@ -92,7 +86,5 @@ In reading Mormon 4–5 and Moroni 9, look for unique points mentioned in both t
 
 The last few of these points in this list make it likely that Mormon first wrote about these events in Mormon 4 and then drafted the personal letter to Moroni in Moroni 9 based on that record.
 
-#### Further Reading
-
-- Joseph M. Spencer, “On the Dating of Moroni 8–9,” *Interpreter: A Journal of Latter-day Saint Faith and Scholarship* 22 (2016): 131–148.
+#### Further Reading-Joseph M. Spencer, “On the Dating of Moroni 8–9,” *Interpreter: A Journal of Latter-day Saint Faith and Scholarship* 22 (2016): 131–148.
 - Alan C. Miner, “A Chronological Setting for the Epistles of Mormon to Moroni,” *Journal of Book of Mormon Studies* 3, no. 2 (1994): 94–113.

@@ -62,11 +62,9 @@ Hugh Nibley gave the following summary:
 
 Far from being an amusing creation of Joseph Smith, the shining stones are features of ancient texts that were not known in Smith’s place and time.
 
-#### Further Reading
-
-- Book of Mormon Central, “Where did the Brother of Jared Get the Idea of Shining Stones? (Ether 6:3),” *KnoWhy* 240 (November 28, 2016).
+#### Further Reading-Book of Mormon Central, “Where did the Brother of Jared Get the Idea of Shining Stones? (Ether 6:3),” *KnoWhy* 240 (November 28, 2016).
 - Hugh Nibley, *An Approach to the Book of Mormon*, 1st edition (Salt Lake City, UT: Deseret Book, 1957), chapter 25, pp. 288–298.
-- Hugh W. Nibley, “There Were Jaredites - The Shining Stones – Continued,” *Improvement Era* 59, no. 9 (1956): 630–632, 672–675.
+- Hugh W. Nibley, “There Were Jaredites-The Shining Stones – Continued,” *Improvement Era* 59, no. 9 (1956): 630–632, 672–675.
 - Hugh Nibley, *An Approach to the Book of Mormon*, The Collected Works of Hugh Nibley, Volume 6 (Salt Lake City and Provo, UT: Deseret Book and FARMS, 1988), 285, 337–358.
 - John A. Tvedtnes, “Glowing Stones in Ancient and Medieval Lore,” *Journal of Book of Mormon Studies* 6, no. 2 (1997): 99–123.
 

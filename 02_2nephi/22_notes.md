@@ -31,6 +31,5 @@ The hymn concludes with a universal missionary and liturgical anthem:
 
 Nephi cherished this hymn because it assured him that despite all the sorrow of Lehi’s family and the eventual destruction of his people, the Holy One of Israel would eternally dwell in the midst of His redeemed children.
 
-#### Further Reading
-- John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
+#### Further Reading-John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
 - David Rolph Seely, “Nephi's Use of Isaiah 2–14 in 2 Nephi 12–30,” in *Isaiah in the Book of Mormon*, 151–169.

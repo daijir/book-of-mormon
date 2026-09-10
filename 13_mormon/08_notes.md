@@ -80,9 +80,7 @@ Then, when Moroni was abridging the book of Ether, he inserted his second farewe
 
 But when he wrote in Moroni 10, he was not doing it because he had been told to do it, and he was not worried about what his readers might think of his work. In the end, Moroni simply pours out his heart to us. That is where we will eventually find his series of seven pleading exhortations to us, as we will later see.
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Did Moroni Write So Many Farewells? (Mormon 8:1),” *KnoWhy* 233 (November 17, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Moroni Write So Many Farewells? (Mormon 8:1),” *KnoWhy* 233 (November 17, 2016).
 
 ---
 
@@ -90,9 +88,7 @@ But when he wrote in Moroni 10, he was not doing it because he had been told to 
 
 In ancient writing, many manuscripts contained what scholars call a colophon. They did not have a copyright or a title page on their scrolls, but formal scribes would typically leave a declaration either at the beginning or the end of what they had written. A colophon required the scribe to leave a date of when the document was written, and state the identity of the author, their titles, and their genealogy. Moroni began by saying who his father was, and giving us the genealogy and the sad, though glorious and honorable, way in which Mormon died.
 
-#### Further Reading
-
-- Thomas W. Mackay, “Mormon as Editor: A Study of Colophons, Headers, and Source Indicators,” *Journal of Book of Mormon Studies* 2, no. 2 (1993): 90–109.
+#### Further Reading-Thomas W. Mackay, “Mormon as Editor: A Study of Colophons, Headers, and Source Indicators,” *Journal of Book of Mormon Studies* 2, no. 2 (1993): 90–109.
 - John A. Tvedtnes, “Colophons in the Book of Mormon,” in *Reexploring the Book of Mormon: A Decade of New Research*, ed. John W. Welch (Salt Lake City and Provo, UT: Deseret Book and FARMS, 1992), 13–16.
 
 ---
@@ -103,9 +99,7 @@ Ancient authors were often expected to provide a period or date for their writin
 
 Four hundred is twenty squared, that is twenty times twenty. The Mesoamerican calendar system was based on the number twenty. One cycle of twenty years was called a *tun* and so it had been a *tun* of *tuns*. Moroni probably saw this as significant; otherwise, why would he have made particular mention of it? A good recordkeeper demarcates when and where the record was produced.
 
-#### Further Reading
-
-- Mark Alan Wright, “Nephite Daykeepers: Ritual Specialists in Mesoamerica and the Book of Mormon,” in *Ancient Temple Worship: Proceedings of the Expound Symposium, 14 May 2011*, ed. Matthew B. Brown, Jeffrey M. Bradshaw, Stephen D. Ricks, and John S. Thompson (Salt Lake City and Orem, UT: Eborn Books and Interpreter Foundation, 2014), 252–253.
+#### Further Reading-Mark Alan Wright, “Nephite Daykeepers: Ritual Specialists in Mesoamerica and the Book of Mormon,” in *Ancient Temple Worship: Proceedings of the Expound Symposium, 14 May 2011*, ed. Matthew B. Brown, Jeffrey M. Bradshaw, Stephen D. Ricks, and JohnS. Thompson (Salt Lake City and Orem, UT: Eborn Books and Interpreter Foundation, 2014), 252–253.
 - Evidence Central, “Book of Mormon Evidence: Calendrical Pattern,” September 19, 2020, online at evidencecentral.org.
 
 ---
@@ -153,9 +147,7 @@ A section of questioning begins in verse 33. Seven times he asked, O why? Why? W
 
 Moroni certainly knows how to ask the “why” questions! Elder M. Russell Ballard has assured us all that asking the “why questions” is the best way to open the windows and doors of revelation. Asking why is still today a great step in the direction of learning why and knowing why.
 
-#### Further Reading
-
-- M. Russell Ballard, “The Opportunities and Responsibilities of CES Teachers in the 21st Century,” Address to CES Religious Educators, February 26, 2016, online at churchofjesuschrist.org.
+#### Further Reading-M. Russell Ballard, “The Opportunities and Responsibilities of CES Teachers in the 21st Century,” Address to CES Religious Educators, February 26, 2016, online at churchofjesuschrist.org.
 
 ---
 

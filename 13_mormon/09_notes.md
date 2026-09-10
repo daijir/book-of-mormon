@@ -74,9 +74,7 @@ These statements are all in the imperative mood. Like the Ten Commandments, some
 21. Condemn not my father or those who have written before him.
 22. Give thanks that God has made manifest our imperfections, that ye may be wiser than we have been.
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Did Moroni Conclude His Father’s Record with 22 Commands? (Mormon 9:27),” *KnoWhy* 234 (November 18, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Moroni Conclude His Father’s Record with 22 Commands? (Mormon 9:27),” *KnoWhy* 234 (November 18, 2016).
 
 ---
 
@@ -98,9 +96,7 @@ Similarly, Ugaritic texts in a Northwest Semitic language are written using cune
 
 *Figure 2: Gubbio City Hall and Museum. Photograph by John W. Welch.*
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Did Mormon and Moroni Write in Reformed Egyptian? (Mormon 9:32),” *KnoWhy* 513 (May 2, 2019).
+#### Further Reading-Book of Mormon Central, “Why Did Mormon and Moroni Write in Reformed Egyptian? (Mormon 9:32),” *KnoWhy* 513 (May 2, 2019).
 - John Gee, “Two Notes on Egyptian Script,” *Journal of Book of Mormon Studies* 5, no. 1 (1996): 162–176.
 - Stephen D. Ricks, “Semitic Texts Written in Egyptian Characters,” in *Pressing Forward with the Book of Mormon: The FARMS Updates of the 1990s*, edited by John W. Welch and Melvin J. Thorne (Provo, UT: FARMS, 1999), 237–243.
 - On the history and contents of the seven Iguvine tablets, see generally [Wikipedia: Iguvine Tablets](https://en.wikipedia.org/wiki/Iguvine_Tablets).

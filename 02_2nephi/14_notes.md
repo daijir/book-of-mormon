@@ -35,5 +35,4 @@ Isaiah invokes the sacred wilderness sanctuary and Mount Sinai presence:
 
 In this promise, every home and gathering place of the righteous becomes endowed with the same divine protection and presence that anciently rested over the holy tabernacle.
 
-#### Further Reading
-- David Rolph Seely, “Nephi's Use of Isaiah 2–14 in 2 Nephi 12–30,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 151–169.
+#### Further Reading-David Rolph Seely, “Nephi's Use of Isaiah 2–14 in 2 Nephi 12–30,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 151–169.

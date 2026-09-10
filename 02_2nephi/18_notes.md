@@ -44,5 +44,4 @@ When people abandon true prophecy, they turn to mediums, wizards that peep and m
 
 Those who turn away from God’s word shall wander in famine, fret themselves, curse their king and their God, and look only into darkness, dimness of anguish, and utter despair (18:21–22).
 
-#### Further Reading
-- John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
+#### Further Reading-John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.

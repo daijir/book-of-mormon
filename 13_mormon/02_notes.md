@@ -47,9 +47,7 @@ The young Louis became nominal king at the age of five. However, he did not rule
 
 Thus, it is perfectly feasible for a precocious and serious-minded young man like Mormon, particularly one who had been both trained by his father and called of God, to become an important leader at a young age. There are several examples throughout history. In contrast to these historic rulers however, young leaders such as Mormon, David the shepherd boy/king, and Joseph Smith were not only very talented and precocious, but more than that they were called by God and led through the Holy Ghost.
 
-#### Further Reading
-
-- Book of Mormon Central, “What Do We Know about Mormon’s Upbringing? (Mormon 1:2),” *KnoWhy* 226 (November 8, 2016).
+#### Further Reading-Book of Mormon Central, “What Do We Know about Mormon’s Upbringing? (Mormon 1:2),” *KnoWhy* 226 (November 8, 2016).
 
 ---
 
@@ -101,9 +99,7 @@ In the year AD 344, the Nephites fled again, and Mormon led them up to the land 
 
 It is likely that, between AD 334–344, Mormon worked somewhat on the records. He was apparently finishing the record of what he called the Large Plates when, in Mormon 2:18, he wrote: “and upon the plates of Nephi, I did make a full account.” That is, he wrote on what for centuries had been called the Large Plates, recording “all the wickedness and abomination” of his own people. But upon these plates (the plates of Mormon), as he also wrote, he “did forbear to make a full account.” We do not know when he actually made the plates of Mormon, but it would seem likely that he at least began working on them during this period.
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Did Mormon Write So Little About His Own Time Period? (Mormon 2:18),” *KnoWhy* 227 (November 9, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Mormon Write So Little About His Own Time Period? (Mormon 2:18),” *KnoWhy* 227 (November 9, 2016).
 
 ---
 
@@ -117,6 +113,4 @@ At the same time, if he had married in about AD 331, his son Moroni could have b
 
 Promptly after those ten years, in Mormon 3:4, the king of the Lamanites wrote a letter warning that they would resume hostilities. Apparently, this king was willing to live exactly by this ten-year treaty. It must have been a very solemn and somewhat religiously or symbolically oriented treaty for people on both sides to be willing to take a ten-year break from the war. The Lamanites were no doubt tired and probably needed a little rest too, but that would not have required a full decade in order to regroup. The bigger problem must have been within the Nephite camp. And, indeed, it was not more than two years after this ten-year time-out that Mormon would utterly refuse to lead the Nephites any longer because of their vengefulness and hatred.
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Is The 10-Year Peace Treaty Important? (Mormon 3:1),” *KnoWhy* 228 (November 10, 2016).
+#### Further Reading-Book of Mormon Central, “Why Is The 10-Year Peace Treaty Important? (Mormon 3:1),” *KnoWhy* 228 (November 10, 2016).

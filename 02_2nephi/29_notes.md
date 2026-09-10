@@ -51,6 +51,5 @@ The Lord explicitly promises a three-fold convergence of sacred scripture in the
 
 When these records are finally brought together, “the Jews shall have the words of the Nephites, and the Nephites shall have the words of the Jews; and the Nephites and the Jews shall have the words of the lost tribes of Israel; and the lost tribes of Israel shall have the words of the Nephites and the Jews” (29:13).
 
-#### Further Reading
-- Book of Mormon Central, “Why Does the Book of Mormon Stand as the Second Witness of Jesus Christ? (2 Nephi 29:8),” *KnoWhy* 56 (March 17, 2016).
+#### Further Reading-Book of Mormon Central, “Why Does the Book of Mormon Stand as the Second Witness of Jesus Christ? (2 Nephi 29:8),” *KnoWhy* 56 (March 17, 2016).
 - John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.

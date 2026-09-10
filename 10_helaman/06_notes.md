@@ -80,8 +80,7 @@ If the parallelism is to be complete, how can “Zedekiah” stand as the parall
 
 I noticed this chiasm for the first time in March, 1987, and it was published in May, 1987 as a FARMS Update, and soon was made widely available in the 1992 compilation *Reexploring the Book of Mormon*. I mention this timing because I remember well the late Wednesday night when this chiasmus came to my awareness. I was the bishop of the BYU 36th ward, and students needed interviews with the bishop for many reasons as the end of the winter semester approached. All the other students had come punctually on time. One in the middle of my scheduled list was still missing. It was getting late. I was tired, and I needed to teach my Honors Book of Mormon class the next morning. I decided to wait, as long as it took. I opened my copy of the Book of Mormon and sat on the couch in the apartment lobby and began to read the next day’s assignment, which spilled over from Helaman 5 into Helaman 6. This annual report separated itself from the surrounding text as a treasure left by an unnamed but very diligent ancient scribe. When the young man sheepishly stuck his head into the lobby, I invited him in. I told him that the Lord had just blessed us both by him being a little late. I shared with him what I had just found. We had a great interview, in spite of his worries. I hope this text has meant as much to him as it has to me all these thirty-three years later.
 
-#### Further Reading
-- Book of Mormon Central, “Why Was Chiasmus Used in Nephite Record Keeping? (Helaman 6:10),” *KnoWhy* 177 (August 31, 2016).
+#### Further Reading-Book of Mormon Central, “Why Was Chiasmus Used in Nephite Record Keeping? (Helaman 6:10),” *KnoWhy* 177 (August 31, 2016).
 - John W. Welch and J. Gregory Welch, “Helaman as Chief Judge,” in *Charting the Book of Mormon* (FARMS, 1999), chart 133.
 - John W. Welch, “Chiasmus in Helaman 6:7–13,” in *Reexploring the Book of Mormon: A Decade of New Research*, ed. John W. Welch (Salt Lake City and Provo, UT: Deseret Book and FARMS, 1992), 230–232.
 
@@ -136,7 +135,6 @@ We encounter the robbers again in Helaman 6:15–41, where they are even stronge
 
 These few chapters in Helaman contain a complete textbook description of the classic behavior of robbers that was so prevalent throughout the ancient world. It is easy, in reading about the Gadianton robbers, to consider the stories to be fantastic or phenomenal. It is difficult to believe that people would actually organize themselves in these ways and do these kinds of things. This, however, was exactly how such things unfortunately happened in the ancient world.
 
-#### Further Reading
-- Book of Mormon Central, “What is the Difference Between ‘Robbers’ and ‘Thieves’ in the Book of Mormon? (Helaman 6:18),” *KnoWhy* 432 (May 10, 2018).
+#### Further Reading-Book of Mormon Central, “What is the Difference Between ‘Robbers’ and ‘Thieves’ in the Book of Mormon? (Helaman 6:18),” *KnoWhy* 432 (May 10, 2018).
 - John W. Welch and John F. Hall, “Two Profiles of Robbers in the Ancient World,” in *Charting the New Testament* (Provo, UT: FARMS, 2002), chart 3–12.
 - John W. Welch, “Legal and Social Perspectives on Robbers in First-Century Judea,” *BYU Studies* 36, no. 3 (1996–1997): 141–153.

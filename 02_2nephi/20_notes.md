@@ -35,6 +35,5 @@ The Lord comforts His covenant people in Jerusalem:
 - **The Dramatic Advance Halted**: Isaiah maps the rapid military approach of the Assyrian army marching south toward Jerusalem—passing through Aiath, Migron, Michmash, Ramah, Gibeah, Gallim, and Anathoth (20:28–31). The invader halts at Nob, shaking his fist against Mount Zion (20:32).
 - **Sudden Overthrow**: At the gates of the holy city, the Lord of Hosts lops the bough with terror; the high ones of stature are hewn down, and Lebanon falls by a mighty one (20:33–34), foreshadowing the miraculous destruction of Sennacherib’s army outside Jerusalem.
 
-#### Further Reading
-- John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
+#### Further Reading-John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
 - David Rolph Seely, “Nephi's Use of Isaiah 2–14 in 2 Nephi 12–30,” in *Isaiah in the Book of Mormon*, 151–169.

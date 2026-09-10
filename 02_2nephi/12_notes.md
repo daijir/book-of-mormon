@@ -29,6 +29,5 @@ Concurrently with the establishment of Zion, the day of divine judgment will pur
 - **The Day of the Lord**: “The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the Lord alone shall be exalted in that day” (12:11).
 - **Cessation from Man**: “Cease ye from man, whose breath is in his nostrils; for wherein is he to be accounted of?” (12:22).
 
-#### Further Reading
-- Book of Mormon Central, “Has the Prophecy of the Lord’s House Established in the Mountains Been Fulfilled? (2 Nephi 12:2),” *KnoWhy* 41 (February 25, 2016).
+#### Further Reading-Book of Mormon Central, “Has the Prophecy of the Lord’s House Established in the Mountains Been Fulfilled? (2 Nephi 12:2),” *KnoWhy* 41 (February 25, 2016).
 - David Rolph Seely, “Nephi's Use of Isaiah 2–14 in 2 Nephi 12–30,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 151–169.

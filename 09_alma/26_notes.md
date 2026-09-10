@@ -62,5 +62,4 @@ Finally, notice that the word **“joy”** appears in Ammon’s ecstatic reflec
 
 Another seven-fold expression of complete joy will show up again in **Alma 27:17–19**, and yet a third time in **Alma 29:5, 9, 10, 13, 14, 14, 16**. These triple expressions of joy to the seventh power, along with the many precise word choices in these deeply personal chapters, seem far too literarily purposeful and symbolically meaningful to be accidental or unintentional.
 
-#### Further Reading
-- Corbin Volluz, “A Study in Seven: Hebrew Numerology in the Book of Mormon,” *BYU Studies Quarterly* 53, no. 2 (2014): 57–83.
+#### Further Reading-Corbin Volluz, “A Study in Seven: Hebrew Numerology in the Book of Mormon,” *BYU Studies Quarterly* 53, no. 2 (2014): 57–83.

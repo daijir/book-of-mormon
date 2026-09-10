@@ -34,8 +34,7 @@ Just as the children are of supreme importance to Jesus’s ministry here on Day
 
 Brothers and sisters, I realize that this block of text (3 Nephi 19–26) is as deep as it is dense. I plead with you to take extra time and make a sincere effort as you ponder these precious words, praying that the Holy Ghost will open your eyes of understanding. In these words, Jesus gives to us, as well as to those Nephites who were in attendance, the very essence of the Father’s prophetic covenant with his people. The events of Day 1 moved us as the Savior received each individual, compassionately healed their sick, and ministered unto the children. On this Day 2, the teachings are deeper, intentionally veiled, and more abstract, and yet, even more importantly, Jesus here gives us the heart of the Father’s promised covenant to all of mankind. Working through these supernal words this time, line upon line, was more spiritually moving and more revealing to me than ever before. I am grateful—as I am sure you will be too—for the guidance of the Holy Ghost in bringing all this together in one great whole.
 
-#### Further Reading
-- Book of Mormon Central, “Why Did the Peace Last So Long in 4 Nephi? (4 Nephi 1:16),” *KnoWhy* 225 (November 7, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did the Peace Last So Long in 4 Nephi? (4 Nephi 1:16),” *KnoWhy* 225 (November 7, 2016).
 
 ---
 
@@ -49,5 +48,4 @@ But something happens in the Holy of Holies. Anciently, it was seen as a timeles
 
 When the sacred order moves out into the next room in the temple, we find the days of the creation being represented. But in the Holy of Holies, in the presence of God, we are brought into a timeless context. Perhaps that is why we are not given the time or the day of the departure of Jesus. For indeed, he is still with us.
 
-#### Further Reading
-- Book of Mormon Central, “Why Is So Little Said about the Timing of Christ’s Temple Ministry? (3 Nephi 10:18),” *KnoWhy* 481 (November 1, 2018).
+#### Further Reading-Book of Mormon Central, “Why Is So Little Said about the Timing of Christ’s Temple Ministry? (3 Nephi 10:18),” *KnoWhy* 481 (November 1, 2018).

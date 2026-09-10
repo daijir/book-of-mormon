@@ -47,8 +47,7 @@ When Moroni and Lehi discovered Teancum's body the next morning, they were fille
 
 Following Ammoron’s death, the leaderless Lamanite army surrendered, and the devastating fourteen-year war of Amalickiah and Ammoron finally came to an end (62:38–39).
 
-#### Further Reading
-- Book of Mormon Central, “Why Was Teancum Captured and Killed? (Alma 62:36),” *KnoWhy* 170 (August 22, 2016).
+#### Further Reading-Book of Mormon Central, “Why Was Teancum Captured and Killed? (Alma 62:36),” *KnoWhy* 170 (August 22, 2016).
 
 ---
 

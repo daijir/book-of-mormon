@@ -40,5 +40,4 @@ The correspondence between Moroni and Pahoran provides an enduring model for hum
 2. **Refusing to Take Offense**: In David A. Bednar's phrase, "to be offended is a choice." Pahoran chose understanding over resentment.
 3. **Focusing on the Real Enemy**: Instead of engaging in a destructive war of words or a duel of egos, both leaders immediately coordinated their efforts against the true adversaries of liberty and peace.
 
-#### Further Reading
-- Book of Mormon Central, “Why Did Pahoran Respond So Mildly to Moroni's Accusations? (Alma 61:9),” *KnoWhy* 170 (August 22, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Pahoran Respond So Mildly to Moroni's Accusations? (Alma 61:9),” *KnoWhy* 170 (August 22, 2016).

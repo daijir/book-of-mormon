@@ -60,9 +60,7 @@ The early church father Origen understood the Lord’s Prayer to be only a model
 
 In the Sermon at the Temple, the words “give us this day our daily bread” are not found in the Book of Mormon version, but they are in the Joseph Smith Translation. Why might that be not here in the situation in Bountiful? The word “daily” is an untranslatable word in the Greek. The word is *epiousion*, and a literal translation might be, “Give us this day our bread that is beyond being.” The roots of *epiousion* are *ousion*, a form of *eimi*, which is “to be.” The *epi* means “above” and “upon.” How did it become “daily bread”? Well, the Jerome translation into Latin rendered this as “daily.” And indeed, we eat bread daily, and should give thanks daily. However, the Greek may have been saying something more like “Give us this day our heavenly bread,” or that which is “above” nature or “super” natural. Jesus is that bread, or the new heavenly manna, as he said, “I am that bread of life” (John 6:48).
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Is the Lord’s Prayer Different in 3 Nephi? (3 Nephi 13:9),” *KnoWhy* 204 (October 7, 2016).
+#### Further Reading-Book of Mormon Central, “Why Is the Lord’s Prayer Different in 3 Nephi? (3 Nephi 13:9),” *KnoWhy* 204 (October 7, 2016).
 - John W. Welch, *Illuminating the Sermon at the Temple and the Sermon on the Mount* (Provo, UT: FARMS, 1999), 79–82, 206–208.
 - John W. Welch, “The Lord’s Prayers,” *Ensign*, January, 1976.
 
@@ -76,6 +74,4 @@ However, like most of Christ’s sayings in this Sermon, there are several level
 
 Shortly after that, in the Sermon (see 3 Nephi 14:12), Jesus said, “This is the law and the prophets.” So, we may conclude that what we are given in 3 Nephi 13 constitutes the higher “prophets” and Melchizedekian material, just as 3 Nephi 12 had taught the “law” or the Aaronic segments.
 
-#### Further Reading
-
-- John W. Welch, “New Testament Word Studies—Endow,” *Ensign*, April 1993.
+#### Further Reading-John W. Welch, “New Testament Word Studies—Endow,” *Ensign*, April 1993.

@@ -46,9 +46,7 @@ In chapters 15 and 16, Jesus emphasizes and elaborates these specific points in 
 
 Obviously, Jesus knew how to use the structural and rhetorical power of introducing ideas in one order and then going back through those in the opposite order to finish where he started. It was a powerful and an organized way of presenting ideas. It is a recognizable chiastic structure with which these people were well familiar. The structure may indicate that these passages were most likely not just being casually repeated, but were being embedded deliberately in a holy two-way covenant-making context.
 
-#### Further Reading
-
-- John W. Welch, “Worthy of Another Look: Reusages of the Words of Christ,” *Journal of the Book of Mormon and Other Restoration Scripture* 22, no. 1 (2013): 62–72.
+#### Further Reading-John W. Welch, “Worthy of Another Look: Reusages of the Words of Christ,” *Journal of the Book of Mormon and Other Restoration Scripture* 22, no. 1 (2013): 62–72.
 
 ---
 
@@ -82,6 +80,4 @@ When Jesus appeared to the Nephites, he told them that they were among the “ot
 
 However, the people of ancient Judea understood him “not, for they supposed it had been the Gentiles; for they understood not that the Gentiles should be converted through their preaching” (3 Nephi 15:22). And, just as Jesus Christ remembered these “other sheep,” he will remember all of God’s children, today and forever.
 
-#### Further Reading
-
-- Book of Mormon Central, “Why Did Jesus Say That There Were ‘Other Sheep’ Who Would Hear His Voice? (3 Nephi 15:21),” *KnoWhy* 207 (October 12, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Jesus Say That There Were ‘Other Sheep’ Who Would Hear His Voice? (3 Nephi 15:21),” *KnoWhy* 207 (October 12, 2016).

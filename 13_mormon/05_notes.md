@@ -30,6 +30,4 @@ Mormon then speaks to “the seed” of this defeated people and their fate, bei
 
 Mormon concludes by admonishing the Gentiles to repent, humble themselves, turn from their evil ways, unless “a remnant” will tear them to pieces (5:22–24). Mormon’s words here echo the woes and warnings at the end of 3 Nephi 29–30, but here in Mormon 5 he relates those more general curses and commandments to the Gentiles’ specific mistreatment of the Nephite remnant and seed that will scatter and survive the institutional collapse of the Nephite nation as a people.
 
-#### Further Reading
-
-- Book of Mormon Central, “What Was Mormon’s Purpose in Writing the Book of Mormon? (Mormon 5:14),” *KnoWhy* 230 (November 14, 2016).
+#### Further Reading-Book of Mormon Central, “What Was Mormon’s Purpose in Writing the Book of Mormon? (Mormon 5:14),” *KnoWhy* 230 (November 14, 2016).

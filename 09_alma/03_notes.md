@@ -45,5 +45,4 @@ In this sense, the Lamanites and Amlicites were distinguishing themselves by the
 
 > “Now the Amlicites knew not that they were fulfilling the words of God when they began to mark themselves in their foreheads [with red markings]; nevertheless they had come out in open rebellion against God; therefore it was expedient that the curse [of separation from God] should fall upon them.” (Alma 3:18)
 
-#### Further Reading
-- Book of Mormon Central, “Why Did Book of Mormon Prophets Discourage Nephite-Lamanite Intermarriage?” *KnoWhy* 110 (May 30, 2016).
+#### Further Reading-Book of Mormon Central, “Why Did Book of Mormon Prophets Discourage Nephite-Lamanite Intermarriage?” *KnoWhy* 110 (May 30, 2016).
