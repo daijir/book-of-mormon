@@ -113,9 +113,9 @@
           if (typeof selector === 'string' && selector.charAt(0) === '#') {
             var rawId = selector.slice(1);
             return document.getElementById(rawId) ||
-                   document.getElementById('_' + rawId) ||
-                   document.getElementById(rawId.replace(/-+/g, '-')) ||
-                   document.getElementById('_' + rawId.replace(/-+/g, '-'));
+              document.getElementById('_' + rawId) ||
+              document.getElementById(rawId.replace(/-+/g, '-')) ||
+              document.getElementById('_' + rawId.replace(/-+/g, '-'));
           }
           throw e;
         }
@@ -136,7 +136,7 @@
     })();
 
     window.$docsify = {
-      name: 'モルモン書 研究ノート',
+      name: 'モルモン書個人研究ノート',
       repo: 'https://github.com/daijir/book-of-mormon',
       loadSidebar: true,
       subMaxLevel: 2,
@@ -185,9 +185,9 @@
 
               // 3. ハイフン連続（-- と -）の差異を解決
               var singleHyphen = targetId.replace(/-+/g, '-');
-              el = document.getElementById(singleHyphen) || 
-                   document.getElementById('_' + singleHyphen) || 
-                   document.getElementById(singleHyphen.replace(/^_/, ''));
+              el = document.getElementById(singleHyphen) ||
+                document.getElementById('_' + singleHyphen) ||
+                document.getElementById(singleHyphen.replace(/^_/, ''));
               if (el) return el;
 
               // 4. 見出し要素（h1〜h6）のテキストや正規化IDとのあいまい一致
@@ -232,7 +232,6 @@
               var a = e.target.closest('a');
               if (!a) return;
               var href = a.getAttribute('href') || '';
-              
               var targetId = '';
               var idMatch = href.match(/[?&]id=([^&]+)/);
               if (idMatch) {
