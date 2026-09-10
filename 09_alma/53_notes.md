@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 53
 
-- [📖 本文を読む (53.md)](53.md)
+- [本文を読む (53.md)](53.md)
 - **Source**: [Scripture Central — Alma 53-63](https://scripturecentral.org/archive/books/book-chapter/alma-53-63)
 
 ## Table of Contents

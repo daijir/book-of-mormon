@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 10
 
-- [📖 本文を読む (10.md)](10.md)
+- [本文を読む (10.md)](10.md)
 - **Source**: [Scripture Central — 2 Nephi 6-10](https://scripturecentral.org/archive/books/book-chapter/2-nephi-6-10)
 
 ## Table of Contents

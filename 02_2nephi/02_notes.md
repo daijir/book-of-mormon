@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 2
 
-- [📖 本文を読む (02.md)](02.md)
+- [本文を読む (02.md)](02.md)
 - **Source**: [Scripture Central — 2 Nephi 1-5](https://scripturecentral.org/archive/books/book-chapter/2-nephi-1-5)
 
 ## Table of Contents

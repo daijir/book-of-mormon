@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 6
 
-- [📖 本文を読む (06.md)](06.md)
+- [本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — 3 Nephi 1-7](https://scripturecentral.org/archive/books/book-chapter/3-nephi-1-7)
 
 ## Table of Contents

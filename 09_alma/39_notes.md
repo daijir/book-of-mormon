@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 39
 
-- [📖 本文を読む (39.md)](39.md)
+- [本文を読む (39.md)](39.md)
 - **Source**: [Scripture Central — Alma 39-42](https://scripturecentral.org/archive/books/book-chapter/alma-39-42)
 
 ## Table of Contents

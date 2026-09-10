@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 18
 
-- [📖 本文を読む (18.md)](18.md)
+- [本文を読む (18.md)](18.md)
 - **Source**: [Scripture Central — 2 Nephi 11-25](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)
 - **Companion Study**: [2 Nephi 11 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/11_notes.md) (Nephite Prophetic View) | [2 Nephi 17 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/17_notes.md) (Immanuel) | [2 Nephi 19 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/19_notes.md) (Prince of Peace)
 

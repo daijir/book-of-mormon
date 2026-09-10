@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 63
 
-- [📖 本文を読む (63.md)](63.md)
+- [本文を読む (63.md)](63.md)
 - **Source**: [Scripture Central — Alma 53-63](https://scripturecentral.org/archive/books/book-chapter/alma-53-63)
 - **Companion Study**: [Alma 62 Notes](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/62_notes.md) (The End of the War)
 

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 16
 
-- [📖 本文を読む (16.md)](16.md)
+- [本文を読む (16.md)](16.md)
 - **Source**: [Scripture Central — Alma 13-16](https://scripturecentral.org/archive/books/book-chapter/alma-13-16)
 
 ## Table of Contents

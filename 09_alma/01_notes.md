@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 1
 
-- [📖 本文を読む (01.md)](01.md)
+- [本文を読む (01.md)](01.md)
 - **Source**: [Scripture Central — Mosiah 29 - Alma 4](https://scripturecentral.org/archive/books/book-chapter/mosiah-29-alma-4)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 10
 
-- [📖 本文を読む (10.md)](10.md)
+- [本文を読む (10.md)](10.md)
 - **Source**: [Scripture Central — Mosiah 7-10](https://scripturecentral.org/archive/books/book-chapter/mosiah-7-10)
 
 ## Table of Contents

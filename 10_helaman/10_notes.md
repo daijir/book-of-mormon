@@ -1,6 +1,6 @@
 # John W. Welch Notes: Helaman 10
 
-- [📖 本文を読む (10.md)](10.md)
+- [本文を読む (10.md)](10.md)
 - **Source**: [Scripture Central — Helaman 7-12](https://scripturecentral.org/archive/books/book-chapter/helaman-7-12)
 
 ## Table of Contents

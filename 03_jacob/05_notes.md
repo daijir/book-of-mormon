@@ -1,6 +1,6 @@
 # John W. Welch Notes: Jacob 5
 
-- [📖 本文を読む (05.md)](05.md)
+- [本文を読む (05.md)](05.md)
 - **Source**: [Scripture Central — Jacob 5-7](https://scripturecentral.org/archive/books/book-chapter/jacob-5-7)
 
 ## Table of Contents

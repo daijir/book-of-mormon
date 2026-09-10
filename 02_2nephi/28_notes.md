@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 28
 
-- [📖 本文を読む (28.md)](28.md)
+- [本文を読む (28.md)](28.md)
 - **Source**: [Scripture Central — 2 Nephi 26-30](https://scripturecentral.org/archive/books/book-chapter/2-nephi-26-30)
 
 ## Table of Contents

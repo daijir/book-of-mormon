@@ -1,6 +1,6 @@
 # John W. Welch Notes: Jacob 2
 
-- [📖 本文を読む (02.md)](02.md)
+- [本文を読む (02.md)](02.md)
 - **Source**: [Scripture Central — Jacob 1-4](https://scripturecentral.org/archive/books/book-chapter/jacob-1-4)
 
 ## Table of Contents

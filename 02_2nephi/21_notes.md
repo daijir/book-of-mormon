@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 21
 
-- [📖 本文を読む (21.md)](21.md)
+- [本文を読む (21.md)](21.md)
 - **Source**: [Scripture Central — 2 Nephi 11-25](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 6
 
-- [📖 本文を読む (06.md)](06.md)
+- [本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — Mosiah 4-6](https://scripturecentral.org/archive/books/book-chapter/mosiah-4-6)
 
 ## Table of Contents

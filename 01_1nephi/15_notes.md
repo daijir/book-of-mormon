@@ -1,6 +1,6 @@
 # John W. Welch Notes: 1 Nephi 15
 
-- [📖 本文を読む (15.md)](15.md)
+- [本文を読む (15.md)](15.md)
 - **Source**: [Scripture Central — 1 Nephi 11-15](https://scripturecentral.org/archive/books/book-chapter/1-nephi-11-15)
 
 ## Table of Contents

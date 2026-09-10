@@ -1,6 +1,6 @@
 # John W. Welch Notes: Ether 13
 
-- [📖 本文を読む (13.md)](13.md)
+- [本文を読む (13.md)](13.md)
 - **Source**: [Scripture Central — Ether 12-15](https://scripturecentral.org/archive/books/book-chapter/ether-12-15)
 
 ## Table of Contents

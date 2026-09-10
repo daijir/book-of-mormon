@@ -1,6 +1,6 @@
 # John W. Welch Notes: Helaman 14
 
-- [📖 本文を読む (14.md)](14.md)
+- [本文を読む (14.md)](14.md)
 - **Source**: [Scripture Central — Helaman 13-16](https://scripturecentral.org/archive/books/book-chapter/helaman-13-16)
 
 ## Table of Contents

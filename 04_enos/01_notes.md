@@ -1,6 +1,6 @@
 # John W. Welch Notes: Enos 1
 
-- [📖 本文を読む (01.md)](01.md)
+- [本文を読む (01.md)](01.md)
 - **Source**: [Scripture Central — Enos-Words of Mormon](https://scripturecentral.org/archive/books/book-chapter/enos-words-mormon)
 
 ## Table of Contents

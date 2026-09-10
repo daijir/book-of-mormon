@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 28
 
-- [📖 本文を読む (28.md)](28.md)
+- [本文を読む (28.md)](28.md)
 - **Source**: [Scripture Central — Mosiah 25-28](https://scripturecentral.org/archive/books/book-chapter/mosiah-25-28)
 
 ## Table of Contents

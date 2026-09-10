@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 33
 
-- [📖 本文を読む (33.md)](33.md)
+- [本文を読む (33.md)](33.md)
 - **Source**: [Scripture Central — 2 Nephi 31-33](https://scripturecentral.org/archive/books/book-chapter/2-nephi-31-33)
 
 ## Table of Contents

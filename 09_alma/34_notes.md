@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 34
 
-- [📖 本文を読む (34.md)](34.md)
+- [本文を読む (34.md)](34.md)
 - **Source**: [Scripture Central — Alma 32-35](https://scripturecentral.org/archive/books/book-chapter/alma-32-35)
 
 ## Table of Contents

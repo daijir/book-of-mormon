@@ -1,6 +1,6 @@
 # John W. Welch Notes: Ether 3
 
-- [📖 本文を読む (03.md)](03.md)
+- [本文を読む (03.md)](03.md)
 - **Source**: [Scripture Central — Ether 1-5](https://scripturecentral.org/archive/books/book-chapter/ether-1-5)
 
 ## Table of Contents

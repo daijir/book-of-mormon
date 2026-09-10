@@ -1,6 +1,6 @@
 # John W. Welch Notes: 1 Nephi 19
 
-- [📖 本文を読む (19.md)](19.md)
+- [本文を読む (19.md)](19.md)
 - **Source**: [Scripture Central — 1 Nephi 16-22](https://scripturecentral.org/archive/books/book-chapter/1-nephi-16-22)
 
 ## Table of Contents

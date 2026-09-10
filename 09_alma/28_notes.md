@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 28
 
-- [📖 本文を読む (28.md)](28.md)
+- [本文を読む (28.md)](28.md)
 - **Source**: [Scripture Central — Alma 23-29](https://scripturecentral.org/archive/books/book-chapter/alma-23-29)
 
 ## Table of Contents

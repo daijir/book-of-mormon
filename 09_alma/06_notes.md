@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 6
 
-- [📖 本文を読む (06.md)](06.md)
+- [本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — Alma 5-7](https://scripturecentral.org/archive/books/book-chapter/alma-5-7)
 
 ## Table of Contents

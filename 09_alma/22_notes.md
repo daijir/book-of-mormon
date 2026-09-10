@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 22
 
-- [📖 本文を読む (22.md)](22.md)
+- [本文を読む (22.md)](22.md)
 - **Source**: [Scripture Central — Alma 17-22](https://scripturecentral.org/archive/books/book-chapter/alma-17-22)
 
 ## Table of Contents

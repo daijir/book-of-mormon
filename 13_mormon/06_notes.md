@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mormon 6
 
-- [📖 本文を読む (06.md)](06.md)
+- [本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — Mormon 1-6](https://scripturecentral.org/archive/books/book-chapter/mormon-1-6)
 
 ## Table of Contents

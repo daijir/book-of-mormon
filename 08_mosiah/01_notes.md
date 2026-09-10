@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 1
 
-- [📖 本文を読む (01.md)](01.md)
+- [本文を読む (01.md)](01.md)
 - **Source**: [Scripture Central — Mosiah 1-3](https://scripturecentral.org/archive/books/book-chapter/mosiah-1-3)
 
 ## Table of Contents

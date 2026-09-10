@@ -1,6 +1,6 @@
 # John W. Welch Notes: Moroni 10
 
-- [📖 本文を読む (10.md)](10.md)
+- [本文を読む (10.md)](10.md)
 - **Source**: [Scripture Central — Moroni 10](https://scripturecentral.org/archive/books/book-chapter/moroni-10)
 
 ## Table of Contents

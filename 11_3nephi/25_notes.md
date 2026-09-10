@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 25
 
-- [📖 本文を読む (25.md)](25.md)
+- [本文を読む (25.md)](25.md)
 - **Source**: [Scripture Central — 3 Nephi 20-26](https://scripturecentral.org/archive/books/book-chapter/3-nephi-20-26)
 - **Companion Study**: [3 Nephi 24 Notes](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/24_notes.md) (Malachi 3–4 & Temple Elements)
 

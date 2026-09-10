@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 5
 
-- [📖 本文を読む (05.md)](05.md)
+- [本文を読む (05.md)](05.md)
 - **Source**: [Scripture Central — 3 Nephi 1-7](https://scripturecentral.org/archive/books/book-chapter/3-nephi-1-7)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 29
 
-- [📖 本文を読む (29.md)](29.md)
+- [本文を読む (29.md)](29.md)
 - **Source**: [Scripture Central — 3 Nephi 27-4 Nephi](https://scripturecentral.org/archive/books/book-chapter/3-nephi-27-4-nephi)
 
 ## Table of Contents

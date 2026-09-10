@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 29
 
-- [📖 本文を読む (29.md)](29.md)
+- [本文を読む (29.md)](29.md)
 - **Source**: [Scripture Central — 2 Nephi 26-30](https://scripturecentral.org/archive/books/book-chapter/2-nephi-26-30)
 - **Companion Study**: [2 Nephi 28 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/28_notes.md) (Tactics of the Adversary) | [2 Nephi 30 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/30_notes.md) (Restoration and Gathering)
 

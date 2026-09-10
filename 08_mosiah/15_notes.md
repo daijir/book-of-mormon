@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 15
 
-- [📖 本文を読む (15.md)](15.md)
+- [本文を読む (15.md)](15.md)
 - **Source**: [Scripture Central — Mosiah 11-17](https://scripturecentral.org/archive/books/book-chapter/mosiah-11-17)
 
 ## Table of Contents

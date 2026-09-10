@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 62
 
-- [📖 本文を読む (62.md)](62.md)
+- [本文を読む (62.md)](62.md)
 - **Source**: [Scripture Central — Alma 53-63](https://scripturecentral.org/archive/books/book-chapter/alma-53-63)
 - **Companion Study**: [Alma 61 Notes](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/61_notes.md) & [Alma 63 Notes](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/63_notes.md)
 

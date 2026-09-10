@@ -1,6 +1,6 @@
 # John W. Welch Notes: Helaman 3
 
-- [📖 本文を読む (03.md)](03.md)
+- [本文を読む (03.md)](03.md)
 - **Source**: [Scripture Central — Helaman 1-6](https://scripturecentral.org/archive/books/book-chapter/helaman-1-6)
 
 ## Table of Contents

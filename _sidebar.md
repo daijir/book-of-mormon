@@ -1,4 +1,4 @@
-* [🏠 はじめに](README.md)
+* [はじめに](README.md)
 
 * **特別トピック**
   * [回復を祝う](00_special_topics/01_celebrating_the_restoration_notes.md)

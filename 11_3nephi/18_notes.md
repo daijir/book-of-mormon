@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 18
 
-- [📖 本文を読む (18.md)](18.md)
+- [本文を読む (18.md)](18.md)
 - **Source**: [Scripture Central — 3 Nephi 17-19](https://scripturecentral.org/archive/books/book-chapter/3-nephi-17-19)
 
 ## Table of Contents

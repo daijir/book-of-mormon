@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 8
 
-- [📖 本文を読む (08.md)](08.md)
+- [本文を読む (08.md)](08.md)
 - **Source**: [Scripture Central — Alma 8-12](https://scripturecentral.org/archive/books/book-chapter/alma-8-12)
 
 ## Table of Contents

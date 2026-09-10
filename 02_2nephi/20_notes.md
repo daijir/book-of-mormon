@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 20
 
-- [📖 本文を読む (20.md)](20.md)
+- [本文を読む (20.md)](20.md)
 - **Source**: [Scripture Central — 2 Nephi 11-25](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)
 - **Companion Study**: [2 Nephi 11 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/11_notes.md) (Nephite Prophetic View) | [2 Nephi 21 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/21_notes.md) (The Stem of Jesse & Gathering)
 

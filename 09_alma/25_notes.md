@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 25
 
-- [📖 本文を読む (25.md)](25.md)
+- [本文を読む (25.md)](25.md)
 - **Source**: [Scripture Central — Alma 23-29](https://scripturecentral.org/archive/books/book-chapter/alma-23-29)
 - **Companion Chapter**: [Alma 26 Notes](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/26_notes.md) (Ammon's Great Joy)
 

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 44
 
-- [📖 本文を読む (44.md)](44.md)
+- [本文を読む (44.md)](44.md)
 - **Source**: [Scripture Central — Alma 43-52](https://scripturecentral.org/archive/books/book-chapter/alma-43-52)
 
 ## Table of Contents

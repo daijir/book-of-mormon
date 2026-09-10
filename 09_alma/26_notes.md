@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 26
 
-- [📖 本文を読む (26.md)](26.md)
+- [本文を読む (26.md)](26.md)
 - **Source**: [Scripture Central — Alma 23-29](https://scripturecentral.org/archive/books/book-chapter/alma-23-29)
 
 ## Table of Contents

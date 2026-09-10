@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 21
 
-- [📖 本文を読む (21.md)](21.md)
+- [本文を読む (21.md)](21.md)
 - **Source**: [Scripture Central — Mosiah 18-24](https://scripturecentral.org/archive/books/book-chapter/mosiah-18-24)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Moroni 5
 
-- [📖 本文を読む (05.md)](05.md)
+- [本文を読む (05.md)](05.md)
 - **Source**: [Scripture Central — Moroni 1-6](https://scripturecentral.org/archive/books/book-chapter/moroni-1-6)
 
 ## Table of Contents
