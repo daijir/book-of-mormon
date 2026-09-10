@@ -2,6 +2,13 @@
 
 このリポジトリは、モルモン書と、John W. Welch Notes をまとめたモルモン書の個人研究用のものです。
 
+> ### 📖 Webサイト版のご案内
+> 
+> 全編の目次ナビゲーションや全文検索が使えるWebサイト版（Docsify）を公開しています。ブラウザから快適に閲覧いただけます。  
+> 
+> [![Web版で読む](https://img.shields.io/badge/Web%E7%89%88%E3%81%A7%E8%AA%AD%E3%82%80-daijir.github.io%2Fbook--of--mormon-2b6cb0?style=for-the-badge&logo=github&logoColor=white)](https://daijir.github.io/book-of-mormon/)  
+> 👉 **[https://daijir.github.io/book-of-mormon/](https://daijir.github.io/book-of-mormon/)**
+
 ---
 
 ## 預言者と学者によるモルモン書の証
