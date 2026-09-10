@@ -5,11 +5,11 @@
 
 ## Table of Contents
 
-- [Helaman 6:1 — A Major Turning Point](#helaman-61-a-major-turning-point)
-- [Helaman 6:3 — Lamanites Teaching and Converting Nephites](#helaman-63-lamanites-teaching-and-converting-nephites)
-- [Helaman 6:7–13 — Freedom of Travel between the Nephites and Lamanites Proclaimed](#helaman-6713-freedom-of-travel-between-the-nephites-and-lamanites-proclaimed)
+- [Helaman 6:1 — A Major Turning Point](#helaman-61--a-major-turning-point)
+- [Helaman 6:3 — Lamanites Teaching and Converting Nephites](#helaman-63--lamanites-teaching-and-converting-nephites)
+- [Helaman 6:7–13 — Freedom of Travel between the Nephites and Lamanites Proclaimed](#helaman-6713--freedom-of-travel-between-the-nephites-and-lamanites-proclaimed)
   - [Chiasmus in Helaman 6:7–13](#chiasmus-in-helaman-6713)
-- [Helaman 6:17–18, 22–25 — The Gadianton Robbers Return](#helaman-61718-2225-the-gadianton-robbers-return)
+- [Helaman 6:17–18, 22–25 — The Gadianton Robbers Return](#helaman-61718-2225--the-gadianton-robbers-return)
   - [Sixteen Characteristics of Robbers vs. Thieves in the Ancient World](#sixteen-characteristics-of-robbers-vs-thieves-in-the-ancient-world)
   - [Robbers in the Old World](#robbers-in-the-old-world)
   - [Robbers in the Book of Helaman](#robbers-in-the-book-of-helaman)
@@ -22,17 +22,31 @@ There is a short phrase that is easily overlooked in the Book of Mormon that rep
 
 ---
 
+---
+
 ### Helaman 6:3 — Lamanites Teaching and Converting Nephites
 
-The Nephite people of the church had great joy in hearing of the conversion of many Lamanites and the establishment of the church among the Lamanites. The Lamanites had repented and restored the lands to the Nephites. What did the Lamanites do next? They went out ministering to and teaching the Nephites — likely sharing their conversion stories. Can you imagine being a Nephite at that time? Just a short time before, the Nephites were fighting the Lamanites. Now the Lamanites were among them, wanting to share their testimonies and spiritual experiences. Wow!
+The Nephite people of the church had great joy in hearing of the conversion of many Lamanites and the establishment of the church among the Lamanites. The Lamanites had repented and restored the lands to the Nephites. What did the Lamanites do next?
+
+They went out ministering to and teaching the Nephites — likely sharing their conversion stories. Can you imagine being a Nephite at that time? Just a short time before, the Nephites were fighting the Lamanites.
+
+Now the Lamanites were among them, wanting to share their testimonies and spiritual experiences. Wow!
+
+---
 
 ---
 
 ### Helaman 6:7–13 — Freedom of Travel between the Nephites and Lamanites Proclaimed
 
-The next section of scripture is an annual report that was likely recorded on the large plates of Nephi by a very diligent record-keeper. At the end of every year, a scribe would record a summary of what happened that year on the large plates of Nephi. Mormon usually abridged or summarized the details from these records. Therefore, we do not have many verbatim copies of these annual reports. The report in verses 7–13, however, is such a beautiful and important annual report that we most likely have it in its entirety and, I think, in its perfect original form. What reason would Mormon have had to modify this annual record? It’s not too long. It states the essence of the year’s main events. It was a gem of a record.
+The next section of scripture is an annual report that was likely recorded on the large plates of Nephi by a very diligent record-keeper. At the end of every year, a scribe would record a summary of what happened that year on the large plates of Nephi. Mormon usually abridged or summarized the details from these records.
 
-This annual report is also written in a pure chiastic form. This chiasm is not only brilliant — it is also a beautifully written annual report. Some scribe, over two thousand years ago, decided he was going to write into the records of eternity this amazing development of freedom of travel that took place in the sixty-fourth year of the reign of judges. He did a wonderful job of writing the summary by using the ancient chiastic literary form. The natural balance inherent in a chiastic structure perfectly represents, in a literary way, the newly instituted balance between these two lands. It is one of the best examples of chiasmus in the Book of Mormon.
+Therefore, we do not have many verbatim copies of these annual reports. The report in verses 7–13, however, is such a beautiful and important annual report that we most likely have it in its entirety and, I think, in its perfect original form. What reason would Mormon have had to modify this annual record?
+
+It’s not too long. It states the essence of the year’s main events. It was a gem of a record.
+
+This annual report is also written in a pure chiastic form. This chiasm is not only brilliant — it is also a beautifully written annual report. Some scribe, over two thousand years ago, decided he was going to write into the records of eternity this amazing development of freedom of travel that took place in the sixty-fourth year of the reign of judges.
+
+He did a wonderful job of writing the summary by using the ancient chiastic literary form. The natural balance inherent in a chiastic structure perfectly represents, in a literary way, the newly instituted balance between these two lands. It is one of the best examples of chiasmus in the Book of Mormon.
 
 On top of its equally matched details in the first and second halves, the central turning point of this chiasm works even better in Hebrew than in English — where “the Lord” and the name “Zedekiah,” with its theophoric suffix *–iah*, meaning “Jehovah” or “the Lord,” dominate the central focal point of the chiasm.
 
@@ -43,7 +57,9 @@ Figure 2: *John W. Welch and Greg Welch, "Chiasmus in Helaman 6:7-13," in Charti
 ```text
 A: Peace in the land (v. 7)
   B: Freedom of travel and trade in both lands (v. 8)
-    C: Riches in both lands (v. 9)
+    C: Riches in both lands (v.
+
+9)
       D: Plenty of gold, silver, and precious metal in both lands (v. 9)
         E: Center — Reciprocity of God's Dealings (v. 10):
           (a) Now the land south was called
@@ -56,7 +72,9 @@ A: Peace in the land (v. 7)
               (c') land north and
             (b') Lehi into the
           (a') land south.
-      D': All manner of gold, silver, and precious ore in both lands (v. 11)
+      D': All manner of gold, silver, and precious ore in both lands (v.
+
+11)
     C': Both Lamanites and Nephites became rich (v. 11)
   B': Economic prosperity in both lands (v. 12)
 A': Peace in the land (v. 13)
@@ -74,15 +92,33 @@ Verse 10 marks the absolute middle of the chiasm. Notice all ten of the chiastic
 
 Remember, up to this point if anybody wanted to travel from one land to another land, he would be forced back home as soon as he started to move out. If a Nephite or Lamanite stepped on foreign soil, he could be killed on the spot or imprisoned or taken before the king of that land. Now, both Nephites and Lamanites had freedom to travel between Nephite and Lamanite territory.
 
-The logic for the change in policy is expressed in verse 10 (the center of the chiasm). Since the Lord brought people into both lands, the Lord intended both lands to be filled with people. There was a reciprocity in the dealings of the Lord with the people in both lands. Therefore, the people should legitimately be allowed to travel between lands. A theological justification was offered for this revolutionary freedom of travel policy.
+The logic for the change in policy is expressed in verse 10 (the center of the chiasm). Since the Lord brought people into both lands, the Lord intended both lands to be filled with people. There was a reciprocity in the dealings of the Lord with the people in both lands.
 
-If the parallelism is to be complete, how can “Zedekiah” stand as the parallel to “Lord” in this chiasm? For one thing, both Zedekiah and the Lord are kings. More compelling is the fact that the name “Zedekiah” is linguistically based on two Hebrew words: *“Zedek”* means “righteous” and *“iah”* (*yah*) is the theophoric suffix that means “Jehovah” or “the Lord.” So, Zedekiah’s name means “righteous is the Lord.” This results in the word “Lord” being mentioned in immediate succession at the center of this chiasm.
+Therefore, the people should legitimately be allowed to travel between lands. A theological justification was offered for this revolutionary freedom of travel policy.
 
-I noticed this chiasm for the first time in March, 1987, and it was published in May, 1987 as a FARMS Update, and soon was made widely available in the 1992 compilation *Reexploring the Book of Mormon*. I mention this timing because I remember well the late Wednesday night when this chiasmus came to my awareness. I was the bishop of the BYU 36th ward, and students needed interviews with the bishop for many reasons as the end of the winter semester approached. All the other students had come punctually on time. One in the middle of my scheduled list was still missing. It was getting late. I was tired, and I needed to teach my Honors Book of Mormon class the next morning. I decided to wait, as long as it took. I opened my copy of the Book of Mormon and sat on the couch in the apartment lobby and began to read the next day’s assignment, which spilled over from Helaman 5 into Helaman 6. This annual report separated itself from the surrounding text as a treasure left by an unnamed but very diligent ancient scribe. When the young man sheepishly stuck his head into the lobby, I invited him in. I told him that the Lord had just blessed us both by him being a little late. I shared with him what I had just found. We had a great interview, in spite of his worries. I hope this text has meant as much to him as it has to me all these thirty-three years later.
+If the parallelism is to be complete, how can “Zedekiah” stand as the parallel to “Lord” in this chiasm? For one thing, both Zedekiah and the Lord are kings. More compelling is the fact that the name “Zedekiah” is linguistically based on two Hebrew words: *“Zedek”* means “righteous” and *“iah”* (*yah*) is the theophoric suffix that means “Jehovah” or “the Lord.”
 
-#### Further Reading-Book of Mormon Central, “Why Was Chiasmus Used in Nephite Record Keeping? (Helaman 6:10),” *KnoWhy* 177 (August 31, 2016).
+So, Zedekiah’s name means “righteous is the Lord.” This results in the word “Lord” being mentioned in immediate succession at the center of this chiasm.
+
+I noticed this chiasm for the first time in March, 1987, and it was published in May, 1987 as a FARMS Update, and soon was made widely available in the 1992 compilation *Reexploring the Book of Mormon*. I mention this timing because I remember well the late Wednesday night when this chiasmus came to my awareness. I was the bishop of the BYU 36th ward, and students needed interviews with the bishop for many reasons as the end of the winter semester approached.
+
+All the other students had come punctually on time. One in the middle of my scheduled list was still missing. It was getting late.
+
+I was tired, and I needed to teach my Honors Book of Mormon class the next morning. I decided to wait, as long as it took. I opened my copy of the Book of Mormon and sat on the couch in the apartment lobby and began to read the next day’s assignment, which spilled over from Helaman 5 into Helaman 6.
+
+This annual report separated itself from the surrounding text as a treasure left by an unnamed but very diligent ancient scribe. When the young man sheepishly stuck his head into the lobby, I invited him in. I told him that the Lord had just blessed us both by him being a little late.
+
+I shared with him what I had just found. We had a great interview, in spite of his worries. I hope this text has meant as much to him as it has to me all these thirty-three years later.
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Was Chiasmus Used in Nephite Record Keeping? (Helaman 6:10),” *KnoWhy* 177 (August 31, 2016).
 - John W. Welch and J. Gregory Welch, “Helaman as Chief Judge,” in *Charting the Book of Mormon* (FARMS, 1999), chart 133.
 - John W. Welch, “Chiasmus in Helaman 6:7–13,” in *Reexploring the Book of Mormon: A Decade of New Research*, ed. John W. Welch (Salt Lake City and Provo, UT: Deseret Book and FARMS, 1992), 230–232.
+
+---
 
 ---
 
@@ -125,16 +161,28 @@ Bands of robbers and of pirates (the nautical equivalent) were identified as the
 
 #### Robbers in the Book of Helaman
 
-Whenever a central government becomes weak, groups of robbers take advantage of the situation. That is exactly what we see happening here in the Book of Helaman. In Helaman chapter 2, there was constant upheaval in government leadership in Zarahemla. The people were really struggling. They could not even protect their own chief judges. Leaders were assassinated and the robbers were able to wield power and cause contention and commotion throughout the community.
+Whenever a central government becomes weak, groups of robbers take advantage of the situation. That is exactly what we see happening here in the Book of Helaman. In Helaman chapter 2, there was constant upheaval in government leadership in Zarahemla.
+
+The people were really struggling. They could not even protect their own chief judges. Leaders were assassinated and the robbers were able to wield power and cause contention and commotion throughout the community.
 
 We encounter the robbers again in Helaman 6:15–41, where they are even stronger and come back with a vengeance to dominate the politics in the City of Zarahemla. Every one of the sixteen characteristics of robbers listed above is specifically mentioned in these Helaman chapters:
 
-- **Secret Hideouts (Characteristic 7):** For example, the robbers kept their hideout secret. Every time they assassinated someone, they would run off and hide. People would chase after the robbers, but to no avail. No one could find them because the robbers found cover in their secret hideout. The robbers swore oaths that no one in their band would ever reveal where their hiding place was located.
-- **Large Bands & Internal Law Codes (Characteristic 5):** Often, Book of Mormon robbers joined together in large groups. Many times, they had their own leader and their own law code. In Helaman 6:24, we see reference to the fact that if any robber in the band divulged the whereabouts of their hiding place or the nature of their oaths, he would be “tried.” The “trial” would not be done according to the laws of the country, but “according to the laws of their wickedness.” Thus, we know that the robbers in the Book of Mormon had their own rules within their secret society.
-- **Infiltration and Seduction (Characteristic 4):** Behind the scenes, the Gadianton bandits increased their influence and numbers by quietly infiltrating the village and finding Nephites who were willing to protect and join them. In Helaman 6:38, when there was commotion in the land of Zarahemla, “the more wicked Nephites” did “build [the robbers] up and support them.” The record states that the Nephites were “seduced.” The tactic of seduction was, “You help us and you can share in the spoils.” This is, again, a very typical *modus operandi* for such people.
+- **Secret Hideouts (Characteristic 7):** For example, the robbers kept their hideout secret. Every time they assassinated someone, they would run off and hide. People would chase after the robbers, but to no avail.
+
+No one could find them because the robbers found cover in their secret hideout. The robbers swore oaths that no one in their band would ever reveal where their hiding place was located.
+- **Large Bands & Internal Law Codes (Characteristic 5):** Often, Book of Mormon robbers joined together in large groups. Many times, they had their own leader and their own law code.
+
+In Helaman 6:24, we see reference to the fact that if any robber in the band divulged the whereabouts of their hiding place or the nature of their oaths, he would be “tried.” The “trial” would not be done according to the laws of the country, but “according to the laws of their wickedness.” Thus, we know that the robbers in the Book of Mormon had their own rules within their secret society.
+- **Infiltration and Seduction (Characteristic 4):** Behind the scenes, the Gadianton bandits increased their influence and numbers by quietly infiltrating the village and finding Nephites who were willing to protect and join them.
+
+In Helaman 6:38, when there was commotion in the land of Zarahemla, “the more wicked Nephites” did “build [the robbers] up and support them.” The record states that the Nephites were “seduced.” The tactic of seduction was, “You help us and you can share in the spoils.” This is, again, a very typical *modus operandi* for such people.
 
 These few chapters in Helaman contain a complete textbook description of the classic behavior of robbers that was so prevalent throughout the ancient world. It is easy, in reading about the Gadianton robbers, to consider the stories to be fantastic or phenomenal. It is difficult to believe that people would actually organize themselves in these ways and do these kinds of things. This, however, was exactly how such things unfortunately happened in the ancient world.
 
-#### Further Reading-Book of Mormon Central, “What is the Difference Between ‘Robbers’ and ‘Thieves’ in the Book of Mormon? (Helaman 6:18),” *KnoWhy* 432 (May 10, 2018).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “What is the Difference Between ‘Robbers’ and ‘Thieves’ in the Book of Mormon? (Helaman 6:18),” *KnoWhy* 432 (May 10, 2018).
 - John W. Welch and John F. Hall, “Two Profiles of Robbers in the Ancient World,” in *Charting the New Testament* (Provo, UT: FARMS, 2002), chart 3–12.
 - John W. Welch, “Legal and Social Perspectives on Robbers in First-Century Judea,” *BYU Studies* 36, no. 3 (1996–1997): 141–153.

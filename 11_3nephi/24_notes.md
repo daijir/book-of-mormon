@@ -63,8 +63,12 @@ I am happy to thank the late Marshall Goodrich of Portland, Oregon, one of my mi
 
 ---
 
+---
+
 ### 3 Nephi 24:2 — The Lord Will Refine Us and Cleanse Us
 
-My friend Rita grew up in the textile industry in England. She related to our scripture study class how, in order to soften and whiten wool from sheep, they have to soak it in fuller’s earth for a period of time. The fuller, the man who cleaned the wool and then presented it, smelled horrible, and so did the whole neighborhood of the mill. Nothing smells worse than wet sheep’s wool with lanolin in it. The fuller had to become dirty to clean the wool.
+My friend Rita grew up in the textile industry in England. She related to our scripture study class how, in order to soften and whiten wool from sheep, they have to soak it in fuller’s earth for a period of time. The fuller, the man who cleaned the wool and then presented it, smelled horrible, and so did the whole neighborhood of the mill.
+
+Nothing smells worse than wet sheep’s wool with lanolin in it. The fuller had to become dirty to clean the wool.
 
 She rightly sees this as a great metaphor for the Atonement of Jesus Christ. In order to have our garments cleansed and purified, they must be made white by the fuller. On the Mount of Transfiguration, Mark described how the Lord’s “raiment became shining, exceeding white as snow; so, as no fuller on earth can white them” (Mark 9:3). The cleansing power of the Atonement transcends all, and Malachi in 3 Nephi 24:2 was certainly aware of this.

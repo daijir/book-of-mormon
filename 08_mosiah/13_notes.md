@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Mosiah 13:1–9 — Divine Protection and Abinadi's Shining Face](#mosiah-1319--divine-protection-and-abinadis-shining-face)
+  - [The Pentecost and Mount Sinai Context](#the-pentecost-and-mount-sinai-context)
 - [Mosiah 13:11–24 — Abinadi Recites the Ten Commandments](#mosiah-131124--abinadi-recites-the-ten-commandments)
 - [Mosiah 13:27–35 — Does Salvation Come by the Law of Moses?](#mosiah-132735--does-salvation-come-by-the-law-of-moses)
 
@@ -19,6 +20,7 @@ When King Noah commanded his guards to seize Abinadi and slay him, the power of 
 > “Touch me not, for God shall smite you if ye lay your hands upon me, for I have not delivered the message which the Lord sent me to deliver ... for the Spirit of the Lord was upon him; and his face shone with exceeding luster, even as Moses’ did while in the mount of Sinai, while talking with the Lord.” (Mosiah 13:3, 5)
 
 #### The Pentecost and Mount Sinai Context
+
 In ancient Israelite tradition, the feast of **Pentecost** (Shavuot, the Feast of Weeks) was celebrated as the festival commemorating the giving of the Law on Mount Sinai. When Moses ascended Mount Sinai to receive the Ten Commandments, he went alone (Exodus 19:20). The mountain was enveloped in fire, smoke, and lightning:
 
 - Boundaries were set about the mount so that unworthy people would not gaze upon the glory of the Lord and perish (Exodus 19:21, 23).
@@ -29,6 +31,8 @@ Moreover, if Abinadi’s confrontation occurred during the feast of Pentecost, t
 
 ---
 
+---
+
 ### Mosiah 13:11–24 — Abinadi Recites the Ten Commandments
 
 Having challenged the priests’ claim that they were keeping the law of Moses (Mosiah 12:29), Abinadi demanded: “Have ye taught this people that they should observe to do all these things to keep these commandments? ... I say unto you, Nay; for if ye had, the Lord would not have caused me to come forth and to prophesy evil concerning this people” (13:12).
@@ -36,16 +40,24 @@ Having challenged the priests’ claim that they were keeping the law of Moses (
 Abinadi then recited verbatim the **Ten Commandments** revealed at Mount Sinai (Exodus 20):
 1. Thou shalt have no other gods before me.
 2. Thou shalt not make unto thee any graven image.
-3. Thou shalt not take the name of the Lord thy God in vain.
+3.
+
+Thou shalt not take the name of the Lord thy God in vain.
 4. Remember the sabbath day, to keep it holy.
 5. Honor thy father and thy mother.
-6. Thou shalt not kill.
+6.
+
+Thou shalt not kill.
 7. Thou shalt not commit adultery.
 8. Thou shalt not steal.
-9. Thou shalt not bear false witness.
+9.
+
+Thou shalt not bear false witness.
 10. Thou shalt not covet.
 
 The priests of Noah claimed orthodox obedience to the letter of the law, yet their lives were defined by idolatry, whoredoms, oppression, and false accusations. Abinadi rebuked them for having the law written only on plates and scrolls, but not written in their hearts (Mosiah 13:11).
+
+---
 
 ---
 
@@ -61,5 +73,9 @@ His answer was a profound balance between obedience and redemption:
 
 To prove this central point from their own scriptural canon, Abinadi proceeds immediately to recite Isaiah 53 in Mosiah 14.
 
-#### Further Reading-Book of Mormon Central, “Did Abinadi Prophesy During Pentecost? (Mosiah 13:5),” *KnoWhy* 90 (May 2, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Did Abinadi Prophesy During Pentecost? (Mosiah 13:5),” *KnoWhy* 90 (May 2, 2016).
 - John W. Welch, Gordon C. Thomasson, and Robert F. Smith, “Abinadi and Pentecost,” in *Reexploring the Book of Mormon*, ed. John W. Welch (Provo and Salt Lake City, UT: FARMS and Deseret Book, 1992), 135–138.

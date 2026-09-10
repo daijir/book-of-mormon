@@ -41,6 +41,13 @@
       color: #2a4365;
     }
 
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4 {
+      scroll-margin-top: 1.5rem;
+    }
+
     .markdown-section h3 {
       font-size: 1.25rem;
       color: #2c5282;
@@ -97,6 +104,37 @@
 <body>
   <div id="app">読み込み中...</div>
   <script>
+    // Docsify の CSS querySelector エラー (#1-nephi などの数字開始ID) を防止・解決するパッチ
+    (function() {
+      function safeQuerySelector(orig, context, selector) {
+        try {
+          return orig.call(context, selector);
+        } catch (e) {
+          if (typeof selector === 'string' && selector.charAt(0) === '#') {
+            var rawId = selector.slice(1);
+            return document.getElementById(rawId) ||
+                   document.getElementById('_' + rawId) ||
+                   document.getElementById(rawId.replace(/-+/g, '-')) ||
+                   document.getElementById('_' + rawId.replace(/-+/g, '-'));
+          }
+          throw e;
+        }
+      }
+
+      if (typeof Document !== 'undefined') {
+        var origDocQS = Document.prototype.querySelector;
+        Document.prototype.querySelector = function(selector) {
+          return safeQuerySelector(origDocQS, this, selector);
+        };
+      }
+      if (typeof Element !== 'undefined') {
+        var origElQS = Element.prototype.querySelector;
+        Element.prototype.querySelector = function(selector) {
+          return safeQuerySelector(origElQS, this, selector);
+        };
+      }
+    })();
+
     window.$docsify = {
       name: 'モルモン書 研究ノート',
       repo: 'https://github.com/daijir/book-of-mormon',
@@ -127,6 +165,91 @@
         function(hook, vm) {
           hook.beforeEach(function(content) {
             return content.replace(/>\s*###\s*(?:📖\s*)?Webサイト版のご案内[\s\S]*?(?=\r?\n\s*---|\r?\n\s*##|$)/g, '');
+          });
+
+          // アンカーリンク・目次ジャンプの解決関数
+          function findTargetHeading(targetId) {
+            if (!targetId) return null;
+            try {
+              // 1. 直接一致
+              var el = document.getElementById(targetId);
+              if (el) return el;
+
+              // 2. Docsify の先頭アンダースコア（数字開始時の仕様）有無の差異を解決
+              if (targetId.startsWith('_')) {
+                el = document.getElementById(targetId.substring(1));
+              } else {
+                el = document.getElementById('_' + targetId);
+              }
+              if (el) return el;
+
+              // 3. ハイフン連続（-- と -）の差異を解決
+              var singleHyphen = targetId.replace(/-+/g, '-');
+              el = document.getElementById(singleHyphen) || 
+                   document.getElementById('_' + singleHyphen) || 
+                   document.getElementById(singleHyphen.replace(/^_/, ''));
+              if (el) return el;
+
+              // 4. 見出し要素（h1〜h6）のテキストや正規化IDとのあいまい一致
+              var cleanTarget = targetId.toLowerCase().replace(/[^a-z0-9]/g, '');
+              var headings = document.querySelectorAll('.markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6');
+              for (var i = 0; i < headings.length; i++) {
+                var h = headings[i];
+                var hId = (h.id || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+                var hText = (h.textContent || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+                if (hId === cleanTarget || hText.indexOf(cleanTarget) !== -1 || cleanTarget.indexOf(hId) !== -1) {
+                  return h;
+                }
+              }
+            } catch (err) {
+              console.warn('Anchor resolution error:', err);
+            }
+            return null;
+          }
+
+          function scrollToTarget(targetId) {
+            var el = findTargetHeading(targetId);
+            if (el) {
+              el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              return true;
+            }
+            return false;
+          }
+
+          hook.doneEach(function() {
+            // URLクエリに id がある場合の自動スクロール
+            var queryId = vm.route.query && vm.route.query.id;
+            if (queryId) {
+              setTimeout(function() {
+                scrollToTarget(queryId);
+              }, 150);
+            }
+          });
+
+          hook.ready(function() {
+            // 目次やページ内アンカーのタップ/クリックを確実に処理
+            document.addEventListener('click', function(e) {
+              var a = e.target.closest('a');
+              if (!a) return;
+              var href = a.getAttribute('href') || '';
+              
+              var targetId = '';
+              var idMatch = href.match(/[?&]id=([^&]+)/);
+              if (idMatch) {
+                targetId = decodeURIComponent(idMatch[1]);
+              } else if (href.startsWith('#') && !href.startsWith('#/')) {
+                targetId = decodeURIComponent(href.slice(1));
+              }
+
+              if (targetId) {
+                var scrolled = scrollToTarget(targetId);
+                if (scrolled) {
+                  e.preventDefault();
+                  var path = vm.route.path;
+                  history.pushState(null, '', '#/' + path.replace(/^\//, '') + '?id=' + encodeURIComponent(targetId));
+                }
+              }
+            }, true);
           });
         }
       ]

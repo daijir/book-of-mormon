@@ -24,24 +24,37 @@ No matter how powerful the worldly coalitions appear, their counsels shall come 
 
 ---
 
+---
+
+---
+
 ### 2 Nephi 18 (Isaiah 8) in the Nephite Prophetic View
 
 In the Nephite Prophetic View, 2 Nephi 18 illustrates the fatal consequences of rejecting the quiet spiritual guidance of the Lord in favor of worldly alliances.
 
 #### Stage 1: The Waters of Shiloah and the Overrunning Flood (2 Nephi 18:1–8)
+
 - **Maher-shalal-hash-baz**: Isaiah's son is named "to speed the spoil, he hasteneth the prey" (18:1–4), warning that Damascus and Samaria will be plundered by Assyria before the child can say "my father" or "my mother."
 - **Refusing the Waters of Shiloah**: Because the people of Judah despise the gentle, life-giving waters of Shiloah (symbolizing the quiet covenant presence of the Lord and Davidic kingship in Jerusalem), the Lord brings upon them the furious, overwhelming waters of the River Euphrates—the King of Assyria:
   > “And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.” (18:8)
 
 #### Stage 1: The Sanctuary vs. The Stone of Stumbling (2 Nephi 18:11–18)
+
 The Lord instructs Isaiah not to walk in the way of the people or fear their conspiracies:
 - **Sanctuary for the Faithful**: “Sanctify the Lord of Hosts himself, and let him be your fear, and let him be your dread. And he shall be for a sanctuary” (18:13–14).
 - **Rock of Offense**: For both houses of Israel who reject Him, the Messiah will become “a stone of stumbling, and for a rock of offence ... and a gin and for a snare to the inhabitants of Jerusalem” (18:14).
 
 #### Stage 2: Consulting Familiar Spirits and Fleeing into Darkness (2 Nephi 18:19–22)
+
 When people abandon true prophecy, they turn to mediums, wizards that peep and mutter, and necromancy (18:19). Isaiah delivers the ultimate acid test:
 > “To the law and to the testimony; and if they speak not according to this word, it is because there is no light in them.” (2 Nephi 18:20)
 
 Those who turn away from God’s word shall wander in famine, fret themselves, curse their king and their God, and look only into darkness, dimness of anguish, and utter despair (18:21–22).
 
-#### Further Reading-John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.
+####
+
+####
+
+#### Further Reading
+
+- John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.

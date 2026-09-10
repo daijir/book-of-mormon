@@ -19,8 +19,14 @@ In 2 Nephi 29, the Lord Himself speaks through Nephi to confront one of the majo
 > “And because my words shall hiss forth—many of the Gentiles shall say: A Bible! A Bible! We have got a Bible, and there cannot be any more Bible.” (2 Nephi 29:3)
 
 The Lord rebukes those who reject additional scripture out of prejudice or complacency:
-- **Gratitude to the Jews**: “Have ye obtained a Bible save it were by the Jews? ... What thank they the Jews for the Bible which they receive from them?” (29:4). The Gentiles are reminded that their biblical inheritance was preserved and transmitted through Jewish sacrifice and bloodshed.
+- **Gratitude to the Jews**: “Have ye obtained a Bible save it were by the Jews? ... What thank they the Jews for the Bible which they receive from them?” (29:4).
+
+The Gentiles are reminded that their biblical inheritance was preserved and transmitted through Jewish sacrifice and bloodshed.
 - **Uncapped Revelation**: God has not ceased to speak, nor has He limited His revelations to a single geographic area or single volume of parchment.
+
+---
+
+---
 
 ---
 
@@ -38,6 +44,10 @@ When the two records run together, they testify in unison that God is the same y
 
 ---
 
+---
+
+---
+
 ### 2 Nephi 29:12–14 — All Nations Shall Write the Words of the Lord
 
 The Lord expands the scope of His revelatory dealings beyond even the Bible and the Book of Mormon to encompass the entirety of human civilization:
@@ -51,5 +61,11 @@ The Lord explicitly promises a three-fold convergence of sacred scripture in the
 
 When these records are finally brought together, “the Jews shall have the words of the Nephites, and the Nephites shall have the words of the Jews; and the Nephites and the Jews shall have the words of the lost tribes of Israel; and the lost tribes of Israel shall have the words of the Nephites and the Jews” (29:13).
 
-#### Further Reading-Book of Mormon Central, “Why Does the Book of Mormon Stand as the Second Witness of Jesus Christ? (2 Nephi 29:8),” *KnoWhy* 56 (March 17, 2016).
+####
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Does the Book of Mormon Stand as the Second Witness of Jesus Christ? (2 Nephi 29:8),” *KnoWhy* 56 (March 17, 2016).
 - John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 19–45.

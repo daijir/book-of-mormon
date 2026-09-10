@@ -5,60 +5,186 @@
 
 ## Table of Contents
 
-- [2 Nephi 3:1–2 — Lehi Blesses His Son Joseph](#2-nephi-312-lehi-blesses-his-son-joseph)
-- [2 Nephi 3:3 — Joseph’s Seed Will Not Be Utterly Destroyed](#2-nephi-33-josephs-seed-will-not-be-utterly-destroyed)
-- [2 Nephi 3:4 — Lehi Is a Descendant of Joseph](#2-nephi-34-lehi-is-a-descendant-of-joseph)
-- [2 Nephi 3:5–21 — Lehi Quotes Prophecies Made by Joseph in Egypt](#2-nephi-3521-lehi-quotes-prophecies-made-by-joseph-in-egypt)
-- [2 Nephi 3:5–6 — Joseph in Egypt Prophesied of Joseph Smith](#2-nephi-356-joseph-in-egypt-prophesied-of-joseph-smith)
-- [2 Nephi 3:7 — Joseph Smith’s Reputation](#2-nephi-37-joseph-smiths-reputation)
-- [2 Nephi 3:9–11 — Joseph Smith Will Also Be a Prophet Like Moses](#2-nephi-3911-joseph-smith-will-also-be-a-prophet-like-moses)
-- [2 Nephi 3:12 — Ezekiel Foresees a Stick of Joseph](#2-nephi-312-ezekiel-foresees-a-stick-of-joseph)
-- [2 Nephi 3:12 – Did Ezekiel Prophesy Using a Visual Aid?](#2-nephi-312-did-ezekiel-prophesy-using-a-visual-aid)
-- [2 Nephi 3:15 — The Naming of Joseph Smith](#2-nephi-315-the-naming-of-joseph-smith)
-- [2 Nephi 3:20 — A Voice from the Dust](#2-nephi-320-a-voice-from-the-dust)
+- [2 Nephi 3:1–2 — Lehi Blesses His Son Joseph](#2-nephi-312--lehi-blesses-his-son-joseph)
+- [2 Nephi 3:3 — Joseph’s Seed Will Not Be Utterly Destroyed](#2-nephi-33--josephs-seed-will-not-be-utterly-destroyed)
+- [2 Nephi 3:4 — Lehi Is a Descendant of Joseph](#2-nephi-34--lehi-is-a-descendant-of-joseph)
+- [2 Nephi 3:5–21 — Lehi Quotes Prophecies Made by Joseph in Egypt](#2-nephi-3521--lehi-quotes-prophecies-made-by-joseph-in-egypt)
+- [2 Nephi 3:5–6 — Joseph in Egypt Prophesied of Joseph Smith](#2-nephi-356--joseph-in-egypt-prophesied-of-joseph-smith)
+- [2 Nephi 3:7 — Joseph Smith’s Reputation](#2-nephi-37--joseph-smiths-reputation)
+- [2 Nephi 3:9–11 — Joseph Smith Will Also Be a Prophet Like Moses](#2-nephi-3911--joseph-smith-will-also-be-a-prophet-like-moses)
+- [2 Nephi 3:12 — Ezekiel Foresees a Stick of Joseph](#2-nephi-312--ezekiel-foresees-a-stick-of-joseph)
+- [2 Nephi 3:12 – Did Ezekiel Prophesy Using a Visual Aid?](#2-nephi-312--did-ezekiel-prophesy-using-a-visual-aid)
+- [2 Nephi 3:15 — The Naming of Joseph Smith](#2-nephi-315--the-naming-of-joseph-smith)
+- [2 Nephi 3:20 — A Voice from the Dust](#2-nephi-320--a-voice-from-the-dust)
 
 ---
 
 ### 2 Nephi 3:1–2 — Lehi Blesses His Son Joseph
 
-How old was Joseph when this blessing was given? Probably under ten years old, perhaps just barely old enough to understand what is being said here. But how would this have impacted the life of a very young person, especially one in Joseph’s situation? He is reminded of his namesake. Joseph of Egypt was a man of great accomplishment, and it is good for young people to know for whom they have been named. That would have had a powerful effect on young Joseph. This is something to instill in a person at a very young age, so that at a young age one can appreciate the tradition and background one comes from. Lehi will quote heavily from the scriptures as he speaks to Joseph. Jacob will be set apart as the priest, and Joseph will be set apart as the teacher. Joseph is, in a way, being mentored. He is being taught how to teach. You read the scriptures, you apply them to your situation, and that ties in to the need for establishing and maintaining their traditions.
+How old was Joseph when this blessing was given? Probably under ten years old, perhaps just barely old enough to understand what is being said here. But how would this have impacted the life of a very young person, especially one in Joseph’s situation?
+
+He is reminded of his namesake. Joseph of Egypt was a man of great accomplishment, and it is good for young people to know for whom they have been named. That would have had a powerful effect on young Joseph.
+
+This is something to instill in a person at a very young age, so that at a young age one can appreciate the tradition and background one comes from. Lehi will quote heavily from the scriptures as he speaks to Joseph. Jacob will be set apart as the priest, and Joseph will be set apart as the teacher.
+
+Joseph is, in a way, being mentored. He is being taught how to teach. You read the scriptures, you apply them to your situation, and that ties in to the need for establishing and maintaining their traditions.
+
+---
+
+---
 
 ### 2 Nephi 3:3 — Joseph’s Seed Will Not Be Utterly Destroyed
 
-Another blessing Joseph will receive is that his people will not be utterly destroyed. For a young person that is a heavy thing to say; you will have influence and your family will not be destroyed. That is a hopeful thing for a young person to hear, especially one in Joseph’s situation. If he is eight to ten years old, he has seen his older brothers quarrel. He was probably fairly traumatized by what happened on the ship. His parents are old. They have just landed. The family knew how to survive in Arabia, but they are in a completely new environment. This would be enough to cause doubt, insecurity, and tears in any young child. In 2 Nephi 3 Joseph is promised four times that his seed will not be destroyed. How can Lehi be so confident of that? He knows that these were promises given to Joseph in Egypt. Lehi sees himself as carrying much of the burden of ensuring that the tribe of Joseph goes forward. He is passing some of that burden to young Joseph, in effect saying to him: “you are going to be the one through whom these promises are kept! ” There is also reassurance in that these are old promises and the Lord has protected us so far, you can count on him to protect you further.
+Another blessing Joseph will receive is that his people will not be utterly destroyed. For a young person that is a heavy thing to say; you will have influence and your family will not be destroyed. That is a hopeful thing for a young person to hear, especially one in Joseph’s situation.
+
+If he is eight to ten years old, he has seen his older brothers quarrel. He was probably fairly traumatized by what happened on the ship. His parents are old.
+
+They have just landed. The family knew how to survive in Arabia, but they are in a completely new environment. This would be enough to cause doubt, insecurity, and tears in any young child.
+
+In 2 Nephi 3 Joseph is promised four times that his seed will not be destroyed. How can Lehi be so confident of that? He knows that these were promises given to Joseph in Egypt.
+
+Lehi sees himself as carrying much of the burden of ensuring that the tribe of Joseph goes forward. He is passing some of that burden to young Joseph, in effect saying to him: “you are going to be the one through whom these promises are kept!” There is also reassurance in that these are old promises and the Lord has protected us so far, you can count on him to protect you further.
+
+---
+
+---
 
 ### 2 Nephi 3:4 — Lehi Is a Descendant of Joseph
 
-In 2 Nephi 3:4, Lehi says, “I am a descendant of Joseph.” From the Book of Mormon, we learn that Lehi was a descendant of Joseph through his oldest son Manasseh. From Erastus Snow in the Journal of Discourses quoting Joseph Smith and also Joseph Fielding Smith in Answers to Gospel Questions, the Prophet Joseph informed us that Ishmael was of the lineage of Ephraim. He brought his daughters and his two sons. Lehi’s sons married Ishmael’s daughters and perhaps Ishmael’s sons had already married Lehi’s older daughters, and so both branches of J oseph’s posterity were represented. The people of Lehi were pure Josephites. That is why this can be called the stick of Joseph. It is a record of descendants of Joseph.
+In 2 Nephi 3:4, Lehi says, “I am a descendant of Joseph.” From the Book of Mormon, we learn that Lehi was a descendant of Joseph through his oldest son Manasseh. From Erastus Snow in the Journal of Discourses quoting Joseph Smith and also Joseph Fielding Smith in Answers to Gospel Questions, the Prophet Joseph informed us that Ishmael was of the lineage of Ephraim.
+
+He brought his daughters and his two sons. Lehi’s sons married Ishmael’s daughters and perhaps Ishmael’s sons had already married Lehi’s older daughters, and so both branches of J oseph’s posterity were represented. The people of Lehi were pure Josephites.
+
+That is why this can be called the stick of Joseph. It is a record of descendants of Joseph.
+
+---
+
+---
 
 ### 2 Nephi 3:5–21 — Lehi Quotes Prophecies Made by Joseph in Egypt
 
-In this prophecy Lehi quotes only several small parts of the much longer text of words spoken to Joseph by Jacob found in the Joseph Smith Translation of Genesis 48:7–11, and also containing words spoken by Joseph to his brothers in JST Genesis 50:24–38. For example, Lehi said that “the Lord God would raise up a righteous branch unto the house of Israel; not the Messiah, but a branch that would be broken off” (3 Nephi 5:5). This tracks the ancient prophecy in JST Genesis 50:24 that “the Lord God will raise up a righteous branch out of my loins. . . (not the Messiah).” Lehi spoke of “a choice seer” that would be raised up “out of the fruit of [the] loins” of Joseph of old (3 Nephi 3:7). The version in JST Genesis 50:27 used the words “a choice seer” who will be “raise[d] up out of the fruit of thy loins.” Lehi promised his son Joseph that this seer would be called Joseph “after the name of his father” (2 Nephi 3:15). That prophecy to which Lehi was referring is now found in JST Genesis 50:33, “and his name shall be called Joseph, and it shall be after then ame of his father.” And Lehi said, “Thus prophesied Joseph: I am sure of this thing, . . . for the Lord hath said unto me, I will preserve thy seed forever” (2 Nephi 3:16). In the longer JST version, the text assures that “the Lord sware unto Joseph that he would preserve his seed forever” (JST Genesis 50:34). Further Reading Book of Mormon Central, “ How Lehi Likened the Scriptures to Himself (2 Nephi 3:18),” KnoWhy 418 (March 22, 2018). “ Most of what Lehi quoted to his son is similar to the Joseph Smith Translation of Genesis 50:24 –38. However, the differences between the Joseph Smith Translation and Lehi’s blessing in the Book of Mormon show how Lehi specifically applied the scriptures to the lives of his descendants.”
+In this prophecy Lehi quotes only several small parts of the much longer text of words spoken to Joseph by Jacob found in the Joseph Smith Translation of Genesis 48:7–11, and also containing words spoken by Joseph to his brothers in JST Genesis 50:24–38. For example, Lehi said that “the Lord God would raise up a righteous branch unto the house of Israel; not the Messiah, but a branch that would be broken off” (3 Nephi 5:5). This tracks the ancient prophecy in JST Genesis 50:24 that “the Lord God will raise up a righteous branch out of my loins. . . (not the Messiah).”
+
+Lehi spoke of “a choice seer” that would be raised up “out of the fruit of [the] loins” of Joseph of old (3 Nephi 3:7). The version in JST Genesis 50:27 used the words “a choice seer” who will be “raise[d] up out of the fruit of thy loins.” Lehi promised his son Joseph that this seer would be called Joseph “after the name of his father” (2 Nephi 3:15).
+
+That prophecy to which Lehi was referring is now found in JST Genesis 50:33, “and his name shall be called Joseph, and it shall be after then ame of his father.” And Lehi said, “Thus prophesied Joseph: I am sure of this thing, . . . for the Lord hath said unto me, I will preserve thy seed forever” (2 Nephi 3:16). In the longer JST version, the text assures that “the Lord sware unto Joseph that he would preserve his seed forever” (JST Genesis 50:34).
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “How Lehi Likened the Scriptures to Himself (2 Nephi 3:18),” KnoWhy 418 (March 22, 2018). “Most of what Lehi quoted to his son is similar to the Joseph Smith Translation of Genesis 50:24–38. However, the differences between the Joseph Smith Translation and Lehi’s blessing in the Book of Mormon show how Lehi specifically applied the scriptures to the lives of his descendants.”
+
+---
+
+---
 
 ### 2 Nephi 3:5–6 — Joseph in Egypt Prophesied of Joseph Smith
 
 Who is this seer that Joseph of Egypt saw? Joseph Smith was the choice seer raised up by the Lord.
 
+---
+
+---
+
 ### 2 Nephi 3:7 — Joseph Smith’s Reputation
 
-Verse 7 states that “he [the seer Joseph Smith] shall be esteemed highly among the fruit of thy loins … [and] he shall do a work for the fruit of thy loins.” While his name will be known throughout the world for good or for ill, it was foreseen that the descendants of Joseph, Ephraim and Manasseh, would esteem Joseph Smith highly. Indeed, many who have come into the restored Church of Jesus Christ have discovered through their patriarchal blessings that they are the fruit of the loins of Joseph, and they also know that he is a true prophet. They sing with enthusiasm, “Praise to the man who communed with Jehovah.” Brigham Young said, “I feel like shouting hallelujah all the time when I think that I ever knew Joseph Smith.” His work was to translate the Book of Mormon by the gift and power of God, and Doctrine and Covenants 135:3 states that “Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it.” Further Reading Book of Mormon Central, “ How Can We Know What to Believe about Joseph Smith’s Personal Character? (3 Nephi 18:1),” KnoWhy 413 (March 6, 2018).
+Verse 7 states that “he [the seer Joseph Smith] shall be esteemed highly among the fruit of thy loins … [and] he shall do a work for the fruit of thy loins.” While his name will be known throughout the world for good or for ill, it was foreseen that the descendants of Joseph, Ephraim and Manasseh, would esteem Joseph Smith highly. Indeed, many who have come into the restored Church of Jesus Christ have discovered through their patriarchal blessings that they are the fruit of the loins of Joseph, and they also know that he is a true prophet.
+
+They sing with enthusiasm, “Praise to the man who communed with Jehovah.” Brigham Young said, “I feel like shouting hallelujah all the time when I think that I ever knew Joseph Smith.” His work was to translate the Book of Mormon by the gift and power of God, and Doctrine and Covenants 135:3 states that “Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it.”
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “How Can We Know What to Believe about Joseph Smith’s Personal Character? (3 Nephi 18:1),” KnoWhy 413 (March 6, 2018).
+
+---
+
+---
 
 ### 2 Nephi 3:9–11 — Joseph Smith Will Also Be a Prophet Like Moses
 
-In 2 Nephi 3:9, we read, “He shall be great like unto Moses.” Doctrine and Covenants 28:2 states that “no one shall be appointed to receive commandments and revelations in this church excepting my servant Joseph Smith, Jun., for he receiveth them even as Moses.” Then in D&C 107:91 we read, “And again, the duty of the President of the office of the High Priesthood is to preside over the whole church, and to be like unto Moses.” By fulfilling these priesthood responsibilities, Joseph Smith fulfilled this prophecy of Lehi. In 2 Nephi 3:11 it is prophesied that this seer will “bring forth my word unto the seed of thy loins … to the convincing them of my word, which shall have already gone forth among them.” The word that had already gone forth is the Bible. Joseph Smith brought forth the Book of Mormon, and the Book of Mormon was written to the convincing of Jew and Gentile that Jesus is the Christ, proving to the world that the holy scriptures, the Bible, that the holy scriptures are true. The Book of Mormon proves that the Bible is true. It is not the other way around. And that also is the fulfillment of the prophecy of Lehi.
+In 2 Nephi 3:9, we read, “He shall be great like unto Moses.” Doctrine and Covenants 28:2 states that “no one shall be appointed to receive commandments and revelations in this church excepting my servant Joseph Smith, Jun., for he receiveth them even as Moses.” Then in D&C 107:91 we read, “And again, the duty of the President of the office of the High Priesthood is to preside over the whole church, and to be like unto Moses.”
+
+By fulfilling these priesthood responsibilities, Joseph Smith fulfilled this prophecy of Lehi. In 2 Nephi 3:11 it is prophesied that this seer will “bring forth my word unto the seed of thy loins … to the convincing them of my word, which shall have already gone forth among them.” The word that had already gone forth is the Bible.
+
+Joseph Smith brought forth the Book of Mormon, and the Book of Mormon was written to the convincing of Jew and Gentile that Jesus is the Christ, proving to the world that the holy scriptures, the Bible, that the holy scriptures are true. The Book of Mormon proves that the Bible is true. It is not the other way around. And that also is the fulfillment of the prophecy of Lehi.
+
+---
+
+---
 
 ### 2 Nephi 3:12 — Ezekiel Foresees a Stick of Joseph
 
-In Ezekiel 37, the prophet Ezekiel prophesies that the records that would become the Holy Bible and the Book of Mormon will become one in the hands of readers. When we study the Bible and Book of Mormon together, it is profitable to notice the subtle ways in which these two volumes of scripture connect together. The name Ezekiel means “God will strengthen ,” and God certainly strengthened both him and Lehi. Did Lehi know Ezekiel? Potentially. Ezekiel would have been a young man at the time Jerusalem was destroyed. He must have been very prominent and well-educated, for he was among the few who were taken into Babylon. He was likely about the same age as Nephi. In that relatively small circle of prophets in Jerusalem, there is no reason why Lehi and Ezekiel should not have known each other. Ezekiel was a priest in the temple, and many of his prophecies relate to promises that Lehi was also concerned with. Ezekiel likely knew that people, like Lehi and also Rechab, were leaving. Ezekiel may not have had any idea where Lehi had gone, but he would have known that Lehi and his family were suddenly gone. He knows God is watching over them, that the Lord will be their strength. As a prophet, he is aware of the scattering of Israel, and he will prophesy about the strength of the Lord bringing them back together again. Like Lehi, Ezekiel was also a man of great visions. The last nine chapters of the Book of Ezekiel are visions of the eternal covenant and the eternal temple that would be restored in the millennial last days. Interestingly, in Doctrine and Covenants 29:21, the Lord speaks of the whore of all the earth being cast down by devouring fire, for abomination shall not reign, quoting Ezekiel 38:22 and mentioning Ezekiel by name. Lehi used similar phrases in his teachings and prophecies. Did Ezekiel know that these people going out into the far reaches of the world would write and that their writings and his would someday come back together again? Lehi never quotes Ezekiel 37. However, in 2 Nephi 3:12, Lehi says something similar to his youngest son Joseph: “Wherefore the fruit of thy loins shall write and the fruit of the loins of Judah shall write, and that which shall be written by the fruit of thy loins and also that which shall be written by the fruit of the loins of Judah shall grow together.” Lehi then states, in 2 Nephi 3:12, five reasons for why these two records need to come together. These five purposes should be carefully considered: 1. To confound false doctrines. 2. Unto the laying down of contentions. 3. To establish “peace among the fruit of thy loins.” Notice that it does not say establishing peace in thew hole world. That may be an unachievable objective, but when this book is brought together with scriptures from Judah, it can establish peace in the hearts of those who are of the House of Ephraim and the seed of Joseph, the son of Lehi. Giving peace is one of the great purposes the Book of Mormon will serve for all. 4. To bring them to the knowledge of their fathers in the latter days. 5. To bring them to the knowledge of the covenants of the Lord. Moroni reiterates this final purpose on the Title Page of the Book of Mormon, thus emphasizing the importance of the book fulfilling these purposes.
+In Ezekiel 37, the prophet Ezekiel prophesies that the records that would become the Holy Bible and the Book of Mormon will become one in the hands of readers. When we study the Bible and Book of Mormon together, it is profitable to notice the subtle ways in which these two volumes of scripture connect together. The name Ezekiel means “God will strengthen ,” and God certainly strengthened both him and Lehi.
+
+Did Lehi know Ezekiel? Potentially. Ezekiel would have been a young man at the time Jerusalem was destroyed.
+
+He must have been very prominent and well-educated, for he was among the few who were taken into Babylon. He was likely about the same age as Nephi. In that relatively small circle of prophets in Jerusalem, there is no reason why Lehi and Ezekiel should not have known each other.
+
+Ezekiel was a priest in the temple, and many of his prophecies relate to promises that Lehi was also concerned with. Ezekiel likely knew that people, like Lehi and also Rechab, were leaving. Ezekiel may not have had any idea where Lehi had gone, but he would have known that Lehi and his family were suddenly gone.
+
+He knows God is watching over them, that the Lord will be their strength. As a prophet, he is aware of the scattering of Israel, and he will prophesy about the strength of the Lord bringing them back together again. Like Lehi, Ezekiel was also a man of great visions.
+
+The last nine chapters of the Book of Ezekiel are visions of the eternal covenant and the eternal temple that would be restored in the millennial last days. Interestingly, in Doctrine and Covenants 29:21, the Lord speaks of the whore of all the earth being cast down by devouring fire, for abomination shall not reign, quoting Ezekiel 38:22 and mentioning Ezekiel by name. Lehi used similar phrases in his teachings and prophecies.
+
+Did Ezekiel know that these people going out into the far reaches of the world would write and that their writings and his would someday come back together again? Lehi never quotes Ezekiel 37. However, in 2 Nephi 3:12, Lehi says something similar to his youngest son Joseph: “Wherefore the fruit of thy loins shall write and the fruit of the loins of Judah shall write, and that which shall be written by the fruit of thy loins and also that which shall be written by the fruit of the loins of Judah shall grow together.”
+
+Lehi then states, in 2 Nephi 3:12, five reasons for why these two records need to come together. These five purposes should be carefully considered: 1. To confound false doctrines.
+
+2. Unto the laying down of contentions. 3.
+
+To establish “peace among the fruit of thy loins.” Notice that it does not say establishing peace in thew hole world. That may be an unachievable objective, but when this book is brought together with scriptures from Judah, it can establish peace in the hearts of those who are of the House of Ephraim and the seed of Joseph, the son of Lehi.
+
+Giving peace is one of the great purposes the Book of Mormon will serve for all. 4. To bring them to the knowledge of their fathers in the latter days.
+
+5. To bring them to the knowledge of the covenants of the Lord. Moroni reiterates this final purpose on the Title Page of the Book of Mormon, thus emphasizing the importance of the book fulfilling these purposes.
+
+---
+
+---
 
 ### 2 Nephi 3:12 – Did Ezekiel Prophesy Using a Visual Aid?
 
-In his prophecy, Ezekiel may have used two sticks —or tablets or rods —speaking to a group of people. He could have taken one and written on it “ Judah” or “Judah and his posterity.” He would have then taken the other and written, “ for Joseph, the stick of Ephraim and for all the House of Israel and his companions.” And then what does the Lord say? “Ezekiel, I want you to put those two together, and they will be one in your hand.” Prophets in Israel loved to do this sort of thing, to act out certain events. When Jeremiah wanted to prophesy that the children of Israel were going to be taken into captivity, he draped chains and ropes all over his body and walked through the streets of Jerusalem saying, “We are going to be taken captive.” It did not make him popular, but it made an impression. Likewise, Abinadi graphically used a “simile curse” in prophesying about King Noah’s demise (Mosiah 12:3). In saying, in effect, to the people, “Just as I am putting these two little sticks together in my hand, something much bigger is going to happen someday when the Lord will bring these two together,” Ezekiel dramatically conveys the idea that the gathering will happen because two books —two writings, two staffs of authority—will come back together. Further Reading Book of Mormon Central, “ Why Is the Book of Mormon ‘Another Testament of Jesus Christ’? (2 Nephi 3:12),” KnoWhy 494 (December 18, 2018).
+In his prophecy, Ezekiel may have used two sticks —or tablets or rods —speaking to a group of people. He could have taken one and written on it “Judah” or “Judah and his posterity.” He would have then taken the other and written, “for Joseph, the stick of Ephraim and for all the House of Israel and his companions.”
+
+And then what does the Lord say? “Ezekiel, I want you to put those two together, and they will be one in your hand.” Prophets in Israel loved to do this sort of thing, to act out certain events.
+
+When Jeremiah wanted to prophesy that the children of Israel were going to be taken into captivity, he draped chains and ropes all over his body and walked through the streets of Jerusalem saying, “We are going to be taken captive.” It did not make him popular, but it made an impression. Likewise, Abinadi graphically used a “simile curse” in prophesying about King Noah’s demise (Mosiah 12:3).
+
+In saying, in effect, to the people, “Just as I am putting these two little sticks together in my hand, something much bigger is going to happen someday when the Lord will bring these two together,” Ezekiel dramatically conveys the idea that the gathering will happen because two books —two writings, two staffs of authority—will come back together.
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Is the Book of Mormon ‘Another Testament of Jesus Christ’? (2 Nephi 3:12),” KnoWhy 494 (December 18, 2018).
+
+---
+
+---
 
 ### 2 Nephi 3:15 — The Naming of Joseph Smith
 
-It is interesting that Lucy and Joseph Smith, Sr. named their first son Alvin, their second son Hyrum, and only then named their third son Joseph Smith, Jr., after his father. That is not how it usually worked in the 1800s. If there was going to be a Junior, he was usually the firstborn son. But Alvin was not the great seer of whom Joseph in Egypt and Lehi had prophesied. It was Joseph Smith, Jr., the thirdborn son. Somehow, the Lord inspired his parents to name their children in that order. Joseph Smith, Sr. was the first to hold the office of patriarch in this dispensation. He was the oldest man of the blood of Joseph, meaning that he was the oldest direct lineal descendant of Joseph of Egypt on the earth at the time. Brigham Young said that the Lord watched over the blood from Ephraim down through the generations until it came to Joseph Smith, Sr. and Lucy Mack Smith and that Joseph Smith was a pure Ephraimite. Whatever that may mean, Joseph Smith Jr. also had the blood of Joseph, the blood of Israel, the blessings of Abraham, Isaac and Jacob, flowing in his veins, and he was the great seer that has been prophesied by his ancestor Joseph who was sold into Egypt.
+It is interesting that Lucy and Joseph Smith, Sr. named their first son Alvin, their second son Hyrum, and only then named their third son Joseph Smith, Jr., after his father. That is not how it usually worked in the 1800s. If there was going to be a Junior, he was usually the firstborn son.
+
+But Alvin was not the great seer of whom Joseph in Egypt and Lehi had prophesied. It was Joseph Smith, Jr., the thirdborn son. Somehow, the Lord inspired his parents to name their children in that order.
+
+Joseph Smith, Sr. was the first to hold the office of patriarch in this dispensation. He was the oldest man of the blood of Joseph, meaning that he was the oldest direct lineal descendant of Joseph of Egypt on the earth at the time. Brigham Young said that the Lord watched over the blood from Ephraim down through the generations until it came to Joseph Smith, Sr. and Lucy Mack Smith and that Joseph Smith was a pure Ephraimite.
+
+Whatever that may mean, Joseph Smith Jr. also had the blood of Joseph, the blood of Israel, the blessings of Abraham, Isaac and Jacob, flowing in his veins, and he was the great seer that has been prophesied by his ancestor Joseph who was sold into Egypt.
+
+---
+
+---
 
 ### 2 Nephi 3:20 — A Voice from the Dust
 
-The Book of Mormon contains the voices from those that are in the dust. “And they shall cry from the dust.” From the Plates of Brass, Lehi would have known the words of Isaiah 29:4, “And they speech shall be low out of the dust.” The testimony of the dead lives, and that testimony is that Jesus is the Christ, that He has risen from the grave, and that He is the only begotten Son of God. Further Reading Jeff Lindsay, “ ‘Arise from the Dust’: Insights from Dust-Related Themes in the Book of Mormon (Part 1: Tracks from the Book of Moses) ,” Interpreter: A Journal of Latter-day Saint Faith and Scholarship 22 (2016): 179–232.
+The Book of Mormon contains the voices from those that are in the dust. “And they shall cry from the dust.” From the Plates of Brass, Lehi would have known the words of Isaiah 29:4, “And they speech shall be low out of the dust.” The testimony of the dead lives, and that testimony is that Jesus is the Christ, that He has risen from the grave, and that He is the only begotten Son of God.
+
+####
+
+#### Further Reading
+
+- Jeff Lindsay, “‘Arise from the Dust’: Insights from Dust-Related Themes in the Book of Mormon (Part 1: Tracks from the Book of Moses) ,” Interpreter: A Journal of Latter-day Saint Faith and Scholarship 22 (2016): 179–232.

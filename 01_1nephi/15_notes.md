@@ -5,20 +5,79 @@
 
 ## Table of Contents
 
-- [1 Nephi 15:1–10 — Have Ye Inquired of the Lord?](#1-nephi-15110-have-ye-inquired-of-the-lord)
-- [1 Nephi 15:30 — The Justice of God](#1-nephi-1530-the-justice-of-god)
-- [1 Nephi 15:33–36 — The Wicked Will Be Cast into Hell](#1-nephi-153336-the-wicked-will-be-cast-into-hell)
+- [1 Nephi 15:1–10 — Have Ye Inquired of the Lord?](#1-nephi-15110--have-ye-inquired-of-the-lord)
+  - [Personal Revelation vs. Cultural Assumptions](#personal-revelation-vs-cultural-assumptions)
+  - [“Heavenly Father, Please Teach Me Something”](#heavenly-father-please-teach-me-something)
+- [1 Nephi 15:30 — The Justice of God](#1-nephi-1530--the-justice-of-god)
+- [1 Nephi 15:33–36 — The Wicked Will Be Cast into Hell](#1-nephi-153336--the-wicked-will-be-cast-into-hell)
 
 ---
 
 ### 1 Nephi 15:1–10 — Have Ye Inquired of the Lord?
 
-At the opening of 1 Nephi 15, after Nephi returned from having his vision, he found his brothers “disputing one with another” about what Lehi had told them. Nephi was exhausted. He had just seen the destruction of his people, and was overwhelmed at the great Plan of Redemption that he had just witnessed. And now he returned to see his brothers arguing. Figure 5 The Apocalypse of Saint John the Evangelist on the Island of Patmos by Jan Matsys, 1563. Image via Wikimedia Commons. Remember what he asked them? “Have y e inquired of the Lord?” (v. 8). And what was their response? “We have not; for the Lord maketh no such thing known unto us” (v. 9). This answer probably left Nephi utterly flabbergasted. How could they possibly not understand that they could ask the Lord and receive the information they needed? Of course the Lord would talk to Laman and Lemuel! But they were not obedient. They were hard-hearted, quick to anger, and filled with doubt. Their wickedness was like a degenerative disease that became worse and worse until there was nothing but emptiness and cynicism left in their hearts. But Nephi saw that this could have been a turning point for them, so he encouraged them to pray and learn for themselves. As human beings, we all know the general result we want. Most of us want good outcomes as often as possible. What we lack, more often than not, is the understanding of how to get from where we aren ow to where we want to be. Because the path is unclear, we end up disagreeing about the means and methods to employ to get where we want to go. We disagree on what the consequences might be if we employ “Method A” or “Method B.” Laman and Lemuel likely wan ted a similar outcome as Nephi and Lehi—to inherit a good land, to have security in their families, and to live successful lives. However, I do not think they were on board with exactly what needed to be done along the way and what the end results should specifically look like. They certainly had their disagreements about the methods that they would use, some of which were founded in their cultural experience. When they said, “the Lord does not reveal those things to us,” it’s not that they necessarily thought He wouldn’t reveal those things to them at all, but maybe they did not see themselves as recipients of revelation. Within the cultural context of Laman and Lemuel’s world, the high priest of the temple or certain prophets like Moses or Isaiah received revelation. Perhaps they were saying, “the high priest can go into the Holy of Holies and receive revelation, but that’s not our job.” What they were missing, of course, was the reality and importance of individual, personal revelation. Now, what about you? When was the last time in your prayers you said, “Heavenly Father, teach me something?” We spend a lot of time with the Lord saying, “please bless...,” “thank you for...,” “I’m worried about my children...,” or “help me find a job.” All these things are completely fine in prayers. However, Nephi was a great example. He prayed for his people, for his family, and for his own grace. He prayed for all of those same things we do, but he also said, “Heavenly Father, please teach me something. Please help me understand something better.” I think the Lord expects us to do that. He is very generous with answers to those kinds of questions. As we develop that attitude—the attitude of “please help me understand something about the gospel better”—we will have more light to live by, more light to help us understand pros and cons. The Lord wants and needs us to have more light. He needs us to shine brighter than ever before. Book of Mormon Central, “Acquiring Spiritual Knowledge: Act in Faith (1 Nephi 2:16),” KnoWhy 260 (January 11, 2017).
+At the opening of 1 Nephi 15, after Nephi returned from having his vision, he found his brothers “disputing one with another” about what Lehi had told them.
+
+Nephi was exhausted. He had just seen the destruction of his people, and was overwhelmed at the great Plan of Redemption that he had just witnessed. And now he returned to see his brothers arguing.
+
+*(Reference: Figure 5 — The Apocalypse of Saint John the Evangelist on the Island of Patmos by Jan Matsys, 1563. Image via Wikimedia Commons.)*
+
+Remember what he asked them? “Have ye inquired of the Lord?” (v. 8). And what was their response? “We have not; for the Lord maketh no such thing known unto us” (v. 9).
+
+This answer probably left Nephi utterly flabbergasted. How could they possibly not understand that they could ask the Lord and receive the information they needed? Of course the Lord would talk to Laman and Lemuel! But they were not obedient. They were hard-hearted, quick to anger, and filled with doubt. Their wickedness was like a degenerative disease that became worse and worse until there was nothing but emptiness and cynicism left in their hearts. But Nephi saw that this could have been a turning point for them, so he encouraged them to pray and learn for themselves.
+
+#### Personal Revelation vs. Cultural Assumptions
+
+As human beings, we all know the general result we want. Most of us want good outcomes as often as possible. What we lack, more often than not, is the understanding of how to get from where we are now to where we want to be. Because the path is unclear, we end up disagreeing about the means and methods to employ to get where we want to go. We disagree on what the consequences might be if we employ “Method A” or “Method B.”
+
+Laman and Lemuel likely wanted a similar outcome as Nephi and Lehi—to inherit a good land, to have security in their families, and to live successful lives. However, I do not think they were on board with exactly what needed to be done along the way and what the end results should specifically look like. They certainly had their disagreements about the methods that they would use, some of which were founded in their cultural experience.
+
+When they said, “the Lord does not reveal those things to us,” it’s not that they necessarily thought He wouldn’t reveal those things to them at all, but maybe they did not see themselves as recipients of revelation. Within the cultural context of Laman and Lemuel’s world, the high priest of the temple or certain prophets like Moses or Isaiah received revelation. Perhaps they were saying, “the high priest can go into the Holy of Holies and receive revelation, but that’s not our job.” What they were missing, of course, was the reality and importance of individual, personal revelation.
+
+#### “Heavenly Father, Please Teach Me Something”
+
+Now, what about you? When was the last time in your prayers you said, “Heavenly Father, teach me something?”
+
+We spend a lot of time with the Lord saying, “please bless...,” “thank you for...,” “I’m worried about my children...,” or “help me find a job.” All these things are completely fine in prayers. However, Nephi was a great example. He prayed for his people, for his family, and for his own grace. He prayed for all of those same things we do, but he also said, “Heavenly Father, please teach me something. Please help me understand something better.”
+
+I think the Lord expects us to do that. He is very generous with answers to those kinds of questions. As we develop that attitude—the attitude of “please help me understand something about the gospel better”—we will have more light to live by, more light to help us understand pros and cons. The Lord wants and needs us to have more light. He needs us to shine brighter than ever before.
+
+#### Further Reading
+
+- Book of Mormon Central, “Acquiring Spiritual Knowledge: Act in Faith (1 Nephi 2:16),” *KnoWhy* 260 (January 11, 2017).
+
+---
 
 ### 1 Nephi 15:30 — The Justice of God
 
-Nephi said that his father Lehi saw the “justice of God.” When did Lehi see the justice of God? It is never mentioned specifically in any text from Lehi that we have. But perhaps all that Lehi saw in vision or in dream was a depiction of God’s justice — the way in which God will separate the righteous from the wicked. In the dream there was a gulf and there were mists of darkness. People were either under the tree or they were heading to or living it up in the great and spacious building. Such a division is, in essence, the way in which ancient people thought of justice. What symbol do we often use to depict justice? Two pans on a scale. When the scales are balanced, with compensation given to offset damages, we see justice as having been achieved. Somehow, the scales end in equilibrium. In the modern world, we also see justice as being blind. That is why we put a blindfold on Lady Justice. But in the ancient world, there were no blindfolds associated with the idea of justice. Justice stood with eyes wide open. Justice was a respecter of persons. One’s character mattered. Indeed, the symbol of justice in the Book of Mormon and in the Bible is not the scales, but the sword. What does a sword do? The sword divides, it cuts asunder. Justice divides the sheep from the goats. It divides the righteous from the wicked. Even though the sword is not mentioned anywhere in accounts of Lehi’s visions (maybe it was present in the lost Book of Lehi on the 116 pages) , the sword, in any event, would surely have been there in Lehi’s understanding of God’s justice. Book of Mormon Central, “How Are Rod and Sword Connected to the Word of God? (1 Nephi 11:25),” KnoWhy 427 (April 24, 2018). Book of Mormon Central, “ What was the Great and Terrible Gulf in Lehi’s Dream? (1 Nephi 12:18),” KnoWhy 14 (January 19, 2016).
+Nephi said that his father Lehi saw the “justice of God.” When did Lehi see the justice of God? It is never mentioned specifically in any text from Lehi that we have. But perhaps all that Lehi saw in vision or in dream was a depiction of God’s justice—the way in which God will separate the righteous from the wicked. In the dream there was a gulf and there were mists of darkness. People were either under the tree or they were heading to or living it up in the great and spacious building. Such a division is, in essence, the way in which ancient people thought of justice.
+
+What symbol do we often use to depict justice? Two pans on a scale. When the scales are balanced, with compensation given to offset damages, we see justice as having been achieved. Somehow, the scales end in equilibrium. In the modern world, we also see justice as being blind. That is why we put a blindfold on Lady Justice.
+
+But in the ancient world, there were no blindfolds associated with the idea of justice. Justice stood with eyes wide open. Justice was a respecter of persons. One’s character mattered.
+
+Indeed, the symbol of justice in the Book of Mormon and in the Bible is not the scales, but the sword. What does a sword do? The sword divides, it cuts asunder. Justice divides the sheep from the goats. It divides the righteous from the wicked. Even though the sword is not mentioned anywhere in accounts of Lehi’s visions (maybe it was present in the lost Book of Lehi on the 116 pages), the sword, in any event, would surely have been there in Lehi’s understanding of God’s justice.
+
+#### Further Reading
+
+- Book of Mormon Central, “How Are Rod and Sword Connected to the Word of God? (1 Nephi 11:25),” *KnoWhy* 427 (April 24, 2018).
+- Book of Mormon Central, “What was the Great and Terrible Gulf in Lehi’s Dream? (1 Nephi 12:18),” *KnoWhy* 14 (January 19, 2016).
+
+---
 
 ### 1 Nephi 15:33–36 — The Wicked Will Be Cast into Hell
 
-There’s a wonderful concluding section at the end of chapter 15, in which Nephi wrote about justice and how we will all stand to be judged according to our works and be rewarded with eternal blessings. That is when he said, ... and if their works have been filthiness they must needs be filthy; and if they be filthy it must needs be that they cannot dwell in the kingdom of God; if so, the kingdom of God must be filthy also. But behold, I say unto you, the kingdom of God is not filthy, and there cannot any unclean thing enter into the kingdom of God; wherefore there must needs be a place of filthiness prepared for that which is filthy. (vv. 33–34) This is not to say that a human being can be considered trash. But filthiness (or impurity) are consequences of choices made, and were of great concern to the Israelites. Nephi, who lived under and respected the Law of Moses, would have been particularly concerned about what would be done to purify or deal with the impurities that are natural consequences of sinful behavior or even unconsciously coming into contact with anything that was impure. Nephi explained that impurity will be discarded and put into what he called “hell ,” behind which word may have been Gehenna (the Hebrew word often translated as “hell”). Gehenna was the valley just south of the Temple Mount in Jerusalem, and that Gehenna was the city garbage dump. At that time, there were a lot of animals in Jerusalem, and Gehenna, being the lowest part of the Jerusalem area, was where the people would sweep out all the dung, manure and garbage. That was Gehenna, and so, understandably, Gehenna was hell. Moreover, there were a lot of things burned in the dump. So, Gehenna was a place of trash and burning fires. It was a place of unpleasantness—the flaming fires of justice. That was the image of the burning and purification of filthiness which may well have stood behind what Nephi was describing. Here, again, we have an example of Lehi providing us the principle and Nephi going into greater detail in giving us the explanation. Book of Mormon Central, “ Why Do the Scriptures Compare Hell to an Unquenchable Fire? (Mosiah 2:38),” KnoWhy 81 (April 19, 2016).
+There’s a wonderful concluding section at the end of chapter 15, in which Nephi wrote about justice and how we will all stand to be judged according to our works and be rewarded with eternal blessings. That is when he said:
+
+> “[A]nd if their works have been filthiness they must needs be filthy; and if they be filthy it must needs be that they cannot dwell in the kingdom of God; if so, the kingdom of God must be filthy also. But behold, I say unto you, the kingdom of God is not filthy, and there cannot any unclean thing enter into the kingdom of God; wherefore there must needs be a place of filthiness prepared for that which is filthy.” (vv. 33–34)
+
+This is not to say that a human being can be considered trash. But filthiness (or impurity) are consequences of choices made, and were of great concern to the Israelites. Nephi, who lived under and respected the Law of Moses, would have been particularly concerned about what would be done to purify or deal with the impurities that are natural consequences of sinful behavior or even unconsciously coming into contact with anything that was impure.
+
+Nephi explained that impurity will be discarded and put into what he called “hell,” behind which word may have been Gehenna (the Hebrew word often translated as “hell”). Gehenna was the valley just south of the Temple Mount in Jerusalem, and that Gehenna was the city garbage dump. At that time, there were a lot of animals in Jerusalem, and Gehenna, being the lowest part of the Jerusalem area, was where the people would sweep out all the dung, manure and garbage.
+
+That was Gehenna, and so, understandably, Gehenna was hell. Moreover, there were a lot of things burned in the dump. So, Gehenna was a place of trash and burning fires. It was a place of unpleasantness—the flaming fires of justice. That was the image of the burning and purification of filthiness which may well have stood behind what Nephi was describing.
+
+Here, again, we have an example of Lehi providing us the principle and Nephi going into greater detail in giving us the explanation.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Do the Scriptures Compare Hell to an Unquenchable Fire? (Mosiah 2:38),” *KnoWhy* 81 (April 19, 2016).

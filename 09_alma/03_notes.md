@@ -35,7 +35,11 @@ The Nephites were generally discouraged from intermarriage with the Lamanites. H
 Alma 3 is often cited as evidence of racism in the Book of Mormon. However, when reading ancient historical texts, such as the Book of Mormon, it is absolutely essential not to impose modern ideas of race and cultural identity onto the people of the past. There are several explanations for the mark or curse of the Lamanites—other than racism—when reading this chapter in its entirety:
 
 1. **Wartime Context**: The setting for these verses was at a time when the Nephites, Lamanites, and Amlicites were involved in bloody battles against one another. At a time of war, it may have been unthinkable to marry someone who is or has viciously fought against you and your people. In fact, this may have been viewed as an act of treason.
-2. **Religious Covenant over Lineage**: Mormon appears to couch the issue of the Lamanite curse in terms of religious and cultural identity, not merely skin pigmentation. He records that any person who was “led away by the Lamanites” had the same “mark set upon him.” On the other hand, “whosoever would not believe in the tradition of the Lamanites ... were called the Nephites, or the people of Nephi.” Therefore, the curse of the Lamanites included the ultimate outcome that they would believe “in incorrect traditions which would prove their destruction.” There was concern that introducing incorrect traditions and beliefs in the Nephite community by intermarriage could result in the destruction of the Nephite nation as well. These things were done to preserve a nation of people who believed in God and his commandments and had nothing to do with what we would call racism.
+2. **Religious Covenant over Lineage**: Mormon appears to couch the issue of the Lamanite curse in terms of religious and cultural identity, not merely skin pigmentation.
+
+He records that any person who was “led away by the Lamanites” had the same “mark set upon him.” On the other hand, “whosoever would not believe in the tradition of the Lamanites ... were called the Nephites, or the people of Nephi.” Therefore, the curse of the Lamanites included the ultimate outcome that they would believe “in incorrect traditions which would prove their destruction.”
+
+There was concern that introducing incorrect traditions and beliefs in the Nephite community by intermarriage could result in the destruction of the Nephite nation as well. These things were done to preserve a nation of people who believed in God and his commandments and had nothing to do with what we would call racism.
 
 #### Skins as Garments and Open Rebellion
 
@@ -45,4 +49,8 @@ In this sense, the Lamanites and Amlicites were distinguishing themselves by the
 
 > “Now the Amlicites knew not that they were fulfilling the words of God when they began to mark themselves in their foreheads [with red markings]; nevertheless they had come out in open rebellion against God; therefore it was expedient that the curse [of separation from God] should fall upon them.” (Alma 3:18)
 
-#### Further Reading-Book of Mormon Central, “Why Did Book of Mormon Prophets Discourage Nephite-Lamanite Intermarriage?” *KnoWhy* 110 (May 30, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Book of Mormon Prophets Discourage Nephite-Lamanite Intermarriage?” *KnoWhy* 110 (May 30, 2016).

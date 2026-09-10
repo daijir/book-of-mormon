@@ -39,6 +39,8 @@ On all of these words and phrases, I highly recommend the research from Cynthia 
 
 ---
 
+---
+
 ### 3 Nephi 22:7–12 — The Lord’s Kindness Shall Not Depart from His Children
 
 Concerning the word “kindness” in English and even in other languages, Professor Cynthia Hallen offers a key to understanding the Lord’s relation to his covenant people. As she explains, “the earliest etymological meaning of kindness is the reconstructed Indo-European root *gen-*, meaning to give birth, beget; with derivatives referring to ... procreation and to familial and tribal groups.”
@@ -58,7 +60,13 @@ Several other terms in this chapter of Isaiah come from that same semantic root 
 
 All these words are linguistically related to the word “kindness,” and all those things have to do with the Lord’s covenant “kind,” “kinship,” and “kingly” relationships with His people. His “everlasting kindness” (22:8) is truly merciful, binding, and eternally sealing.
 
-#### Further Reading-Cynthia L. Hallen, “The Lord’s Covenant of Kindness: Isaiah 54 and 3 Nephi 22,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: Foundation for Ancient Research and Mormon Studies, 1998), 313–349.
+####
+
+#### Further Reading
+
+- Cynthia L. Hallen, “The Lord’s Covenant of Kindness: Isaiah 54 and 3 Nephi 22,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, UT: Foundation for Ancient Research and Mormon Studies, 1998), 313–349.
+
+---
 
 ---
 
@@ -70,10 +78,14 @@ The covenant of God with Abraham and Sarah has application to families and poste
 
 Before Jesus left on Day 1, He drew attention to the family again, speaking of family prayer: “Pray in your families unto the Father, always in my name, that your wives and your children may be blessed” (3 Nephi 18:21).
 
-When Jesus returned for Day 2 and on Day 3, the people apparently brought their children with them. After all, who would have been taking care of them? And think what would their parents have been worrying about? We know that Jesus continued to minister to them, for the children spoke “unto their fathers great and marvelous things, even greater than [Jesus] had revealed unto the people” (26:14), and the people “both saw and heard these children; yea, even babes did open their mouths and utter marvelous things” (26:16).
+When Jesus returned for Day 2 and on Day 3, the people apparently brought their children with them. After all, who would have been taking care of them? And think what would their parents have been worrying about?
+
+We know that Jesus continued to minister to them, for the children spoke “unto their fathers great and marvelous things, even greater than [Jesus] had revealed unto the people” (26:14), and the people “both saw and heard these children; yea, even babes did open their mouths and utter marvelous things” (26:16).
 
 Thus, when Jesus quotes passages that mention “children,” we should realize that they too were actually there in attendance. For example, in quoting Isaiah 54, Jesus emphasizes the importance of childbearing and childrearing. Isaiah prophesies that in the days of glory, “All thy children shall be taught of the Lord, and great shall be the peace of thy children” (3 Nephi 22:13), and 22:17 ends with “and this is the heritage of the servants of the Lord,” echoing Psalm 127:3 which refers to children as the heritage of the Lord.
 
 And the quotation from Malachi 3–4 ends with turning “the heart of the fathers to the children, and the heart of the children to the fathers” (25:6). Just as Jesus had ended Day 1 by focusing on the family, he ends Day 2 and Day 3 similarly (26:14–16).
 
-The covenant is not just a national promise; the covenant is a family promise too. It is all about gathering. Israel will be gathered from north, south, east, and west; and people also will gather in families. That final gathering is what family reunions represent. In those reunions, families recognize their children as their greatest blessings. The Lord, as he sees his children being gathered, likewise recognizes them as his greatest inheritance.
+The covenant is not just a national promise; the covenant is a family promise too. It is all about gathering. Israel will be gathered from north, south, east, and west; and people also will gather in families.
+
+That final gathering is what family reunions represent. In those reunions, families recognize their children as their greatest blessings. The Lord, as he sees his children being gathered, likewise recognizes them as his greatest inheritance.

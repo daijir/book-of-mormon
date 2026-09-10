@@ -6,25 +6,44 @@
 ## Table of Contents
 
 - [3 Nephi 17 — Study Questions](#3-nephi-17--study-questions)
-- [3 Nephi 17:6–10 — Jesus, Filled with Compassion, Healed the Nephites](#3-nephi-17610-jesus-filled-with-compassion-healed-the-nephites)
-  - [Chiastic Structure in 3 Nephi 17:6–7](#chiastic-structure-in-3-nephi-1767)
-  - [Further Reading](#further-reading)
+- [3 Nephi 17:6–10 — Jesus, Filled with Compassion, Healed the Nephites](#3-nephi-17610--jesus-filled-with-compassion-healed-the-nephites)
 - [3 Nephi 17:11–15, 19–20 — Jesus Blessed the Parents](#3-nephi-171115-1920--jesus-blessed-the-parents)
-- [3 Nephi 17:17–18 — There Is Joy Especially in Temple Work](#3-nephi-171718-there-is-joy-especially-in-temple-work)
-  - [Further Reading](#further-reading-1)
-- [3 Nephi 17:21–23 — The Savior Then Blessed the Children](#3-nephi-172123-the-savior-then-blessed-the-children)
-  - [Further Reading](#further-reading-2)
+- [3 Nephi 17:17–18 — There Is Joy Especially in Temple Work](#3-nephi-171718--there-is-joy-especially-in-temple-work)
+- [3 Nephi 17:21–23 — The Savior Then Blessed the Children](#3-nephi-172123--the-savior-then-blessed-the-children)
+- [###](#)
 - [3 Nephi 17:24–25 — Angels Appeared and Ministered to the Children](#3-nephi-172425--angels-appeared-and-ministered-to-the-children)
 
 ---
 
 ### 3 Nephi 17 — Study Questions
 
-In this chapter, we may ask ourselves the following questions: • Why did Jesus teach people things that he says they would not be able to understand? • What can a person do to understand such things better? • What does it mean to “ponder upon the things” that one hears in Church settings? • What do you find especially tender and impressive about the hour of healings here? • Above all, what would you want the Lord to ask for, if he were to pray for you? • What gives the Lord his greatest joy? • What can we learn from the example of love that Jesus has for each child?
+In this chapter, we may ask ourselves the following questions:
+
+- Why did Jesus teach people things that he says they would not be able to understand?
+
+- What can a person do to understand such things better?
+
+- What does it mean to “ponder upon the things” that one hears in Church settings?
+
+- What do you find especially tender and impressive about the hour of healings here?
+
+- Above all, what would you want the Lord to ask for, if he were to pray for you?
+
+- What gives the Lord his greatest joy?
+
+- What can we learn from the example of love that Jesus has for each child?
+
+---
 
 ### 3 Nephi 17:6–10 — Jesus, Filled with Compassion, Healed the Nephites
 
-3 Nephi cannot be read or understood outside of a family context. The Nephites came to the temple early in the morning. Men, women, and children were there, and may have come fasting; there would not have been much time for breakfast. For what reason were they there? It may have been some type of sacred gathering called, perhaps by Nephi himself, to determine what was going to happen next. They may have been there to give thanks to the Lord that they had survived. Regardless, they were all there. Everything which the Savior says in 3 Nephi ist omen, to women, to grandparents, and to children. It is a message that applies to the entire human family. When Jesus was about to leave at the end of that first day and cast his eyes about to the people, he saw that their eyes were steadfast on him, and that their eyes were filled with tears and his bowels, his soft inner being, was filled, not just with mercy but with compassion, or as the German would say, with Mitleid, “with suffering together.” Jesus’s words in this tender moment are elegant, personal, and inviting: #### Chiastic Structure in 3 Nephi 17:6–7
+3 Nephi cannot be read or understood outside of a family context. The Nephites came to the temple early in the morning. Men, women, and children were there, and may have come fasting; there would not have been much time for breakfast.
+
+For what reason were they there? It may have been some type of sacred gathering called, perhaps by Nephi himself, to determine what was going to happen next. They may have been there to give thanks to the Lord that they had survived.
+
+Regardless, they were all there. Everything which the Savior says in 3 Nephi ist omen, to women, to grandparents, and to children. It is a message that applies to the entire human family.
+
+When Jesus was about to leave at the end of that first day and cast his eyes about to the people, he saw that their eyes were steadfast on him, and that their eyes were filled with tears and his bowels, his soft inner being, was filled, not just with mercy but with compassion, or as the German would say, with Mitleid, “with suffering together.” Jesus’s words in this tender moment are elegant, personal, and inviting: #### Chiastic Structure in 3 Nephi 17:6–7
 
 ```text
 A  Behold, my bowels are filled
@@ -38,24 +57,82 @@ A  Behold, my bowels are filled
 A' my bowels are filled with mercy.
 ```
 
-Jesus then drew himself close to the people through a series of intimate “I/you” statements. Here we find five such interpersonal elements, the symbolic number of mercy and compassion. These lines emotively and intimately affirm God’s personal relationship to mankind: 3 Nephi 17:8 I perceive that ye desire that I should show unto you what I have done unto your brethren at Jerusalem, for I see that your faith is sufficient that I should heal you. The Savior was filled with compassion, so he blessed them—those who had been injured or were ill or were blind, lame, or deaf. As they had come before to touch the Lord “one by one” (3 Nephi 11:15), they now came again one by one. The word “one” at the beginning of verse 9 is echoed again in the throng coming forward with “one accord,” and at the end it is found in the individual acts of love as Jesus healed them, “every one”: 3 Nephi 17:9 All the multitude, with one accord, did go forth with their sick, and their afflicted, and their lame, and with their blind, their dumb, and their afflicted in any manner; and he did heal them every one as they were brought forth. After they had been healed, those people came —the eyes, here again, are an important factor—and bathed his feet with their tears. I can only imagine that this was everyone — men, women and children —wanting and trying to reciprocate the love that he had shown to them. If we are going to follow the example of Jesus, we too need to minister one by one. It is not enough to have an impersonal food bank say, “Go and get it.” There is more to it than that. We need to care for the individual needs of others, look at what their circumstances are, and love and serve them. Further Reading Book of Mormon Central, “Why Did Jesus Minister to the People One by One? (3 Nephi 17:21), KnoWhy 209 (October 14, 2016). For a discussion of the linguistic and literary elements in the translation of this text, see John W. Welch, Illuminating the Ser mon at the Temple and Sermon on the Mount (Provo, UT: FARMS, 1999), 179–198. 
+Jesus then drew himself close to the people through a series of intimate “I/you” statements. Here we find five such interpersonal elements, the symbolic number of mercy and compassion. These lines emotively and intimately affirm God’s personal relationship to mankind: 3 Nephi 17:8 I perceive that ye desire that I should show unto you what I have done unto your brethren at Jerusalem, for I see that your faith is sufficient that I should heal you.
+
+The Savior was filled with compassion, so he blessed them—those who had been injured or were ill or were blind, lame, or deaf. As they had come before to touch the Lord “one by one” (3 Nephi 11:15), they now came again one by one. The word “one” at the beginning of verse 9 is echoed again in the throng coming forward with “one accord,” and at the end it is found in the individual acts of love as Jesus healed them, “every one”: 3 Nephi 17:9 All the multitude, with one accord, did go forth with their sick, and their afflicted, and their lame, and with their blind, their dumb, and their afflicted in any manner; and he did heal them every one as they were brought forth.
+
+After they had been healed, those people came —the eyes, here again, are an important factor—and bathed his feet with their tears. I can only imagine that this was everyone — men, women and children —wanting and trying to reciprocate the love that he had shown to them. If we are going to follow the example of Jesus, we too need to minister one by one.
+
+It is not enough to have an impersonal food bank say, “Go and get it.” There is more to it than that. We need to care for the individual needs of others, look at what their circumstances are, and love and serve them.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Jesus Minister to the People One by One? (3 Nephi 17:21), KnoWhy 209 (October 14, 2016)
+- For a discussion of the linguistic and literary elements in the translation of this text, see John W. Welch, Illuminating the Ser mon at the Temple and Sermon on the Mount (Provo, UT: FARMS, 1999), 179–198.
+
+---
 
 ### 3 Nephi 17:11–15, 19–20 — Jesus Blessed the Parents
 
- Jesus then wanted to give the people a great blessing. He placed himself in the middle of the crowd, with the children roundabout him, and the parents roundabout them. Before turning to the children, Jesus blessed their parents. He prayed for them, and the text says, “the things which he prayed cannot be written, and the multitude did bear record who heard him” (17:15). The record of the incident says, “No one can imagine the joy that filled our hearts when we heard him pray for us unto the Father” (17:17). Jesus appreciated the sacrifices and devotion of parents. He may have been praying that they would be good parents, to have the strength and wisdom to be able to do what these little children needed to have done for them. He may also have been opening to their view the promises and blessings of the eternal nature of family relationships. As Jesus looked around after blessing them, he said to those parents, “Blessed are ye because of your faith. And now behold, my joy is full” (17:20).
+Jesus then wanted to give the people a great blessing. He placed himself in the middle of the crowd, with the children roundabout him, and the parents roundabout them. Before turning to the children, Jesus blessed their parents.
+
+He prayed for them, and the text says, “the things which he prayed cannot be written, and the multitude did bear record who heard him” (17:15). The record of the incident says, “No one can imagine the joy that filled our hearts when we heard him pray for us unto the Father” (17:17). Jesus appreciated the sacrifices and devotion of parents.
+
+He may have been praying that they would be good parents, to have the strength and wisdom to be able to do what these little children needed to have done for them. He may also have been opening to their view the promises and blessings of the eternal nature of family relationships. As Jesus looked around after blessing them, he said to those parents, “Blessed are ye because of your faith. And now behold, my joy is full” (17:20).
+
+---
 
 ### 3 Nephi 17:17–18 — There Is Joy Especially in Temple Work
 
-Psalm 16—which has been called “a prayer for admission to the temple” —declares that “in [God’s] presence is fullness of joy” (Psalm 16:11; cf. 21:6). The “presence” of the Lord was experienced in his holy temple (Psalm 11:4; 2 Chronicles 20:9), and the psalmist equated that presence with a feeling of joy. King David spoke of the joy that he felt at merely witnessing his people’s willingness to help build God’s temple (1 Chronicles 29:17; cf. Ezra 6:16) and the psalmist exclaimed, “a day in thy courts is better than a thousand [anywhere else]. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness” (Psalm 84:10). In other words, any type of service in the temple, no matter how lowly the position, will bring a joy that is preferable to being out in the world, amongst the wicked. Further Reading Book of Mormon Central, “Why is Joy Associated with Temple Work in the Scriptures? (3 Nephi 17:17–18), KnoWhy 372 (October 12, 2017). John W. Welch, “Seeing Third Nephi as the Holy of Holies of the Book of Mormon,” Journal of the Book of Mormon and Other Restoration Scripture 19, no. 1 (2010): 36–55; Michael D. Coogan, Marc Z. Brettler, Carol Newsom, eds., The New Oxford Annotated Bible, College Edition (Oxford, UK: Oxford University Press, 2001), 786–787.
+Psalm 16—which has been called “a prayer for admission to the temple” —declares that “in [God’s] presence is fullness of joy” (Psalm 16:11; cf. 21:6). The “presence” of the Lord was experienced in his holy temple (Psalm 11:4; 2 Chronicles 20:9), and the psalmist equated that presence with a feeling of joy. King David spoke of the joy that he felt at merely witnessing his people’s willingness to help build God’s temple (1 Chronicles 29:17; cf. Ezra 6:16) and the psalmist exclaimed, “a day in thy courts is better than a thousand [anywhere else].
+
+I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness” (Psalm 84:10). In other words, any type of service in the temple, no matter how lowly the position, will bring a joy that is preferable to being out in the world, amongst the wicked.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why is Joy Associated with Temple Work in the Scriptures? (3 Nephi 17:17–18), KnoWhy 372 (October 12, 2017)
+- John W. Welch, “Seeing Third Nephi as the Holy of Holies of the Book of Mormon,” Journal of the Book of Mormon and Other Restoration Scripture 19, no. 1 (2010): 36–55; Michael D. Coogan, Marc Z. Brettler, Carol Newsom, eds., The New Oxford Annotated Bible, College Edition (Oxford, UK: Oxford University Press, 2001), 786–787.
+
+---
 
 ### 3 Nephi 17:21–23 — The Savior Then Blessed the Children
 
-The Holy of Holies was said by the ancients to be a place of supreme joy. It was characterized by the joy of the Lord, and in this case, here was Jesus and all of these people celebrating with eternal joy. He turned to the children and blessed them one by one, and after that, he turned to the parents and he said, “Behold your little ones.” I do not think he was saying, “Look at your kids. Aren’t they cute?” He was saying in effect, “Behold, your little ones; they are now yours in a way that they were not before.” This blessing was confirmed in the presence of God, of Jesus himself, of witnesses, and of angels who then came down and ministered unto the children. It is an amazing thing to imagine the Lord Himself administering such a blessing to the parents and these children whom he loved so completely. If we look at this afternoon of healing “every one” and at the blessing of the parents and their children “one by one” (17:9, 21) through a temple lens, one can appreciate even deeper why everyone can and must go through the temple one by one and personally do, step by step, the whole sequence of ordinances. And likewise, why we do proxy work for the dead, each of them one by one. Such ordinances and blessings are individual matters, and covenants are made individually and personally with the Lord. Richard Holzapfel has explained, “According to the Book of Mormon model, ministering often occurs ‘one by one’ as disciples come in contact with the Savior and with one another. In many cases a personal ‘touch’ is a symbolic means of transmitting God’s love and power to an individual.” Elder Holzapfel also said, Third Nephi, sometimes referred to as the fifth Gospel in Latter-day Saint circles, describes Christ's post-Resurrection ministry to the Nephites in terms similar to those used in the four New Testament Gospels. It emphasizes the individual experiences of the Nephite people with the resurrected Messiah, noting their direct physical contact with as well as His laying on of hands as the symbolic act of transmitting authority and power (Richard Neitzel Holzapfel, “One by One: The Fifth Gospel's Model of Service,” in A Book of Mormon Treasury: Gospel Insights from General Authorities and Religious Educators (Provo, UT: Religious Studies Center, 2003), 378–388). Elder Ronald A. Rasband likewise recalled in a Conference talk, ““Certainly, there is a very profound and tender personal message here. Jesus Christ ministers to, and loves us all, one by one” (Ronald A. Rasband, “One by One,” Ensign, November 2000). Further Reading Book of Mormon Central, “Why Did Jesus Minister to the People One by One? (3 Nephi 17:21), KnoWhy 209 (October 14, 2016). 
+The Holy of Holies was said by the ancients to be a place of supreme joy. It was characterized by the joy of the Lord, and in this case, here was Jesus and all of these people celebrating with eternal joy. He turned to the children and blessed them one by one, and after that, he turned to the parents and he said, “Behold your little ones.”
 
-### 
+I do not think he was saying, “Look at your kids. Aren’t they cute?” He was saying in effect, “Behold, your little ones; they are now yours in a way that they were not before.”
+
+This blessing was confirmed in the presence of God, of Jesus himself, of witnesses, and of angels who then came down and ministered unto the children. It is an amazing thing to imagine the Lord Himself administering such a blessing to the parents and these children whom he loved so completely. If we look at this afternoon of healing “every one” and at the blessing of the parents and their children “one by one” (17:9, 21) through a temple lens, one can appreciate even deeper why everyone can and must go through the temple one by one and personally do, step by step, the whole sequence of ordinances.
+
+And likewise, why we do proxy work for the dead, each of them one by one. Such ordinances and blessings are individual matters, and covenants are made individually and personally with the Lord. Richard Holzapfel has explained, “According to the Book of Mormon model, ministering often occurs ‘one by one’ as disciples come in contact with the Savior and with one another.
+
+In many cases a personal ‘touch’ is a symbolic means of transmitting God’s love and power to an individual.” Elder Holzapfel also said, Third Nephi, sometimes referred to as the fifth Gospel in Latter-day Saint circles, describes Christ's post-Resurrection ministry to the Nephites in terms similar to those used in the four New Testament Gospels. It emphasizes the individual experiences of the Nephite people with the resurrected Messiah, noting their direct physical contact with as well as His laying on of hands as the symbolic act of transmitting authority and power (Richard Neitzel Holzapfel, “One by One: The Fifth Gospel's Model of Service,” in A Book of Mormon Treasury: Gospel Insights from General Authorities and Religious Educators (Provo, UT: Religious Studies Center, 2003), 378–388).
+
+Elder Ronald A. Rasband likewise recalled in a Conference talk, ““Certainly, there is a very profound and tender personal message here. Jesus Christ ministers to, and loves us all, one by one” (Ronald A. Rasband, “One by One,” Ensign, November 2000).
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Jesus Minister to the People One by One? (3 Nephi 17:21), KnoWhy 209 (October 14, 2016).
+
+---
+
+### ###
+
+
+
+---
 
 ### 3 Nephi 17:24–25 — Angels Appeared and Ministered to the Children
 
+3 Nephi affirms the reality that angels are in the presence of God and that they serve as messengers who can minister to us. We certainly need and could use that ministering assistance in our world today. Modern theology tends to abstract God, to make him rather impersonal but also to make him lonely.
 
+The biblical view of God is not a lonely, impersonal being. God is always surrounded by the hosts of heaven. God works with the archangels, Michael and others.
 
- 3 Nephi affirms the reality that angels are in the presence of God and that they serve as messengers who can minister to us. We certainly need and could use that ministering assistance in our world today. Modern theology tends to abstract God, to make him rather impersonal but also to make him lonely. The biblical view of God is not a lonely, impersonal being. God is always surrounded by the hosts of heaven. God works with the archangels, Michael and others. Jesus himself is sometimes even called the angel of the Lord. Being an angel carries connotations of purity, of power, of righteousness, and of doing the will of the Lord. In 3 Nephi, the angels must have been rejoicing on this occasion just as they did when they sang at the birth of the Savior, “Glory to God in the Highest.” In the ancient Israelite temple, in the view of the High Priest, the seraphim surrounded the cubicle of the Holy of Holies. The seraphim were burning, bright beings. We do not know what they were except that they were clothed in white robes and their brightness exceeded all description. Angels come as messengers. The angel Moroni came with an important message, as did the angel Gabriel. The Lord needs other people, just as we need one another. The gospel of Jesus Christ is a testimony that heaven is made up of people working in unity and harmony. In Jesus’ own intercessory prayers in John 17 and later here in 3 Nephi 19, he prays that we can be one with each other, one with him, and one with the Father, as he is. The purpose of that is to tell us the reality and the eternal nature of relationships one with another. Angels come in the Book of Mormon to serve many purposes. In 3 Nephi, they were not so much to deliver the word of the Lord, because he—the Word of God —was there himself to do that, but angels were there to assist, minister, and to witness. These blessings were given in the presence of God, angels, and all these witnesses.
+Jesus himself is sometimes even called the angel of the Lord. Being an angel carries connotations of purity, of power, of righteousness, and of doing the will of the Lord. In 3 Nephi, the angels must have been rejoicing on this occasion just as they did when they sang at the birth of the Savior, “Glory to God in the Highest.”
+
+In the ancient Israelite temple, in the view of the High Priest, the seraphim surrounded the cubicle of the Holy of Holies. The seraphim were burning, bright beings. We do not know what they were except that they were clothed in white robes and their brightness exceeded all description.
+
+Angels come as messengers. The angel Moroni came with an important message, as did the angel Gabriel. The Lord needs other people, just as we need one another.
+
+The gospel of Jesus Christ is a testimony that heaven is made up of people working in unity and harmony. In Jesus’ own intercessory prayers in John 17 and later here in 3 Nephi 19, he prays that we can be one with each other, one with him, and one with the Father, as he is. The purpose of that is to tell us the reality and the eternal nature of relationships one with another.
+
+Angels come in the Book of Mormon to serve many purposes. In 3 Nephi, they were not so much to deliver the word of the Lord, because he—the Word of God —was there himself to do that, but angels were there to assist, minister, and to witness. These blessings were given in the presence of God, angels, and all these witnesses.

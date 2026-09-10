@@ -5,50 +5,189 @@
 
 ## Table of Contents
 
-- [1 Nephi 17:1–3 — Desperately Eating Raw Meat](#1-nephi-1713-desperately-eating-raw-meat)
-- [1 Nephi 17:3 — Echoes of Nephi’s Famous “I will go and do. . .”](#1-nephi-173-echoes-of-nephis-famous-i-will-go-and-do)
-- [1 Nephi 17:5–6 — Has Nephi’s Land Bountiful Been Located?](#1-nephi-1756-has-nephis-land-bountiful-been-located)
-- [1 Nephi 17:7–10 — Nephi Is Commanded to Build a Ship](#1-nephi-17710-nephi-is-commanded-to-build-a-ship)
-- [1 Nephi 17:13 — The Lord Leads Them to the Promised Land](#1-nephi-1713-the-lord-leads-them-to-the-promised-land)
-- [1 Nephi 17:19–22 — Nephi’s Brothers Mock Him for Building a Ship](#1-nephi-171922-nephis-brothers-mock-him-for-building-a-ship)
-- [1 Nephi 17:23–47 — Nephi Chastises His Brethren and Praises the Lord](#1-nephi-172347-nephi-chastises-his-brethren-and-praises-the-lord)
-- [1 Nephi 17:35 — The Difference between God’s Love and God’s Favor](#1-nephi-1735-the-difference-between-gods-love-and-gods-favor)
-- [1 Nephi 17:36 — Purpose of the Creation](#1-nephi-1736-purpose-of-the-creation)
+- [1 Nephi 17:1–3 — Desperately Eating Raw Meat](#1-nephi-1713--desperately-eating-raw-meat)
+- [1 Nephi 17:3 — Echoes of Nephi’s Famous “I will go and do. . .”](#1-nephi-173--echoes-of-nephis-famous-i-will-go-and-do--)
+- [1 Nephi 17:5–6 — Has Nephi’s Land Bountiful Been Located?](#1-nephi-1756--has-nephis-land-bountiful-been-located)
+- [1 Nephi 17:7–10 — Nephi Is Commanded to Build a Ship](#1-nephi-17710--nephi-is-commanded-to-build-a-ship)
+- [1 Nephi 17:13 — The Lord Leads Them to the Promised Land](#1-nephi-1713--the-lord-leads-them-to-the-promised-land)
+- [1 Nephi 17:19–22 — Nephi’s Brothers Mock Him for Building a Ship](#1-nephi-171922--nephis-brothers-mock-him-for-building-a-ship)
+  - [Three Common Arguments of Naysayers](#three-common-arguments-of-naysayers)
+- [1 Nephi 17:23–47 — Nephi Chastises His Brethren and Praises the Lord](#1-nephi-172347--nephi-chastises-his-brethren-and-praises-the-lord)
+  - [Nephi’s Chiastic Rebuttal and Central Hymn](#nephis-chiastic-rebuttal-and-central-hymn)
+- [1 Nephi 17:35 — The Difference between God’s Love and God’s Favor](#1-nephi-1735--the-difference-between-gods-love-and-gods-favor)
+- [1 Nephi 17:36 — Purpose of the Creation](#1-nephi-1736--purpose-of-the-creation)
 
 ---
 
 ### 1 Nephi 17:1–3 — Desperately Eating Raw Meat
 
-In 1 Nephi 17, we have a comment about how they had toe at raw meat. Why did Nephi include that detail? They were apparently crossing the Empty Quarter (or, at least, the borders of the Empty Quarter), traveling nearly eastward through modern day Yemen to the coast of the Indian Ocean. What is out there? Virtually nothing. What can they burn? Very little. So, maybe they just could not cook anything at all. Perhaps they did not light fires because the smoke would have sent smoke signals, inviting others to attack them or to steal from them. But more than that, the idea of eating raw meat must have been even more shocking and a reflection of extreme circumstances in another way, in light of the kosher law prohibiting the eating the of blood found in raw meat. Under ancient Israelite law, one could not eat blood. To make meat kosher, they had to drain the blood as much as possible. Cooking it also helped get rid of the juices and the remaining blood, so for Nephi and his party to have eaten raw meat, they were likely in a truly desperate situation, perhaps on the brink of starvation. Saving life took precedence over obedience to lesser laws in the Torah. I think what Nephi learned from their survival was not how self-sufficient they had become—Are we not clever? Look how we were able to get all the way down the coast of the Red Sea! I was able to fix my bow! No, he gave full credit to the Lord. Look at the things the Lord has done for us: “So great were the blessings of the Lord upon us” (1 Nephi 17:3). Further Reading Jeffrey R. Chadwick, “An Archeologist’s View,” Journal of Book of Mormon Studies 15, no. 2 (2006): 74. Hugh Nibley, Lehi in the Desert/The World of the Jaredites/There Were Jaredites, The Collected Works of Hugh Nibley, Volume 5 (Provo and Salt Lake City, UT: FARMS and Deseret Book, 1988), 64–67.
+In 1 Nephi 17, we have a comment about how they had to eat raw meat. Why did Nephi include that detail?
+
+They were apparently crossing the Empty Quarter (or, at least, the borders of the Empty Quarter), traveling nearly eastward through modern day Yemen to the coast of the Indian Ocean. What is out there? Virtually nothing. What can they burn? Very little. So, maybe they just could not cook anything at all. Perhaps they did not light fires because the smoke would have sent smoke signals, inviting others to attack them or to steal from them.
+
+But more than that, the idea of eating raw meat must have been even more shocking and a reflection of extreme circumstances in another way, in light of the kosher law prohibiting the eating of blood found in raw meat. Under ancient Israelite law, one could not eat blood. To make meat kosher, they had to drain the blood as much as possible. Cooking it also helped get rid of the juices and the remaining blood, so for Nephi and his party to have eaten raw meat, they were likely in a truly desperate situation, perhaps on the brink of starvation. Saving life took precedence over obedience to lesser laws in the Torah.
+
+I think what Nephi learned from their survival was not how self-sufficient they had become—Are we not clever? Look how we were able to get all the way down the coast of the Red Sea! I was able to fix my bow! No, he gave full credit to the Lord. Look at the things the Lord has done for us:
+
+> “So great were the blessings of the Lord upon us.” (1 Nephi 17:3)
+
+#### Further Reading
+
+- Jeffrey R. Chadwick, “An Archeologist’s View,” *Journal of Book of Mormon Studies* 15, no. 2 (2006): 74.
+- Hugh Nibley, *Lehi in the Desert/The World of the Jaredites/There Were Jaredites*, The Collected Works of Hugh Nibley, Volume 5 (Provo and Salt Lake City, UT: FARMS and Deseret Book, 1988), 64–67.
+
+---
 
 ### 1 Nephi 17:3 — Echoes of Nephi’s Famous “I will go and do. . .”
 
-Most readers of the Book of Mormon can repeat Nephi’s familiar statement, “I will go and do the things which the Lord hath commanded.” It has a good rhythm to it. It’s beautifully memorable. In English it works wonderfully. It is a real gem of confession and profession of faith and faithfulness. But readers should not forget this verse’s almost-always-overlooked partner: 1 Nephi 17:3 is a structural counterpart and an echo of Nephi’s original statement in 1 Nephi 3:7. Now out in the wilderness with his entire family, Nephi states, “And thus we see that the commandments of God must be filled. And if it be so that the children of men keep the commandments of God, he doth nourish and provide strength and strengthen them and provide a means [compare prepare a way] whereby they can accomplish the thing which he has commanded them ” (1 Nephi 17:3). A similar expression also shows up in Sariah’s words as well: “I know of a surety that the Lord hath. . . hath given them power whereby they could accomplish the thing which the Lord hath commanded them ” (see 1 Nephi 5:8). These strongly affirming words were a standard watchword for Nephi and his faithful family members throughout their arduous experiences in the desert. Further Reading Book of Mormon Central, “ Why Did Nephi Believe the Lord Would Prepare a Way? (1 Nephi 3:7),” KnoWhy 263 (January 18, 2017).
+Most readers of the Book of Mormon can repeat Nephi’s familiar statement, “I will go and do the things which the Lord hath commanded.” It has a good rhythm to it. It’s beautifully memorable. In English it works wonderfully. It is a real gem of confession and profession of faith and faithfulness.
+
+But readers should not forget this verse’s almost-always-overlooked partner: 1 Nephi 17:3 is a structural counterpart and an echo of Nephi’s original statement in 1 Nephi 3:7. Now out in the wilderness with his entire family, Nephi states:
+
+> “And thus we see that the commandments of God must be fulfilled. And if it so be that the children of men keep the commandments of God, he doth nourish them and strengthen them, and provide means [compare prepare a way] whereby they can accomplish the thing which he has commanded them.” (1 Nephi 17:3)
+
+A similar expression also shows up in Sariah’s words as well: “I know of a surety that the Lord hath … given them power whereby they could accomplish the thing which the Lord hath commanded them” (see 1 Nephi 5:8).
+
+These strongly affirming words were a standard watchword for Nephi and his faithful family members throughout their arduous experiences in the desert.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Nephi Believe the Lord Would Prepare a Way? (1 Nephi 3:7),” *KnoWhy* 263 (January 18, 2017).
+
+---
 
 ### 1 Nephi 17:5–6 — Has Nephi’s Land Bountiful Been Located?
 
-Good candidates for the location that Lehi’s party called “Bountiful” can be found in the Dhofar region of southern Oman. One such spot, called Khor Kharfot, complies with twelve requirements that can be derived from Nephi’s account. Such locations along the southern coast of Arabia are so tropical, especially in contrast to the barrenness of the surrounding desert, that I can imagine Laman and Lemuel saying something like, “Forget about going back to Jerusalem. Let us just stay right here.” Interestingly, the very first account of this verdant region written by Westerners comes from 1850 when a British ship got caught in the monsoons and was blown into the coastland. They skirted along the southern coast of Oman and when they got to India, they wrote about what they had seen along the way. Their finding was newsworthy enough that it was then reported in a Calcutta newspaper. They were astonished at these lush regions along the Arabian coast that did not look like they came out of Lawrence of Arabia’s backyard. Further Reading Book of Mormon Central, “ Has the Location of Nephi’s Bountiful Been Discovered? (1 Nephi 17:5),” KnoWhy 259 (January 9, 2017).
+Good candidates for the location that Lehi’s party called “Bountiful” can be found in the Dhofar region of southern Oman. One such spot, called Khor Kharfot, complies with twelve requirements that can be derived from Nephi’s account.
+
+Such locations along the southern coast of Arabia are so tropical, especially in contrast to the barrenness of the surrounding desert, that I can imagine Laman and Lemuel saying something like, “Forget about going back to Jerusalem. Let us just stay right here.”
+
+Interestingly, the very first account of this verdant region written by Westerners comes from 1850 when a British ship got caught in the monsoons and was blown into the coastland. They skirted along the southern coast of Oman and when they got to India, they wrote about what they had seen along the way. Their finding was newsworthy enough that it was then reported in a Calcutta newspaper. They were astonished at these lush regions along the Arabian coast that did not look like they came out of Lawrence of Arabia’s backyard.
+
+#### Further Reading
+
+- Book of Mormon Central, “Has the Location of Nephi’s Bountiful Been Discovered? (1 Nephi 17:5),” *KnoWhy* 259 (January 9, 2017).
+
+---
 
 ### 1 Nephi 17:7–10 — Nephi Is Commanded to Build a Ship
 
-Imagine that you are in a fertile place with delicious food, but no workshops and no factories. Then the Lord tells you to build a ship! When the Lord commanded Nephi to build a ship under such circumstances, what is the first thing out of Ne phi’s mouth? He asked: “Where do I go to get the ore?” I can almost hear his mind going, “Okay, we’re going to need this, that, and this, but I don’t know where to get that, and where do I go to get this.” Then he was off and running to do the part he knew how to do. Nephi just seemed to have this great sense of what he can accomplish through his own abilities and when he had reached his limits and needed to ask the Lord for help. For example, back when his steel bow broke, Nephi made a new bow out of wood, and then said, “Where should I go to get food?” Then we sense Nephi saying, “I am going to build the ship, but it won’t be after the manner of men.” It sounds like he had an idea of how he might approach the task. He was a smart guy. Maybe he was aware that the Lord was going to want it to be done differently than he would have done it, or perhaps even differently than anyone would have done it. And who knows? If Nephi had done it his way, it probably wouldn’t have worked so well.
+Imagine that you are in a fertile place with delicious food, but no workshops and no factories. Then the Lord tells you to build a ship!
+
+When the Lord commanded Nephi to build a ship under such circumstances, what is the first thing out of Nephi’s mouth? He asked: “Where do I go to get the ore?”
+
+I can almost hear his mind going, “Okay, we’re going to need this, that, and this, but I don’t know where to get that, and where do I go to get this.” Then he was off and running to do the part he knew how to do. Nephi just seemed to have this great sense of what he can accomplish through his own abilities and when he had reached his limits and needed to ask the Lord for help.
+
+For example, back when his steel bow broke, Nephi made a new bow out of wood, and then said, “Where should I go to get food?”
+
+Then we sense Nephi saying, “I am going to build the ship, but it won’t be after the manner of men.” It sounds like he had an idea of how he might approach the task. He was a smart guy. Maybe he was aware that the Lord was going to want it to be done differently than he would have done it, or perhaps even differently than anyone would have done it. And who knows? If Nephi had done it his way, it probably wouldn’t have worked so well.
+
+---
 
 ### 1 Nephi 17:13 — The Lord Leads Them to the Promised Land
 
-The Lord never lets us down when we step into the unknown at His command. Notice how many times Nephi referred to the “land of promise” or the “promised land.” He mentions the “promised land” seven times and “land of promise ” seventeen times. Except for Ether, every other reference in the entire Book of Mormon to the Promised Land or the Land of Promise, comes from Nephi. If it is not directly from Nephi himself, it is a quotation or reference back to something that he wrote. I have such a testimony that the Lord is generous with prophecy. Because of His revelations, we know what will be found at the end of the road, and we know it is going to turn out okay if we keep our heart on the goal. We know that. As King Benjamin said, all that the Lord requires of you is to keep the commandments (Mosiah 2:22). He does not say, “Guess what is in my head.” He tells us. We have a living prophet, and we have scriptures. We have personal revelation, which, according to Nephi, are commandments (he uses these words in tandem). Whether the Lord tells you to do something through the prophet or the scriptures or the Holy Ghost, either way it is a commandment and will safely guide us through. Further Reading Book of Mormon Central, “How Do Commandments Bring Us Peace and Happiness? (2 Nephi 5:10),” KnoWhy 347 (August 2, 2017). Book of Mormon Central, “What Does it Really Mean to be Blessed For Keeping the Commandments? (Mosiah 2:41),” KnoWhy 367 (September 26, 2017).
+The Lord never lets us down when we step into the unknown at His command. Notice how many times Nephi referred to the “land of promise” or the “promised land.” He mentions the “promised land” seven times and “land of promise” seventeen times.
+
+Except for Ether, every other reference in the entire Book of Mormon to the Promised Land or the Land of Promise comes from Nephi. If it is not directly from Nephi himself, it is a quotation or reference back to something that he wrote.
+
+I have such a testimony that the Lord is generous with prophecy. Because of His revelations, we know what will be found at the end of the road, and we know it is going to turn out okay if we keep our heart on the goal. We know that.
+
+As King Benjamin said, all that the Lord requires of you is to keep the commandments (Mosiah 2:22). He does not say, “Guess what is in my head.” He tells us. We have a living prophet, and we have scriptures. We have personal revelation, which, according to Nephi, are commandments (he uses these words in tandem). Whether the Lord tells you to do something through the prophet or the scriptures or the Holy Ghost, either way it is a commandment and will safely guide us through.
+
+#### Further Reading
+
+- Book of Mormon Central, “How Do Commandments Bring Us Peace and Happiness? (2 Nephi 5:10),” *KnoWhy* 347 (August 2, 2017).
+- Book of Mormon Central, “What Does it Really Mean to be Blessed For Keeping the Commandments? (Mosiah 2:41),” *KnoWhy* 367 (September 26, 2017).
+
+---
 
 ### 1 Nephi 17:19–22 — Nephi’s Brothers Mock Him for Building a Ship
 
-How easy it would have been for Nephi to get angry at his brothers? Perhaps he did get angry, but we never hear about it. He wrote the book and therefore had control over his own portrayal, but I think Nephi probably kept his cool most if not all of the time. There would have been very little for him to have gained by getting mad. His brothers obviously were ridiculing and pushing him pretty hard, and they were older than he, yet Nephi’s longsuffering was incredible—his willingness to forgive his brothers and his willingness to say, in effect, “I don’t have a dog in this fight. We are going to pull together. If we are going to succeed, it is going to take all of us. The cause, the mission, the purpose is much bigger than any of our personal interests.” There are valuable lessons in Nephi’s attitude for all of us —for leaders in the church, for wards, for families, and for individuals. It is so easy to get offended or to want to assert yourself, but that is not Nephi’s way. Chapter 17 is a very rich and long doctrinal chapter. We usually focus on the stories, but what we have in this chapter is less about what they were doing than what they were arguing over. Something like 45 verses tell about the arguments that Nephi’s brothers raised against him, and then his rebuttal of those arguments. Verses 19 to 22 contain three arguments that Nephi’s brothers raised about why he should not build the ship. 1. The first argument begins in the middle of verse 19: “They rejoiced over me,” saying, “We knew you could not do it. You do not have good judgment.” Then in verse 20, “You are foolish.” This normally is the first criticism of naysayers. “You do not have good judgment. You cannot do this. It is too hard. This is impossible.” Imagine if somebody were to have said to Joseph Smith, “You think you can start a church? You think you can get this book published? Who’s going to want to buy the Book of Mormon? There are no printers around here. Foolish imaginations. You are just making all this stuff up.” Imagine someone saying to Brigham Young, “You are going to send people where? ToSt. George? To Hole in the Rock? This is foolishness.” Last Tuesday we went to the funeral of a friend of ours —quite an unusual, dynamic Canadian —and the thing that drove him more than anything else was that if somebody said it was impossible, he did it, and he lived an amazing life as a result of that. Nephi was like that. His brothers say this is impossible, and Nephi does not wither. He says, “I will do it just because it is impossible.” 2. The second argument of naysayers is found in verse 20. “Well, we would be better off dead,” or “We would be happier elsewhere. We ought to go back to Jerusalem. You know, we have had to suffer all these things, and it would have been better if we had died before we came out of Jerusalem.” Well, this type of complaint is really not much of an argument. The grass always seems greener somewhere else! But that, in and of itself, doesn’t necessarily make it so. 3. The third argument is in verse 22: “We know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord … wherefore, we know that they are a righteous people; and our father hath judged them.” In other words, “You and Lehi are judgmental and, therefore, we are off the hook. We do not have to do anything,” and so on, justifying themselves. This argument works, unless, of course, you stop to think about it. Laman and Lemuel are calling Lehi and Nephi judgmental. Of course, the very act of labeling someone as being judgmental is itself an act of passing judgment. And in this particular case, it was the pot calling the kettle black. We have these three arguments. They are the sorts of raw objections that people often raise in desperate situations. Thinking about them can help us improve our own thinking. They say a lot about human nature, which the Book of Mormon carefully and helpfully exposes. Further Reading John W. Welch and J. Gregory Welch, “Murmurings of Laman and Lemuel ” in Charting the Book of Mormon: Visual Aids for Personal Study and Teaching (Provo, UT: FARMS, 1999), chart 77. Alan Goff, “Boats, Beginnings, and Repetitions,” Journal of Book of Mormon Studies 1, no. 1 (1992): 67–84.
+How easy it would have been for Nephi to get angry at his brothers? Perhaps he did get angry, but we never hear about it. He wrote the book and therefore had control over his own portrayal, but I think Nephi probably kept his cool most if not all of the time. There would have been very little for him to have gained by getting mad.
+
+His brothers obviously were ridiculing and pushing him pretty hard, and they were older than he, yet Nephi’s longsuffering was incredible—his willingness to forgive his brothers and his willingness to say, in effect, “I don’t have a dog in this fight. We are going to pull together. If we are going to succeed, it is going to take all of us. The cause, the mission, the purpose is much bigger than any of our personal interests.”
+
+There are valuable lessons in Nephi’s attitude for all of us—for leaders in the church, for wards, for families, and for individuals. It is so easy to get offended or to want to assert yourself, but that is not Nephi’s way.
+
+Chapter 17 is a very rich and long doctrinal chapter. We usually focus on the stories, but what we have in this chapter is less about what they were doing than what they were arguing over. Something like 45 verses tell about the arguments that Nephi’s brothers raised against him, and then his rebuttal of those arguments.
+
+#### Three Common Arguments of Naysayers
+
+Verses 19 to 22 contain three arguments that Nephi’s brothers raised about why he should not build the ship:
+
+1. **“You lack judgment; this is impossible”**: The first argument begins in the middle of verse 19: “They rejoiced over me,” saying, “We knew you could not do it. You do not have good judgment.” Then in verse 20: “You are foolish.” This normally is the first criticism of naysayers: “You do not have good judgment. You cannot do this. It is too hard. This is impossible.” Imagine if somebody were to have said to Joseph Smith, “You think you can start a church? You think you can get this book published? Who’s going to want to buy the Book of Mormon? There are no printers around here. Foolish imaginations. You are just making all this stuff up.” Imagine someone saying to Brigham Young, “You are going to send people where? To St. George? To Hole in the Rock? This is foolishness.” Last Tuesday we went to the funeral of a friend of ours—quite an unusual, dynamic Canadian—and the thing that drove him more than anything else was that if somebody said it was impossible, he did it, and he lived an amazing life as a result of that. Nephi was like that. His brothers say this is impossible, and Nephi does not wither. He says, “I will do it just because it is impossible.”
+2. **“We would be better off dead / Elsewhere is greener”**: The second argument of naysayers is found in verse 20: “Well, we would be better off dead,” or “We would be happier elsewhere. We ought to go back to Jerusalem. You know, we have had to suffer all these things, and it would have been better if we had died before we came out of Jerusalem.” Well, this type of complaint is really not much of an argument. The grass always seems greener somewhere else! But that, in and of itself, doesn’t necessarily make it so.
+3. **“The establishment was righteous; you are judgmental”**: The third argument is in verse 22: “We know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord … wherefore, we know that they are a righteous people; and our father hath judged them.” In other words, “You and Lehi are judgmental and, therefore, we are off the hook. We do not have to do anything,” and so on, justifying themselves. This argument works, unless, of course, you stop to think about it. Laman and Lemuel are calling Lehi and Nephi judgmental. Of course, the very act of labeling someone as being judgmental is itself an act of passing judgment. And in this particular case, it was the pot calling the kettle black.
+
+We have these three arguments. They are the sorts of raw objections that people often raise in desperate situations. Thinking about them can help us improve our own thinking. They say a lot about human nature, which the Book of Mormon carefully and helpfully exposes.
+
+#### Further Reading
+
+- John W. Welch and J. Gregory Welch, “Murmurings of Laman and Lemuel,” in *Charting the Book of Mormon: Visual Aids for Personal Study and Teaching* (Provo, UT: FARMS, 1999), chart 77.
+- Alan Goff, “Boats, Beginnings, and Repetitions,” *Journal of Book of Mormon Studies* 1, no. 1 (1992): 67–84.
+
+---
 
 ### 1 Nephi 17:23–47 — Nephi Chastises His Brethren and Praises the Lord
 
-We have 24 verses in which Nephi took Laman and Lemuel’s arguments apart, and did so in very powerful ways, which ended with them being overwrought by the realization of how wrong they had been. They, of course, tried to grab him to throw him into the sea, but Nephi was so filled with the Spirit that they are shocked by what they feel. You may want to study those 24 verses in more detail, and see how he responded. Hint, the way I see it, he responded to argument 1, then to argument 2, then to argument 3. And then in the middle (verses 36 to 40), Nephi proclaims a spontaneous hymn of praise about God being in control of all of things: A: “Behold, the Lord hath created the earth that it should be inhabited” (v. 36) — meaning we should go and inhabit some far-away place. “He hath created his children that they should possess it” (v. 36) —he will give us a land of possession. B: “He raiseth up a righteous nation” (v. 37)—us. “And destroyeth the nations of the wicked” (v. 37)—the nations that are being destroyed and conquered at that time, including Jerusalem. B: “He leadeth away the righteous into precious lands” (v. 38)—us. “And the wicked he destroyeth, and curseth the land unto them for their sakes” (v. 38)— the inhabitants of Jerusalem. A: “He ruleth high in the heavens, for it is his throne, and this earth is his footstool.” (v. 39)—meaning God deals with us lowly creatures on earth, but He still reigns in heaven. “And he loveth those who will have him to be their God” (v. 40) —referring back to us, His children whom He loves. This is beautiful parallelistic poetry. Indeed, Nephi uses it wisely, probably knowing that “a soft answer turneth away wrath: but grievous words stir up anger. The tongue of the wise useth knowledge aright: but the mouth of fools pureth out foolishness” (Proverbs 15:1-2). And notice that Nephi’s testimonial hymn has an overall A-B-B-A structure. It begins and ends with praising the Lord, and the two middle verses are about how the righteous and the wicked will be treated. So, this very elegant little chiastic hymn stands at the middle of Nephi’s response to his brothers, and its inverted structure helps to reverse the direction this very troublesome situation was headed in. Nephi then continues, answering again argument 3 in verse 41, answering argument 2 in verse 42, and answering argument 1 in verse 44. So, altogether, he goes through arguments 1, 2, 3 —gives his central hymn —and then answers arguments 3, 2, 1 in reverse order. Persuasive and eloquently done, he persuasively answers all of the questions twice-fold. Further Reading Book of Mormon Central, “ Why Is the Presence of Chiasmus in the Book of Mormon Significant? (Mosiah 5:10–12),” KnoWhy 166 (August 16, 2016).
+We have 24 verses in which Nephi took Laman and Lemuel’s arguments apart, and did so in very powerful ways, which ended with them being overwrought by the realization of how wrong they had been. They, of course, tried to grab him to throw him into the sea, but Nephi was so filled with the Spirit that they are shocked by what they feel.
+
+You may want to study those 24 verses in more detail, and see how he responded. Hint: the way I see it, he responded to argument 1, then to argument 2, then to argument 3. And then in the middle (verses 36 to 40), Nephi proclaims a spontaneous hymn of praise about God being in control of all things:
+
+#### Nephi’s Chiastic Rebuttal and Central Hymn
+
+- **A**: “Behold, the Lord hath created the earth that it should be inhabited” (v. 36)—meaning we should go and inhabit some far-away place. “He hath created his children that they should possess it” (v. 36)—he will give us a land of possession.
+  - **B**: “He raiseth up a righteous nation” (v. 37)—us. “And destroyeth the nations of the wicked” (v. 37)—the nations that are being destroyed and conquered at that time, including Jerusalem.
+  - **B'**: “He leadeth away the righteous into precious lands” (v. 38)—us. “And the wicked he destroyeth, and curseth the land unto them for their sakes” (v. 38)—the inhabitants of Jerusalem.
+- **A'**: “He ruleth high in the heavens, for it is his throne, and this earth is his footstool” (v. 39)—meaning God deals with us lowly creatures on earth, but He still reigns in heaven. “And he loveth those who will have him to be their God” (v. 40)—referring back to us, His children whom He loves.
+
+This is beautiful parallelistic poetry. Indeed, Nephi uses it wisely, probably knowing that “a soft answer turneth away wrath: but grievous words stir up anger. The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness” (Proverbs 15:1–2).
+
+And notice that Nephi’s testimonial hymn has an overall **A-B-B-A structure**. It begins and ends with praising the Lord, and the two middle verses are about how the righteous and the wicked will be treated. So, this very elegant little chiastic hymn stands at the middle of Nephi’s response to his brothers, and its inverted structure helps to reverse the direction this very troublesome situation was headed in.
+
+Nephi then continues:
+- Answering again **argument 3** in verse 41,
+- Answering **argument 2** in verse 42, and
+- Answering **argument 1** in verse 44.
+
+So, altogether, he goes through **arguments 1, 2, 3**—gives his **central hymn (A-B-B-A)**—and then answers **arguments 3, 2, 1** in reverse order. Persuasive and eloquently done, he persuasively answers all of the questions twice-fold.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Is the Presence of Chiasmus in the Book of Mormon Significant? (Mosiah 5:10–12),” *KnoWhy* 166 (August 16, 2016).
+
+---
 
 ### 1 Nephi 17:35 — The Difference between God’s Love and God’s Favor
 
-Nephi said to his brothers, “Behold, the Lord esteemeth all flesh in one; he that is righteous is favored of God.” We know that God is no respecter of persons, that all men are saved by obedience to the same laws and ordinances of the gospel. And yet, there is a corollary that Nephi rightly points out: "he that is righteous is favored of God. ” In 1 Samuel 2:30, the Lord said, “them that honour me I will honour, ” and in John 14:21, he said: “He that hath my commandments, and keepeth them, he it is that lovet h me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him”. We believe that God loves all of His children, but we also believe, with Nephi, that “he that is righteous is favored of God.” Although this truth bothers some people, to think that God could favor those that follow him, believe him, love him, and serve him, Nephi teaches clear doctrine here to us and to his brothers, once again establishing his announced opening thesis that the tender mercies (or the favors) of the Lord are over all those whom he hath chosen, because of their faith and faithfulness (see 1 Nephi 1:20). Further Reading Book of Mormon Central, “ Why Did Samuel Say the Lord ‘Hated’ The Lamanites? (Helaman 15:4),” KnoWhy 186 (September 13, 2016). Book of Mormon Central, “ How Can We Be Delivered through the Lord’s Tender Mercies? (1 Nephi 1:20),” KnoWhy 447 (July 5, 2018).
+Nephi said to his brothers: “Behold, the Lord esteemeth all flesh in one; he that is righteous is favored of God.”
+
+We know that God is no respecter of persons, that all men are saved by obedience to the same laws and ordinances of the gospel. And yet, there is a corollary that Nephi rightly points out: “he that is righteous is favored of God.”
+
+In 1 Samuel 2:30, the Lord said, “them that honour me I will honour,” and in John 14:21, he said: “He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.”
+
+We believe that God loves all of His children, but we also believe, with Nephi, that “he that is righteous is favored of God.” Although this truth bothers some people, to think that God could favor those that follow him, believe him, love him, and serve him, Nephi teaches clear doctrine here to us and to his brothers, once again establishing his announced opening thesis that the tender mercies (or the favors) of the Lord are over all those whom he hath chosen, because of their faith and faithfulness (see 1 Nephi 1:20).
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Samuel Say the Lord ‘Hated’ The Lamanites? (Helaman 15:4),” *KnoWhy* 186 (September 13, 2016).
+- Book of Mormon Central, “How Can We Be Delivered through the Lord’s Tender Mercies? (1 Nephi 1:20),” *KnoWhy* 447 (July 5, 2018).
+
+---
 
 ### 1 Nephi 17:36 — Purpose of the Creation
 
-Nephi also shared with his brothers his important understanding of the purpose of the creation of the earth and the blessings that come from righteousness and obedience. “Behold, the Lord hath created the earth that it should be inhabited.” There was a clear purpose behind the creation. The earth was created so that it could be inhabited by the sons and daughters of God. To Moses the Lord said, “And worlds without number have I created; and I also created them for mine own purpose; and by the Son I created them, which is mine Only Begotten” (Moses 1:33). And the Lord explained to Enoch, “And were it possible that man could number the particles of the earth, yea, millions of earths like this, it would not be a beginning to the number of thy creations; and thy curtains are stretched out still” (Moses 7:30). In the Doctrine and Covenants Joseph Smith and Sidney Rigdon declared: “For we saw him”—meaning Jesus Christ —“even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father —That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.” (Doctrine and Covenants 76:23 –24). As a part of their ministry and calling, many prophets have been blessed with this vision of the God’s creations and His purpose in providing it as a place for our life and progression. Nephi understands the importance of this foundational truth for his brothers. He attempts to share this knowledge with them even knowing what he has seen in vision of them and of their likely future. Further Reading Book of Mormon Central, “ Where Can You Best Learn about God’s Plan of Salvation? (Alma 24:14),” KnoWhy 272 (February 8, 2017).
+Nephi also shared with his brothers his important understanding of the purpose of the creation of the earth and the blessings that come from righteousness and obedience: “Behold, the Lord hath created the earth that it should be inhabited.”
+
+There was a clear purpose behind the creation. The earth was created so that it could be inhabited by the sons and daughters of God. To Moses the Lord said: “And worlds without number have I created; and I also created them for mine own purpose; and by the Son I created them, which is mine Only Begotten” (Moses 1:33).
+
+And the Lord explained to Enoch: “And were it possible that man could number the particles of the earth, yea, millions of earths like this, it would not be a beginning to the number of thy creations; and thy curtains are stretched out still” (Moses 7:30).
+
+In the Doctrine and Covenants, Joseph Smith and Sidney Rigdon declared:
+> “For we saw him”—meaning Jesus Christ—“even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father—That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.” (Doctrine and Covenants 76:23–24)
+
+As a part of their ministry and calling, many prophets have been blessed with this vision of God’s creations and His purpose in providing it as a place for our life and progression. Nephi understands the importance of this foundational truth for his brothers. He attempts to share this knowledge with them even knowing what he has seen in vision of them and of their likely future.
+
+#### Further Reading
+
+- Book of Mormon Central, “Where Can You Best Learn about God’s Plan of Salvation? (Alma 24:14),” *KnoWhy* 272 (February 8, 2017).

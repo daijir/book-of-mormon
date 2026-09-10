@@ -19,6 +19,8 @@ In 3 Nephi 25, Jesus concludes His quotation of the prophecies of Malachi by del
 
 ---
 
+---
+
 ### Temple Elements in 3 Nephi 25
 
 As John W. Welch and Marshall Goodrich note, Jesus delivered these passages at the Nephite temple in Bountiful in the presence of parents and their children. The imagery and promises in 3 Nephi 25 correspond directly to sacred temple themes:
@@ -33,6 +35,8 @@ As John W. Welch and Marshall Goodrich note, Jesus delivered these passages at t
 
 ---
 
+---
+
 ### The Bookends of the Restoration: From Bountiful to Palmyra
 
 When the resurrected Savior concluded his second day of teaching at the temple in Bountiful, He brought His scripture additions and Covenant Sermon to a climax with Malachi 4:5–6.
@@ -42,6 +46,8 @@ Remarkably, when the angel Moroni appeared to the young Prophet Joseph Smith on 
 > “Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord. And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. If it were not so, the whole earth would be utterly wasted at his coming.”
 
 Moroni began the opening work of the Restoration in 1823 precisely where Jesus Christ had left off at the end of Day 2 in Bountiful. The dispensation of the fulness of times is fundamentally anchored in the fulfillment of this promise through the return of Elijah (fulfilled on April 3, 1836, in the Kirtland Temple; D&C 110:13–16).
+
+---
 
 ---
 

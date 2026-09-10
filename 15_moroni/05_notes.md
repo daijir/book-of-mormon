@@ -5,15 +5,17 @@
 
 ## Table of Contents
 
-- [Moroni 5 — The Sacramental Prayer on the Wine](#moroni-5-the-sacramental-prayer-on-the-wine)
+- [Moroni 5 — The Sacramental Prayer on the Wine](#moroni-5--the-sacramental-prayer-on-the-wine)
 - [Comparison: Moroni 5 vs. 3 Nephi 18:11](#comparison-moroni-5-vs-3-nephi-1811)
-- [Detailed Commentary on Moroni 4 & 5](#detailed-commentary-on-moroni-4-5)
+- [Detailed Commentary on Moroni 4 & 5](#detailed-commentary-on-moroni-4--5)
 
 ---
 
 ### Moroni 5 — The Sacramental Prayer on the Wine
 
 Chapter 5 contains the manner of administering the wine for the sacrament. Like the bread prayer in Moroni 4, this prayer derives directly from the words spoken by Jesus in 3 Nephi 18.
+
+---
 
 ### Comparison: Moroni 5 vs. 3 Nephi 18:11
 
@@ -26,6 +28,8 @@ Chapter 5 contains the manner of administering the wine for the sacrament. Like 
 | that they may witness unto thee, O God, the Eternal Father, | that ye may witness unto the Father (3 Nephi 18:11) |
 | that they do always remember him, | that ye do always remember me (3 Nephi 18:11) |
 | that they may have his Spirit to be with them. Amen | ye shall have my Spirit to be with you (3 Nephi 18:11). |
+
+---
 
 ---
 

@@ -5,25 +5,67 @@
 
 ## Table of Contents
 
-- [Alma 20:1–8 — Ammon Receives Revelation to Free Aaron](#alma-2018-ammon-receives-revelation-to-free-aaron)
-- [Alma 20:15–16 — Lamoni’s Father Draws His Sword to Smite His Son](#alma-201516-lamonis-father-draws-his-sword-to-smite-his-son)
-- [Alma 20:17–26 — Ammon’s Selfless Requests](#alma-201726-ammons-selfless-requests)
-- [Alma 20:27 — Missionary Work among the Lamanites Continues](#alma-2027-missionary-work-among-the-lamanites-continues)
+- [Alma 20:1–8 — Ammon Receives Revelation to Free Aaron](#alma-2018--ammon-receives-revelation-to-free-aaron)
+- [Alma 20:15–16 — Lamoni’s Father Draws His Sword to Smite His Son](#alma-201516--lamonis-father-draws-his-sword-to-smite-his-son)
+- [Alma 20:17–26 — Ammon’s Selfless Requests](#alma-201726--ammons-selfless-requests)
+- [Alma 20:27 — Missionary Work among the Lamanites Continues](#alma-2027--missionary-work-among-the-lamanites-continues)
 
 ---
 
 ### Alma 20:1–8 — Ammon Receives Revelation to Free Aaron
 
-Fairly soon afterwards, King Lamoni wanted to take Ammon to meet Lamoni’s father, the king of all the land of Nephi. But Ammon received a revelation telling him that his brother Aaron and two other missionaries were imprisoned and that he needed to go and free them. Ammon told king Lamoni about the situation, who responded with faith, “I know, in the strength of the Lord thou canst do all things” (20:4). Lamoni was curious as to how Ammon knew about the perilous situation of his brother, so Ammon told him, “No one hath told me, save it be God; and he said unto me—Go and deliver thy brethren, for they are in prison in the land of Middoni” (20:5). Lamoni decided to join Ammon on his journey to Middoni, promising to use his influence as king to persuade the king of Middoni, who was a friend of his, to release the missionaries from prison. On the way to Middoni, Ammon and Lamoni met up with Lamoni’s Father who was “king over all the land” (20:8). Further Reading Book of Mormon Central, “What Did it Mean to be ‘King Over All the Land? (Alma 20:8),” KnoWhy 128 (June 23, 2016).
+Fairly soon afterwards, King Lamoni wanted to take Ammon to meet Lamoni’s father, the king of all the land of Nephi. But Ammon received a revelation telling him that his brother Aaron and two other missionaries were imprisoned and that he needed to go and free them. Ammon told king Lamoni about the situation, who responded with faith, “I know, in the strength of the Lord thou canst do all things” (20:4).
+
+Lamoni was curious as to how Ammon knew about the perilous situation of his brother, so Ammon told him, “No one hath told me, save it be God; and he said unto me—Go and deliver thy brethren, for they are in prison in the land of Middoni” (20:5). Lamoni decided to join Ammon on his journey to Middoni, promising to use his influence as king to persuade the king of Middoni, who was a friend of his, to release the missionaries from prison. On the way to Middoni, Ammon and Lamoni met up with Lamoni’s Father who was “king over all the land” (20:8).
+
+#### Further Reading
+
+- Book of Mormon Central, “What Did it Mean to be ‘King Over All the Land? (Alma 20:8),” KnoWhy 128 (June 23, 2016).
+
+---
 
 ### Alma 20:15–16 — Lamoni’s Father Draws His Sword to Smite His Son
 
-Both kings, Lamoni and his unnamed father, had a lot of power, and they were used to wielding that power. Generally, they seemed to be quite deferential toward one other. However, Lamoni’s father was suspicious of Ammon as a Nephite (20:13) and was angry at his son for refusing his orders. He drew his sword and was about to kill his own son. In the ancient world, an ordinary father could kill his son with impunity. This right is known as patria potestas (the power of a father), which in most ancient civilizations gave the father the right to kill his offspring for any reason. Under such circumstances, the father could not be accused of homicide or punished by the society. After all, a father was the king in his own family. If the father also happened to be king of the land who controlled the life of all his subjects, he was twice over the king in this situation. In our day, this event might strike us as odd. Why would king Lamoni’s father threaten to kill his own son simply because he had been offended that the son had not attended a great feast thrown by the father. Because Lamoni’s father was “king over all the land,” the feast may have been an extremely important celebration for political and religious purposes. Lamoni’s absence from an important kingly feast may have been regarded as dishonor and high disrespect, if not an act of high treason.
+Both kings, Lamoni and his unnamed father, had a lot of power, and they were used to wielding that power. Generally, they seemed to be quite deferential toward one other. However, Lamoni’s father was suspicious of Ammon as a Nephite (20:13) and was angry at his son for refusing his orders.
+
+He drew his sword and was about to kill his own son. In the ancient world, an ordinary father could kill his son with impunity. This right is known as patria potestas (the power of a father), which in most ancient civilizations gave the father the right to kill his offspring for any reason.
+
+Under such circumstances, the father could not be accused of homicide or punished by the society. After all, a father was the king in his own family. If the father also happened to be king of the land who controlled the life of all his subjects, he was twice over the king in this situation.
+
+In our day, this event might strike us as odd. Why would king Lamoni’s father threaten to kill his own son simply because he had been offended that the son had not attended a great feast thrown by the father. Because Lamoni’s father was “king over all the land,” the feast may have been an extremely important celebration for political and religious purposes. Lamoni’s absence from an important kingly feast may have been regarded as dishonor and high disrespect, if not an act of high treason.
+
+---
 
 ### Alma 20:17–26 — Ammon’s Selfless Requests
 
-Once again, Ammon showed his skill with his very sharp sword as he defended Lamoni from the sword of his father. Of greater significance, Ammon’s generous and subservient character was revealed to Lamoni’s father. To save his own life, Lamoni’s father offered Ammon anything he desired —even half of his kingdom. Ammon wasn’t interested in riches. The father was astonished when all that Ammon requested was the release of his brethren from the prison in Middoni and assurance that Lamoni would retain his kingdom with free reign over his kingdom. Neither of Ammon’s terms benefited himself personally. Ammon acted out of love and concern for his new convert, Lamoni. He acted unselfishly, once again. His great desire was to bring others to God through missionary work.
+Once again, Ammon showed his skill with his very sharp sword as he defended Lamoni from the sword of his father. Of greater significance, Ammon’s generous and subservient character was revealed to Lamoni’s father. To save his own life, Lamoni’s father offered Ammon anything he desired —even half of his kingdom.
+
+Ammon wasn’t interested in riches. The father was astonished when all that Ammon requested was the release of his brethren from the prison in Middoni and assurance that Lamoni would retain his kingdom with free reign over his kingdom. Neither of Ammon’s terms benefited himself personally.
+
+Ammon acted out of love and concern for his new convert, Lamoni. He acted unselfishly, once again. His great desire was to bring others to God through missionary work.
+
+---
 
 ### Alma 20:27 — Missionary Work among the Lamanites Continues
 
-Ammon and Lamoni returned to the Land of Ishmael, while Aaron went to the city of Nephi to work with the father of King Lamoni, who now had a taste of the greatness and the generosity of Aaron’s brother, Ammon. Ammon’s love for Lamoni opened the door for Aaron to follow up on the “referral” to teach the father of Lamoni. The missionaries were invited to come to the city of Nephi to personally preach to Lamoni’s father, the king over all the land. The king wanted to learn more because of his encounter with Ammon. It is interesting that successful missionary work continues with this same pattern today. One missionary companionship may work with an investigator and plant a seed of interest or testimony in the gospel. Another missionary companionship may continue teaching the investigator until she or he is ready for baptism. They share and help each other. Throughout the process, members are essential in making referrals to missionaries of people they know who may be interested in hearing the gospel. There is a higher likelihood of success if an investigator is introduced to the missionaries by someone they already know. The work was divided up by the sons of Mosiah, and they traveled to different locations to preach. They may not have gone two-by-two as we usually do today. The voice print for this section is quite different from the previous three chapters. The text now switches into third-party narrative accounts. It is difficult to determine whether the person writing the text isth e same author in the previous chapters who is now simply using a different literary style, or whether a different author, or authors, are now writing the text. We do not know who originally wrote these missionary stories. It could have been Ammon or maybe Aaron. Perhaps they combined and gave their homecoming report together when they returned home to Zarahemla and then filed their record. This text, however, is probably something that was written sometime later. It does not appear to be a contemporaneous record. It is retrospective, and the writer knew well how this was all going to turn out in the end as he began writing these narratives. He knew what was important to preserve in the record. There were undoubtedly many other things that happened to Ammon, Aaron, and the other missionaries that were not recorded. In places where Ammon and Aaron were not the authors, possibly Alma the Younger fashioned the narratives in these reports. In Alma 17:2, it is recorded that Alma was thrilled to run into his four friends. He had not seen them for a very long time, and they rejoiced together. The record states that they swapped stories on what had happened since they were last together. After their reunion, Alma may have decided that their missionary experiences should be preserved. Under that scenario, Alma may have been the author of this section. Since Alma was chief judge for a period of time, it may even have been a court reporter continuing to work for Alma who recorded these missionary narratives. Because of his conflicts with Nehor and the Ammonihahites, Alma would have been particularly interested in tying in with the encounters of the sons of Mosiah with Amulon and the followers of Nehor in the land of Jerusalem. It also may be that Mormon wrote or reworked these accounts based on the records that were in his possession. Mormon would have been especially interested in the successes of these Nephites in converting Lamanite kings, which was something he himself would have yearned to do but never could accomplish.
+Ammon and Lamoni returned to the Land of Ishmael, while Aaron went to the city of Nephi to work with the father of King Lamoni, who now had a taste of the greatness and the generosity of Aaron’s brother, Ammon. Ammon’s love for Lamoni opened the door for Aaron to follow up on the “referral” to teach the father of Lamoni. The missionaries were invited to come to the city of Nephi to personally preach to Lamoni’s father, the king over all the land.
+
+The king wanted to learn more because of his encounter with Ammon. It is interesting that successful missionary work continues with this same pattern today. One missionary companionship may work with an investigator and plant a seed of interest or testimony in the gospel.
+
+Another missionary companionship may continue teaching the investigator until she or he is ready for baptism. They share and help each other. Throughout the process, members are essential in making referrals to missionaries of people they know who may be interested in hearing the gospel.
+
+There is a higher likelihood of success if an investigator is introduced to the missionaries by someone they already know. The work was divided up by the sons of Mosiah, and they traveled to different locations to preach. They may not have gone two-by-two as we usually do today.
+
+The voice print for this section is quite different from the previous three chapters. The text now switches into third-party narrative accounts. It is difficult to determine whether the person writing the text isth e same author in the previous chapters who is now simply using a different literary style, or whether a different author, or authors, are now writing the text.
+
+We do not know who originally wrote these missionary stories. It could have been Ammon or maybe Aaron. Perhaps they combined and gave their homecoming report together when they returned home to Zarahemla and then filed their record.
+
+This text, however, is probably something that was written sometime later. It does not appear to be a contemporaneous record. It is retrospective, and the writer knew well how this was all going to turn out in the end as he began writing these narratives.
+
+He knew what was important to preserve in the record. There were undoubtedly many other things that happened to Ammon, Aaron, and the other missionaries that were not recorded. In places where Ammon and Aaron were not the authors, possibly Alma the Younger fashioned the narratives in these reports.
+
+In Alma 17:2, it is recorded that Alma was thrilled to run into his four friends. He had not seen them for a very long time, and they rejoiced together. The record states that they swapped stories on what had happened since they were last together.
+
+After their reunion, Alma may have decided that their missionary experiences should be preserved. Under that scenario, Alma may have been the author of this section. Since Alma was chief judge for a period of time, it may even have been a court reporter continuing to work for Alma who recorded these missionary narratives.
+
+Because of his conflicts with Nehor and the Ammonihahites, Alma would have been particularly interested in tying in with the encounters of the sons of Mosiah with Amulon and the followers of Nehor in the land of Jerusalem. It also may be that Mormon wrote or reworked these accounts based on the records that were in his possession. Mormon would have been especially interested in the successes of these Nephites in converting Lamanite kings, which was something he himself would have yearned to do but never could accomplish.

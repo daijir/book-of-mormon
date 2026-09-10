@@ -5,15 +5,51 @@
 
 ## Table of Contents
 
-- [2 Nephi 6:1–10 — Why Is Jacob’s Sermon in Nephi’s Record?](#2-nephi-6110-why-is-jacobs-sermon-in-nephis-record)
-- [2 Nephi 6:17–18 — What Drew Jacob to These Words of Isaiah?](#2-nephi-61718-what-drew-jacob-to-these-words-of-isaiah)
+- [2 Nephi 6:1–10 — Why Is Jacob’s Sermon in Nephi’s Record?](#2-nephi-6110--why-is-jacobs-sermon-in-nephis-record)
+- [2 Nephi 6:17–18 — What Drew Jacob to These Words of Isaiah?](#2-nephi-61718--what-drew-jacob-to-these-words-of-isaiah)
 
 ---
 
 ### 2 Nephi 6:1–10 — Why Is Jacob’s Sermon in Nephi’s Record?
 
-Many of the themes that show up in 2 Nephi 6 –10 have been identified as typical of the New Year and the Feast of Tabernacles on the regular Jewish calendar. At that time, ancient Israelites also typically held coronations and the renewal or re-enthronement of the king. Every year there was a renewal of the people’s loyalty to obey the king of Israel. So, what we have here in Jacob’s speech is likely a covenant renewal speech. We know that this is dealing with covenant because 2 Nephi 9:1 states Jacob’s purpose as follows: “Behold, my beloved brethren, I have read these things that ye may know concerning the covenants of the Lord that he has covenanted with all the House of Israel. ” Several parts of Jacob’s speech follow old traditions that the Nephites carried on. For example, several scholars, both those who are and are not Latter-day Saints, have identified in the Old Testament a covenant treaty pattern. This pattern was not just limited to the Hebrews. Such “treaty-covenants” had (1) a preamble, (2) gave a historical overview, (3) stated stipulations of the covenant, (4) extended blessings and curses structured as “if you do this, this will happen; if you do not do it, such and such will happen.” Then there was (5) a witness formula, and (6) a recording of the covenant. Joshua 24 offers an example of an ancient covenant renewal: “Choose ye this day whom ye will serve; whether the Gods which our fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell, but as for me and my house, we will serve the Lord. ” Jacob’s words in 2 Nephi 6–10 can be read well in the context of that treaty-covenant pattern, as covenants were renewed on several different occasions, including coronations and covenant-renewal festivals. Such is quite prominently the case at the coronation of Mosiah by his father Benjamin. One might get the impression that this was Nephi’s inauguration or coronation as king. However, 2 Nephi 5:28 tells how the Nephites built a temple, and thirty years passed away, and then Nephi made the record, and then another ten years had passed away (5:34). So, Jacob’s speech appears to have been given at least ten years after Nephi’s coronation. It may have been a ten-year anniversary celebration. Further Reading Book of Mormon Central, “Did Jacob Refer to Ancient Israelite Autumn Festivals? (2 Nephi 6:4),” KnoWhy 32 (February 12, 2016).
+Many of the themes that show up in 2 Nephi 6–10 have been identified as typical of the New Year and the Feast of Tabernacles on the regular Jewish calendar. At that time, ancient Israelites also typically held coronations and the renewal or re-enthronement of the king. Every year there was a renewal of the people’s loyalty to obey the king of Israel.
+
+So, what we have here in Jacob’s speech is likely a covenant renewal speech. We know that this is dealing with covenant because 2 Nephi 9:1 states Jacob’s purpose as follows: “Behold, my beloved brethren, I have read these things that ye may know concerning the covenants of the Lord that he has covenanted with all the House of Israel.” Several parts of Jacob’s speech follow old traditions that the Nephites carried on.
+
+For example, several scholars, both those who are and are not Latter-day Saints, have identified in the Old Testament a covenant treaty pattern. This pattern was not just limited to the Hebrews. Such “treaty-covenants” had (1) a preamble, (2) gave a historical overview, (3) stated stipulations of the covenant, (4) extended blessings and curses structured as “if you do this, this will happen; if you do not do it, such and such will happen.”
+
+Then there was (5) a witness formula, and (6) a recording of the covenant. Joshua 24 offers an example of an ancient covenant renewal: “Choose ye this day whom ye will serve; whether the Gods which our fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell, but as for me and my house, we will serve the Lord.” Jacob’s words in 2 Nephi 6–10 can be read well in the context of that treaty-covenant pattern, as covenants were renewed on several different occasions, including coronations and covenant-renewal festivals.
+
+Such is quite prominently the case at the coronation of Mosiah by his father Benjamin. One might get the impression that this was Nephi’s inauguration or coronation as king. However, 2 Nephi 5:28 tells how the Nephites built a temple, and thirty years passed away, and then Nephi made the record, and then another ten years had passed away (5:34).
+
+So, Jacob’s speech appears to have been given at least ten years after Nephi’s coronation. It may have been a ten-year anniversary celebration.
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Did Jacob Refer to Ancient Israelite Autumn Festivals? (2 Nephi 6:4),” KnoWhy 32 (February 12, 2016).
+
+---
+
+---
 
 ### 2 Nephi 6:17–18 — What Drew Jacob to These Words of Isaiah?
 
-From 2 Nephi 6:6 –7 and 6:16 to 2 Nephi 9:2, Jacob quoted Isaiah 49:22 to Isaiah 52:2. What was it that had drawn Jacob to these particular words of Isaiah? First, Jacob was told by Nephi to read these selected words to the assembled people of Nephi (6:4). As prophet and king, Nephi surely wanted to reassure his people that God would protect his people: “the Mighty God shall deliver his covenant people” (6:17; Isaiah 49:25). This fledgling community must have worried and needed this reassurance. And thus, Nephi and Jacob wanted their people especially to be a faithful “covenant people.” For that precise reason Jacob spoke to them so they might “know concerning the covenants of the Lord that he has covenanted with all the house of Israel” (9:1). Second, all the people were to know that “all flesh shall know that I the Lord am thy Savior and thy Redeemer, the Mighty One of Jacob” (6:18; cf. Isaiah 49:26). Jacob, the priest of the temple in the city of Nephi, would have been especially desirous that his people would find redemption and deliverance through Jehovah, their Redeemer. In their isolated state, it was pertinent for them to know of their “deliverance” (Jacob used the word “deliver” or “deliverance” 12 times in 2 Nephi 9) by the Mighty God (Jacob calls Him the Lord God “Almighty” in 9:46). Despite their being more alone than ever before, the Lord had not abandoned them out in the wilderness. Thus, this block of text suited their needs perfectly. Third, from these words, Jacob hoped that the people were to “learn and glorify the name of your God” (6:4). Previously, Jesus Christ had been called several names, such as “messiah,” “the Lamb of God,” “the Lord [Jehovah],” and others. Now, in order that they might “learn. . . the name” of their God, to be used in glorifying Him, Jacob will disclose to his people that his holy name, when he would come among the Jews in the flesh, would be “Christ.” That name had been spoken to Jacob by the angel of the Lord during the night (10:3) in the interval between the two days of this coronation and covenant renewal celebration. Because the word “Christ” literally means “anointed,” raising that name on the occasion of renewing the people’s covenant to God and loyalty to His anointed king (as kings in Israel were called, Psalm 2:2) would have been especially appropriate. Finally, Jacob would have been especially pleased at the opportunity to draw his people’s attention to the name for the Lord that was used by Isaiah, “the Mighty One of Jacob” (6:18; Isaiah 49:26). Further Reading JohnS. Thompson, “ Isaiah 50 –51, the Israelite Autumn Festivals, and the Covenant Speech of Jacob in 2 Nephi 6 –10,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 123–150.
+From 2 Nephi 6:6–7 and 6:16 to 2 Nephi 9:2, Jacob quoted Isaiah 49:22 to Isaiah 52:2. What was it that had drawn Jacob to these particular words of Isaiah? First, Jacob was told by Nephi to read these selected words to the assembled people of Nephi (6:4).
+
+As prophet and king, Nephi surely wanted to reassure his people that God would protect his people: “the Mighty God shall deliver his covenant people” (6:17; Isaiah 49:25). This fledgling community must have worried and needed this reassurance. And thus, Nephi and Jacob wanted their people especially to be a faithful “covenant people.”
+
+For that precise reason Jacob spoke to them so they might “know concerning the covenants of the Lord that he has covenanted with all the house of Israel” (9:1). Second, all the people were to know that “all flesh shall know that I the Lord am thy Savior and thy Redeemer, the Mighty One of Jacob” (6:18; cf. Isaiah 49:26). Jacob, the priest of the temple in the city of Nephi, would have been especially desirous that his people would find redemption and deliverance through Jehovah, their Redeemer.
+
+In their isolated state, it was pertinent for them to know of their “deliverance” (Jacob used the word “deliver” or “deliverance” 12 times in 2 Nephi 9) by the Mighty God (Jacob calls Him the Lord God “Almighty” in 9:46). Despite their being more alone than ever before, the Lord had not abandoned them out in the wilderness. Thus, this block of text suited their needs perfectly.
+
+Third, from these words, Jacob hoped that the people were to “learn and glorify the name of your God” (6:4). Previously, Jesus Christ had been called several names, such as “messiah,” “the Lamb of God,” “the Lord [Jehovah],” and others. Now, in order that they might “learn. . . the name” of their God, to be used in glorifying Him, Jacob will disclose to his people that his holy name, when he would come among the Jews in the flesh, would be “Christ.”
+
+That name had been spoken to Jacob by the angel of the Lord during the night (10:3) in the interval between the two days of this coronation and covenant renewal celebration. Because the word “Christ” literally means “anointed,” raising that name on the occasion of renewing the people’s covenant to God and loyalty to His anointed king (as kings in Israel were called, Psalm 2:2) would have been especially appropriate. Finally, Jacob would have been especially pleased at the opportunity to draw his people’s attention to the name for the Lord that was used by Isaiah, “the Mighty One of Jacob” (6:18; Isaiah 49:26).
+
+####
+
+#### Further Reading
+
+- JohnS. Thompson, “Isaiah 50–51, the Israelite Autumn Festivals, and the Covenant Speech of Jacob in 2 Nephi 6–10,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 123–150.

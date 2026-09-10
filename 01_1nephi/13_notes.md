@@ -5,30 +5,133 @@
 
 ## Table of Contents
 
-- [1 Nephi 13:7–8 — The Desires of the Great and Abominable Church](#1-nephi-1378-the-desires-of-the-great-and-abominable-church)
-- [1 Nephi 13:12 — Columbus Sails to the New World](#1-nephi-1312-columbus-sails-to-the-new-world)
-- [1 Nephi 13:26–28 — Plain and Precious Truths Would Be Taken from the Bible](#1-nephi-132628-plain-and-precious-truths-would-be-taken-from-the-bible)
-- [1 Nephi 13:35–36 — Nephi Sees Latter-day Scripture Come Forth](#1-nephi-133536-nephi-sees-latter-day-scripture-come-forth)
-- [1 Nephi 13:38–39 — Other Books Will Come Forth](#1-nephi-133839-other-books-will-come-forth)
+- [1 Nephi 13:7–8 — The Desires of the Great and Abominable Church](#1-nephi-1378--the-desires-of-the-great-and-abominable-church)
+- [1 Nephi 13:12 — Columbus Sails to the New World](#1-nephi-1312--columbus-sails-to-the-new-world)
+- [1 Nephi 13:26–28 — Plain and Precious Truths Would Be Taken from the Bible](#1-nephi-132628--plain-and-precious-truths-would-be-taken-from-the-bible)
+  - [The Three-Stage Loss of Truth](#the-three-stage-loss-of-truth)
+- [1 Nephi 13:35–36 — Nephi Sees Latter-day Scripture Come Forth](#1-nephi-133536--nephi-sees-latter-day-scripture-come-forth)
+- [1 Nephi 13:38–39 — Other Books Will Come Forth](#1-nephi-133839--other-books-will-come-forth)
+  - [The Peculiar Blessing of Ancient Manuscripts](#the-peculiar-blessing-of-ancient-manuscripts)
+  - [A Personal Experience: James Charlesworth and the Narrative of Zosimus](#a-personal-experience-james-charlesworth-and-the-narrative-of-zosimus)
 
 ---
 
 ### 1 Nephi 13:7–8 — The Desires of the Great and Abominable Church
 
-The church of the devil, in the apocalyptic view, is filled with those who are interested in money, power, prestige, and status. That was what Nephi saw and described. To an extent, we are all guilty of being influenced by that great and abominable church and must take heed.
+The church of the devil, in the apocalyptic view, is filled with those who are interested in money, power, prestige, and status. That was what Nephi saw and described.
+
+To an extent, we are all guilty of being influenced by that great and abominable church and must take heed.
+
+---
 
 ### 1 Nephi 13:12 — Columbus Sails to the New World
 
-We now know that Columbus described himself as being the one whose main mission was not to find gold and silver but, as we know because he quoted John 10 in his journal, he saw his main mission as to find “lost sheep somewhere.” Columbus attributed his success to the Lord. Grant Hardy, “ Columbus: By Faith or Reason? ” in Reexploring the Book of Mormon: A Decade of New Research, ed. John W. Welch ( Salt Lake City and Provo, UT: Deseret Book and FARMS, 1992), 32–35. Arnold K. Garr, Christopher Columbus A Latter-Day Saint Perspective, ed. Arnold K. Garr (Provo, UT: Religious Studies Center, Brigham Young University, 1992).
+We now know that Columbus described himself as being the one whose main mission was not to find gold and silver but, as we know because he quoted John 10 in his journal, he saw his main mission as to find “lost sheep somewhere.” Columbus attributed his success to the Lord.
+
+#### Further Reading
+
+- Grant Hardy, “Columbus: By Faith or Reason?” in *Reexploring the Book of Mormon: A Decade of New Research*, ed. John W. Welch (Salt Lake City and Provo, UT: Deseret Book and FARMS, 1992), 32–35.
+- Arnold K. Garr, *Christopher Columbus: A Latter-Day Saint Perspective*, ed. Arnold K. Garr (Provo, UT: Religious Studies Center, Brigham Young University, 1992).
+
+---
 
 ### 1 Nephi 13:26–28 — Plain and Precious Truths Would Be Taken from the Bible
 
-How would this happen? In what order were things lost? Reading these verses carefully we learn what was lost first. The gospel—the basic principles of the gospel were lost first: “they have taken away from the gospel of the Lamb many parts which are plain and most precious” (1 Nephi 13:26) . And once a basic knowledge of the Atonement and repentance was lost, what else was consequently lost? The Plan of Salvation. And second, once a knowledge of the Plan of Salvation was lost, then “many covenants of the Lord” were lost (1 Nephi 13:26). The covenantal nature of baptism, the covenantal renewal in the sacrament, the covenant of marriage, and all other temple covenants were lost. With the understanding of covenants lost, so too was the oath and covenant of the priesthood. It is not as if a few, small, unimportant truths were lost. The very foundation of the gospel was somehow taken or fell away. Third, once the very foundation of the gospel and its covenantal nature had disappeared, what was lost next? Only then were things “taken away from the book” (1 Nephi 13:28). With the foundation missing, the text and doctrine that was left needed to be justified and explained. Because of this, certain writings (like some texts in the Dead Sea Scrolls) were no longer seen as necessary, or became an embarrassment. For example, the Gospel of Barnabas (a very early Christian text) talks a lot about the physical resurrection of the Lord. That was standard doctrine until about the 3rd century, and then it became a point of contention. Why? Well it became a snag in the gospel fabric already made of tatters. If you believe that God is without a body and is now dwelling in the heavens, then you cannot have scripture that conflicts with that. You must take it out and remove it from the Bible. Things were removed and then even more was taken out to account for the holes. But often, the words of the Bible remained, but their meanings were shifted. Things can be taking out of an ancient text simply because their meanings are not preserved and become lost due to lack of memory when no one remembers what they originally meant. Book of Mormon Central, “ Were Plain and Precious Doctrines Lost? (1 Nephi 13:26),” KnoWhy 15 (January 20, 2016).
+How would this happen? In what order were things lost? Reading these verses carefully we learn what was lost first.
+
+#### The Three-Stage Loss of Truth
+
+1. **The Gospel Itself**: The basic principles of the gospel were lost first: “they have taken away from the gospel of the Lamb many parts which are plain and most precious” (1 Nephi 13:26). And once a basic knowledge of the Atonement and repentance was lost, what else was consequently lost? The Plan of Salvation.
+2. **The Covenants**: Second, once a knowledge of the Plan of Salvation was lost, then “many covenants of the Lord” were lost (1 Nephi 13:26). The covenantal nature of baptism, the covenantal renewal in the sacrament, the covenant of marriage, and all other temple covenants were lost. With the understanding of covenants lost, so too was the oath and covenant of the priesthood. It is not as if a few, small, unimportant truths were lost. The very foundation of the gospel was somehow taken or fell away.
+3. **The Scriptural Texts**: Third, once the very foundation of the gospel and its covenantal nature had disappeared, what was lost next? Only then were things “taken away from the book” (1 Nephi 13:28). With the foundation missing, the text and doctrine that was left needed to be justified and explained.
+
+Because of this, certain writings (like some texts in the Dead Sea Scrolls) were no longer seen as necessary, or became an embarrassment. For example, the Gospel of Barnabas (a very early Christian text) talks a lot about the physical resurrection of the Lord. That was standard doctrine until about the 3rd century, and then it became a point of contention. Why? Well, it became a snag in the gospel fabric already made of tatters. If you believe that God is without a body and is now dwelling in the heavens, then you cannot have scripture that conflicts with that. You must take it out and remove it from the Bible.
+
+Things were removed and then even more was taken out to account for the holes. But often, the words of the Bible remained, but their meanings were shifted. Things can be taken out of an ancient text simply because their meanings are not preserved and become lost due to lack of memory when no one remembers what they originally meant.
+
+#### Further Reading
+
+- Book of Mormon Central, “Were Plain and Precious Doctrines Lost? (1 Nephi 13:26),” *KnoWhy* 15 (January 20, 2016).
+
+---
 
 ### 1 Nephi 13:35–36 — Nephi Sees Latter-day Scripture Come Forth
 
-Do you feel Nephi’s heart when you read these verses? Do you feel his compassion, his empathy and his grief in all the things that he sees? How do you think Nephi must have felt when he was then shown these records coming forth? He probably had many emotions—tremendous excitement, hope and joy. Perhaps, he felt relief. Nephi may have also felt a burden. When Nephi began his record, he knew he was inspired to write for “a wise purpose,” but he did not know the details. Now, in the midst of this grand vision, he learned a little more about the reasons for keeping a record of sacred things. There was so much at stake. There was a tender mercy for Nephi in this experience, for him to see what would be lost and to understand the scope of what he and his posterity must do. In all of this, we see the love and omniscience of God. Remember that Nephi was shown this vision hundreds of years before Christ was born, before the events of the New Testament, and certainly before those plain and precious things would be lost over the centuries after Christ’s death.
+Do you feel Nephi’s heart when you read these verses? Do you feel his compassion, his empathy and his grief in all the things that he sees?
+
+How do you think Nephi must have felt when he was then shown these records coming forth? He probably had many emotions—tremendous excitement, hope and joy. Perhaps, he felt relief.
+
+Nephi may have also felt a burden. When Nephi began his record, he knew he was inspired to write for “a wise purpose,” but he did not know the details. Now, in the midst of this grand vision, he learned a little more about the reasons for keeping a record of sacred things. There was so much at stake.
+
+There was a tender mercy for Nephi in this experience, for him to see what would be lost and to understand the scope of what he and his posterity must do. In all of this, we see the love and omniscience of God. Remember that Nephi was shown this vision hundreds of years before Christ was born, before the events of the New Testament, and certainly before those plain and precious things would be lost over the centuries after Christ’s death.
+
+---
 
 ### 1 Nephi 13:38–39 — Other Books Will Come Forth
 
-When Joseph Smith translated the Book of Mormon, there had been no significant discoveries of ancient manuscripts. Joseph Smith was killed in June of 1844. In August of 1844, just two months after the Prophet’s death, another young man, Constantin von Tischendorf, wandered out into the Sinai Peninsula and found his way toSt. Catherine’s Monastery. There, Tischendorf discovered a full 4 th Century Greek Bible which contained texts like the Gospel of Barnabas, the Epistle of Barnabas, and the Shepherd of Hermas, as well as other texts that had not been seen for a long, long time. Subsequently, there came over the next years, an outpouring of ancient texts. Archaeologists went into Iraq and into Egypt and they started finding old records. People started looking in the Vatican and found manuscripts. It became a cottage industry, everybody looking to find ancient texts. One British archeologist who was digging in Egypt in 1905, looking for gold and mummies, found a mummified crocodile (the Egyptians buried crocodiles) and then another crocodile, and another crocodile. He kept searching, expecting to find a human mummy. In disgust, as the leader of the expedition, picked up one of the crocodiles and threw it down on the ground, and it split open, revealing that someone had stuffed the crocodile full of wadded-up old papyri. To their surprise and joy, the archaeological expedition had discovered a whole trove of early manuscripts, some of which were Christian—for example, a fragment of the Gospel of John from the 2nd Century AD. Later, other ancient manuscripts were discovered —The Dead Sea Scrolls, the Nag Hammadi Library, the texts from Ebla, and the texts from Ugarit. Hugh Nibley once called this unusual outpouring of ancient records “the peculiar blessing of our generation.” Let me share a personal story to illustrate this point. During my time in law school at Duke University, I attended a class in the Duke Divinity School from James Charlesworth. He was a very prominent Dead Sea Scrolls scholar working at that time on a translation of Jewish and Christian texts from around the time of Christ that had never been translated and published in English. In this class, we were charged with reading a cert ain text. Charlesworth presented it as one of the most puzzling texts he had ever run across. His question was: Is it Christian or Jewish? He had no idea where it might have originated, because it was quite unlike anything else that he had ever seen. He explained to this seminar that it tells a story about a man named Zosimus who leaves Jerusalem. He goes out into the desert, wanders and gets lost in a big mist of darkness. He then arrives at the banks of a big ocean or river. He cannot move. He is afraid because he wants to know the way to a life of righteousness. He prays earnestly, and out of the mist he sees the branch of a tree emerging. He holds onto that branch firmly and the tree transports him across the ocean and sets him down in a lovely, beautiful place beneath a tree. He then notices that this tree has white fruit on it that is delicious, and out of the root of the tree is coming a sweet river of fluid. He drinks this and he feels like he has found a life of joy in paradise. Then, a man walks up to him and says, “Zosimus, what are you doing here? How did you get here?” Zosimus answers, “I prayed and the Lord brought me here.” The man says, “Well, then it must be okay for me to tell you a little bit about who we are. We left Jerusalem at the time it was about to be destroyed by the Babylonians. The Lord brought us over here to this part of the world where we have preserved the way of righteousness. We have been keeping our records, and we have been told that someday these records will go back to Jerusalem. If you have been brought here by the Lord, then I can show these to you.” The text then has about six or seven paragraphs of what was read and what Zosimus was taught. Zosimus is exuberant and joyous that he now has accomplished his mission. He is then taken back across the ocean and he goes back to Jerusalem. Zosimus’ dream finishes with him building a monument of covenant where he takes the texts and the things that he has learned. Now you can just imagine: there I was in Charlesworth’s class as he was talking about this recently discovered record from around the time of Christ. Later, he said, “Jack, I thought you were levitating.” I replied, “Well, this may sound strange to you, but it sounded very familiar to me.” I quickly mentioned just a few of the ways the Narrative of Zosimus seemed to be a cousin to 1 Nephi. There were many striking similarities. I was assigned to come back the next class period with a more extensive comparison, which was easy to do. I had mentioned the Book of Mormon on several occasions before in this class which had always been received with mocking and scorn. But when I finished, the class was silent and Charlesworth said, “Well class, as you are thinking about what to make of the Narrative of Zosimus, you might want to think about what to make of the Book of Mormon.” Then somebody asked, “Well, when was the Book of Mormon written?” And I answered, “it was translated in 1829 and published in 1830.” They then asked, “When was the narrative of Zosimus first found?” Charlesworth answered, “It was found in an old Slavonic text in Yugoslavia in 1880 and was first translated and published in Volume 10 of the Ante-Nicene Fathers in 1890. There is no way the Zosimus text was known to anyone before then.” The class was now in an uproar. One of them joked, “Maybe Joseph Smith was a reincarnated Jewish Monk.” To which I answered, “I find it easier to believe the Moroni story than that.” But one smart-aleck classmate, who had always given me the most grief about the Book of Mor mon, was the one who came up to me and asked, “Can I get a copy of that book?” I gave him one. Later, when I met with Charlesworth in his office, he said, “I am beginning to understand why you are so drawn to these texts that I am interested in.” I replied, “Yes, and also because we have a prophecy in the Book of Mormon that says that other books would come forth.” “Really? Where?” he asked. I explained that the prophecy could be found in 1 Nephi, Chapter 13. Charlesworth jumped up and retrieved his copy of the Book of Mormon which was high on a high shelf, blew off the dust, and opened it up. I said, “Look in Verse 39.” And after it had come forth unto them I beheld other books, which came forth by the power of the Lamb, from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren, and also the Jews who were scattered upon all the face of the earth, that the records of the prophets and of the twelve apostles of the Lamb are true. (1 Nephi 13:39) Charlesworth looked at that and asked, “When was this written?” I said, “Let’s see, that would have been about 550–540 BC.” He said, “No, no, remind me, when was this published? When did this appear in English?” I said, “This verse was probably translated in June of 1829 and published in March of 1830.” “That’s impossible! No one could have known —none of these books had been found at that time.” At that point Charlesworth stated, “You Mormons, you cannot believe that anymore. You have to know that it is true. You have seen it come to pass in your lifetime.” Book of Mormon Central, “ What Were the ‘Other Records’ Nephi Saw in Vision? (1 Nephi 13:39),” KnoWhy 376 (October 26, 2017). John W. Welch, “ The Narrative of Zosimus and the Book of Mormon ,” BYU Studies Quarterly 22, no. 3 (1982): 311 –332; revised and updated as “ The Narrative of Zosimus (History of the Rechabites) and the Book of Mormon ,” in Book of Mormon Authorship Revisited: The Evidence for Ancient Origins, ed. Noel B. Reynolds (Provo, UT: FARMs, 1997), 323–374.
+#### The Peculiar Blessing of Ancient Manuscripts
+
+When Joseph Smith translated the Book of Mormon, there had been no significant discoveries of ancient manuscripts. Joseph Smith was killed in June of 1844. In August of 1844, just two months after the Prophet’s death, another young man, Constantin von Tischendorf, wandered out into the Sinai Peninsula and found his way to St. Catherine’s Monastery. There, Tischendorf discovered a full 4th-century Greek Bible which contained texts like the Epistle of Barnabas and the Shepherd of Hermas, as well as other texts that had not been seen for a long, long time.
+
+Subsequently, there came over the next years an outpouring of ancient texts. Archaeologists went into Iraq and into Egypt and they started finding old records. People started looking in the Vatican and found manuscripts. It became a cottage industry, everybody looking to find ancient texts.
+
+One British archeologist who was digging in Egypt in 1905, looking for gold and mummies, found a mummified crocodile (the Egyptians buried crocodiles) and then another crocodile, and another crocodile. He kept searching, expecting to find a human mummy. In disgust, the leader of the expedition picked up one of the crocodiles and threw it down on the ground, and it split open, revealing that someone had stuffed the crocodile full of wadded-up old papyri. To their surprise and joy, the archaeological expedition had discovered a whole trove of early manuscripts, some of which were Christian—for example, a fragment of the Gospel of John from the 2nd Century AD.
+
+Later, other ancient manuscripts were discovered—the Dead Sea Scrolls, the Nag Hammadi Library, the texts from Ebla, and the texts from Ugarit. Hugh Nibley once called this unusual outpouring of ancient records “the peculiar blessing of our generation.”
+
+#### A Personal Experience: James Charlesworth and the Narrative of Zosimus
+
+Let me share a personal story to illustrate this point. During my time in law school at Duke University, I attended a class in the Duke Divinity School from James Charlesworth. He was a very prominent Dead Sea Scrolls scholar working at that time on a translation of Jewish and Christian texts from around the time of Christ that had never been translated and published in English.
+
+In this class, we were charged with reading a certain text. Charlesworth presented it as one of the most puzzling texts he had ever run across. His question was: Is it Christian or Jewish? He had no idea where it might have originated, because it was quite unlike anything else that he had ever seen.
+
+He explained to this seminar that it tells a story about a man named Zosimus who leaves Jerusalem:
+- He goes out into the desert, wanders, and gets lost in a big mist of darkness.
+- He then arrives at the banks of a big ocean or river. He cannot move. He is afraid because he wants to know the way to a life of righteousness.
+- He prays earnestly, and out of the mist he sees the branch of a tree emerging.
+- He holds onto that branch firmly and the tree transports him across the ocean and sets him down in a lovely, beautiful place beneath a tree.
+- He then notices that this tree has white fruit on it that is delicious, and out of the root of the tree is coming a sweet river of fluid. He drinks this and he feels like he has found a life of joy in paradise.
+
+Then, a man walks up to him and says, “Zosimus, what are you doing here? How did you get here?”
+
+Zosimus answers, “I prayed and the Lord brought me here.”
+
+The man says, “Well, then it must be okay for me to tell you a little bit about who we are. We left Jerusalem at the time it was about to be destroyed by the Babylonians. The Lord brought us over here to this part of the world where we have preserved the way of righteousness. We have been keeping our records, and we have been told that someday these records will go back to Jerusalem. If you have been brought here by the Lord, then I can show these to you.”
+
+The text then has about six or seven paragraphs of what was read and what Zosimus was taught. Zosimus is exuberant and joyous that he now has accomplished his mission. He is then taken back across the ocean and he goes back to Jerusalem. Zosimus’ dream finishes with him building a monument of covenant where he takes the texts and the things that he has learned.
+
+Now you can just imagine: there I was in Charlesworth’s class as he was talking about this recently discovered record from around the time of Christ. Later, he said, “Jack, I thought you were levitating.”
+
+I replied, “Well, this may sound strange to you, but it sounded very familiar to me.”
+
+I quickly mentioned just a few of the ways the Narrative of Zosimus seemed to be a cousin to 1 Nephi. There were many striking similarities. I was assigned to come back the next class period with a more extensive comparison, which was easy to do. I had mentioned the Book of Mormon on several occasions before in this class which had always been received with mocking and scorn. But when I finished, the class was silent and Charlesworth said, “Well class, as you are thinking about what to make of the Narrative of Zosimus, you might want to think about what to make of the Book of Mormon.”
+
+Then somebody asked, “Well, when was the Book of Mormon written?”  
+And I answered, “It was translated in 1829 and published in 1830.”  
+They then asked, “When was the narrative of Zosimus first found?”  
+Charlesworth answered, “It was found in an old Slavonic text in Yugoslavia in 1880 and was first translated and published in Volume 10 of the Ante-Nicene Fathers in 1890. There is no way the Zosimus text was known to anyone before then.”
+
+The class was now in an uproar. One of them joked, “Maybe Joseph Smith was a reincarnated Jewish monk.” To which I answered, “I find it easier to believe the Moroni story than that.” But one smart-aleck classmate, who had always given me the most grief about the Book of Mormon, was the one who came up to me and asked, “Can I get a copy of that book?” I gave him one.
+
+Later, when I met with Charlesworth in his office, he said, “I am beginning to understand why you are so drawn to these texts that I am interested in.”
+
+I replied, “Yes, and also because we have a prophecy in the Book of Mormon that says that other books would come forth.”
+
+“Really? Where?” he asked.
+
+I explained that the prophecy could be found in 1 Nephi, Chapter 13. Charlesworth jumped up and retrieved his copy of the Book of Mormon which was high on a shelf, blew off the dust, and opened it up. I said, “Look in verse 39.”
+
+> “And after it had come forth unto them I beheld other books, which came forth by the power of the Lamb, from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren, and also the Jews who were scattered upon all the face of the earth, that the records of the prophets and of the twelve apostles of the Lamb are true.” (1 Nephi 13:39)
+
+Charlesworth looked at that and asked, “When was this written?”  
+I said, “Let’s see, that would have been about 550–540 BC.”  
+He said, “No, no, remind me, when was this published? When did this appear in English?”  
+I said, “This verse was probably translated in June of 1829 and published in March of 1830.”  
+“That’s impossible! No one could have known—none of these books had been found at that time.”
+
+At that point Charlesworth stated, “You Mormons, you cannot believe that anymore. You have to know that it is true. You have seen it come to pass in your lifetime.”
+
+#### Further Reading
+
+- Book of Mormon Central, “What Were the ‘Other Records’ Nephi Saw in Vision? (1 Nephi 13:39),” *KnoWhy* 376 (October 26, 2017).
+- John W. Welch, “The Narrative of Zosimus and the Book of Mormon,” *BYU Studies Quarterly* 22, no. 3 (1982): 311–332; revised and updated as “The Narrative of Zosimus (History of the Rechabites) and the Book of Mormon,” in *Book of Mormon Authorship Revisited: The Evidence for Ancient Origins*, ed. Noel B. Reynolds (Provo, UT: FARMS, 1997), 323–374.

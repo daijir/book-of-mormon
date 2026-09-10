@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Alma 25:13–17 — More Lamanites Repent](#alma-251317-more-lamanites-repent)
+- [Alma 25:13–17 — More Lamanites Repent](#alma-251317--more-lamanites-repent)
 
 ---
 

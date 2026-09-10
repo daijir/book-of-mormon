@@ -5,45 +5,155 @@
 
 ## Table of Contents
 
-- [1 Nephi 11–14 — Overview: The Four Stages of Nephi’s Prophetic Worldview](#1-nephi-1114-overview-the-four-stages-of-nephis-prophetic-worldview)
-- [1 Nephi 11:1 — Desiring Knowledge, Nephi Is Carried Away into a Mountain](#1-nephi-111-desiring-knowledge-nephi-is-carried-away-into-a-mountain)
-- [1 Nephi 11:2 — The Spirit Questions Nephi about What He Desires](#1-nephi-112-the-spirit-questions-nephi-about-what-he-desires)
-- [1 Nephi 11:16 — The Condescension of God](#1-nephi-1116-the-condescension-of-god)
-- [1 Nephi 11:17 — “I Know That He Loveth His Children…”](#1-nephi-1117-i-know-that-he-loveth-his-children)
-- [1 Nephi 11:22 — How is the Tree of Life the Love of God?](#1-nephi-1122-how-is-the-tree-of-life-the-love-of-god)
+- [1 Nephi 11–14 — Overview: The Four Stages of Nephi’s Prophetic Worldview](#1-nephi-1114--overview-the-four-stages-of-nephis-prophetic-worldview)
+- [1 Nephi 11–14 — Like Father, Like Son: Aspects of Lehi’s Vision Repeated in Nephi’s Vision](#1-nephi-1114--like-father-like-son-aspects-of-lehis-vision-repeated-in-nephis-vision)
+- [1 Nephi 11:1 — Desiring Knowledge, Nephi Is Carried Away into a Mountain](#1-nephi-111--desiring-knowledge-nephi-is-carried-away-into-a-mountain)
+  - [Chiastic Structure of 1 Nephi](#chiastic-structure-of-1-nephi)
+- [1 Nephi 11:2 — The Spirit Questions Nephi about What He Desires](#1-nephi-112--the-spirit-questions-nephi-about-what-he-desires)
+- [1 Nephi 11:16 — The Condescension of God](#1-nephi-1116--the-condescension-of-god)
+- [1 Nephi 11:17 — “I Know That He Loveth His Children…”](#1-nephi-1117--i-know-that-he-loveth-his-children)
+- [1 Nephi 11:22 — How is the Tree of Life the Love of God?](#1-nephi-1122--how-is-the-tree-of-life-the-love-of-god)
 
 ---
 
 ### 1 Nephi 11–14 — Overview: The Four Stages of Nephi’s Prophetic Worldview
 
-Nephi’s vision, which stands at the center of the book of 1 Nephi, is four chapters long. It is a powerful and unforgettable prophetic statement. It clearly sees the future of the world, commencing from Nephi’s moment in time, in four major stages: Stage 1 foresees the coming to earth of Jesus Christ, the Messiah, the Son of God (Found in 1 Nephi 11). Stage 2 laments the rejection of Christ by most of the people He lived with, visited, and taught, resulting in their being scattered (Found in 1 Nephi 12). Stage 3 anticipates the role of the Gentiles in preserving parts of the Gospel of Jesus Christ and bring ing the word of God to the remnant of scattered Israel (Found in 1 Nephi 13). Stage 4 speaks of the restoration of the house of Israel and Christ’s ultimate victory over the forces of evil (Found in 1 Nephi 14). Nephi introduced these four stages in 1 Nephi 11 –14. This same sequence will be repeated by Nephi in 1 Nephi 19–22 (See Figure 1).
+Nephi’s vision, which stands at the center of the book of 1 Nephi, is four chapters long. It is a powerful and unforgettable prophetic statement. It clearly sees the future of the world, commencing from Nephi’s moment in time, in four major stages:
 
-Figure 1 Welch, John W., and Greg Welch. “Four Stages of the Nephite Prophetic View .” In Charting the Book of Mormon. Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999. Indeed, Nephi will again use this same prophetic worldview as the underlying structure behind his teachings in 2 Nephi 25–30, and it will become the foundational framework within which Jacob, Abinadi, and several other Nephite writers will subsequently see the future of their world. I call this “the Nephite prophetic worldview.” Knowing this framework can help all readers in many ways. For example, it helps readers get through the Isaiah chapters in the Book of Mormon, understanding why the Nephite writers used the particular chapters from Isaiah that they did. Book of Mormon Central, “ What Vision Guides Nephi’s Choice of Isaiah Chapters? (2 Nephi 11:2),” KnoWhy 38 (February 22, 2016). John W. Welch, “ Getting through Isaiah with the Help of the Nephite Prophetic View ,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, Utah: FARMS, 1998), 19–45. 1 Nephi 11 –14 — Like Father, Like Son: Aspects of Lehi’s Vision Repeated in Nephi’s Vision One of the most interesting things about Nephi’s vision in 1 Nephi 11 –14 is how subtly and how fully it relates to other prophecies given a few years earlier by his father Lehi. Nephi’s vision closely builds on his father’s visions in 1 Nephi 1 and also his f ather’s dream of the Tree of Life in 1 Nephi 8, as one should expect it to. And why? Nephi’s vision occurred because he wanted to know the meaning of all the things that his father had seen and taught. And consequently, N ephi’s vision unfolds precisely that. Nephi saw, learned, and explained what his father had seen, revealed, and boldly testified. An attentive reader will see how aspects of Lehi’s vision are repeated and amplified in Nephi’s vision. Indeed, in 1 Nephi 10:17, Nephi tells us that when he heard his father Lehi speaking about the things he had seen in his visions in 1 Nephi 1 and 8, Nephi wanted to “see, and hear, and know of these things” for himself. As he pondered these things, he was “caught away in the Spirit of the Lord, yea, into an exceedingly high mountain ” (1 Nephi 11:1). Nephi later bore record that he indeed “ saw the things which [his] father saw” (1 Nephi 14:29). Astute readers can draw these connections. For example, in 1 Nephi 1: 9, Lehi saw “One descending out of the midst of heaven,” and in 1 Nephi 11:15 –28 Nephi learns about the “condescension of [the Son of] God” (1 Nephi 1 1:16, 26). In 1 Nephi 8:10, Lehi sees a tree whose fruit is “desirable.” Nephi similarly describes the Tree of Life as a representation of the “ love of God, which sheddeth itself abroad in the hearts of the children of men; wherefore, it is the most desirable above all things” (1 Nephi 11:22). At least twenty-five elements in Lehi’s vision will show up in Nephi’s vision. They are fun to find. For example, there is a great and spacious building in Lehi’s vision (1 Nephi 8:26, 31) ; this relates to the “great and abominable church” repeatedly mentioned in Nephi’s vision (see 1 Nephi 13 –14). There is a man dressed in a white robe leading Lehi (1 Nephi 8:5) ; for Nephi, this is the Spirit of the Lord who guides him (1 Nephi 11:11) . Lehi is taken to a “dark and dreary waste” (1 Nephi 8:7); Nephi first sees Jerusalem, and he knows that it is a dark and dreary place. Lehi goes on to see the head of a river. Nephi will see a fountain of living waters —that fountain being Jesus Christ. Lehi will call out with a loud voice. At that point in Nephi’s vision, Nephi sees Christ with John, the apostle, crying out with a loud voice proclaiming the gospel. Later, Lehi sees that Laman and Lemuel will not come to partake of the fruit. Nephi similarly sees that people reject Christ. Lehi then sees numberless concourses of people, while Nephi sees multitudes like the sands of the sea (See Figure 2). While reading the Book of Mormon, one is always looking for ways to know that it is true. One of the ways that we can know that this text is true is by noticing and appreciating the overall complexity of Nephi’s account. His vision works beautifully as an interpretive, deeper understanding of what Lehi saw, giving us confidence that there are two witnesses of this great story, justifying that we should be commandment keepers who hold steadfastly to the iron rod.
+1. **Stage 1**: Foresees the coming to earth of Jesus Christ, the Messiah, the Son of God (found in 1 Nephi 11).
+2. **Stage 2**: Laments the rejection of Christ by most of the people He lived with, visited, and taught, resulting in their being scattered (found in 1 Nephi 12).
+3. **Stage 3**: Anticipates the role of the Gentiles in preserving parts of the Gospel of Jesus Christ and bringing the word of God to the remnant of scattered Israel (found in 1 Nephi 13).
+4. **Stage 4**: Speaks of the restoration of the house of Israel and Christ’s ultimate victory over the forces of evil (found in 1 Nephi 14).
+
+Nephi introduced these four stages in 1 Nephi 11–14. This same sequence will be repeated by Nephi in 1 Nephi 19–22.
+
+*(Reference: Figure 1 — John W. Welch and Greg Welch, “Four Stages of the Nephite Prophetic View,” in Charting the Book of Mormon [Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999].)*
+
+Indeed, Nephi will again use this same prophetic worldview as the underlying structure behind his teachings in 2 Nephi 25–30, and it will become the foundational framework within which Jacob, Abinadi, and several other Nephite writers will subsequently see the future of their world. I call this “the Nephite prophetic worldview.”
+
+Knowing this framework can help all readers in many ways. For example, it helps readers get through the Isaiah chapters in the Book of Mormon, understanding why the Nephite writers used the particular chapters from Isaiah that they did.
+
+#### Further Reading
+
+- Book of Mormon Central, “What Vision Guides Nephi’s Choice of Isaiah Chapters? (2 Nephi 11:2),” *KnoWhy* 38 (February 22, 2016).
+- John W. Welch, “Getting through Isaiah with the Help of the Nephite Prophetic View,” in *Isaiah in the Book of Mormon*, ed. Donald W. Parry and John W. Welch (Provo, Utah: FARMS, 1998), 19–45.
+
+---
+
+### 1 Nephi 11–14 — Like Father, Like Son: Aspects of Lehi’s Vision Repeated in Nephi’s Vision
+
+One of the most interesting things about Nephi’s vision in 1 Nephi 11–14 is how subtly and how fully it relates to other prophecies given a few years earlier by his father Lehi. Nephi’s vision closely builds on his father’s visions in 1 Nephi 1 and also his father’s dream of the Tree of Life in 1 Nephi 8, as one should expect it to.
+
+And why? Nephi’s vision occurred because he wanted to know the meaning of all the things that his father had seen and taught. And consequently, Nephi’s vision unfolds precisely that. Nephi saw, learned, and explained what his father had seen, revealed, and boldly testified. An attentive reader will see how aspects of Lehi’s vision are repeated and amplified in Nephi’s vision.
+
+Indeed, in 1 Nephi 10:17, Nephi tells us that when he heard his father Lehi speaking about the things he had seen in his visions in 1 Nephi 1 and 8, Nephi wanted to “see, and hear, and know of these things” for himself. As he pondered these things, he was “caught away in the Spirit of the Lord, yea, into an exceedingly high mountain” (1 Nephi 11:1). Nephi later bore record that he indeed “saw the things which [his] father saw” (1 Nephi 14:29).
+
+Astute readers can draw these connections:
+- In 1 Nephi 1:9, Lehi saw “One descending out of the midst of heaven,” and in 1 Nephi 11:15–28 Nephi learns about the “condescension of [the Son of] God” (1 Nephi 11:16, 26).
+- In 1 Nephi 8:10, Lehi sees a tree whose fruit is “desirable.” Nephi similarly describes the Tree of Life as a representation of the “love of God, which sheddeth itself abroad in the hearts of the children of men; wherefore, it is the most desirable above all things” (1 Nephi 11:22).
+
+At least twenty-five elements in Lehi’s vision will show up in Nephi’s vision. They are fun to find:
+- There is a **great and spacious building** in Lehi’s vision (1 Nephi 8:26, 31); this relates to the “great and abominable church” repeatedly mentioned in Nephi’s vision (see 1 Nephi 13–14).
+- There is a **man dressed in a white robe** leading Lehi (1 Nephi 8:5); for Nephi, this is the Spirit of the Lord who guides him (1 Nephi 11:11).
+- Lehi is taken to a **“dark and dreary waste”** (1 Nephi 8:7); Nephi first sees Jerusalem, and he knows that it is a dark and dreary place.
+- Lehi goes on to see the **head of a river**; Nephi will see a fountain of living waters—that fountain being Jesus Christ.
+- Lehi calls out with a **loud voice**; at that point in Nephi’s vision, Nephi sees Christ with John, the apostle, crying out with a loud voice proclaiming the gospel.
+- Lehi sees that **Laman and Lemuel will not come to partake** of the fruit; Nephi similarly sees that people reject Christ.
+- Lehi sees **numberless concourses of people**, while Nephi sees multitudes like the sands of the sea.
+
+*(Reference: Figure 2 — John W. Welch and Greg Welch, “A Comparison of Lehi’s Dream and Nephi’s Vision,” in Charting the Book of Mormon [Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999].)*
+
+While reading the Book of Mormon, one is always looking for ways to know that it is true. One of the ways that we can know that this text is true is by noticing and appreciating the overall complexity of Nephi’s account. His vision works beautifully as an interpretive, deeper understanding of what Lehi saw, giving us confidence that there are two witnesses of this great story, justifying that we should be commandment keepers who hold steadfastly to the iron rod.
+
+---
 
 ### 1 Nephi 11:1 — Desiring Knowledge, Nephi Is Carried Away into a Mountain
 
-One may wonder: Did Nephi go up to an actual mountain or was he just taken there in spirit? Perhaps both. It may well be that as he pondered on his father’s visions and dreams, Nephi wanted to get away from the group’s base camp, and so he went into a nearby mountain or high place. It was common for Jesus to go to the mountains and there to pray and receive transfiguring manifestations. Back in chapter 2, the Lord told Nephi that he would be a ruler and a teacher over his brothers (1 Nephi 2:22), and that word from the Lord was confirmed by the angel speaking to Nephi and his three brothers (1 Nephi 3: 29). That calling would have weighed heavily on Nephi’s mind. So when he wanted to see what his father saw in vision, it was likely because Nephi knew that the Lord had called him to do something meaningful. Nephi testified, “I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them” (1 Nephi 3:7). How could Nephi accomplish the task of correctly ruling over his elder brothers without seeing what his father saw —without understanding that vision and prophetic perspective? Nephi puts his account of this vision at the very center of his first book written on his small plates. There are twenty-two chapters in 1 Nephi, and the entire book appears to have been arranged as a chiasm, where elements in the first part of the book are reversed and then repeated in the second part (See Figure 3).
+One may wonder: Did Nephi go up to an actual mountain or was he just taken there in spirit? Perhaps both. It may well be that as he pondered on his father’s visions and dreams, Nephi wanted to get away from the group’s base camp, and so he went into a nearby mountain or high place. It was common for Jesus to go to the mountains and there to pray and receive transfiguring manifestations.
 
-(Continued on Next Page)
+Back in chapter 2, the Lord told Nephi that he would be a ruler and a teacher over his brothers (1 Nephi 2:22), and that word from the Lord was confirmed by the angel speaking to Nephi and his three brothers (1 Nephi 3:29). That calling would have weighed heavily on Nephi’s mind. So when he wanted to see what his father saw in vision, it was likely because Nephi knew that the Lord had called him to do something meaningful. Nephi testified, “I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them” (1 Nephi 3:7).
 
-Figure 2 Welch, John W., and Greg Welch. “A Comparison of Lehi’s Dream and Nephi’s Vision.” In Charting the Book of Mormon. Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999.
+How could Nephi accomplish the task of correctly ruling over his elder brothers without seeing what his father saw—without understanding that vision and prophetic perspective?
 
-> **A Lehi prophesies warnings of destruction to the Jews and foresees the mercy of God (Chapter 1) B Lehi’s group departs from Jerusalem (2:2–15) C Nephi establishes himself over his brothers by obtaining the Plates of Brass (2:16–4:38) D The sword of fine steel (4:9) E Sariah’s concern (5:1–9) F The Plates of Brass as a guide (5:10–6:6) G The sons of Lehi get the daughters of Ishmael and Ishmael joins the group (7:1–5, 22) H Nephi bound with cords in the wilderness (7:6–21) I Lehi’s vision of the Tree of Life (8:1–38) J Lehi prophesies about the Old World and about the coming of the Lamb (10:1–22) K Nephi and the Spirit of the Lord (11:1–36) J Nephi prophesies about the New World and the coming of the Lamb (12:1–14:30) I Lehi’s vision of the Tree of Life interpreted (15:1–36) G The sons of Lehi marry the daughters of Ishmael and Ishmael dies (16:1 –8, 34–35) F The Brass Ball as a guide (16:9–17, 26–33) D The bow of fine steel (16:18) C Nephi establishes himself over his brothers by building a ship (17:1–18:4) (3:7; cf. 17:3) H Nephi bound with cords on the ship (18:11–16, 20–21) E Sariah’s afflictions (18:17–19) B Lehi’s group arrives at the Promised Land (18:23–25) A Nephi prophesies concerning the fate of the Jews and concerning the mercy of the Lord unto the afflicted (chapters 19–22)**
+Nephi puts his account of this vision at the very center of his first book written on his small plates. There are twenty-two chapters in 1 Nephi, and the entire book appears to have been arranged as a chiasm, where elements in the first part of the book are reversed and then repeated in the second part (See Figure 3).
 
-Figure 3 Chiastic Structure of 1 Nephi. The central point of a chiasm usually contains its most important or pivotal concept. It is thus significant that chapter 11 —the center point of First Nephi and its chiastic structure—contains Nephi’s vision of the coming of the Lord, of the tree of life, of the iron rod, and the relation of various groups to the Tree of Life, which Nephi understands is a representation of the love of God as manifested by Jesus. For Nephi, this was likely the most critical vision he ever received, and it proved foundational for him. It can be seen as a kind of Sacred Grove or Sacred Mountain experience for him. That kind of magnitude, allowing Nephi to understand things of the Spirit more fully and in a way that he had never experienced before, made this vision the focus of his first book.
+#### Chiastic Structure of 1 Nephi
+
+*(Reference: Figure 3 — Chiastic Structure of 1 Nephi. John W. Welch and Greg Welch.)*
+
+- **A** Lehi prophesies warnings of destruction to the Jews and foresees the mercy of God (Chapter 1)
+  - **B** Lehi’s group departs from Jerusalem (2:2–15)
+    - **C** Nephi establishes himself over his brothers by obtaining the Plates of Brass (2:16–4:38)
+      - **D** The sword of fine steel (4:9)
+        - **E** Sariah’s concern (5:1–9)
+          - **F** The Plates of Brass as a guide (5:10–6:6)
+            - **G** The sons of Lehi get the daughters of Ishmael and Ishmael joins the group (7:1–5, 22)
+              - **H** Nephi bound with cords in the wilderness (7:6–21)
+                - **I** Lehi’s vision of the Tree of Life (8:1–38)
+                  - **J** Lehi prophesies about the Old World and about the coming of the Lamb (10:1–22)
+                    - **K** **Nephi and the Spirit of the Lord (11:1–36)**
+                  - **J'** Nephi prophesies about the New World and the coming of the Lamb (12:1–14:30)
+                - **I'** Lehi’s vision of the Tree of Life interpreted (15:1–36)
+            - **G'** The sons of Lehi marry the daughters of Ishmael and Ishmael dies (16:1–8, 34–35)
+          - **F'** The Brass Ball as a guide (16:9–17, 26–33)
+        - **D'** The bow of fine steel (16:18)
+      - **C'** Nephi establishes himself over his brothers by building a ship (17:1–18:4; 3:7 cf. 17:3)
+    - **H'** Nephi bound with cords on the ship (18:11–16, 20–21)
+      - **E'** Sariah’s afflictions (18:17–19)
+  - **B'** Lehi’s group arrives at the Promised Land (18:23–25)
+- **A'** Nephi prophesies concerning the fate of the Jews and concerning the mercy of the Lord unto the afflicted (chapters 19–22)
+
+The central point of a chiasm usually contains its most important or pivotal concept. It is thus significant that chapter 11—the center point of First Nephi and its chiastic structure—contains Nephi’s vision of the coming of the Lord, of the tree of life, of the iron rod, and the relation of various groups to the Tree of Life, which Nephi understands is a representation of the love of God as manifested by Jesus.
+
+For Nephi, this was likely the most critical vision he ever received, and it proved foundational for him. It can be seen as a kind of Sacred Grove or Sacred Mountain experience for him. That kind of magnitude, allowing Nephi to understand things of the Spirit more fully and in a way that he had never experienced before, made this vision the focus of his first book.
+
+---
 
 ### 1 Nephi 11:2 — The Spirit Questions Nephi about What He Desires
 
-“What desirest thou?” Have you ever noticed in the New Testament, when the Lord is about to heal someone, He will ask them first what it is that they want from Him? The question “What desirest thou?” precedes the miracle, in Jesus’s day and still today. Nephi was specific in what he asked for. There is a lot to be learned just from how this vision unfolds. Not only wasN ephi’s specific question answered, but much more was given, things that likely surprised him, which he had not previously even imagined. Also worth pondering is the possibility that if Nephi had not asked, we and the whole world might never have received the important interpretation and expansion of Lehi’s vision. Asking is important. But be prepared to give an answer to the question: What do you desire? What do you really desire?
+“What desirest thou?”
+
+Have you ever noticed in the New Testament, when the Lord is about to heal someone, He will ask them first what it is that they want from Him? The question “What desirest thou?” precedes the miracle, in Jesus’s day and still today.
+
+Nephi was specific in what he asked for. There is a lot to be learned just from how this vision unfolds. Not only was Nephi’s specific question answered, but much more was given, things that likely surprised him, which he had not previously even imagined.
+
+Also worth pondering is the possibility that if Nephi had not asked, we and the whole world might never have received the important interpretation and expansion of Lehi’s vision. Asking is important. But be prepared to give an answer to the question: What do you desire? What do you really desire?
+
+---
 
 ### 1 Nephi 11:16 — The Condescension of God
 
-To “descend” means to “come down.” “ Condescend” means to come down “with or to a level with another.” Nephi saw the condescension of the Messiah on several different levels: 1. Jesus was born as a baby, just like everyone else. 2. He was also born into a lowly social station. Jesus could have been born into an aristocratic or royal family, with wealth and status. But no, He was born as lowly as possible. 3. Nephi saw the baptism of Jesus. What did Jesus condescend to by participating in the ordinance of baptism? He condescended to the Father’s will. He condescended to say, “I will be obedient, and I will submit myself to the will of the Father.” Baptism is a symbol of death followed by being raised to a new life. So, Jesus’ participation in the ordinance of baptism symbolized His willingness to submit to the will of the Father, even unto the point of death. 4. Nephi saw Jesus casting out evil spirits. Is that condescension? He was doing the dirty work, interacting with some pretty nasty folks. Jesus was even willing to deal with wicked, evil spirits. That’s condescension. 5. Following that, Nephi saw Jesus suffer, condescending to experience not just some pain, but pain to the fullest extent. 6. Next, Nephi was shown that Christ would die. That also is a type of condescension, going into the world of the dead, those who have died. 7. And finally, even after Christ was exalted, what did Nephi see Him do? Christ came down among the Nephites as a glorified being. What does that say? Even after Christ has overcome, when He could sit on His cloud of glory forever, He is still willing to descend again, and again, to care for those who will come unto Him.
+To “descend” means to “come down.” “Condescend” means to come down “with or to a level with another.” Nephi saw the condescension of the Messiah on several different levels:
+
+1. **Jesus was born as a baby**, just like everyone else.
+2. **He was born into a lowly social station.** Jesus could have been born into an aristocratic or royal family, with wealth and status. But no, He was born as lowly as possible.
+3. **Nephi saw the baptism of Jesus.** What did Jesus condescend to by participating in the ordinance of baptism? He condescended to the Father’s will. He condescended to say, “I will be obedient, and I will submit myself to the will of the Father.” Baptism is a symbol of death followed by being raised to a new life. So, Jesus’ participation in the ordinance of baptism symbolized His willingness to submit to the will of the Father, even unto the point of death.
+4. **Nephi saw Jesus casting out evil spirits.** Is that condescension? He was doing the dirty work, interacting with some pretty nasty folks. Jesus was even willing to deal with wicked, evil spirits. That’s condescension.
+5. **Following that, Nephi saw Jesus suffer**, condescending to experience not just some pain, but pain to the fullest extent.
+6. **Next, Nephi was shown that Christ would die.** That also is a type of condescension, going into the world of the dead, those who have died.
+7. **And finally, even after Christ was exalted, what did Nephi see Him do?** Christ came down among the Nephites as a glorified being. What does that say? Even after Christ has overcome, when He could sit on His cloud of glory forever, He is still willing to descend again, and again, to care for those who will come unto Him.
+
+---
 
 ### 1 Nephi 11:17 — “I Know That He Loveth His Children…”
 
-In 1 Nephi 11:1 6, the Spirit asked, “ Knowest thou the condescension of God ?” Nephi answered, “ I know that [God] loveth his children; nevertheless, I do not know the meaning of all things” (v. 17). This was one of Elder Maxwell’s favorite verses. Isn’t that the crucial recognition—knowing that God loves His children? Everything else can wait. Even though we do not know the meaning of all things, as long as we know that the Lord loves us and is going to see that things will turn out right, we know what really matters. That is what will sustain us. How do you deal with the fact that you do not know as much as you would like to know? Can you still be obedient even though you do not know everything? Did Nephi know everything after he had been taught by the Spirit of the Lord? No. Even after all that, revelations will yet continue in Nephi’s life, and so will it be with you.
+In 1 Nephi 11:16, the Spirit asked, “Knowest thou the condescension of God?” Nephi answered:
+
+> “I know that [God] loveth his children; nevertheless, I do not know the meaning of all things.” (v. 17)
+
+This was one of Elder Maxwell’s favorite verses. Isn’t that the crucial recognition—knowing that God loves His children? Everything else can wait. Even though we do not know the meaning of all things, as long as we know that the Lord loves us and is going to see that things will turn out right, we know what really matters. That is what will sustain us.
+
+How do you deal with the fact that you do not know as much as you would like to know? Can you still be obedient even though you do not know everything? Did Nephi know everything after he had been taught by the Spirit of the Lord? No. Even after all that, revelations will yet continue in Nephi’s life, and so will it be with you.
+
+---
 
 ### 1 Nephi 11:22 — How is the Tree of Life the Love of God?
 
-Does the Book of Mormon answer the question, “What is the Tree of Life that Lehi saw?” What is this tree that the people are all pressing toward? In 1 Nephi 11:22, Nephi learns that it is a representation of the love of God. Not just the love of God in an abstract way, but the love of God who condescended and came down into this world that He might die for us. That love—that is what the Tree of Life represents. Book of Mormon Central, “ Why Didn’t Nephi Mention Mary’s Name? (1 Nephi 11:22),” KnoWhy 542 (December 24, 2019). “What better way to emphasize God’s love than by drawing attention to Christ’s mother, who by the very meaning of her name was love personified and who brought forth the most desirable gift of God? It appears that by using the root meanings of Mary’s name, instead of the name itself, Nephi subtly drew attention to her divinely appointed role to bring forth and raise the Christ Child.”
+Does the Book of Mormon answer the question, “What is the Tree of Life that Lehi saw?” What is this tree that the people are all pressing toward?
+
+In 1 Nephi 11:22, Nephi learns that it is a representation of the love of God. Not just the love of God in an abstract way, but the love of God who condescended and came down into this world that He might die for us. That love—that is what the Tree of Life represents.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Didn’t Nephi Mention Mary’s Name? (1 Nephi 11:22),” *KnoWhy* 542 (December 24, 2019).
+  > “What better way to emphasize God’s love than by drawing attention to Christ’s mother, who by the very meaning of her name was love personified and who brought forth the most desirable gift of God? It appears that by using the root meanings of Mary’s name, instead of the name itself, Nephi subtly drew attention to her divinely appointed role to bring forth and raise the Christ Child.”

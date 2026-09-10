@@ -56,10 +56,16 @@ Finally, notice that the word **“joy”** appears in Ammon’s ecstatic reflec
 | **2** | Alma 26:11 | “...yea, my heart is brim with joy, and I will rejoice in my God.” |
 | **3** | Alma 26:16 | “Therefore, let us glory, yea, we will glory in the Lord; yea, we will rejoice, for **our joy** is full...” |
 | **4** | Alma 26:30 | “And we have suffered all manner of afflictions, and all this, that perhaps we might be the means of saving some soul; and we supposed that **our joy** would be full if perhaps we could be the means of saving some.” |
-| **5** | Alma 26:35 | “Now have we not reason to rejoice? Yea, I say unto you, there never were men that had so great reason to rejoice as we, since the world began; yea, and **my joy** is carried away...” |
+| **5** | Alma 26:35 | “Now have we not reason to rejoice?
+
+Yea, I say unto you, there never were men that had so great reason to rejoice as we, since the world began; yea, and **my joy** is carried away...” |
 | **6** | Alma 26:36 | “...and this is **my joy**, and my great thanksgiving; yea, and I will give thanks unto my God forever. Amen.” |
 | **7** | Alma 26:37 | “Now my brethren, we see that God is mindful of every people... and **my joy** is full.” |
 
 Another seven-fold expression of complete joy will show up again in **Alma 27:17–19**, and yet a third time in **Alma 29:5, 9, 10, 13, 14, 14, 16**. These triple expressions of joy to the seventh power, along with the many precise word choices in these deeply personal chapters, seem far too literarily purposeful and symbolically meaningful to be accidental or unintentional.
 
-#### Further Reading-Corbin Volluz, “A Study in Seven: Hebrew Numerology in the Book of Mormon,” *BYU Studies Quarterly* 53, no. 2 (2014): 57–83.
+####
+
+#### Further Reading
+
+- Corbin Volluz, “A Study in Seven: Hebrew Numerology in the Book of Mormon,” *BYU Studies Quarterly* 53, no. 2 (2014): 57–83.

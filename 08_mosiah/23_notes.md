@@ -5,27 +5,63 @@
 
 ## Table of Contents
 
-- [Mosiah 23:1 — A Textual Seam](#mosiah-231-a-textual-seam)
-- [Mosiah 23:6–14 — Alma Refused to Be King](#mosiah-23614-alma-refused-to-be-king)
-- [Mosiah 23:19–24 — Alma’s People Were Brought into Bondage](#mosiah-231924-almas-people-were-brought-into-bondage)
-- [Mosiah 23:33 — Why Did the Lamanite Daughters Plead for Their Husbands?](#mosiah-2333-why-did-the-lamanite-daughters-plead-for-their-husbands)
+- [Mosiah 23:1 — A Textual Seam](#mosiah-231--a-textual-seam)
+- [Mosiah 23:6–14 — Alma Refused to Be King](#mosiah-23614--alma-refused-to-be-king)
+- [Mosiah 23:19–24 — Alma’s People Were Brought into Bondage](#mosiah-231924--almas-people-were-brought-into-bondage)
+- [Mosiah 23:33 — Why Did the Lamanite Daughters Plead for Their Husbands?](#mosiah-2333--why-did-the-lamanite-daughters-plead-for-their-husbands)
 
 ---
 
 ### Mosiah 23:1 — A Textual Seam
 
-It is rather amazing to realize that Mosiah 23:1 picks up exactly where Mosiah 18:34 had left off. After Alma had organized the Church at the Waters of Mormon, he and his people “were apprised of the coming of the king’s army; therefore they took their tents and their families and departed into the wilderness” (18:34). After reporting all that is said in the four chapters from Mosiah 19 to Mosiah 22, the account of Alma resumes without missing a beat: “Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, . . . therefore they gathered together their flocks, and took of their grain, and departed into the wilderness” (23:1). It is as if an underlying text about Alma’s group was interrupted, sliced open, filled with other storylines, and then picked up again. This precise resumption speaks volumes of the careful masterminding of the composing of the book of Mosiah. Needless to say, one cannot imagine Joseph Smith remembering, as he dictated, where the storyline had left off at the end of Mosiah 18 (Figure 1)
+It is rather amazing to realize that Mosiah 23:1 picks up exactly where Mosiah 18:34 had left off. After Alma had organized the Church at the Waters of Mormon, he and his people “were apprised of the coming of the king’s army; therefore they took their tents and their families and departed into the wilderness” (18:34). After reporting all that is said in the four chapters from Mosiah 19 to Mosiah 22, the account of Alma resumes without missing a beat: “Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, . . . therefore they gathered together their flocks, and took of their grain, and departed into the wilderness” (23:1).
+
+It is as if an underlying text about Alma’s group was interrupted, sliced open, filled with other storylines, and then picked up again. This precise resumption speaks volumes of the careful masterminding of the composing of the book of Mosiah. Needless to say, one cannot imagine Joseph Smith remembering, as he dictated, where the storyline had left off at the end of Mosiah 18 (Figure 1)
+
+---
 
 ### Mosiah 23:6–14 — Alma Refused to Be King
 
-Having arrived in a beautiful and pure land, Alma’s people wanted him to be their king. His polite rejection of this nomination was filled with advice about the need to esteem one another as equals, rejecting the idea of kings being above normal human beings, protecting themselves against the iniquity and oppression caused by King Noah. Alma refused to be king so that his people could “stand fast in this liberty wherewith ye have been made free, and that ye trust no man to be a king over you” (23:13), walking in the ways of God and keeping the commandments (23:14). Instead, Alma served as the High Priest. The specific words of Alma the Elder here no doubt influenced his son, Alma the Younger, as well as King Mosiah, as the decision was made for Mosiah to abdicate the kingship, appoint Alma the Younger as the first Chief Judge and also High Priest under the new reign of judges at the end of the book of Mosiah. Especially poignant were the rationales set forth by Mosiah regarding the problems of iniquity in high places (29:17, 36) and human inequity (29:32, 38).
+Having arrived in a beautiful and pure land, Alma’s people wanted him to be their king. His polite rejection of this nomination was filled with advice about the need to esteem one another as equals, rejecting the idea of kings being above normal human beings, protecting themselves against the iniquity and oppression caused by King Noah. Alma refused to be king so that his people could “stand fast in this liberty wherewith ye have been made free, and that ye trust no man to be a king over you” (23:13), walking in the ways of God and keeping the commandments (23:14).
+
+Instead, Alma served as the High Priest. The specific words of Alma the Elder here no doubt influenced his son, Alma the Younger, as well as King Mosiah, as the decision was made for Mosiah to abdicate the kingship, appoint Alma the Younger as the first Chief Judge and also High Priest under the new reign of judges at the end of the book of Mosiah. Especially poignant were the rationales set forth by Mosiah regarding the problems of iniquity in high places (29:17, 36) and human inequity (29:32, 38).
+
+---
 
 ### Mosiah 23:19–24 — Alma’s People Were Brought into Bondage
 
-Having consecrated righteous men to be preachers and teachers, ministering to the people “with things pertaining to righteousness ” (23:18), Alma’s group flourished in a land they called H elam. Helam was the name of the first person baptized at the Waters of Mormon (18:13).
+Having consecrated righteous men to be preachers and teachers, ministering to the people “with things pertaining to righteousness” (23:18), Alma’s group flourished in a land they called H elam. Helam was the name of the first person baptized at the Waters of Mormon (18:13).
 
-Figure 1 John W. Welch and Greg Welch, "Flashbacks in the Book of Mosiah," in Charting the Book of Mormon, chart 29. The “land of Helam” is mentioned here eight times, and the “city of Helam,” three times inside of twenty-one verses here. It must have been a place that had left a deep impression on Alma’s memory, just as the place of “Mormon” had left unforgettable memories, being mentioned six times in one verse alone (18:30). Despite the great faith and industry of this people, Alma warns that the Lord desires to “chasten his people; yea, he trieth their patience and their faith” (23:21). And then, Alma promises that “whoseover putteth his trust in him shall be lifted up at the last day” (23:22). And Alma promises to show that they were in “bondage, and none could deliver them butt he Lord their God, yea even the God of Abraham and Isaac and of Jacob” (23:23), and indeed “he did deliver them” (23:24). Notice that very similar wordings were used a generation later by Alma the Younger in telling his son Helaman of his conversion: “who soever shall put their trust in God. . . shall be lifted up at the last day” (Alma 36:3), and “I do put my trust in him” and “he will raise me up at the last day” (Alma 36:27 –28). “For they were in bondage, and none could deliver them except it was the God of Abraham, and the God of Isaac, and the God of Jacob; and he surely did deliver them” (Alma 36:2). Indeed, Alma the Younger knew these words of his father spoken in the land of Helam just as he remembered, at the turning point of his conversion, the words of his father speaking about the Atonement of Jesus Christ (Alma 36:17). Here is yet another case of exact words being remembered and reused by exactly the one person who should have used those words, a hundred pages later in the book. And indeed, Alma the Elder did go on to “show unto you that they were brought into bondage, and none could deliver them but the Lord their God” (23:23). And once again it was the priests of Noah under the leadership of Amulon who inflicted the greatest suffering. Elder Maxwell has said that there are three reasons why we suffer. 1. The first one is mortality. We live on an earth where things happen. Where rheumatism and all kinds of things happen to us. We suffer that. 2. The second one is that we are stupid. Apostles do not actually use that word, but if the shoe fits, wear it. We may step out in front of a car. We make mistakes, and we end up hurting others or ourselves. 3. The third reason is that the Lord wants to school us, and if we are not paying attention and he needs to school us, he will give us something that will whip us into shape. One of the problems with these three divisions of suffering is that while we are actually suffering, we do not normally know which one it is. However, whatever challenges the Lord has provided us with, or allowed for us, we can turn to the Lord, trust him, and serve him. It will all work out the right way in his time and in his place. It is a gift. And so it was for the people of Alma. Further Reading Book of Mormon Central, “ Why Does God Sometimes Allow His Saints to Be Martyred? (Alma 14:11),” KnoWhy 351 (August 11, 2017).
+Figure 1 John W. Welch and Greg Welch, "Flashbacks in the Book of Mosiah," in Charting the Book of Mormon, chart 29. The “land of Helam” is mentioned here eight times, and the “city of Helam,” three times inside of twenty-one verses here. It must have been a place that had left a deep impression on Alma’s memory, just as the place of “Mormon” had left unforgettable memories, being mentioned six times in one verse alone (18:30).
+
+Despite the great faith and industry of this people, Alma warns that the Lord desires to “chasten his people; yea, he trieth their patience and their faith” (23:21). And then, Alma promises that “whoseover putteth his trust in him shall be lifted up at the last day” (23:22). And Alma promises to show that they were in “bondage, and none could deliver them butt he Lord their God, yea even the God of Abraham and Isaac and of Jacob” (23:23), and indeed “he did deliver them” (23:24).
+
+Notice that very similar wordings were used a generation later by Alma the Younger in telling his son Helaman of his conversion: “who soever shall put their trust in God. . . shall be lifted up at the last day” (Alma 36:3), and “I do put my trust in him” and “he will raise me up at the last day” (Alma 36:27–28). “For they were in bondage, and none could deliver them except it was the God of Abraham, and the God of Isaac, and the God of Jacob; and he surely did deliver them” (Alma 36:2). Indeed, Alma the Younger knew these words of his father spoken in the land of Helam just as he remembered, at the turning point of his conversion, the words of his father speaking about the Atonement of Jesus Christ (Alma 36:17).
+
+Here is yet another case of exact words being remembered and reused by exactly the one person who should have used those words, a hundred pages later in the book. And indeed, Alma the Elder did go on to “show unto you that they were brought into bondage, and none could deliver them but the Lord their God” (23:23). And once again it was the priests of Noah under the leadership of Amulon who inflicted the greatest suffering.
+
+Elder Maxwell has said that there are three reasons why we suffer. 1. The first one is mortality.
+
+We live on an earth where things happen. Where rheumatism and all kinds of things happen to us. We suffer that.
+
+2. The second one is that we are stupid. Apostles do not actually use that word, but if the shoe fits, wear it.
+
+We may step out in front of a car. We make mistakes, and we end up hurting others or ourselves. 3.
+
+The third reason is that the Lord wants to school us, and if we are not paying attention and he needs to school us, he will give us something that will whip us into shape. One of the problems with these three divisions of suffering is that while we are actually suffering, we do not normally know which one it is. However, whatever challenges the Lord has provided us with, or allowed for us, we can turn to the Lord, trust him, and serve him.
+
+It will all work out the right way in his time and in his place. It is a gift. And so it was for the people of Alma.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Does God Sometimes Allow His Saints to Be Martyred? (Alma 14:11),” KnoWhy 351 (August 11, 2017).
+
+---
 
 ### Mosiah 23:33 — Why Did the Lamanite Daughters Plead for Their Husbands?
 
-The Lamanites came and took possession of the land of Helam, and Alma and his people did not resist (23:29). But then the priests of Noah, who were also in the area, feared that the Lamanites would kill them, and so they sent their Lamanite wives to plead for them, which they did. In that day, women were less able than women today would be to object to their husbands. In fact, the word in Hebrew for husband is baal, which meant lord, as in “my lord,” (with a little “l”). The relationship between husband and wife was not as much of an equal partnership as it is meant to be today. Although the wives could probably make life pretty miserable for their husband, there would be a lot of risks in this society for doing that. They were probably normally very obedient. In any case, even if they had once been kidnapped, these women were now their husbands’ loyal wives. This particular story says a lot about how good those women were. They were willing to support their husbands, protect them, and do whatever they could for them.
+The Lamanites came and took possession of the land of Helam, and Alma and his people did not resist (23:29). But then the priests of Noah, who were also in the area, feared that the Lamanites would kill them, and so they sent their Lamanite wives to plead for them, which they did. In that day, women were less able than women today would be to object to their husbands.
+
+In fact, the word in Hebrew for husband is baal, which meant lord, as in “my lord,” (with a little “l”). The relationship between husband and wife was not as much of an equal partnership as it is meant to be today. Although the wives could probably make life pretty miserable for their husband, there would be a lot of risks in this society for doing that.
+
+They were probably normally very obedient. In any case, even if they had once been kidnapped, these women were now their husbands’ loyal wives. This particular story says a lot about how good those women were. They were willing to support their husbands, protect them, and do whatever they could for them.

@@ -8,6 +8,8 @@
 
 - [Alma 62:1–11 — Moroni Rushes to the Aid of Pahoran in Gideon](#alma-62111--moroni-rushes-to-the-aid-of-pahoran-in-gideon)
 - [Alma 62:12–30 — Relief to the Frontiers and the Recapture of Nephihah](#alma-621230--relief-to-the-frontiers-and-the-recapture-of-nephihah)
+  - [Strategic Settlement of Prisoners in Jershon](#strategic-settlement-of-prisoners-in-jershon)
+  - [The Nighttime Recapture of Nephihah](#the-nighttime-recapture-of-nephihah)
 - [Alma 62:31–39 — The Death of Teancum and the End of the War](#alma-623139--the-death-of-teancum-and-the-end-of-the-war)
 - [Alma 62:41 — Hearts Softened vs. Hardened by Affliction](#alma-6241--hearts-softened-vs-hardened-by-affliction)
 - [Alma 62:42–52 — Post-War Recovery and Leadership Transitions](#alma-624252--post-war-recovery-and-leadership-transitions)
@@ -25,15 +27,21 @@ Upon uniting with Pahoran in Gideon, their combined forces marched on Zarahemla:
 
 ---
 
+---
+
 ### Alma 62:12–30 — Relief to the Frontiers and the Recapture of Nephihah
 
 With Zarahemla liberated, Moroni and Pahoran dispatched urgent provisions and reinforcements to Helaman on the southwestern front and to Lehi and Teancum on the eastern borders.
 
 #### Strategic Settlement of Prisoners in Jershon
+
 Willing Lamanite captives were settled in the land of **Jershon** (Alma 62:17, 27). Joining the peaceful Ammonites, they cultivated crops and supplied provisions to the Nephite armies, turning former enemies into productive, covenant-aligned contributors to society.
 
 #### The Nighttime Recapture of Nephihah
+
 Moroni then marched to retake the heavily fortified city of **Nephihah** (62:21–26). Demonstrating his tactical genius, Moroni sent men with ropes and ladders up the back wall where the Lamanites did not post guards because of the natural difficulty of the terrain. The Nephite soldiers climbed over the wall in the dead of night, took position inside the city, and overwhelmed the garrison at dawn without the loss of a single Nephite life (62:23).
+
+---
 
 ---
 
@@ -47,7 +55,13 @@ When Moroni and Lehi discovered Teancum's body the next morning, they were fille
 
 Following Ammoron’s death, the leaderless Lamanite army surrendered, and the devastating fourteen-year war of Amalickiah and Ammoron finally came to an end (62:38–39).
 
-#### Further Reading-Book of Mormon Central, “Why Was Teancum Captured and Killed? (Alma 62:36),” *KnoWhy* 170 (August 22, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Was Teancum Captured and Killed? (Alma 62:36),” *KnoWhy* 170 (August 22, 2016).
+
+---
 
 ---
 
@@ -61,10 +75,14 @@ This profound observation is one of Mormon’s central theological takeaways fro
 
 ---
 
+---
+
 ### Alma 62:42–52 — Post-War Recovery and Leadership Transitions
 
 Following the establishment of peace, a sudden and rapid succession of leadership crises overtook the Nephite nation:
-- **Captain Moroni’s Retirement and Death**: Moroni yielded up the command of his armies to his son Moronihah and retired to his home. He died only two years later (Alma 62:43; 63:3). Was his death premature? Was it the result of untreated war injuries, disease, or the immense physical and emotional trauma of commanding through fourteen years of total war?
+- **Captain Moroni’s Retirement and Death**: Moroni yielded up the command of his armies to his son Moronihah and retired to his home. He died only two years later (Alma 62:43; 63:3). Was his death premature?
+
+Was it the result of untreated war injuries, disease, or the immense physical and emotional trauma of commanding through fourteen years of total war?
 - **Helaman’s Regulation and Death**: Helaman returned to his sacred calling, regulated the church throughout the land, and died only one year later (62:45–52).
 - **Pahoran’s Passing**: Pahoran returned to the judgment seat but would die only four years later (62:44; Helaman 1:1), leaving an unresolved succession contest between his sons that would spark new assassinations and civil strife.
 

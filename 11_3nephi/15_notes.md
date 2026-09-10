@@ -7,12 +7,10 @@
 
 - [3 Nephi 15–16 Overview — Reusage of the Words of Christ](#3-nephi-1516-overview--reusage-of-the-words-of-christ)
   - [The Chiastic Structure of Christ's Teachings in 3 Nephi 12 vs 15–16](#the-chiastic-structure-of-christs-teachings-in-3-nephi-12-vs-1516)
-  - [Further Reading](#further-reading)
-- [3 Nephi 15:1 — Jesus Had Now Taught Everything He Had Taught in the Old World](#3-nephi-151-jesus-had-now-taught-everything-he-had-taught-in-the-old-world)
-- [3 Nephi 15:1 — We Should Remember and Do His Sayings](#3-nephi-151-we-should-remember-and-do-his-sayings)
-- [3 Nephi 15:9–10 — Those Who Endure to the End Shall Be Saved](#3-nephi-15910-those-who-endure-to-the-end-shall-be-saved)
-- [3 Nephi 15:21–22 — Other Sheep I Have Which Are Not of This Fold](#3-nephi-152122-other-sheep-i-have-which-are-not-of-this-fold)
-  - [Further Reading](#further-reading-1)
+- [3 Nephi 15:1 — Jesus Had Now Taught Everything He Had Taught in the Old World](#3-nephi-151--jesus-had-now-taught-everything-he-had-taught-in-the-old-world)
+- [3 Nephi 15:1 — We Should Remember and Do His Sayings](#3-nephi-151--we-should-remember-and-do-his-sayings)
+- [3 Nephi 15:9–10 — Those Who Endure to the End Shall Be Saved](#3-nephi-15910--those-who-endure-to-the-end-shall-be-saved)
+- [3 Nephi 15:21–22 — Other Sheep I Have Which Are Not of This Fold](#3-nephi-152122--other-sheep-i-have-which-are-not-of-this-fold)
 
 ---
 
@@ -46,7 +44,13 @@ In chapters 15 and 16, Jesus emphasizes and elaborates these specific points in 
 
 Obviously, Jesus knew how to use the structural and rhetorical power of introducing ideas in one order and then going back through those in the opposite order to finish where he started. It was a powerful and an organized way of presenting ideas. It is a recognizable chiastic structure with which these people were well familiar. The structure may indicate that these passages were most likely not just being casually repeated, but were being embedded deliberately in a holy two-way covenant-making context.
 
-#### Further Reading-John W. Welch, “Worthy of Another Look: Reusages of the Words of Christ,” *Journal of the Book of Mormon and Other Restoration Scripture* 22, no. 1 (2013): 62–72.
+####
+
+#### Further Reading
+
+- John W. Welch, “Worthy of Another Look: Reusages of the Words of Christ,” *Journal of the Book of Mormon and Other Restoration Scripture* 22, no. 1 (2013): 62–72.
+
+---
 
 ---
 
@@ -56,13 +60,19 @@ Jesus said in 3 Nephi 15:1 that he had taught the people in Bountiful “the thi
 
 ---
 
+---
+
 ### 3 Nephi 15:1 — We Should Remember and Do His Sayings
 
 “Therefore, whoso remembereth these sayings of mine and doeth them ....” This is building on 3 Nephi 14:24, “Therefore, whoso heareth these sayings of mine and doeth them, I will liken him unto a wise man, who builds his house upon a rock.” But it is not enough just to hear them; now they must be remembered. There is a difference between hearing and remembering.
 
-Jesus emphasized, especially in the sacrament prayers, the importance of remembering what he taught. Here he says, “If you remember and do them, I will raise you up at the last day.” This is a covenantal promise on his part. It was no longer just “if you hear and do them,” and build your house, you are building on a rock. The floods will descend and your house will stand.
+Jesus emphasized, especially in the sacrament prayers, the importance of remembering what he taught. Here he says, “If you remember and do them, I will raise you up at the last day.” This is a covenantal promise on his part.
+
+It was no longer just “if you hear and do them,” and build your house, you are building on a rock. The floods will descend and your house will stand.
 
 Here Jesus says more than that. If you build your house on this rock—which is the temple or all the temple-related teachings and the covenants that are involved there—then I will raise you up at the last day. You will have the blessings of the holy resurrection and be able to come forth into the presence of God.
+
+---
 
 ---
 
@@ -74,10 +84,16 @@ The people in Bountiful had put their fingers in the tokens of His sacrifice, an
 
 ---
 
+---
+
 ### 3 Nephi 15:21–22 — Other Sheep I Have Which Are Not of This Fold
 
 When Jesus appeared to the Nephites, he told them that they were among the “other sheep” that must be brought into the fold (3 Nephi 15:21). 1 Nephi 5:14 states that Lehi was a descendant of Joseph, and in Alma 10:3, Amulek tells the people of Ammonihah that Lehi was a descendant of Manasseh. The tribes of Ephraim and Manasseh, sons of Joseph, were among the northern tribes that became “lost.” The Nephites, then, were actually part of the “lost” tribes, and the “other sheep” referred to them, among others.
 
 However, the people of ancient Judea understood him “not, for they supposed it had been the Gentiles; for they understood not that the Gentiles should be converted through their preaching” (3 Nephi 15:22). And, just as Jesus Christ remembered these “other sheep,” he will remember all of God’s children, today and forever.
 
-#### Further Reading-Book of Mormon Central, “Why Did Jesus Say That There Were ‘Other Sheep’ Who Would Hear His Voice? (3 Nephi 15:21),” *KnoWhy* 207 (October 12, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Jesus Say That There Were ‘Other Sheep’ Who Would Hear His Voice? (3 Nephi 15:21),” *KnoWhy* 207 (October 12, 2016).

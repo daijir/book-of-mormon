@@ -5,39 +5,113 @@
 
 ## Table of Contents
 
-- [Mosiah 12:1 — Where Was Abinadi during Those Two Years?](#mosiah-121-where-was-abinadi-during-those-two-years)
-- [Mosiah 12:1 — Why Did Abinadi Come in Disguise?](#mosiah-121-why-did-abinadi-come-in-disguise)
-- [Mosiah 12:3 — Abinadi Prophesied against Noah](#mosiah-123-abinadi-prophesied-against-noah)
-- [Mosiah 12:9 — Abinadi Was Brought before the King](#mosiah-129-abinadi-was-brought-before-the-king)
-- [Mosiah 12:17 — How Many Priests Did King Noah Have?](#mosiah-1217-how-many-priests-did-king-noah-have)
-- [Mosiah 12:20–24 — The Priests Questioned Abinadi](#mosiah-122024-the-priests-questioned-abinadi)
-- [Mosiah 12:29 — The Priests of Noah Claim to Keep the Law of Moses](#mosiah-1229-the-priests-of-noah-claim-to-keep-the-law-of-moses)
+- [Mosiah 12:1 — Where Was Abinadi during Those Two Years?](#mosiah-121--where-was-abinadi-during-those-two-years)
+- [Mosiah 12:1 — Why Did Abinadi Come in Disguise?](#mosiah-121--why-did-abinadi-come-in-disguise)
+- [Mosiah 12:3 — Abinadi Prophesied against Noah](#mosiah-123--abinadi-prophesied-against-noah)
+- [Mosiah 12:9 — Abinadi Was Brought before the King](#mosiah-129--abinadi-was-brought-before-the-king)
+- [Mosiah 12:17 — How Many Priests Did King Noah Have?](#mosiah-1217--how-many-priests-did-king-noah-have)
+- [Mosiah 12:20–24 — The Priests Questioned Abinadi](#mosiah-122024--the-priests-questioned-abinadi)
+- [Mosiah 12:29 — The Priests of Noah Claim to Keep the Law of Moses](#mosiah-1229--the-priests-of-noah-claim-to-keep-the-law-of-moses)
 
 ---
 
 ### Mosiah 12:1 — Where Was Abinadi during Those Two Years?
 
-Was Abinadi sitting out in the wilderness by himself for two years? That is a long time to spend alone out with the jaguars and the boa constrictors. The only other known Nephite settlement at this time was in Zarahemla. If Abinadi was an older prophet and had come back with the original settlers who re-inherited the land of Nephi, he would have known at least approximately where the land of Zarahemla was. I suspect that Abinadi went back to Zarahemla for spiritual and textual reinforcements. This could account for some of the similarities in language between words found in Mosiah 3 (King Benjamin) and the end of Mosiah 15 (Abinadi), although the two of them could have drawn independently on Nephite doctrines and teachings. But more than that, it seems quite possible that Abinadi went back to Zarahemla to consult the Law of Moses and the words of Isaiah recorded on the plates of brass. When he returned to the land of Nephi, he was certainly well prepared with a knowledge of the law and commandments. King Benjamin and Abinadi were both prophets of the Lord. They could well have worked and consulted together. We usually think of Abinadi as a solo operator, but he may have had connections with other prophets. He may have gone to Benjamin as an established royal priesthood leader to seek guidance from the Lord and to gather wisdom by memorizing the scriptures.
+Was Abinadi sitting out in the wilderness by himself for two years? That is a long time to spend alone out with the jaguars and the boa constrictors. The only other known Nephite settlement at this time was in Zarahemla.
+
+If Abinadi was an older prophet and had come back with the original settlers who re-inherited the land of Nephi, he would have known at least approximately where the land of Zarahemla was. I suspect that Abinadi went back to Zarahemla for spiritual and textual reinforcements. This could account for some of the similarities in language between words found in Mosiah 3 (King Benjamin) and the end of Mosiah 15 (Abinadi), although the two of them could have drawn independently on Nephite doctrines and teachings.
+
+But more than that, it seems quite possible that Abinadi went back to Zarahemla to consult the Law of Moses and the words of Isaiah recorded on the plates of brass. When he returned to the land of Nephi, he was certainly well prepared with a knowledge of the law and commandments. King Benjamin and Abinadi were both prophets of the Lord.
+
+They could well have worked and consulted together. We usually think of Abinadi as a solo operator, but he may have had connections with other prophets. He may have gone to Benjamin as an established royal priesthood leader to seek guidance from the Lord and to gather wisdom by memorizing the scriptures.
+
+---
 
 ### Mosiah 12:1 — Why Did Abinadi Come in Disguise?
 
-There has been a fair amount of debate about the question of when, where, and how Abinadi returned to the City of Nephi. It appears humorous that he would come to the city in disguise, but almost immediately identify himself as Abinadi. However, I think he came in disguise for a limited purpose. Because there was an arrest warrant still outstanding against him (Mosiah 11:29), he needed a way to covertly enter the city. But once he was in the right place within the city center, he was ready to identify himself and deliver his message. Further Reading Book of Mormon Central, “Why Did Abinadi Use a Disguise? ( Mosiah 12:1) ,” KnoWhy 310 (May 8, 2017). Alan Goff, “ Abinadi’s Disguise and the Fate of King Noah ,” Insights: A Window on the Ancient World 20, no. 12 (2000): 2.
+There has been a fair amount of debate about the question of when, where, and how Abinadi returned to the City of Nephi. It appears humorous that he would come to the city in disguise, but almost immediately identify himself as Abinadi. However, I think he came in disguise for a limited purpose.
+
+Because there was an arrest warrant still outstanding against him (Mosiah 11:29), he needed a way to covertly enter the city. But once he was in the right place within the city center, he was ready to identify himself and deliver his message.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Abinadi Use a Disguise? ( Mosiah 12:1) ,” KnoWhy 310 (May 8, 2017)
+- Alan Goff, “Abinadi’s Disguise and the Fate of King Noah ,” Insights: A Window on the Ancient World 20, no. 12 (2000): 2.
+
+---
 
 ### Mosiah 12:3 — Abinadi Prophesied against Noah
 
-Abinadi’s words, “ It shall come to pass that the life of King Noah shall be valued even as a garment in the furnace” constitute a very interesting form of prophecy. It is a Hebrew poetic form called a simile curse. Such statements conveyed actual predictions and real curses. They portrayed very severe consequences to the listeners. Such curses, to ancient people, were very serious and were considered to have numinous powers to bring evil upon people. We might even say that curses such as Abinadi’s words were deadly serious. Further Reading John A. Tvedtnes, “ As a Garment in a Hot Furnace ,” in Pressing Forward with the Book of Mormon: The FARMS Updates of the 1990s, ed. John W. Welch and Melvin J. Thorne (Provo, UT: FARMS, 1999), 127–131.
+Abinadi’s words, “It shall come to pass that the life of King Noah shall be valued even as a garment in the furnace” constitute a very interesting form of prophecy. It is a Hebrew poetic form called a simile curse. Such statements conveyed actual predictions and real curses.
+
+They portrayed very severe consequences to the listeners. Such curses, to ancient people, were very serious and were considered to have numinous powers to bring evil upon people. We might even say that curses such as Abinadi’s words were deadly serious.
+
+#### Further Reading
+
+- John A. Tvedtnes, “As a Garment in a Hot Furnace ,” in Pressing Forward with the Book of Mormon: The FARMS Updates of the 1990s, ed. John W. Welch and Melvin J. Thorne (Provo, UT: FARMS, 1999), 127–131.
+
+---
 
 ### Mosiah 12:9 — Abinadi Was Brought before the King
 
-King Noah had commanded his people “to bring Abinadi hither, that I may slay him (Mosiah 11:28).” Noah likely wanted Abinadi brought before him for a hearing, because simply ordering him to be killed would have only given Abinadi’s cause legitimacy. In Mosiah 17 Noah desperately wanted Abinadi to retract his prophecies to avoid incrimination. But Abinadi said, “I will not recall my words, and they shall stand as a testimony against you. And if ye slay me ye will shed innocent blood, and this shall also stand as a testimony against you at the last day” (Mosiah 17:10). Noah wanted to engage in a little plea-bargaining at that point, but Abinadi would not go for it. Under ancient Near Eastern law, there were several bodies of statutory material giving the king the exclusive right to put anyone to death in his kingdom. Others in authority could execute punishments, such as giving forty stripes, but they could not kill him unless ordered by the king. That tradition persists all the way through 3 Nephi 6, when the text says that the governor of the land in Zarahemla was the only one who could authorize the death penalty. We may wonder why so many of the people in the city of Nephi went along with Noah. One reason might have been economic security. Noah’s large building campaigns would have produced high rates of employment. Life was good in that sense. Presumably there was upward mobility in this relatively small society and those opportunities encouraged people to not want to rock the boat. When Abinadi came to preach repentance, the people did not agree with Abinadi’s ominous condemnations. There may have been some heavy rationalizations going on in their minds, as we mentioned in Mosiah 11. Here is a lesson for us—we must always be on our guard that we are not rationalizing away our misconduct. Instead, it helps us to have bishops, stake presidents, teachers and ministering brothers and sisters to help us see how we can do better than we have been doing.
+King Noah had commanded his people “to bring Abinadi hither, that I may slay him (Mosiah 11:28).” Noah likely wanted Abinadi brought before him for a hearing, because simply ordering him to be killed would have only given Abinadi’s cause legitimacy. In Mosiah 17 Noah desperately wanted Abinadi to retract his prophecies to avoid incrimination.
+
+But Abinadi said, “I will not recall my words, and they shall stand as a testimony against you. And if ye slay me ye will shed innocent blood, and this shall also stand as a testimony against you at the last day” (Mosiah 17:10). Noah wanted to engage in a little plea-bargaining at that point, but Abinadi would not go for it.
+
+Under ancient Near Eastern law, there were several bodies of statutory material giving the king the exclusive right to put anyone to death in his kingdom. Others in authority could execute punishments, such as giving forty stripes, but they could not kill him unless ordered by the king. That tradition persists all the way through 3 Nephi 6, when the text says that the governor of the land in Zarahemla was the only one who could authorize the death penalty.
+
+We may wonder why so many of the people in the city of Nephi went along with Noah. One reason might have been economic security. Noah’s large building campaigns would have produced high rates of employment.
+
+Life was good in that sense. Presumably there was upward mobility in this relatively small society and those opportunities encouraged people to not want to rock the boat. When Abinadi came to preach repentance, the people did not agree with Abinadi’s ominous condemnations.
+
+There may have been some heavy rationalizations going on in their minds, as we mentioned in Mosiah 11. Here is a lesson for us—we must always be on our guard that we are not rationalizing away our misconduct. Instead, it helps us to have bishops, stake presidents, teachers and ministering brothers and sisters to help us see how we can do better than we have been doing.
+
+---
 
 ### Mosiah 12:17 — How Many Priests Did King Noah Have?
 
-We will later learn that King Noah’s wicked priests later kidnapped the Lamanite daughters, and we can assume that they took one each. Since twenty-four of the Lamanite daughters were abducted, that becomes one evidence that King Noah had 24 priests (Mosiah 20:1–5). Several other evidences support that conclusion, as I argue in my chapter “The Trial of Abinadi.” For example, in Israel, the seventy members of the Sanhedrin sat in three rows, and seventy divided by three is twenty-three and a third. One of the rows had twenty-four and the other two rows had twenty-three. For the big cases, you had to have the full Sanhedrin, all seventy. For a minor case, or for a case tried outside of Jerusalem, you just had to have one row: twenty-three or twenty-four. So that number seems to me to be at least plausible. Further Reading John W. Welch, “ The Trial of Abinadi, ” in The Legal Cases in the Book of Mormon (Provo, UT: BYU Press, 2008), 170–173.
+We will later learn that King Noah’s wicked priests later kidnapped the Lamanite daughters, and we can assume that they took one each. Since twenty-four of the Lamanite daughters were abducted, that becomes one evidence that King Noah had 24 priests (Mosiah 20:1–5). Several other evidences support that conclusion, as I argue in my chapter “The Trial of Abinadi.”
+
+For example, in Israel, the seventy members of the Sanhedrin sat in three rows, and seventy divided by three is twenty-three and a third. One of the rows had twenty-four and the other two rows had twenty-three. For the big cases, you had to have the full Sanhedrin, all seventy.
+
+For a minor case, or for a case tried outside of Jerusalem, you just had to have one row: twenty-three or twenty-four. So that number seems to me to be at least plausible.
+
+#### Further Reading
+
+- John W. Welch, “The Trial of Abinadi,” in The Legal Cases in the Book of Mormon (Provo, UT: BYU Press, 2008), 170–173.
+
+---
 
 ### Mosiah 12:20–24 — The Priests Questioned Abinadi
 
-The priests decided that they would try to trap Abinadi with questions. They read him a scripture and asked how he interpreted the passage. That passage is from Isaiah 52. Knowing that fact is very important because Abinadi answered by reciting the messianic Isaiah chapter 53 (see Mosiah 14). Thus, his real answer was, “If you want to understand Isaiah 52, you have to keep reading on into Isaiah 53.” I often tell my law students that the first rule of statutory construction is read on, keep reading, and so it is with the first rule of scripture interpretation: read on. Do not take a scripture out of context. Do not stop reading too quickly. If you don’t understand a scripture, keep reading scripture. But one must wonder, why did the priests think they could prove Abinadi to be a false prophet by quoting this passage from Isaiah 52? It is, at first glance, the strangest kind of approach by an accusing prosecutor we can imagine. However, they must have seen something in Isaiah 52 that other readers don’t. Indeed, they may have believed that Isaiah 52 was a prophecy about the city of Nephi and their greatness. Look at it from their point of view. The passage begins, “How beautiful upon the mountains.” Ah, mountains! The city of Nephi is up in the mountains. “How beautiful upon the mountains are the feet of  who?” The feet of a person who brings good tidings. However, Abinadi had not brought good tidings, but rather condemnations and woes. “Thy watchmen shall lift up the voice.” One of the major projects of King Noah was the construction of a tower. He has watchmen all over. “With the voice together shall they sing … for the Lord hath comforted his people, he hath redeemed Jerusalem.” (Mosiah 12:21– 24, quoting Isaiah 52:7–10). Zeniff’s and Noah’s people believed they had gone back to the city of Nephi and redeemed the land. I will bet they used this very scripture to reinforce their city’s creation story. This is their main scripture. It justifies building watchtowers; it justifies redeeming the land; it glorifies living in comfort! It probably was one that they cited many times say ing, “The Lord is with us,” for as the true prophet said, “Thy God reigneth!” (Isaiah 52:7). That is why they asked Abinadi how to explain this scripture. This, they thought, was talking about them and all was well. Further Reading Book of Mormon Central, “Why Would Noah’s Priests Quiz Abinadi on Isaiah? (Mosiah 12:20–21),” KnoWhy 89 (April 29, 2016). Dana M. Pike, “’How Beautiful upon the Mountains’: The Imagery of Isaiah 52:7– 10 and Its Occurrences in the Book of Mormon ,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 261–265.
+The priests decided that they would try to trap Abinadi with questions. They read him a scripture and asked how he interpreted the passage. That passage is from Isaiah 52.
+
+Knowing that fact is very important because Abinadi answered by reciting the messianic Isaiah chapter 53 (see Mosiah 14). Thus, his real answer was, “If you want to understand Isaiah 52, you have to keep reading on into Isaiah 53.” I often tell my law students that the first rule of statutory construction is read on, keep reading, and so it is with the first rule of scripture interpretation: read on.
+
+Do not take a scripture out of context. Do not stop reading too quickly. If you don’t understand a scripture, keep reading scripture.
+
+But one must wonder, why did the priests think they could prove Abinadi to be a false prophet by quoting this passage from Isaiah 52? It is, at first glance, the strangest kind of approach by an accusing prosecutor we can imagine. However, they must have seen something in Isaiah 52 that other readers don’t.
+
+Indeed, they may have believed that Isaiah 52 was a prophecy about the city of Nephi and their greatness. Look at it from their point of view. The passage begins, “How beautiful upon the mountains.”
+
+Ah, mountains! The city of Nephi is up in the mountains. “How beautiful upon the mountains are the feet of  who?”
+
+The feet of a person who brings good tidings. However, Abinadi had not brought good tidings, but rather condemnations and woes. “Thy watchmen shall lift up the voice.”
+
+One of the major projects of King Noah was the construction of a tower. He has watchmen all over. “With the voice together shall they sing … for the Lord hath comforted his people, he hath redeemed Jerusalem.”
+
+(Mosiah 12:21–24, quoting Isaiah 52:7–10). Zeniff’s and Noah’s people believed they had gone back to the city of Nephi and redeemed the land. I will bet they used this very scripture to reinforce their city’s creation story.
+
+This is their main scripture. It justifies building watchtowers; it justifies redeeming the land; it glorifies living in comfort! It probably was one that they cited many times say ing, “The Lord is with us,” for as the true prophet said, “Thy God reigneth!”
+
+(Isaiah 52:7). That is why they asked Abinadi how to explain this scripture. This, they thought, was talking about them and all was well.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Would Noah’s Priests Quiz Abinadi on Isaiah? (Mosiah 12:20–21),” KnoWhy 89 (April 29, 2016)
+- Dana M. Pike, “’How Beautiful upon the Mountains’: The Imagery of Isaiah 52:7–10 and Its Occurrences in the Book of Mormon ,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, UT: FARMS, 1998), 261–265.
+
+---
 
 ### Mosiah 12:29 — The Priests of Noah Claim to Keep the Law of Moses
 
@@ -46,4 +120,3 @@ Abinadi was a little like Paul, in that he was well trained in the scriptures an
 Yet, as we saw above in Mosiah 11:7, the law of idolatry was open to interpretation. As in our world today, there were laws and loopholes in Noah’s world. The question was, how strict were they going to be in keeping the law of Moses? The priests could well have claimed that they were keeping the law of Moses, at least their interpretation of it.
 
 There is a lesson for all of us in this kind of misreading and misconduct. It is not hard to see where it leads if you do not follow both the spirit and the letter of the scriptures with diligence.
-

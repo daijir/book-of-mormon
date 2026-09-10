@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Alma 63:1–13 — Custody of the Plates and Leadership Succession](#alma-63113--custody-of-the-plates-and-leadership-succession)
+  - [The Generational Power Vacuum](#the-generational-power-vacuum)
 - [Alma 63:5–9 — Hagoth and the Great Northern Migrations](#alma-6359--hagoth-and-the-great-northern-migrations)
 - [The Book of Alma in Retrospect](#the-book-of-alma-in-retrospect)
   - [Unifying Threads Across 63 Chapters](#unifying-threads-across-63-chapters)
@@ -26,6 +27,7 @@ Shiblon was a just and humble man who walked uprightly before God. However, he k
 Before his demise, Shiblon conferred the records upon his nephew **Helaman**, the son of Helaman (63:11). Young Helaman was still relatively young, but he had matured enough to bear the weight of the plates.
 
 #### The Generational Power Vacuum
+
 Within a brief span of roughly five years, the entire premier tier of Nephite leadership died:
 - **Captain Moroni**: Died in the 36th year (Alma 63:3), only two years after retiring.
 - **Helaman**: Died in the 35th year (Alma 62:52).
@@ -33,6 +35,8 @@ Within a brief span of roughly five years, the entire premier tier of Nephite le
 - **Pahoran**: Died shortly thereafter in the 40th year (Helaman 1:1).
 
 These deaths, coupled with the staggering casualties sustained across fourteen years of warfare, created an acute leadership void. That vacuum severely weakened the central government and church depth, setting the stage for the political fracturing and secret combinations that emerge immediately in Helaman 1–2.
+
+---
 
 ---
 
@@ -45,7 +49,13 @@ During this period of post-war exhaustion and economic realignment, an exceeding
 - **Landward Colonization**: Many others migrated into the land northward by foot.
 - **Corianton**: Alma’s youngest son Corianton, having fully repented of his moral transgressions in Alma 39–42, was among those who journeyed northward in a ship to carry provisions unto the colonists (Alma 63:10).
 
-#### Further Reading-Book of Mormon Central, “Why Did Mormon Mention Hagoth? (Alma 63:8),” *KnoWhy* 171 (August 23, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Mormon Mention Hagoth? (Alma 63:8),” *KnoWhy* 171 (August 23, 2016).
+
+---
 
 ---
 
@@ -54,6 +64,7 @@ During this period of post-war exhaustion and economic realignment, an exceeding
 As you think back over the entire book of Alma, which threads do you find most significant and meaningful? How have those threads laced all 63 chapters together into a unified masterpiece?
 
 #### Unifying Threads Across 63 Chapters
+
 1. **The Democratic Experiment**: The transition from monarchy to the reign of judges instituted by King Mosiah is tested by internal dissidents (Nehor, Amlici, Korihor, Zoramites, Amalickiah, Pachus) and external invasions.
 2. **True Conversion vs Dissent**: The contrast between the faithfulness of the Anti-Nephi-Lehies and the bitter apostasy of Nephite defectors who became more hardened than the Lamanites themselves.
 3. **Priesthood and Sacred Covenants**: Alma’s foundational teachings on the holy order of the high priesthood (Alma 13), the resurrection and spirit world (Alma 40), and justice and mercy (Alma 42).
@@ -80,4 +91,8 @@ As you think ahead to the conclusion of the Nephite record, Mormon has meticulou
 - The absolute necessity of individual repentance, covenant fidelity, and family bonds.
 - The assurance that God’s covenant promises will never fail, even across the fall of empires.
 
-#### Further Reading-Book of Mormon Central, “How Does Chiasmus Teach Us to Reverse the Pride Cycle? (Alma 62:48),” *KnoWhy* 468 (September 18, 2018).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “How Does Chiasmus Teach Us to Reverse the Pride Cycle? (Alma 62:48),” *KnoWhy* 468 (September 18, 2018).

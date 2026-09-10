@@ -5,29 +5,121 @@
 
 ## Table of Contents
 
-- [Alma 29 — What Prompted Alma to Write the Words in This Chapter?](#alma-29-what-prompted-alma-to-write-the-words-in-this-chapter)
-- [Alma 29:1–17 — Alma’s Character and Personality Revealed Here](#alma-29117-almas-character-and-personality-revealed-here)
-- [Alma 29:1 — What Was Wrong with Alma’s Desire to Be an Angel?](#alma-291-what-was-wrong-with-almas-desire-to-be-an-angel)
-- [Alma 29:1 — Is There a Grammatical Mistake in Alma 29:1, 7?](#alma-291-is-there-a-grammatical-mistake-in-alma-291-7)
-- [Alma 29:1–17 — The Qualities of Language in This Gorgeous Expression](#alma-29117-the-qualities-of-language-in-this-gorgeous-expression)
+- [Alma 29 — What Prompted Alma to Write the Words in This Chapter?](#alma-29--what-prompted-alma-to-write-the-words-in-this-chapter)
+- [Alma 29:1–17 — Alma’s Character and Personality Revealed Here](#alma-29117--almas-character-and-personality-revealed-here)
+- [Alma 29:1 — What Was Wrong with Alma’s Desire to Be an Angel?](#alma-291--what-was-wrong-with-almas-desire-to-be-an-angel)
+- [Alma 29:1 — Is There a Grammatical Mistake in Alma 29:1, 7?](#alma-291--is-there-a-grammatical-mistake-in-alma-291-7)
+- [Alma 29:1–17 — The Qualities of Language in This Gorgeous Expression](#alma-29117--the-qualities-of-language-in-this-gorgeous-expression)
+  - [Word Counts in Alma 29](#word-counts-in-alma-29)
+  - [Word Frequency Patterns](#word-frequency-patterns)
+  - [The Poetic and Structural Layout of Alma 29](#the-poetic-and-structural-layout-of-alma-29)
 
 ---
 
 ### Alma 29 — What Prompted Alma to Write the Words in This Chapter?
 
-While a complete religious and literary analysis of Alma’s great introspective ode remains to be written, any careful reader comes away from this text inspired, sobered, instructed, happy, reminded, and fulfilled. In a manner that many readers can relate with, Alma expresses a devout wish, recognizes his limitations and God’s realities, poses introspective questions to himself, and most of all finds glorious joy in doing what God has commanded, remembering what God has done, sharing joy with others, and praying for their ultimate blessing. But there is more going on here than that. Like a Bach fugue where every note has its place, every word in Alma’s composition is measured and counted. And like the text of a psalm that lends itself easily to singing, the opening lines of Alma 29 have been set unforgettably to music in one of the most successful musical settings ever given to any passage in the Book of Mormon. While Alma 29 was certainly written as a part of the mourning and burials of the fallen soldiers who bravely defended the land of Jershon (see Alma 30:2), Alma’s words also made an exquisite sabbatical text. These words set the tone for the forty-ninth year, and also for the following fiftieth year, a jubilee year. Whatever one calls Alma’s wonderful composition—a hymn, a psalm, a soliloquy, a high priestly benediction—it was the result of Alma’s fourteen years of service and struggle, his great joy at his reunion with the sons of Mosiah, but also his lamentation at the devastation of the war that has just ended. It begins on a very high plane of confidence, recalling the voice of the Angel that had converted Alma and his four best friends. Alma must have still been pinching himself, realizing that his friends were still alive. For fourteen years, they had had no communication. They all could have been dead. They were thrown in jail. They were almost killed on several occasions. I suppose he had almost given up on ever seeing his friends again. What joy he would have had at their return! And, notice again, that the word joy occurs in this chapter seven times (29:5, 9, 10, 13, 14, 14, 16). This is the third set in which the word joy is mentioned seven times. The number seven also has special significance in celebrating their 14 years apart. Ammon’s 7 mentions of the word joy plus Alma’s 7 equals 14. The 49th year is also a sabbatical year, 7 x 7. So, the High Priest Alma is writing this at the beginning of the 49th year. This leads us to wonder if that year wasn’t recognized as the final sabbatical year before the Jubilee, which would be the 50th year from the time of King Benjamin’s speech, there having been 33 years from Benjamin’s Speech to the death of Mosiah and then these 16 years more. And notice that Alma 30:5 says that the 16th year of the Reign of Judges there was a year of peace, with no disturbances, and then that the 17th year was a year of “continual peace” (30:5). This is what the Sabbath and Sabbatical years were all about. Rest. Everything is peaceful. Even the land you let lie fallow. And what do you do the whole time? You celebrate, you rejoice. You remember the past. You praise God. You thank him for all the things that he has done. Just as Alma does in Alma 29. Moreover, the Hebrew word jubel (יובל )means a trumpet. Alma 29:1 begins, “O that I were an angel and could speak with the voice of a jubel.” This is the word that the word Jubilee comes from. And at the beginning of each ritual year, there would also be a celebration of the Day of Atonement, a time for repentance as well as forgiveness leading to joy. And that theme follows next in Alma 29:2, as Alma wished that he could declare with a voice of thunder the need for repentance, the plan of redemption, that all would repent and come unto God, that there would be no more sorrow, and only happiness, on the face of all the earth. There could not be a better beginning for a Jubilee text than Alma 29:1 –2, especially in the mind and heart of the High Priest over all the land. When Alma, as the High Priest, begins this text with his wish to be able to “speak with the trump of God” (29:1), he invokes many high and holy contexts, fort he blowing of the trumpets in ancient Israel was connected with many religious and political occasions. The “day of Yahweh” was a day for the sounding horns in joy over His victories. Horns would announce the commencement of an important feast-day, as required on the beginning of the New Year (Leviticus 23:24; Numbers 29:1), or the commencement of the Day of Atonement (Leviticus 25:9). Accompanying shouts for joy could occur in association with a royal jubilation, or when an individual experienced personal salvation, or to celebrate the making of a covenant by taking an oath, or in everyday life. Alma 29 also ends with a high tone of personal reassurance, remembrance, praise and blessing, especially for those four brothers. I wonder if maybe this text might not be best understood as a high priestly prayer, a prayer of benediction in their behalf. All of this would fit perfectly, if this text was prepared in connection with a great sabbatical and jubilee moment. In any event, it is hard to imagine any other person better suited to have composed this wonderful scripture, which also has some psalmodic qualities. For instance, Nephi’s psalm in 2 Nephi 4 was provoked, inspired, or brought about by the death of Lehi. Many psalms are expressions of lament. Likewise, it may have been the cumulation of Nephite and Lamanite deaths that made Alma so reflective and sober. Nephi, when he wrote his psalm was very vulnerable and going out into uncharted territory. I think Alma is also open here in recognizing his own vulnerability. With this writing, Alma began to reveal more about his worries, the fears that people had, the concerns about all the deaths. He could easily have kept this writing to himself, but we can be very grateful that he chose to keep it among his records and to share it with future generations, to let them know the deepest desires of his heart.
+While a complete religious and literary analysis of Alma’s great introspective ode remains to be written, any careful reader comes away from this text inspired, sobered, instructed, happy, reminded, and fulfilled. In a manner that many readers can relate with, Alma expresses a devout wish, recognizes his limitations and God’s realities, poses introspective questions to himself, and most of all finds glorious joy in doing what God has commanded, remembering what God has done, sharing joy with others, and praying for their ultimate blessing.
+
+But there is more going on here than that. Like a Bach fugue where every note has its place, every word in Alma’s composition is measured and counted. And like the text of a psalm that lends itself easily to singing, the opening lines of Alma 29 have been set unforgettably to music in one of the most successful musical settings ever given to any passage in the Book of Mormon.
+
+While Alma 29 was certainly written as a part of the mourning and burials of the fallen soldiers who bravely defended the land of Jershon (see Alma 30:2), Alma’s words also made an exquisite sabbatical text. These words set the tone for the forty-ninth year, and also for the following fiftieth year, a jubilee year. Whatever one calls Alma’s wonderful composition—a hymn, a psalm, a soliloquy, a high priestly benediction—it was the result of Alma’s fourteen years of service and struggle, his great joy at his reunion with the sons of Mosiah, but also his lamentation at the devastation of the war that has just ended.
+
+It begins on a very high plane of confidence, recalling the voice of the Angel that had converted Alma and his four best friends. Alma must have still been pinching himself, realizing that his friends were still alive. For fourteen years, they had had no communication.
+
+They all could have been dead. They were thrown in jail. They were almost killed on several occasions.
+
+I suppose he had almost given up on ever seeing his friends again. What joy he would have had at their return! And, notice again, that the word joy occurs in this chapter seven times (29:5, 9, 10, 13, 14, 14, 16).
+
+This is the third set in which the word joy is mentioned seven times. The number seven also has special significance in celebrating their 14 years apart. Ammon’s 7 mentions of the word joy plus Alma’s 7 equals 14.
+
+The 49th year is also a sabbatical year, 7 x 7. So, the High Priest Alma is writing this at the beginning of the 49th year. This leads us to wonder if that year wasn’t recognized as the final sabbatical year before the Jubilee, which would be the 50th year from the time of King Benjamin’s speech, there having been 33 years from Benjamin’s Speech to the death of Mosiah and then these 16 years more.
+
+And notice that Alma 30:5 says that the 16th year of the Reign of Judges there was a year of peace, with no disturbances, and then that the 17th year was a year of “continual peace” (30:5). This is what the Sabbath and Sabbatical years were all about. Rest.
+
+Everything is peaceful. Even the land you let lie fallow. And what do you do the whole time?
+
+You celebrate, you rejoice. You remember the past. You praise God.
+
+You thank him for all the things that he has done. Just as Alma does in Alma 29. Moreover, the Hebrew word jubel (יובל )means a trumpet.
+
+Alma 29:1 begins, “O that I were an angel and could speak with the voice of a jubel.” This is the word that the word Jubilee comes from. And at the beginning of each ritual year, there would also be a celebration of the Day of Atonement, a time for repentance as well as forgiveness leading to joy.
+
+And that theme follows next in Alma 29:2, as Alma wished that he could declare with a voice of thunder the need for repentance, the plan of redemption, that all would repent and come unto God, that there would be no more sorrow, and only happiness, on the face of all the earth. There could not be a better beginning for a Jubilee text than Alma 29:1–2, especially in the mind and heart of the High Priest over all the land. When Alma, as the High Priest, begins this text with his wish to be able to “speak with the trump of God” (29:1), he invokes many high and holy contexts, fort he blowing of the trumpets in ancient Israel was connected with many religious and political occasions.
+
+The “day of Yahweh” was a day for the sounding horns in joy over His victories. Horns would announce the commencement of an important feast-day, as required on the beginning of the New Year (Leviticus 23:24; Numbers 29:1), or the commencement of the Day of Atonement (Leviticus 25:9). Accompanying shouts for joy could occur in association with a royal jubilation, or when an individual experienced personal salvation, or to celebrate the making of a covenant by taking an oath, or in everyday life.
+
+Alma 29 also ends with a high tone of personal reassurance, remembrance, praise and blessing, especially for those four brothers. I wonder if maybe this text might not be best understood as a high priestly prayer, a prayer of benediction in their behalf. All of this would fit perfectly, if this text was prepared in connection with a great sabbatical and jubilee moment.
+
+In any event, it is hard to imagine any other person better suited to have composed this wonderful scripture, which also has some psalmodic qualities. For instance, Nephi’s psalm in 2 Nephi 4 was provoked, inspired, or brought about by the death of Lehi. Many psalms are expressions of lament.
+
+Likewise, it may have been the cumulation of Nephite and Lamanite deaths that made Alma so reflective and sober. Nephi, when he wrote his psalm was very vulnerable and going out into uncharted territory. I think Alma is also open here in recognizing his own vulnerability.
+
+With this writing, Alma began to reveal more about his worries, the fears that people had, the concerns about all the deaths. He could easily have kept this writing to himself, but we can be very grateful that he chose to keep it among his records and to share it with future generations, to let them know the deepest desires of his heart.
+
+---
 
 ### Alma 29:1–17 — Alma’s Character and Personality Revealed Here
 
-We can certainly learn many things about Alma’s character and personality from this beautiful spiritual expression. For example, as always, Alma was not timid. He was a man of conviction. He wanted the people to repent and to come unto “our God.” He was not apologetic about his deepest wish. He knew what he knew, and he wanted people to come to his side. Alma was not doubtful. He testified using the words “I know …” frequently. He knew whereof he spoke. He was a man of testimony. He went on to say things like, “I know that God has granted man their agency, I know that there is a plan, that they should be able to choose.” His deepest motivation was “that there might not be more sorrow upon the face of the earth” (29:2). He was a compassionate man; he did not want these things for himself. The one wish of his heart was righteousness and benefits for all people. He accepted God’s decrees. He was content with his assignment in life. He not only accepted but gloried in what he had been commanded to do. He knows how to have joy: to be grateful for God’s mercies, to remember the deliverances (not the deaths), and to be happiest for the success of others. Finally, Alma was a generous soul. The way he spoke of his joy is inspiring. His joy for other people took him even beyond his body to being overwhelmed (29:16). He was happy with his own success, but often when people have success in this competitive world, they hope that the competition does not succeed too much. That was not the way with Alma. One can imagine that Alma realized the difficult choices made by the converts that Ammon brought back with him. Consider also the sacrifices of the four sons of Mosiah, who were gone for fourteen years as missionaries. There is never any mention anywhere in the Book of Mormon of any sons of Ammon, or of Aaron, Omner, or Himni, and there is not even an indication that they were ever married. How long they lived after their return is not recorded. Life expectancy was not very long in those days. They must have made some serious sacrifices in that matter, but Alma rejoiced for them even more than for himself. Such selflessness is characteristic of Alma. His soliloquy here is a genuine expression of his desire to bless others.
+We can certainly learn many things about Alma’s character and personality from this beautiful spiritual expression. For example, as always, Alma was not timid. He was a man of conviction.
+
+He wanted the people to repent and to come unto “our God.” He was not apologetic about his deepest wish. He knew what he knew, and he wanted people to come to his side.
+
+Alma was not doubtful. He testified using the words “I know …” frequently. He knew whereof he spoke.
+
+He was a man of testimony. He went on to say things like, “I know that God has granted man their agency, I know that there is a plan, that they should be able to choose.” His deepest motivation was “that there might not be more sorrow upon the face of the earth” (29:2).
+
+He was a compassionate man; he did not want these things for himself. The one wish of his heart was righteousness and benefits for all people. He accepted God’s decrees.
+
+He was content with his assignment in life. He not only accepted but gloried in what he had been commanded to do. He knows how to have joy: to be grateful for God’s mercies, to remember the deliverances (not the deaths), and to be happiest for the success of others.
+
+Finally, Alma was a generous soul. The way he spoke of his joy is inspiring. His joy for other people took him even beyond his body to being overwhelmed (29:16).
+
+He was happy with his own success, but often when people have success in this competitive world, they hope that the competition does not succeed too much. That was not the way with Alma. One can imagine that Alma realized the difficult choices made by the converts that Ammon brought back with him.
+
+Consider also the sacrifices of the four sons of Mosiah, who were gone for fourteen years as missionaries. There is never any mention anywhere in the Book of Mormon of any sons of Ammon, or of Aaron, Omner, or Himni, and there is not even an indication that they were ever married. How long they lived after their return is not recorded.
+
+Life expectancy was not very long in those days. They must have made some serious sacrifices in that matter, but Alma rejoiced for them even more than for himself. Such selflessness is characteristic of Alma. His soliloquy here is a genuine expression of his desire to bless others.
+
+---
 
 ### Alma 29:1 — What Was Wrong with Alma’s Desire to Be an Angel?
 
-When Alma declared that he wanted to be an angel, he probably was not thinking about a random angel in the abstract. If you remember, Alma had first-hand experience with an angel. This angel cried repentance and spoke with the voice of thunder. The angel’s power knocked everybody down, and caused Alma to be physically afflicted for days. Alma was likely thinking that this was the kind of angel he wanted to be. An angel that had the power to bring about mighty repentance. On an interesting note, Alma had been serving for the last eight years as the high priest of the temple. In the Israelite temple, angels appeared to God’s servants, such as Isaiah and Zacharias. Sometimes the angel was none other than the Lord himself. The angel of the Lord was often a name or euphemism for God himself appearing at the temple in the Holy of Holies. We do not know if Alma ever had angelic experiences in his service in the temple. Interestingly, Alma was not in the temple either time that the angel appeared to him. Alma knew that it was possible for an angel to appear outside of sacred precincts. His angelic experiences likely helped Alma recognize what it may have meant if he could have taught with angelic power: “And that I could have the wish of mine heart” (29:1). What would you wish for if you could have the wish of your heart? We know what Alma’s heart was set on: wishing that he could bring repentance to every people. He was not some kind of an aristocratic, exclusivist leader, but rather wanted to embrace all people inclusively. That was unusual in the Israelite tradition because the high priest typically felt so strongly the need to protect his own purity. Jesus’ eating with the ordinary people, the sinners, the publicans, and the tax collectors, was concerning to people because that would have defiled him, in their minds. Even more so, the high priest needed to keep himself pure, but Alma did not approach his priesthood responsibility that way at all. He went out, even to do battle with Amlici and to call the unholy people in Ammonihah to repentance. Further Reading Book of Mormon Central, “ Why Was Alma’s Wish Sinful? (Alma 29:3),” KnoWhy 137 (July 6, 2016). Book of Mormon Central, “ Why Did Alma Wish to Speak “with the Trump of God”? (Alma 29:1),” KnoWhy 136 (July 5, 2016).
+When Alma declared that he wanted to be an angel, he probably was not thinking about a random angel in the abstract. If you remember, Alma had first-hand experience with an angel. This angel cried repentance and spoke with the voice of thunder.
+
+The angel’s power knocked everybody down, and caused Alma to be physically afflicted for days. Alma was likely thinking that this was the kind of angel he wanted to be. An angel that had the power to bring about mighty repentance.
+
+On an interesting note, Alma had been serving for the last eight years as the high priest of the temple. In the Israelite temple, angels appeared to God’s servants, such as Isaiah and Zacharias. Sometimes the angel was none other than the Lord himself.
+
+The angel of the Lord was often a name or euphemism for God himself appearing at the temple in the Holy of Holies. We do not know if Alma ever had angelic experiences in his service in the temple. Interestingly, Alma was not in the temple either time that the angel appeared to him.
+
+Alma knew that it was possible for an angel to appear outside of sacred precincts. His angelic experiences likely helped Alma recognize what it may have meant if he could have taught with angelic power: “And that I could have the wish of mine heart” (29:1). What would you wish for if you could have the wish of your heart?
+
+We know what Alma’s heart was set on: wishing that he could bring repentance to every people. He was not some kind of an aristocratic, exclusivist leader, but rather wanted to embrace all people inclusively. That was unusual in the Israelite tradition because the high priest typically felt so strongly the need to protect his own purity.
+
+Jesus’ eating with the ordinary people, the sinners, the publicans, and the tax collectors, was concerning to people because that would have defiled him, in their minds. Even more so, the high priest needed to keep himself pure, but Alma did not approach his priesthood responsibility that way at all. He went out, even to do battle with Amlici and to call the unholy people in Ammonihah to repentance.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Was Alma’s Wish Sinful? (Alma 29:3),” KnoWhy 137 (July 6, 2016)
+- Book of Mormon Central, “Why Did Alma Wish to Speak “with the Trump of God”? (Alma 29:1),” KnoWhy 136 (July 5, 2016).
+
+---
 
 ### Alma 29:1 — Is There a Grammatical Mistake in Alma 29:1, 7?
 
-Dr. Glade Hunsaker, a former professor of English at BYU, commented on the beauty and appropriateness of the language as follows: This beautiful soliloquy, as we sometimes call, it begins with, “ O That I were an angel.” We take it so for granted. You notice that the “I”, the subject, does not seem to agree with were. Were seems to be plural, and there are very few folks today who realize that it is a singular subjunctive. We have PhDs in English that, unless they have studied German, French, or another language, have no clue what the subjunctive mood is. If this were really a product that had been put together in upstate New York by some flimsy folks, that piece would be lost to “O That I was an angel?” I would pick up my bag and leave. All the pieces are there. It is just exquisite. While using the subjunctive “were” in this case may not have been the prevailing English grammatical usage in Joseph Smith’s day, it was not unknown then. Although Alma’s usage is unique in the Book of Mormon, it appears several times in the King James Bible. See 2 Samuel 15:4 (“Oh that I were made a judge”); Job 9:15, 21; Job 29:2 (“Oh that I were as in months past”); Psalms 50:12; 1 Corinthians 5:3; 2 Corinthians 13:2). Its linguistic touch in Alma 29 is compositionally elegant. Alma 29 is without a doubt a beautiful, powerful piece of writing. People can try to paraphrase the Book of Mormon, but to do so often diminishes its sophisticated beauty. In reading the writings of Alma, Mormon and Joseph Smith, the best presumption is that every phrase and every word is there for some very meaningful reason, and that reading technique certainly serves flawlessly well throughout Alma 29 in particular.
+Dr. Glade Hunsaker, a former professor of English at BYU, commented on the beauty and appropriateness of the language as follows: This beautiful soliloquy, as we sometimes call, it begins with, “O That I were an angel.” We take it so for granted. You notice that the “I”, the subject, does not seem to agree with were.
+
+Were seems to be plural, and there are very few folks today who realize that it is a singular subjunctive. We have PhDs in English that, unless they have studied German, French, or another language, have no clue what the subjunctive mood is. If this were really a product that had been put together in upstate New York by some flimsy folks, that piece would be lost to “O That I was an angel?”
+
+I would pick up my bag and leave. All the pieces are there. It is just exquisite.
+
+While using the subjunctive “were” in this case may not have been the prevailing English grammatical usage in Joseph Smith’s day, it was not unknown then. Although Alma’s usage is unique in the Book of Mormon, it appears several times in the King James Bible. See 2 Samuel 15:4 (“Oh that I were made a judge”); Job 9:15, 21; Job 29:2 (“Oh that I were as in months past”); Psalms 50:12; 1 Corinthians 5:3; 2 Corinthians 13:2).
+
+Its linguistic touch in Alma 29 is compositionally elegant. Alma 29 is without a doubt a beautiful, powerful piece of writing. People can try to paraphrase the Book of Mormon, but to do so often diminishes its sophisticated beauty.
+
+In reading the writings of Alma, Mormon and Joseph Smith, the best presumption is that every phrase and every word is there for some very meaningful reason, and that reading technique certainly serves flawlessly well throughout Alma 29 in particular.
+
+---
 
 ### Alma 29:1–17 — The Qualities of Language in This Gorgeous Expression
 
@@ -213,4 +305,3 @@ Four key words are given the sacred status of appearing exactly seven times, emp
    And may God grant that it may be done according to my words,
    Even as I have spoken. Amen.
 ```
-

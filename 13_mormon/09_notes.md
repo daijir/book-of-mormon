@@ -5,14 +5,12 @@
 
 ## Table of Contents
 
-- [Mormon 9:2–19 — Challenging](#mormon-9219-challenging)
-- [Mormon 9:21 — Exhorting](#mormon-921-exhorting)
-- [Mormon 9:27–31 — Commanding](#mormon-92731-commanding)
-  - [Further Reading](#further-reading)
+- [Mormon 9:2–19 — Challenging](#mormon-9219--challenging)
+- [Mormon 9:21 — Exhorting](#mormon-921--exhorting)
+- [Mormon 9:27–31 — Commanding](#mormon-92731--commanding)
 - [Mormon 9:32–33 — Why Did the Nephites Write in Reformed Egyptian?](#mormon-93233--why-did-the-nephites-write-in-reformed-egyptian)
-  - [Further Reading](#further-reading-1)
 - [Mormon 9:32, 35–36 — Attesting](#mormon-932-3536--attesting)
-- [Mormon 9:37 — Petitioning](#mormon-937-petitioning)
+- [Mormon 9:37 — Petitioning](#mormon-937--petitioning)
 
 ---
 
@@ -21,27 +19,47 @@
 Continuing directly into chapter 9, Moroni switches into a challenging mode for the non-believers. He now provides different questions for a different audience, challenging people who do not believe in Christ. He asks sixteen such questions of those who do not believe:
 
 1. Will ye say? (9:2–3)
-2. Will ye longer deny?
+2.
+
+Will ye longer deny?
 3. Do ye suppose?
 4. Do ye suppose?
-5. Have these things passed? (9:15–19)
+5.
+
+Have these things passed? (9:15–19)
 6. Has the end come?
-7. Are not the things marvelous?
+7.
+
+Are not the things marvelous?
 8. Who can comprehend?
 9. Who shall say?
-10. Who shall say?
+10.
+
+Who shall say?
 11. Why has God ceased?
-12. Who can stand? (9:26)
+12. Who can stand?
+
+(9:26)
 13. Who can deny?
 14. Who will rise up against the almighty?
-15. Who will despise the works of the Lord?
+15.
+
+Who will despise the works of the Lord?
 16. Who will despise the children of Christ?
+
+---
 
 ---
 
 ### Mormon 9:21 — Exhorting
 
-Why would Moroni have been particularly interested in our need to be believing? In Moroni 10, it says that if you do not believe, you cannot have faith, hope, or charity. Unbelief is the enemy of all those good things. He wanted us to know that we have to believe and “deny not the gifts.” He will emphasize this again in Moroni 10, because he knew that the Book of Mormon would have to come forward by the gift and power of God. How else could it happen? He knew that his language would be lost. Someone would find these plates, but how would they be able to read them? He knew that it would be only through the channel of faith that this record had a chance of surviving.
+Why would Moroni have been particularly interested in our need to be believing? In Moroni 10, it says that if you do not believe, you cannot have faith, hope, or charity. Unbelief is the enemy of all those good things.
+
+He wanted us to know that we have to believe and “deny not the gifts.” He will emphasize this again in Moroni 10, because he knew that the Book of Mormon would have to come forward by the gift and power of God. How else could it happen?
+
+He knew that his language would be lost. Someone would find these plates, but how would they be able to read them? He knew that it would be only through the channel of faith that this record had a chance of surviving.
+
+---
 
 ---
 
@@ -53,28 +71,48 @@ These statements are all in the imperative mood. Like the Ten Commandments, some
 
 1. Despise not.
 2. Wonder not.
-3. Hearken unto the words of the Lord.
+3.
+
+Hearken unto the words of the Lord.
 4. Ask the Father in the name of Jesus Christ for whatever ye shall stand in need.
 5. Doubt not.
-6. Be believing.
+6.
+
+Be believing.
 7. Begin as in times of old.
 8. Come unto the Lord with all your heart.
-9. Work out your own salvation with fear and trembling before God.
+9.
+
+Work out your own salvation with fear and trembling before God.
 10. Be wise in the days of your probation.
 11. Strip yourselves of all uncleanness.
-12. Ask not to consume uncleanness on your lusts.
+12.
+
+Ask not to consume uncleanness on your lusts.
 13. Ask with a firmness unshaken that ye will yield to no temptation.
 14. Serve the true and living God.
-15. See that ye are not baptized unworthily.
+15.
+
+See that ye are not baptized unworthily.
 16. See that ye partake not of the sacrament of Christ unworthily.
 17. See that ye do all things in worthiness.
-18. Do all things in the name of Jesus Christ, the son of the living God.
+18.
+
+Do all things in the name of Jesus Christ, the son of the living God.
 19. Endure to the end.
 20. Condemn me not because of mine imperfections.
-21. Condemn not my father or those who have written before him.
+21.
+
+Condemn not my father or those who have written before him.
 22. Give thanks that God has made manifest our imperfections, that ye may be wiser than we have been.
 
-#### Further Reading-Book of Mormon Central, “Why Did Moroni Conclude His Father’s Record with 22 Commands? (Mormon 9:27),” *KnoWhy* 234 (November 18, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Moroni Conclude His Father’s Record with 22 Commands? (Mormon 9:27),” *KnoWhy* 234 (November 18, 2016).
+
+---
 
 ---
 
@@ -86,7 +124,11 @@ Here, Moroni explained that the language used was “reformed Egyptian, being ha
 
 People might wonder if one alphabetic-based script has ever been used to write the sounds of another language. The answer is yes. In modern times, a person can find on the web the Hebrew or Greek words of the Bible transliterated into English letters, not as translations but so that the reader can pronounce out loud the sounds of those ancient words.
 
-Did this kind of thing ever happen in the ancient world? Yes, it did. The text of a Hebrew psalm was found years ago in Egypt, written out phonetically using Egyptian characters. Another example comes from Gubbio in central Italy. The people who lived in what is now called Gubbio were Umbrians, and they spoke a dialect of the Umbrian language. They apparently had no written language, as far as we know, but wanted to record their laws, especially their religious laws on conducting public festivals in worshiping their gods. This was probably in the third Century BC. So they went to the Etruscans, who were master metallurgists, knowing how to make metal artifacts and plates of all kinds. The Umbrians apparently stood there and spoke in their language what they wanted this legal posting to say; however, the Etruscan platemaker knew only how to write in Etruscan script. So these Umbrian public city ordinances and texts were recorded, on plates of brass, in Umbrian but using Etruscan letters.
+Did this kind of thing ever happen in the ancient world? Yes, it did. The text of a Hebrew psalm was found years ago in Egypt, written out phonetically using Egyptian characters.
+
+Another example comes from Gubbio in central Italy. The people who lived in what is now called Gubbio were Umbrians, and they spoke a dialect of the Umbrian language. They apparently had no written language, as far as we know, but wanted to record their laws, especially their religious laws on conducting public festivals in worshiping their gods.
+
+This was probably in the third Century BC. So they went to the Etruscans, who were master metallurgists, knowing how to make metal artifacts and plates of all kinds. The Umbrians apparently stood there and spoke in their language what they wanted this legal posting to say; however, the Etruscan platemaker knew only how to write in Etruscan script. So these Umbrian public city ordinances and texts were recorded, on plates of brass, in Umbrian but using Etruscan letters.
 
 *Figure 1: Umbrian Iguvine brass plate (c. 200 B.C.), Gubbio City Museum, Italy. Photograph by John W. Welch.*
 
@@ -96,10 +138,16 @@ Similarly, Ugaritic texts in a Northwest Semitic language are written using cune
 
 *Figure 2: Gubbio City Hall and Museum. Photograph by John W. Welch.*
 
-#### Further Reading-Book of Mormon Central, “Why Did Mormon and Moroni Write in Reformed Egyptian? (Mormon 9:32),” *KnoWhy* 513 (May 2, 2019).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Did Mormon and Moroni Write in Reformed Egyptian? (Mormon 9:32),” *KnoWhy* 513 (May 2, 2019).
 - John Gee, “Two Notes on Egyptian Script,” *Journal of Book of Mormon Studies* 5, no. 1 (1996): 162–176.
 - Stephen D. Ricks, “Semitic Texts Written in Egyptian Characters,” in *Pressing Forward with the Book of Mormon: The FARMS Updates of the 1990s*, edited by John W. Welch and Melvin J. Thorne (Provo, UT: FARMS, 1999), 237–243.
 - On the history and contents of the seven Iguvine tablets, see generally [Wikipedia: Iguvine Tablets](https://en.wikipedia.org/wiki/Iguvine_Tablets).
+
+---
 
 ---
 
@@ -116,11 +164,15 @@ In the best scribal form, Moroni validates his efforts. He closes his writing wi
 
 ---
 
+---
+
 ### Mormon 9:37 — Petitioning
 
 True to his rhetorical form, Moroni ends his first farewell with a three-fold petition. Three times he prays:
 1. “May the Lord Jesus Christ grant that their prayers may be answered according to their faith.”
-2. “May God the Father remember the covenant that he hath made with the house of Israel.”
+2.
+
+“May God the Father remember the covenant that he hath made with the house of Israel.”
 3. “May he bless them forever, through faith on the name of Jesus Christ.”
 
 His fervent petitions are given for our benefit, and they are given for any and all readers to claim. May it be so. “Amen.”

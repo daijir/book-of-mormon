@@ -5,35 +5,112 @@
 
 ## Table of Contents
 
-- [2 Nephi 16:1 — Isaiah Receives His Prophetic Call](#2-nephi-161-isaiah-receives-his-prophetic-call)
-- [2 Nephi 16:2–4 — Isaiah Sees Seraphim](#2-nephi-1624-isaiah-sees-seraphim)
-- [2 Nephi 16:5–7 — Isaiah Protests That He Is “a Man of Unclean Lips”](#2-nephi-1657-isaiah-protests-that-he-is-a-man-of-unclean-lips)
-- [2 Nephi 16:8–10 — The Lord Calls Isaiah to be a Prophet](#2-nephi-16810-the-lord-calls-isaiah-to-be-a-prophet)
-- [2 Nephi 16:11–12 — Isaiah Inquires How Long He Should Preach to the People](#2-nephi-161112-isaiah-inquires-how-long-he-should-preach-to-the-people)
-- [2 Nephi 16:13 — What Is the Symbolism of the Tree and the Holy Seed in Isaiah’s Prophecy?](#2-nephi-1613-what-is-the-symbolism-of-the-tree-and-the-holy-seed-in-isaiahs-prophecy)
+- [2 Nephi 16:1 — Isaiah Receives His Prophetic Call](#2-nephi-161--isaiah-receives-his-prophetic-call)
+- [2 Nephi 16:2–4 — Isaiah Sees Seraphim](#2-nephi-1624--isaiah-sees-seraphim)
+- [2 Nephi 16:5–7 — Isaiah Protests That He Is “a Man of Unclean Lips”](#2-nephi-1657--isaiah-protests-that-he-is-a-man-of-unclean-lips)
+- [2 Nephi 16:8–10 — The Lord Calls Isaiah to be a Prophet](#2-nephi-16810--the-lord-calls-isaiah-to-be-a-prophet)
+- [2 Nephi 16:11–12 — Isaiah Inquires How Long He Should Preach to the People](#2-nephi-161112--isaiah-inquires-how-long-he-should-preach-to-the-people)
+- [2 Nephi 16:13 — What Is the Symbolism of the Tree and the Holy Seed in Isaiah’s Prophecy?](#2-nephi-1613--what-is-the-symbolism-of-the-tree-and-the-holy-seed-in-isaiahs-prophecy)
 
 ---
 
 ### 2 Nephi 16:1 — Isaiah Receives His Prophetic Call
 
-Isaiah recorded his experience in receiving his prophetic call: “In the year that king Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.” Can you envision that? Does it remind you of Lehi’s vision in 1 Nephi 1:8, where he saw “ God sitting upon his throne, surrounded with numberless concourses of angels [the train that filled the temple] in the attitude of singing and praising their God.” Isaiah was in the temple, in the Holy of Holies, and he saw the Lord. If Isaiah saw the Lord, there must have been some reason for the Lord to come to Isaiah. The Lord does not make cameo appearances. We do not know what he told Isaiah. In the First Vision of Joseph Smith, Joseph was told many things. We only know a few of them. The Lord may have explained to Isaiah the basic Plan of Salvation, his mission, what the Lord would do, and how it would be part of the ministry of Isaiah to declare at least part of this message to others. Further Reading Book of Mormon Central, “How Did God Call His Prophets in Ancient Times? (1 Nephi 15:8),” KnoWhy 17 (January 22, 2016). Stephen D. Ricks, “Heavenly Visions and Prophetic Calls in Isaiah 6 (2 Nephi 16), the Book of Mormon, and the Revelation of John ,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, Utah: FARMS, 1998), 171–190.
+Isaiah recorded his experience in receiving his prophetic call: “In the year that king Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.” Can you envision that? Does it remind you of Lehi’s vision in 1 Nephi 1:8, where he saw “God sitting upon his throne, surrounded with numberless concourses of angels [the train that filled the temple] in the attitude of singing and praising their God.”
+
+Isaiah was in the temple, in the Holy of Holies, and he saw the Lord. If Isaiah saw the Lord, there must have been some reason for the Lord to come to Isaiah. The Lord does not make cameo appearances.
+
+We do not know what he told Isaiah. In the First Vision of Joseph Smith, Joseph was told many things. We only know a few of them.
+
+The Lord may have explained to Isaiah the basic Plan of Salvation, his mission, what the Lord would do, and how it would be part of the ministry of Isaiah to declare at least part of this message to others.
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “How Did God Call His Prophets in Ancient Times? (1 Nephi 15:8),” KnoWhy 17 (January 22, 2016)
+- Stephen D. Ricks, “Heavenly Visions and Prophetic Calls in Isaiah 6 (2 Nephi 16), the Book of Mormon, and the Revelation of John ,” in Isaiah in the Book of Mormon, ed. Donald W. Parry and John W. Welch (Provo, Utah: FARMS, 1998), 171–190.
+
+---
+
+---
 
 ### 2 Nephi 16:2–4 — Isaiah Sees Seraphim
 
-In verse 2 we read, “And above [the throne] stood the Seraphim.” These were bright, burning beings, and it looked as though each one had six wings. I do not imagine these were actual wings, but maybe flames. How else do you describe a flame? The flames would look like wings. These were glorious, radiant beings. Two “wings” covered their faces, two covered their feet, and two were used to fly. One cried to another and said, “Holy, holy, holy, is the Lord of Hosts; the whole earth is full of his glory. And the posts [the pillars] of the door moved at the voice of him that cried, and the house was filled with smoke.” The smoke was probably incense, or perhaps some kind of smoke connected with the fire at the altar.
+In verse 2 we read, “And above [the throne] stood the Seraphim.” These were bright, burning beings, and it looked as though each one had six wings. I do not imagine these were actual wings, but maybe flames.
+
+How else do you describe a flame? The flames would look like wings. These were glorious, radiant beings.
+
+Two “wings” covered their faces, two covered their feet, and two were used to fly. One cried to another and said, “Holy, holy, holy, is the Lord of Hosts; the whole earth is full of his glory. And the posts [the pillars] of the door moved at the voice of him that cried, and the house was filled with smoke.” The smoke was probably incense, or perhaps some kind of smoke connected with the fire at the altar.
+
+---
+
+---
 
 ### 2 Nephi 16:5–7 — Isaiah Protests That He Is “a Man of Unclean Lips”
 
-Isaiah stated, “Wo is unto me! for I am undone; because I am a man of unclean lips; and I dwell in the midst of a people of unclean lips; for mine eyes have seen the King, the Lord of Hosts.” Unclean lips! That was the first thing that Isaiah felt self-conscious about in the presence of God. He was a prophet. His main tool was speech. Isaiah spoke, and yet felt that his voice was unclean or inadequate. It is an interesting warning that even though we do all the right things and we go through the right motions, if our lips and our thoughts are not pure, we will strongly feel shame in the presence of God. We need to be clean—every whit. Isaiah’s concern with his unclean lips is then addressed: “Then flew one of the seraphim unto me, having a live coal in his hand.” This coal was some kind of a burning ember. It may have been a piece of burning wood. I doubt that they had charcoal briquettes or even coal. It may have been hot ashes. Nonetheless, the seraph had something very hot in his hand, “which he had taken with the tongs from off the altar; And he laid it upon my mouth, and said: Lo, this has touched thy lips; and thine iniquity is taken away, and thy sin purged.” How did people living in ancient times determine whether or not a witness was telling the truth? How could they know whether to rely on the veracity or truthfulness of the testimony of a witness? We know from some ancient Near Eastern texts that “trial by ordeal” was used in situations where it was difficult to determine if a witness was speaking truth during his testimony at trial. Any person who strongly questioned whether a particular witness was telling the truth could challenge that witness and force him to submit to a specified “ordeal.” Something very hot (a hot spatula or coal) was put on the tongue of the witness. If the witness was hurt or injured during the ordeal, it was considered to be evidence that he was lying. The reasoning was that someone who is lying would have a dry mouth and tongue. Therefore, a liar would not be able to tolerate something hot placed on his tongue. It would hurt a lot and cause physical damage. However, if the witness was telling the truth, he would be relaxed and his tongue would be coated with saliva to prevent the heat from searing and hurting his tongue. This operated like a type of primitive lie detector test. I wonder if Isaiah saw himself being subjected to this type of ordeal. He passed the test. Isaiah was sanctified byth e Holy Ghost, and his sins were forgiven. This is one of the responsibilities of the Holy Ghost, is it not? This experience was symbolic. I do not believe Heavenly Father was chastising Isaiah with a negative message like, “You bad, evil, child. Let me cleanse you.” I think Heavenly Father was comforting Isaiah and addressing his concerns or doubts about his ability to preach repentance to the people in Jerusalem. The Lord was telling Isaiah that he was forgiven of his sins and that he would receive divine assistance in his personal ordeals as he preached truth. It reminds me of Enoch’s doubts when he was called as prophet. Enoch knew that he was slow of speech and questioned why he would be called as a prophet. We all feel inadequate about these types of callings, and Isaiah was no exception. Further Reading Jeffrey M. Bradshaw and David J. Larsen, In God’s Image and Likeness 2: Enoch, Noah, and the Tower of Babel (Salt Lake City, UT: The Interpreter Foundation and Eborn Books, 2014), 36: “Obvious similarities with the calls of Moses and Jeremiah present themselves in this verse. Moses responds to his call as follows: ‘Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?’ Later Moses objects more specific ally in saying that he was ‘slow of speech, and of a slow tongue.’ Jeremiah complains by saying: ‘Ah, Lord God! behold, I cannot speak: for I am a child.’ Enoch combines the objections of Moses and Jeremiah, adding that ‘all the people hate me.’” Blake T. Ostler, “The Throne-Theophany and Prophetic Commission in 1 Nephi: A Form-Critical Analysis,” BYU Studies 26 no. 4 (1986): 72, 83.
+Isaiah stated, “Wo is unto me! for I am undone; because I am a man of unclean lips; and I dwell in the midst of a people of unclean lips; for mine eyes have seen the King, the Lord of Hosts.” Unclean lips! That was the first thing that Isaiah felt self-conscious about in the presence of God.
+
+He was a prophet. His main tool was speech. Isaiah spoke, and yet felt that his voice was unclean or inadequate.
+
+It is an interesting warning that even though we do all the right things and we go through the right motions, if our lips and our thoughts are not pure, we will strongly feel shame in the presence of God. We need to be clean—every whit. Isaiah’s concern with his unclean lips is then addressed: “Then flew one of the seraphim unto me, having a live coal in his hand.”
+
+This coal was some kind of a burning ember. It may have been a piece of burning wood. I doubt that they had charcoal briquettes or even coal.
+
+It may have been hot ashes. Nonetheless, the seraph had something very hot in his hand, “which he had taken with the tongs from off the altar; And he laid it upon my mouth, and said: Lo, this has touched thy lips; and thine iniquity is taken away, and thy sin purged.” How did people living in ancient times determine whether or not a witness was telling the truth?
+
+How could they know whether to rely on the veracity or truthfulness of the testimony of a witness? We know from some ancient Near Eastern texts that “trial by ordeal” was used in situations where it was difficult to determine if a witness was speaking truth during his testimony at trial. Any person who strongly questioned whether a particular witness was telling the truth could challenge that witness and force him to submit to a specified “ordeal.”
+
+Something very hot (a hot spatula or coal) was put on the tongue of the witness. If the witness was hurt or injured during the ordeal, it was considered to be evidence that he was lying. The reasoning was that someone who is lying would have a dry mouth and tongue.
+
+Therefore, a liar would not be able to tolerate something hot placed on his tongue. It would hurt a lot and cause physical damage. However, if the witness was telling the truth, he would be relaxed and his tongue would be coated with saliva to prevent the heat from searing and hurting his tongue.
+
+This operated like a type of primitive lie detector test. I wonder if Isaiah saw himself being subjected to this type of ordeal. He passed the test.
+
+Isaiah was sanctified byth e Holy Ghost, and his sins were forgiven. This is one of the responsibilities of the Holy Ghost, is it not? This experience was symbolic.
+
+I do not believe Heavenly Father was chastising Isaiah with a negative message like, “You bad, evil, child. Let me cleanse you.” I think Heavenly Father was comforting Isaiah and addressing his concerns or doubts about his ability to preach repentance to the people in Jerusalem.
+
+The Lord was telling Isaiah that he was forgiven of his sins and that he would receive divine assistance in his personal ordeals as he preached truth. It reminds me of Enoch’s doubts when he was called as prophet. Enoch knew that he was slow of speech and questioned why he would be called as a prophet. We all feel inadequate about these types of callings, and Isaiah was no exception.
+
+####
+
+#### Further Reading
+
+- Jeffrey M. Bradshaw and David J. Larsen, In God’s Image and Likeness 2: Enoch, Noah, and the Tower of Babel (Salt Lake City, UT: The Interpreter Foundation and Eborn Books, 2014), 36: “Obvious similarities with the calls of Moses and Jeremiah present themselves in this verse. Moses responds to his call as follows: ‘Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?’ Later Moses objects more specific ally in saying that he was ‘slow of speech, and of a slow tongue.’ Jeremiah complains by saying: ‘Ah, Lord God! behold, I cannot speak: for I am a child.’ Enoch combines the objections of Moses and Jeremiah, adding that ‘all the people hate me.’” Blake T. Ostler, “The Throne-Theophany and Prophetic Commission in 1 Nephi: A Form-Critical Analysis,” BYU Studies 26 no. 4 (1986): 72, 83.
+
+---
+
+---
 
 ### 2 Nephi 16:8–10 — The Lord Calls Isaiah to be a Prophet
 
-The Lord asked, “Whom shall I send, and who will go for us?” Isaiah answered the call, “Here am I; send me.” As recorded in Abraham 3:27, this is identical to the words spoken by the Savior in the premortal council as He accepted the call top erform the Atonement as Savior of mankind: “Here am I, send me.” Isaiah was willing to make whatever sacrifice was necessary to fulfill his calling as prophet. The Lord then instructed Isaiah: “Go and tell this people —Hear ye indeed, but they understood not; and see ye indeed, but they perceive not. Make the heart of this people fat, and make their ears heavy, and shut their eyes —lest they see with their eyes, and hear with their ears, and understand with their heart, and be converted and be healed.” The Lord explained that the people in Jerusalem were not ready or worthy to be told everything in plain language. Isaiah would be prophesying at a time when Israel would be destroyed. These verses explain why many people today find it difficult to understand the words of Isaiah. Isaiah was simply magnifying his calling as instructed by the Lord. He had been told to make his writings and teachings opaque —without absolute transparency. But, as Nephi would later explain, Isaiah’s prophecies would become clear to those who have “ears to hear.”
+The Lord asked, “Whom shall I send, and who will go for us?” Isaiah answered the call, “Here am I; send me.” As recorded in Abraham 3:27, this is identical to the words spoken by the Savior in the premortal council as He accepted the call top erform the Atonement as Savior of mankind: “Here am I, send me.”
+
+Isaiah was willing to make whatever sacrifice was necessary to fulfill his calling as prophet. The Lord then instructed Isaiah: “Go and tell this people —Hear ye indeed, but they understood not; and see ye indeed, but they perceive not. Make the heart of this people fat, and make their ears heavy, and shut their eyes —lest they see with their eyes, and hear with their ears, and understand with their heart, and be converted and be healed.”
+
+The Lord explained that the people in Jerusalem were not ready or worthy to be told everything in plain language. Isaiah would be prophesying at a time when Israel would be destroyed. These verses explain why many people today find it difficult to understand the words of Isaiah.
+
+Isaiah was simply magnifying his calling as instructed by the Lord. He had been told to make his writings and teachings opaque —without absolute transparency. But, as Nephi would later explain, Isaiah’s prophecies would become clear to those who have “ears to hear.”
+
+---
+
+---
 
 ### 2 Nephi 16:11–12 — Isaiah Inquires How Long He Should Preach to the People
 
-After Isaiah’s mission was explained to him, he enquired, “Lord, how long?” Is this a two-year call, an 18 -month mission? The Lord answered, “Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate: And the Lord have removed men far away, for there shall be great forsaking in the midst of the land.” This was, of course, prophesying of the remaining tribes being taken into captivity. How would you like to be called with the knowledge that your efforts would not change or make much difference?
+After Isaiah’s mission was explained to him, he enquired, “Lord, how long?” Is this a two-year call, an 18 -month mission? The Lord answered, “Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate: And the Lord have removed men far away, for there shall be great forsaking in the midst of the land.”
+
+This was, of course, prophesying of the remaining tribes being taken into captivity. How would you like to be called with the knowledge that your efforts would not change or make much difference?
+
+---
+
+---
 
 ### 2 Nephi 16:13 — What Is the Symbolism of the Tree and the Holy Seed in Isaiah’s Prophecy?
 
-Finally, the prophecy in verse 13 undoubtedly gave Isaiah some hope that the House of Israel would not be lost forever: “But yet there shall be a tenth, and they shall return.” So, here is the hope. There will be a tithing, one tenth, or a remnant who will return to Jerusalem at a future time. The prophecy continues, stating that when the remnant return, it “shall be eaten, as a teil-tree, and as an oak whose substance is in them when they cast their leaves; the holy seed shall be the substance thereof.” There is much symbolism in this passage. Even though during winter time a tree without its leaves may appear to be dead, there is still life in it. Similarly, even though it may appear like the House of Israel is desolate and dead, without further seed or progeny, there will be a remnant that will return and bring life back to the land and its people. From this remnant will come a “seed” or the promised Messiah, who will bring life back all-together (to all people). I think this Isaiah passage was perhaps alluding to Psalm 22, which is one of David’s Messianic Psalms.
+Finally, the prophecy in verse 13 undoubtedly gave Isaiah some hope that the House of Israel would not be lost forever: “But yet there shall be a tenth, and they shall return.” So, here is the hope. There will be a tithing, one tenth, or a remnant who will return to Jerusalem at a future time.
+
+The prophecy continues, stating that when the remnant return, it “shall be eaten, as a teil-tree, and as an oak whose substance is in them when they cast their leaves; the holy seed shall be the substance thereof.” There is much symbolism in this passage. Even though during winter time a tree without its leaves may appear to be dead, there is still life in it.
+
+Similarly, even though it may appear like the House of Israel is desolate and dead, without further seed or progeny, there will be a remnant that will return and bring life back to the land and its people. From this remnant will come a “seed” or the promised Messiah, who will bring life back all-together (to all people). I think this Isaiah passage was perhaps alluding to Psalm 22, which is one of David’s Messianic Psalms.

@@ -9,35 +9,46 @@ content = """# John W. Welch Notes: Ether 6
 
 ## Table of Contents
 
-- [Ether 6 — Questions to Ponder about the Jaredite Migration](#ether-6-questions-to-ponder-about-the-jaredite-migration)
-- [Ether 6:2–3 — The Lord Provides Light for the Jaredite Barges](#ether-623-the-lord-provides-light-for-the-jaredite-barges)
-  - [Further Reading](#further-reading)
-- [Ether 6:4–11 — Comparing Lehi’s Journey with the Jaredite Journey](#ether-6411-comparing-lehis-journey-with-the-jaredite-journey)
+- [Ether 6 — Questions to Ponder about the Jaredite Migration](#ether-6--questions-to-ponder-about-the-jaredite-migration)
+- [Ether 6:2–3 — The Lord Provides Light for the Jaredite Barges](#ether-623--the-lord-provides-light-for-the-jaredite-barges)
+- [Ether 6:4–11 — Comparing Lehi’s Journey with the Jaredite Journey](#ether-6411--comparing-lehis-journey-with-the-jaredite-journey)
   - [Similarities Between the Two Journeys](#similarities-between-the-two-journeys)
   - [Textual Parallel in Setting Forth](#textual-parallel-in-setting-forth)
   - [Contrasting the Storms and Divine Purposes](#contrasting-the-storms-and-divine-purposes)
-- [Ether 6:4–11 — Prevailing Currents in the Pacific Ocean](#ether-6411-prevailing-currents-in-the-pacific-ocean)
-- [Ether 6:25–30 — All but One Son Refuse to be King](#ether-62530-all-but-one-son-refuse-to-be-king)
+- [Ether 6:4–11 — Prevailing Currents in the Pacific Ocean](#ether-6411--prevailing-currents-in-the-pacific-ocean)
+- [Ether 6:25–30 — All but One Son Refuse to be King](#ether-62530--all-but-one-son-refuse-to-be-king)
 
 ---
 
 ### Ether 6 — Questions to Ponder about the Jaredite Migration
 
 - **How many similarities or differences can you detect between the account of the Jaredite journey and the journey of Lehi’s family?** Why might those comparisons be helpful to understand?
-- **The vessels are said to have been tight “like unto the ark of Noah.”** How many other features of these vessels may have been like the ark? How much divine instruction and guidance did Noah or the Jaredites have to prepare their vessels? How much divine help did Nephi have to prepare his ship? How much divine help is available to us as we journey towards our “promised land?”
+- **The vessels are said to have been tight “like unto the ark of Noah.”** How many other features of these vessels may have been like the ark? How much divine instruction and guidance did Noah or the Jaredites have to prepare their vessels? How much divine help did Nephi have to prepare his ship?
+
+How much divine help is available to us as we journey towards our “promised land?”
 - **It is clear that the Lord cared about the people having light during this long journey.** Does this help us believe that he cares about bringing light to us when we sit in spiritual or existential darkness? How does this account help us identify what steps we can take to obtain that light?
-- **How long did the ocean part of the Jaredite journey last?** What source of power drove the vessels? How did the people pass much of the time? How do those kinds of activities help us during times of trial?
+- **How long did the ocean part of the Jaredite journey last?** What source of power drove the vessels? How did the people pass much of the time?
+
+How do those kinds of activities help us during times of trial?
 - **What can we derive from this statement by President Brigham Young?**
-  > “We are on the old ship Zion. … [God] is at the helm and will stay there. … All is right, sing Hallelujah, for the Lord is here. He dictates, guides and directs. If the people will have implicit confidence in their God, never forsake their covenants nor their God, He will guide us right” (Brigham Young, “Remarks,” *Deseret News*, Nov. 18, 1857, 291).
+  > “We are on the old ship Zion. … [God] is at the helm and will stay there. … All is right, sing Hallelujah, for the Lord is here. He dictates, guides and directs. If the people will have implicit confidence in their God, never forsake their covenants nor their God, He will guide us right” (Brigham Young, “Remarks,” *Deseret News*, Nov.
+
+18, 1857, 291).
 - **Were the Jaredites justified in singing praises and songs of gratitude to the Lord?** (See Elder M. Russell Ballard’s Talk, “Stay in the Boat and Hold On!” *Ensign*, October 2014.)
+
+---
 
 ---
 
 ### Ether 6:2–3 — The Lord Provides Light for the Jaredite Barges
 
-The brother of Jared went to the Lord with his concern about the lack of light in the barges. The Lord did not provide an immediate solution to the problem, but asked, “What will ye that I should do that ye may have light in your vessels?” (Ether 2:23). In response, the brother of Jared “did molten out of rock sixteen small stones; and they were white and clear, even as transparent glass” (Ether 6:3). He then went back to the Lord and asked the Lord to touch each stone, which caused them to “shine in darkness, to give light unto men, women, and children, that they might not cross the great waters in darkness” (Ether 6:3).
+The brother of Jared went to the Lord with his concern about the lack of light in the barges. The Lord did not provide an immediate solution to the problem, but asked, “What will ye that I should do that ye may have light in your vessels?” (Ether 2:23).
 
-Referencing this account, Hugh Nibley asked, “[W]ho gave the brother of Jared the idea about stones in the first place? It was not the Lord, who left him entirely on his own; and yet the man went right to work as if he knew exactly what he was doing. Who put him on to it?” Nibley acknowledged that the brother of Jared’s shining stones narrative “has been the subject of much mockery and fun among the critics of the Book of Mormon.” However, both Nibley and John A. Tvedtnes have found that there is a substantial body of ancient literature that contain legends and histories of stones that provided light. Tvedtnes noted, “The account of the stones used to provide light in the Jaredite barges fits rather well into a larger corpus of ancient and medieval literature.” These texts from antiquity were unknown in the world during Joseph Smith’s time or were unavailable to Smith.
+In response, the brother of Jared “did molten out of rock sixteen small stones; and they were white and clear, even as transparent glass” (Ether 6:3). He then went back to the Lord and asked the Lord to touch each stone, which caused them to “shine in darkness, to give light unto men, women, and children, that they might not cross the great waters in darkness” (Ether 6:3).
+
+Referencing this account, Hugh Nibley asked, “[W]ho gave the brother of Jared the idea about stones in the first place? It was not the Lord, who left him entirely on his own; and yet the man went right to work as if he knew exactly what he was doing. Who put him on to it?”
+
+Nibley acknowledged that the brother of Jared’s shining stones narrative “has been the subject of much mockery and fun among the critics of the Book of Mormon.” However, both Nibley and John A. Tvedtnes have found that there is a substantial body of ancient literature that contain legends and histories of stones that provided light. Tvedtnes noted, “The account of the stones used to provide light in the Jaredite barges fits rather well into a larger corpus of ancient and medieval literature.” These texts from antiquity were unknown in the world during Joseph Smith’s time or were unavailable to Smith.
 
 One ancient account was of Alexander the Great, who was said to have a stone—a jewel that would glow. He carried it under his belt until he lost it in the Euphrates. Even Aristotle (Alexander’s tutor) mentioned Alexander’s stone.
 
@@ -56,17 +67,25 @@ Hugh Nibley gave the following summary:
 > Now whether the ark of Noah was actually lit by shining stones or not is beside the point, which is that the idea of stones shining in the darkness of the ark was not invented by Joseph Smith or anybody else in the nineteenth century, but:
 > 1. Was known to the ancient rabbis in an obscure and garbled version,
 > 2. Was clearly indicated in the properties of a very ancient shrine dedicated to the Syrian Noah, and
-> 3. Was mixed in among the legends of the very ancient Alexander cycle by means of which scholars quickly and easily ran it down to its oldest visible source, namely the old Sumerian Epic of the Babylonian Noah.
+> 3.
+
+Was mixed in among the legends of the very ancient Alexander cycle by means of which scholars quickly and easily ran it down to its oldest visible source, namely the old Sumerian Epic of the Babylonian Noah.
 >
 > However ridiculous the story of the shining stones may sound to modern ears, there is no doubt that it is [genuinely ancient], going back to the proper sources as far as Ether is concerned.
 
 Far from being an amusing creation of Joseph Smith, the shining stones are features of ancient texts that were not known in Smith’s place and time.
 
-#### Further Reading-Book of Mormon Central, “Where did the Brother of Jared Get the Idea of Shining Stones? (Ether 6:3),” *KnoWhy* 240 (November 28, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Where did the Brother of Jared Get the Idea of Shining Stones? (Ether 6:3),” *KnoWhy* 240 (November 28, 2016).
 - Hugh Nibley, *An Approach to the Book of Mormon*, 1st edition (Salt Lake City, UT: Deseret Book, 1957), chapter 25, pp. 288–298.
 - Hugh W. Nibley, “There Were Jaredites-The Shining Stones – Continued,” *Improvement Era* 59, no. 9 (1956): 630–632, 672–675.
 - Hugh Nibley, *An Approach to the Book of Mormon*, The Collected Works of Hugh Nibley, Volume 6 (Salt Lake City and Provo, UT: Deseret Book and FARMS, 1988), 285, 337–358.
 - John A. Tvedtnes, “Glowing Stones in Ancient and Medieval Lore,” *Journal of Book of Mormon Studies* 6, no. 2 (1997): 99–123.
+
+---
 
 ---
 
@@ -101,7 +120,9 @@ There are five phrasing sections in that verse that are virtually identical to t
 
 Even though both narratives are similar, there is much that can be learned from differences between the two accounts:
 
-The Jaredite record states that the Lord God caused furious winds, and that the people were “tossed upon the waves of the sea” as their vessels were pushed forward to the promised land. In other words, it was not an easy voyage—they had their trials along the journey, but they did ultimately make it to their desired destination. Knowing that it was the Lord who provided the tempest that pushed the Jaredites forward towards the Promised Land, we can apply this situation to ourselves metaphorically. When we face personal trials, tribulations, or trauma, it may be for a greater purpose. We may undergo these difficult experiences to get us to our desired destination—helping us to become more like the Son and the Father so that we can live in their presence someday.
+The Jaredite record states that the Lord God caused furious winds, and that the people were “tossed upon the waves of the sea” as their vessels were pushed forward to the promised land. In other words, it was not an easy voyage—they had their trials along the journey, but they did ultimately make it to their desired destination. Knowing that it was the Lord who provided the tempest that pushed the Jaredites forward towards the Promised Land, we can apply this situation to ourselves metaphorically.
+
+When we face personal trials, tribulations, or trauma, it may be for a greater purpose. We may undergo these difficult experiences to get us to our desired destination—helping us to become more like the Son and the Father so that we can live in their presence someday.
 
 On the other hand, it was the disobedience of Laman and Lemuel which caused the worst recorded storm on the voyage of Lehi’s family to the Promised Land. When out of anger, Laman and Lemuel tied their brother on the boat, Nephi had to pray to get his brothers under control so the Lord would stop the terrible storm.
 
@@ -109,13 +130,21 @@ In both narratives, the people were traveling to their Promised Land and they ha
 
 ---
 
+---
+
 ### Ether 6:4–11 — Prevailing Currents in the Pacific Ocean
 
-Scholars have been unable to identify the specific land route the Jaredites took to arrive at the ocean shore. As they made their way toward the ocean, they had barges that were used to cross smaller bodies of water—perhaps rivers, inland lakes, or seas (like the Caspian Sea). They eventually ended up somewhere on the coast of China or Korea, where they entered barges that took them across a very large body of water. The journey on the water was a long one—344 days—until they arrived at a landing place in their Promised Land. The ocean voyage was probably a longer trip than the inland route that they might have taken.
+Scholars have been unable to identify the specific land route the Jaredites took to arrive at the ocean shore. As they made their way toward the ocean, they had barges that were used to cross smaller bodies of water—perhaps rivers, inland lakes, or seas (like the Caspian Sea). They eventually ended up somewhere on the coast of China or Korea, where they entered barges that took them across a very large body of water.
+
+The journey on the water was a long one—344 days—until they arrived at a landing place in their Promised Land. The ocean voyage was probably a longer trip than the inland route that they might have taken.
 
 John L. Sorenson, a renowned Mesoamerican scholar, has pointed out that if you throw a tennis shoe in the water off the coast of Korea or Japan and then let the Pacific current take its course, the shoe will wash ashore somewhere around El Salvador in about 340 days. Such are the currents of the ocean.
 
-This exact scenario was recently proven. Not too long ago, there was a container-load of Nike shoes on a ship that went down in a storm right off the coast of Japan. The container went to the bottom of the ocean and broke open. The shoes all popped up on top of the water and floated with the ocean currents. This story was in the news because there were hundreds of shoes that washed ashore in Central America. As a result, people were running along the shoreline picking up brand-new, brand-name shoes.
+This exact scenario was recently proven. Not too long ago, there was a container-load of Nike shoes on a ship that went down in a storm right off the coast of Japan. The container went to the bottom of the ocean and broke open.
+
+The shoes all popped up on top of the water and floated with the ocean currents. This story was in the news because there were hundreds of shoes that washed ashore in Central America. As a result, people were running along the shoreline picking up brand-new, brand-name shoes.
+
+---
 
 ---
 
@@ -125,7 +154,9 @@ In ancient Mesopotamia there were two models of government. The first was monarc
 
 Many years after landing in the Promised Land, as Jared and his brother approached death, they numbered the Jaredite people. The Jaredite group had grown to include fifty or more people. Jared and his brother asked the people for their preference of government and the people requested that one of the sons of Jared or his brother be anointed king.
 
-We often see the glamorous side of kingship, but in the Book of Ether we see it was a curse for this civilization. Jared and his brother did not see eye to eye on the question of kingship. The more righteous brother of Jared was upset about the people desiring a king and predicted “surely this thing leadeth into captivity” (6:23; compare 1 Samuel 8:10–18, and Mosiah 29:16–23). What do these expressed concerns about having a king have in common? How accurate was the prophecy of the brother of Jared concerning what would happen if they had a king?
+We often see the glamorous side of kingship, but in the Book of Ether we see it was a curse for this civilization. Jared and his brother did not see eye to eye on the question of kingship. The more righteous brother of Jared was upset about the people desiring a king and predicted “surely this thing leadeth into captivity” (6:23; compare 1 Samuel 8:10–18, and Mosiah 29:16–23).
+
+What do these expressed concerns about having a king have in common? How accurate was the prophecy of the brother of Jared concerning what would happen if they had a king?
 
 Ironically, the people then chose the firstborn of the brother of Jared, but he refused (6:25). Might that imply that the people hoped to unify the group by selecting the son of the brother who did not want kingship? They may not have been surprised when he followed the wise counsel of his father and refused to become king. But they may have been more surprised when all the other sons of the brother of Jared, and of Pagag, and even of Jared also refused, except for Jared’s son, Orihah.
 

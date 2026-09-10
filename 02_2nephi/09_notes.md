@@ -5,32 +5,105 @@
 
 ## Table of Contents
 
-- [2 Nephi 9:1–7 — Jacob on the Atonement](#2-nephi-917-jacob-on-the-atonement)
-- [2 Nephi 9:14 — A Perfect Knowledge of Our Mistakes](#2-nephi-914-a-perfect-knowledge-of-our-mistakes)
-- [2 Nephi 9:27–38 — Jacob’s Ten Woes](#2-nephi-92738-jacobs-ten-woes)
-- [2 Nephi 9:41 — Christ Keeps Watch Over the Gate to Salvation](#2-nephi-941-christ-keeps-watch-over-the-gate-to-salvation)
-- [2 Nephi 9:44–45 — Jacob Shakes His Garments](#2-nephi-94445-jacob-shakes-his-garments)
+- [2 Nephi 9:1–7 — Jacob on the Atonement](#2-nephi-917--jacob-on-the-atonement)
+- [2 Nephi 9:14 — A Perfect Knowledge of Our Mistakes](#2-nephi-914--a-perfect-knowledge-of-our-mistakes)
+- [2 Nephi 9:27–38 — Jacob’s Ten Woes](#2-nephi-92738--jacobs-ten-woes)
+- [2 Nephi 9:41 — Christ Keeps Watch Over the Gate to Salvation](#2-nephi-941--christ-keeps-watch-over-the-gate-to-salvation)
+- [2 Nephi 9:44–45 — Jacob Shakes His Garments](#2-nephi-94445--jacob-shakes-his-garments)
 
 ---
 
 ### 2 Nephi 9:1–7 — Jacob on the Atonement
 
-Jacob’s marvelous chapter 9 is unsurpassed in the Book of Mormon or elsewhere. The Atonement is the first theme of redemption that he addresses (expressly in 9:7, 25, 26). What are some of the powers of the Atonement that Jacob mentioned here? There are several: the power of resurrection, the power to bring one back into the presence of God, and the power to make what was corrupted incorrupt. That is one of the main powers of at-one-ment, bringing and holding things together. Although ancient people did not use the term entropy, the basic principle of this law of physics was understood by Jacob. Everything in nature disintegrates. As you look around, you will see decay everywhere. But the power of the Atonement arrests that entropy and reverses it, restoring each corrupted thing to its most perfect state — physically and spiritually. Beyond restoration, Christ will permanently stop the process of entropy and corruption. “If it were not so, this flesh must be laid down to rot and to crumble to its mother earth and rise no more” (9:7). We can think of Christ as the Great High Priest, especially in regard to duties the High Priest would have performed when he officiated in the temple. The High Priest is the one who made the atoning sacrifice, and accordingly Lehi had said to Jacob: “Wherefore redemption cometh in and through the Holy Messiah for he is full of grace and truth. Behold, he offereth himself a sacrifice for sin to answer the ends of the law unto those who have a broken heart and a contrite spirit” (2 Nephi 2:6). The picture here is of the Great High Priest who not only performs the offering, but he is the offering. What more could you ask for than that? Elder Jeffery R. Holland wrote, Jacob’s testimony was that “the Mighty God” will always deliver “his covenant people” and that the Mighty God is, by his own divine declaration, the Lord God Jesus Christ, the “Savior. . . and Redeemer, the Mighty One of Jacob.” Jacob reflected on such teachings —especially those contained in the writing of Isaiah—so that his current audience and future readers “might know concerning the covenants of the Lord that he has covenanted with all the House of Israel ,” giving the parents of every generation cause to “rejoice” and to” lift up [their] heads forever, because of the blessings which the Lord God shall bestow upon [their children]. And then Elder Holland adds something that is key to chapter 9: “At the heart oft he covenant and the reason for such rejoicing is the atoning sacrifice of that ‘Mighty God’ who is the Savior and Redeemer of the world.” (Christ and the New Covenant [1997], 66–67).
+Jacob’s marvelous chapter 9 is unsurpassed in the Book of Mormon or elsewhere. The Atonement is the first theme of redemption that he addresses (expressly in 9:7, 25, 26). What are some of the powers of the Atonement that Jacob mentioned here?
+
+There are several: the power of resurrection, the power to bring one back into the presence of God, and the power to make what was corrupted incorrupt. That is one of the main powers of at-one-ment, bringing and holding things together. Although ancient people did not use the term entropy, the basic principle of this law of physics was understood by Jacob.
+
+Everything in nature disintegrates. As you look around, you will see decay everywhere. But the power of the Atonement arrests that entropy and reverses it, restoring each corrupted thing to its most perfect state — physically and spiritually.
+
+Beyond restoration, Christ will permanently stop the process of entropy and corruption. “If it were not so, this flesh must be laid down to rot and to crumble to its mother earth and rise no more” (9:7). We can think of Christ as the Great High Priest, especially in regard to duties the High Priest would have performed when he officiated in the temple.
+
+The High Priest is the one who made the atoning sacrifice, and accordingly Lehi had said to Jacob: “Wherefore redemption cometh in and through the Holy Messiah for he is full of grace and truth. Behold, he offereth himself a sacrifice for sin to answer the ends of the law unto those who have a broken heart and a contrite spirit” (2 Nephi 2:6). The picture here is of the Great High Priest who not only performs the offering, but he is the offering.
+
+What more could you ask for than that? Elder Jeffery R. Holland wrote, Jacob’s testimony was that “the Mighty God” will always deliver “his covenant people” and that the Mighty God is, by his own divine declaration, the Lord God Jesus Christ, the “Savior. . . and Redeemer, the Mighty One of Jacob.” Jacob reflected on such teachings —especially those contained in the writing of Isaiah—so that his current audience and future readers “might know concerning the covenants of the Lord that he has covenanted with all the House of Israel ,” giving the parents of every generation cause to “rejoice” and to” lift up [their] heads forever, because of the blessings which the Lord God shall bestow upon [their children].
+
+And then Elder Holland adds something that is key to chapter 9: “At the heart oft he covenant and the reason for such rejoicing is the atoning sacrifice of that ‘Mighty God’ who is the Savior and Redeemer of the world.” (Christ and the New Covenant [1997], 66–67).
+
+---
+
+---
 
 ### 2 Nephi 9:14 — A Perfect Knowledge of Our Mistakes
 
-For Jacob, it is important that we recognize our sins. “Wherefore, we shall have a perfect knowledge of all our guilt, and our uncleanness, and our nakedness,” but through the Atonement of Jesus Christ those made righteous shall equally “have a perfect knowledge of their enjoyment, and their righteousness, being clothed with purity, yea, even with the robe of righteousness” (9:14). President Gordon B. Hinckley often taught that a daily recommitting to accepting the Atonement of Christ and an honest willingness to change is daily repentance. It is not the Lord’s intent that we read these things and say, “O how wretched am I?” and cry all night. True repentance comes from a bright recollection and a genuine confidence that the Lord has provided everything essential for us, pending our acceptance. Confidence also requires understanding. That is to say, we do need to understand the commitments we make when we enter into covenants. We cannot be saved in ignorance. We must consider that we have a responsibility and act accordingly. Every time we make a covenant, we invoke either blessings or curses upon ourselves dependent on if we keep or break those covenants. We must make an honest accounting of our actions. We must see if we have called woe upon ourselves. If so, we must do what is necessary to repent; this is what Jacob means when he wants us to have a perfect knowledge of our mistakes. Jacob’s words don’t seem to be an ordinary call to repentance. Jacob certainly pronounces woes upon the wicked, but his words are more of an encouraging priesthood blessing. His focus is more on the promises that are extended to the righteous, so, it seems, at this point he is not worried too much about the wickedness of the people. Nephi and his group had separated from Laman and Lemuel only about twelve years before. They have worked hard together, and they have dedicated themselves to building the temple. But when things are going well, that is the best time to give a warning, while hearts are still soft, and ears are still open. At the same time, N ephi’s people were secluded and probably insecure. They didn’t have a large network of connections to potentially keep them safe. If you look back in 2 Nephi 6:2, they were worried about security, protection, and safety. They were looking to Nephi as the king and protector and were depending upon him for safety. They were not starting the fights, but they may have been watching at night. They may have had guards posted, but they were really counting on the Lord to deliver them. In that frame of mind, they were open to Jacob’s powerful speech, one of the most inspiring texts in all the scriptures.
+For Jacob, it is important that we recognize our sins. “Wherefore, we shall have a perfect knowledge of all our guilt, and our uncleanness, and our nakedness,” but through the Atonement of Jesus Christ those made righteous shall equally “have a perfect knowledge of their enjoyment, and their righteousness, being clothed with purity, yea, even with the robe of righteousness” (9:14). President Gordon B. Hinckley often taught that a daily recommitting to accepting the Atonement of Christ and an honest willingness to change is daily repentance.
+
+It is not the Lord’s intent that we read these things and say, “O how wretched am I?” and cry all night. True repentance comes from a bright recollection and a genuine confidence that the Lord has provided everything essential for us, pending our acceptance. Confidence also requires understanding.
+
+That is to say, we do need to understand the commitments we make when we enter into covenants. We cannot be saved in ignorance. We must consider that we have a responsibility and act accordingly.
+
+Every time we make a covenant, we invoke either blessings or curses upon ourselves dependent on if we keep or break those covenants. We must make an honest accounting of our actions. We must see if we have called woe upon ourselves.
+
+If so, we must do what is necessary to repent; this is what Jacob means when he wants us to have a perfect knowledge of our mistakes. Jacob’s words don’t seem to be an ordinary call to repentance. Jacob certainly pronounces woes upon the wicked, but his words are more of an encouraging priesthood blessing.
+
+His focus is more on the promises that are extended to the righteous, so, it seems, at this point he is not worried too much about the wickedness of the people. Nephi and his group had separated from Laman and Lemuel only about twelve years before. They have worked hard together, and they have dedicated themselves to building the temple.
+
+But when things are going well, that is the best time to give a warning, while hearts are still soft, and ears are still open. At the same time, N ephi’s people were secluded and probably insecure. They didn’t have a large network of connections to potentially keep them safe.
+
+If you look back in 2 Nephi 6:2, they were worried about security, protection, and safety. They were looking to Nephi as the king and protector and were depending upon him for safety. They were not starting the fights, but they may have been watching at night.
+
+They may have had guards posted, but they were really counting on the Lord to deliver them. In that frame of mind, they were open to Jacob’s powerful speech, one of the most inspiring texts in all the scriptures.
+
+---
+
+---
 
 ### 2 Nephi 9:27–38 — Jacob’s Ten Woes
 
-After assuring his people that the Atonement will satisfy the demands of God’s justice “upon all those who have not the law given to them” (9:26), people who know better will be held accountable. As a warning, Jacob then pronounces a set of ten woes upon those (1) who set aside the counsel of God, (2) who despise the poor, (3) who will not hear and obey, (4) who will not see, (5) whose hearts are impure or uncircumcised, (6) who tell lies, (7) who deliberately kill, (8) who commit whoredoms, (9) who worship idols, and (10) all who die in their sins (27 –38). In a covenant setting, this list of Woes functions similar to the list of twelve curses found near the end of the book of Deuteronomy (27:15–26). Several of Jacob’s woes are consequential warnings related to several of the Ten Commandments, which served as the basis of the Lord’s covenant with the children of Israel at Mount Sinai. Covenants come with commitments, and failing to keep one’s righteous commitments leads to unhappiness. Such ten-fold structures signal to listeners the completeness or perfection of the Lord’s covenant teachings and pro mises (See Figure 1). Further Reading Book of Mormon Central, “ Why Does Jacob Declare so Many ‘Woes’? (2 Nephi 9:27),” KnoWhy 35 (February 17, 2016).
+After assuring his people that the Atonement will satisfy the demands of God’s justice “upon all those who have not the law given to them” (9:26), people who know better will be held accountable. As a warning, Jacob then pronounces a set of ten woes upon those (1) who set aside the counsel of God, (2) who despise the poor, (3) who will not hear and obey, (4) who will not see, (5) whose hearts are impure or uncircumcised, (6) who tell lies, (7) who deliberately kill, (8) who commit whoredoms, (9) who worship idols, and (10) all who die in their sins (27–38).
 
-Figure 1 Welch, John W., and Greg Welch. Jacob’s Ten Woes and Ten Commandments. Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999.
+In a covenant setting, this list of Woes functions similar to the list of twelve curses found near the end of the book of Deuteronomy (27:15–26). Several of Jacob’s woes are consequential warnings related to several of the Ten Commandments, which served as the basis of the Lord’s covenant with the children of Israel at Mount Sinai. Covenants come with commitments, and failing to keep one’s righteous commitments leads to unhappiness. Such ten-fold structures signal to listeners the completeness or perfection of the Lord’s covenant teachings and pro mises (See Figure 1).
+
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Does Jacob Declare so Many ‘Woes’? (2 Nephi 9:27),” KnoWhy 35 (February 17, 2016)
+- Figure 1 Welch, John W., and Greg Welch. Jacob’s Ten Woes and Ten Commandments. Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999.
+
+---
+
+---
 
 ### 2 Nephi 9:41 — Christ Keeps Watch Over the Gate to Salvation
 
-As the High Priest, Jacob would have stood guard over the gates and the holiness of the House of the Lord. Entering the temple can cast our minds forward to the time when we will come to the gate that is kept by the Holy One. Meeting Christ on that occasion is what we each have to look forward to, knowing that He will be there, that he is a person who knows exactly how you feel. He is the gatekeeper. He doesn’t employ any servant there. He is the one who stands in wait of you. We have “gates” of the temple that in many ways are like that gate. As we enter, we can be looking forward to the time we will enter completely into his presence and joy. What role then do the covenants made in the temple play in our pass age through that eternal portal? And what does it mean to you that Christ keeps watch over that gate Himself? Jacob would like us to think about that more often.
+As the High Priest, Jacob would have stood guard over the gates and the holiness of the House of the Lord. Entering the temple can cast our minds forward to the time when we will come to the gate that is kept by the Holy One. Meeting Christ on that occasion is what we each have to look forward to, knowing that He will be there, that he is a person who knows exactly how you feel.
+
+He is the gatekeeper. He doesn’t employ any servant there. He is the one who stands in wait of you.
+
+We have “gates” of the temple that in many ways are like that gate. As we enter, we can be looking forward to the time we will enter completely into his presence and joy. What role then do the covenants made in the temple play in our pass age through that eternal portal?
+
+And what does it mean to you that Christ keeps watch over that gate Himself? Jacob would like us to think about that more often.
+
+---
+
+---
 
 ### 2 Nephi 9:44–45 — Jacob Shakes His Garments
 
-Visualize Jacob as he took off his high priestly robes and shook them saying, “I shake them before you” (9:44). Why would he do that? He wants his people to be responsible. He is telling them that he has shaken their iniquities from his soul as if saying, “I’m not bearing your iniquities any longer.” Jacob couldn’t have that impurity on him as the high priest, otherwise that would compromise his ability to be a pure officiator in the temple. This scene must have been very dramatic. Imagine if President Nelson during General Conference took off his coat and stood there and shook it in front of everybody and said, “I have given you all that I can. Now I shake off any responsibility for you and your sins.” How would you feel? Wouldn’t that leave an impression? That is how ancient prophets often got their points across. In this case, Jacob wanted to absolutely impress upon his people the importance of holiness. God wants his people to be holy. Several key words are used by Jacob in this chapter, including “judgment” (7 times), “remember” (8 times), and “deliver ” (12 times). But the dominant key word in this temple-covenant speech is “holy.” It appears 23 times, and “holiness” two times more. The dominant name used by Jacob here for the Lord is “the Holy One of Israel,” which appears thirteen times. One may well conclude that the main theme of Jacob’s temple speech here is holiness, Holiness to the Lord. Further Reading Parry, Donald W., “Symbolic Action as Prophecy in the Old Testament” in Sperry Symposium Classics: The Old Testament, ed. Paul Y. Hoskisson (Provo and Salt Lake City, UT: Religious Studies Center, Brigham Young University and Deseret Book 2005), 337–355.
+Visualize Jacob as he took off his high priestly robes and shook them saying, “I shake them before you” (9:44). Why would he do that? He wants his people to be responsible.
+
+He is telling them that he has shaken their iniquities from his soul as if saying, “I’m not bearing your iniquities any longer.” Jacob couldn’t have that impurity on him as the high priest, otherwise that would compromise his ability to be a pure officiator in the temple. This scene must have been very dramatic.
+
+Imagine if President Nelson during General Conference took off his coat and stood there and shook it in front of everybody and said, “I have given you all that I can. Now I shake off any responsibility for you and your sins.” How would you feel?
+
+Wouldn’t that leave an impression? That is how ancient prophets often got their points across. In this case, Jacob wanted to absolutely impress upon his people the importance of holiness.
+
+God wants his people to be holy. Several key words are used by Jacob in this chapter, including “judgment” (7 times), “remember” (8 times), and “deliver” (12 times). But the dominant key word in this temple-covenant speech is “holy.”
+
+It appears 23 times, and “holiness” two times more. The dominant name used by Jacob here for the Lord is “the Holy One of Israel,” which appears thirteen times. One may well conclude that the main theme of Jacob’s temple speech here is holiness, Holiness to the Lord.
+
+####
+
+#### Further Reading
+
+- Parry, Donald W., “Symbolic Action as Prophecy in the Old Testament” in Sperry Symposium Classics: The Old Testament, ed. Paul Y. Hoskisson (Provo and Salt Lake City, UT: Religious Studies Center, Brigham Young University and Deseret Book 2005), 337–355.

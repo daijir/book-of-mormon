@@ -5,34 +5,89 @@
 
 ## Table of Contents
 
-- [Alma 2:2 — Succession: A Primary Cause of Warfare in the Book of Mormon](#alma-22-succession-a-primary-cause-of-warfare-in-the-book-of-mormon)
-- [Alma 2:1–7 — Amlici Seeks to Be King](#alma-217-amlici-seeks-to-be-king)
-- [Alma 2:9–38 — The Amlicites and Lamanites War against the Nephites](#alma-2938-the-amlicites-and-lamanites-war-against-the-nephites)
-- [Alma 2:11 — Are the Amlicites and Amalekites Related?](#alma-211-are-the-amlicites-and-amalekites-related)
+- [Alma 2:2 — Succession: A Primary Cause of Warfare in the Book of Mormon](#alma-22--succession-a-primary-cause-of-warfare-in-the-book-of-mormon)
+- [Alma 2:1–7 — Amlici Seeks to Be King](#alma-217--amlici-seeks-to-be-king)
+- [Alma 2:9–38 — The Amlicites and Lamanites War against the Nephites](#alma-2938--the-amlicites-and-lamanites-war-against-the-nephites)
+- [Alma 2:11 — Are the Amlicites and Amalekites Related?](#alma-211--are-the-amlicites-and-amalekites-related)
 
 ---
 
 ### Alma 2:2 — Succession: A Primary Cause of Warfare in the Book of Mormon
 
-The Book of Mormon records frequent warfare, and it is sometimes difficult to understand why these wars started. Comparing descriptions of events leading up to war in the Book of Mormon with other historical war accounts suggests that one possible cause of contention involved people trying to take advantage of transitions that occurred at the death of a powerful figure. For example, continual crises and wars occurred just about every time a powerful Roman general or leader was killed throughout the decades of Roman civil wars. Naturally, wars happened at transition points like this in the Book of Mormon as well. The first chapter of Alma explains what happened shortly after the death of the great leader and king, Mosiah, and very soon after the implementation of a radical new form of government where Nephite kingship was replaced by a form of democracy with judges chosen by the people. During Alma’s first year as chief judge, a man named Nehor rose against Alma and the church. Nehor’s opposition did not immediately lead to war, but by the fifth year of the reign of judges, the movement Nehor started led to a full-fledged war when the Lamanites supported Amlici in his attack against the Nephites. Wars happened at other transition points in the Book of Mormon as seen in later war narratives. For example, many of the Lamanites converted to Christianity through the preaching of Ammon and his companions. “[T]he Amalekites and the Amulonites and the Lamanites who. . . had not been converted and had not taken up on them the name of Anti-Nephi-Lehi, were stirred up by the Amalekites and by the Amulonites to anger against their brethren” (Alma 24:1). Those joining in the rebellion did not like who was appointed king. Significantly, the timing of this war happened around a time of transition from one king to the next. Alma 24:3 –4 explains, “Now the king conferred the kingdom upon his son, and he called his name Anti-Nephi-Lehi. And the king died in that selfsame year that the Lamanites began to make preparations for war against the people of God.” The fact that an inexperienced king sat on the Lamanite throne may well have been a contributing factor in the commencement of this war. Again, in Helaman 1:2, another succession crisis ensued when Pahoran died and Pahoran’s sons contended for the judgeship. When Pahoran’s son took office, Kishkumen assassinated the chief judge and the Lamanites took advantage of the chaos to invade Nephite territory. One further example of war breaking out during a succession of power is described in Alma 45:19 –20 and 46:1 –3. This occurred when Helaman took over after the death or disappearance of his father, Alma. History was repeated when Amalickiah took advantage of the uncertainty caused by Alma’s death to rise up against the less experienced Helaman. 537 Mosiah 29–Alma 4 Further Reading Book of Mormon Central, “What Was One of the Main Causes of Warfare in the Book of Mormon?” KnoWhy 523 (July 5, 2019).
+The Book of Mormon records frequent warfare, and it is sometimes difficult to understand why these wars started. Comparing descriptions of events leading up to war in the Book of Mormon with other historical war accounts suggests that one possible cause of contention involved people trying to take advantage of transitions that occurred at the death of a powerful figure. For example, continual crises and wars occurred just about every time a powerful Roman general or leader was killed throughout the decades of Roman civil wars.
+
+Naturally, wars happened at transition points like this in the Book of Mormon as well. The first chapter of Alma explains what happened shortly after the death of the great leader and king, Mosiah, and very soon after the implementation of a radical new form of government where Nephite kingship was replaced by a form of democracy with judges chosen by the people. During Alma’s first year as chief judge, a man named Nehor rose against Alma and the church.
+
+Nehor’s opposition did not immediately lead to war, but by the fifth year of the reign of judges, the movement Nehor started led to a full-fledged war when the Lamanites supported Amlici in his attack against the Nephites. Wars happened at other transition points in the Book of Mormon as seen in later war narratives. For example, many of the Lamanites converted to Christianity through the preaching of Ammon and his companions.
+
+“[T]he Amalekites and the Amulonites and the Lamanites who. . . had not been converted and had not taken up on them the name of Anti-Nephi-Lehi, were stirred up by the Amalekites and by the Amulonites to anger against their brethren” (Alma 24:1). Those joining in the rebellion did not like who was appointed king. Significantly, the timing of this war happened around a time of transition from one king to the next.
+
+Alma 24:3–4 explains, “Now the king conferred the kingdom upon his son, and he called his name Anti-Nephi-Lehi. And the king died in that selfsame year that the Lamanites began to make preparations for war against the people of God.” The fact that an inexperienced king sat on the Lamanite throne may well have been a contributing factor in the commencement of this war.
+
+Again, in Helaman 1:2, another succession crisis ensued when Pahoran died and Pahoran’s sons contended for the judgeship. When Pahoran’s son took office, Kishkumen assassinated the chief judge and the Lamanites took advantage of the chaos to invade Nephite territory. One further example of war breaking out during a succession of power is described in Alma 45:19–20 and 46:1–3.
+
+This occurred when Helaman took over after the death or disappearance of his father, Alma. History was repeated when Amalickiah took advantage of the uncertainty caused by Alma’s death to rise up against the less experienced Helaman. 537 Mosiah 29–Alma 4
+
+#### Further Reading
+
+- Book of Mormon Central, “What Was One of the Main Causes of Warfare in the Book of Mormon?” KnoWhy 523 (July 5, 2019).
+
+---
 
 ### Alma 2:1–7 — Amlici Seeks to Be King
 
-Soon after Alma had dealt with the matter of Nehor, he faced another crisis —an even more disruptive event. A follower of Nehor, a man named Amlici, convinced a large number of rebels that democracy by the people’s choice of judges wasn’t working and that kingship should be restored. Amlici put himself forward as the choice for king. This happened during Alma’s fifth year as chief judge. Who was Amlici and why would he be able to persuasively convince a large number of people that he should be king? In Hebrew, the written language does not have vowels. Therefore, (m-l-k), (m-li-ki) and (ma-lik) are based on the same root word in Hebrew, meaning “king.” Mu-lek may also have the same meaning of “king.” This leads to the linguistic possibility that “Mulekites” were “king-ites” and were among the “king men.” Similarly, by removing the vowels in the word “Amlici,” we are left with (m-l-c) or “king.” Was Amlici a Mulekite? He certainly was a king-ite by ide ology and his name reflects his desire and political platform. If Amlici was a Mulekite, he may well have been a descendant of King Zarahemla with a legitimate claim to be king because of his lineage. This may be why Amlici was able to convince many people that he had the right to be king and that he should be king. The question as to whether Amlici should be king was put to a vote before the people. In effect, Amlici ran for the office of king and he lost. However, instead of the voice of the people settling the matter, Amlici gathered an army and made war against the Nephites. Further Reading Book of Mormon Central, “ Why Should Readers Pay Close Attention to the Mulekites? (Omni 1:19),” KnoWhy 434 (May 17, 2018).
+Soon after Alma had dealt with the matter of Nehor, he faced another crisis —an even more disruptive event. A follower of Nehor, a man named Amlici, convinced a large number of rebels that democracy by the people’s choice of judges wasn’t working and that kingship should be restored. Amlici put himself forward as the choice for king.
+
+This happened during Alma’s fifth year as chief judge. Who was Amlici and why would he be able to persuasively convince a large number of people that he should be king? In Hebrew, the written language does not have vowels.
+
+Therefore, (m-l-k), (m-li-ki) and (ma-lik) are based on the same root word in Hebrew, meaning “king.” Mu-lek may also have the same meaning of “king.” This leads to the linguistic possibility that “Mulekites” were “king-ites” and were among the “king men.”
+
+Similarly, by removing the vowels in the word “Amlici,” we are left with (m-l-c) or “king.” Was Amlici a Mulekite? He certainly was a king-ite by ide ology and his name reflects his desire and political platform.
+
+If Amlici was a Mulekite, he may well have been a descendant of King Zarahemla with a legitimate claim to be king because of his lineage. This may be why Amlici was able to convince many people that he had the right to be king and that he should be king. The question as to whether Amlici should be king was put to a vote before the people.
+
+In effect, Amlici ran for the office of king and he lost. However, instead of the voice of the people settling the matter, Amlici gathered an army and made war against the Nephites.
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Should Readers Pay Close Attention to the Mulekites? (Omni 1:19),” KnoWhy 434 (May 17, 2018).
+
+---
 
 ### Alma 2:9–38 — The Amlicites and Lamanites War against the Nephites
 
-Once again, Alma faced a very grave crisis. This time Alma and his people were forced into a war. Undoubtedly, the decision to go to war caused Alma deep agony of thought. Such a decision leads to the death of many people. How many died? Alma and his men killed 12,532 people who were followers of Amlici, and 6,562 of Alma’s men died in battle. Over 19,000 people died as a result of this war, and that count didn’t include any women and children. When the men came home from the battlefield, their women, children, and animals had been slaughtered (Alma 3:2). Why the animals? Soldiers need the food. Pillaging and plundering happens during wartime because soldiers are hungry and need to be fed. The Amlicite death toll included Lamanites who had come forward and formed an alliance with the Amlicites. The alliance was formed in the fifth year of Alma’s reign as judge. Where did those Lamanites come from? They came from the Land of Nephi. The four sons of Mosiah had recently arrived in the Land of Nephi to do missionary work among the Lamanites, and they were not particularly well-received there. In fact, these missionaries were put in prison. The Lamanites living in the Land of Nephi may have questioned why Nephites were entering their territory and trying to influence their culture —eventually taking a group of their people (Ammonites) away. The four sons of Mosiah, desiring to do good, may have created a dynamic that caused the Lamanites grave concerns that led to their decision to join forces with the Amlicites against the Nephites. This dynamic is not directly put together for us in the Book of Mormon, but something like it was probably an underlying factor in the Amlicite-Lamanite alliance.
+Once again, Alma faced a very grave crisis. This time Alma and his people were forced into a war. Undoubtedly, the decision to go to war caused Alma deep agony of thought.
+
+Such a decision leads to the death of many people. How many died? Alma and his men killed 12,532 people who were followers of Amlici, and 6,562 of Alma’s men died in battle.
+
+Over 19,000 people died as a result of this war, and that count didn’t include any women and children. When the men came home from the battlefield, their women, children, and animals had been slaughtered (Alma 3:2). Why the animals?
+
+Soldiers need the food. Pillaging and plundering happens during wartime because soldiers are hungry and need to be fed. The Amlicite death toll included Lamanites who had come forward and formed an alliance with the Amlicites.
+
+The alliance was formed in the fifth year of Alma’s reign as judge. Where did those Lamanites come from? They came from the Land of Nephi.
+
+The four sons of Mosiah had recently arrived in the Land of Nephi to do missionary work among the Lamanites, and they were not particularly well-received there. In fact, these missionaries were put in prison. The Lamanites living in the Land of Nephi may have questioned why Nephites were entering their territory and trying to influence their culture —eventually taking a group of their people (Ammonites) away.
+
+The four sons of Mosiah, desiring to do good, may have created a dynamic that caused the Lamanites grave concerns that led to their decision to join forces with the Amlicites against the Nephites. This dynamic is not directly put together for us in the Book of Mormon, but something like it was probably an underlying factor in the Amlicite-Lamanite alliance.
+
+---
 
 ### Alma 2:11 — Are the Amlicites and Amalekites Related?
 
-Readers are introduced to Amlici in Alma 2, where he appears among the Nephites seeking to be their king. Amlici’s ideology was similar to that of Nehor. He gathered many followers, called “Amlicites,” and incited them in armed conflict with the Nephites. The Amlicites then formed an allegiance with the Lamanites to continue in their war against the Nephites. During battle, Amlici was slain in one-on-one, hand-to-hand combat with Alma.
+Readers are introduced to Amlici in Alma 2, where he appears among the Nephites seeking to be their king. Amlici’s ideology was similar to that of Nehor. He gathered many followers, called “Amlicites,” and incited them in armed conflict with the Nephites.
+
+The Amlicites then formed an allegiance with the Lamanites to continue in their war against the Nephites. During battle, Amlici was slain in one-on-one, hand-to-hand combat with Alma.
 
 At this point in the record, the Amlicites seem to completely disappear from the Book of Mormon narrative. However, later during Aaron’s missionary work among the Lamanites, he teaches a group of people called “Amalekites.” There is no introduction or explanation in the record as to the origins of the Amalekite people. Like the Amlicites, the Amalekites shared ideological connections to Nehor and were later listed as Nephite dissenters.
 
 Many scholars have concluded that these two groups—Amlicites and Amalekites—are one and the same people:
-- **Manuscript Spelling**: This conclusion is buttressed by Royal Skousen’s work with the Original and Printer’s Manuscripts of the Book of Mormon. The “Amlicites” are first mentioned in the Printer’s Manuscript, with the word being spelled “Amlikites,” indicating that both “Amlici” and “Amlicites” may have been pronounced using a hard “c” rather than a soft “c.” In addition, the earliest surviving references to the Amalekites in the original manuscript are spelled “Amelicites.” The spelling for “Amelicites” differs from the spelling for “Amlicites” by the addition of only one “e,” with the resultant addition of another syllable in the word (making a total of four syllables)—the same number of syllables in the word “Amalekites.” Skousen felt that the similarity in spellings in the Book of Mormon manuscripts strongly supports the conclusion that the Amalekites were followers of Amlici and the same people as the Amlicites.
+- **Manuscript Spelling**: This conclusion is buttressed by Royal Skousen’s work with the Original and Printer’s Manuscripts of the Book of Mormon. The “Amlicites” are first mentioned in the Printer’s Manuscript, with the word being spelled “Amlikites,” indicating that both “Amlici” and “Amlicites” may have been pronounced using a hard “c” rather than a soft “c.” In addition, the earliest surviving references to the Amalekites in the original manuscript are spelled “Amelicites.”
+
+The spelling for “Amelicites” differs from the spelling for “Amlicites” by the addition of only one “e,” with the resultant addition of another syllable in the word (making a total of four syllables)—the same number of syllables in the word “Amalekites.” Skousen felt that the similarity in spellings in the Book of Mormon manuscripts strongly supports the conclusion that the Amalekites were followers of Amlici and the same people as the Amlicites.
 - **Ideological Consistency**: Both the Amlicites and Amalekites are described as having ideological connections to Nehor with similar goals. Both groups were religious dissidents who desired a return to a monarchal form of government.
 
-#### Further Reading-Book of Mormon Central, “How Were the Amlicites and Amalekites Related?” *KnoWhy* 109 (May 27, 2016).
+####
 
+#### Further Reading
+
+- Book of Mormon Central, “How Were the Amlicites and Amalekites Related?” *KnoWhy* 109 (May 27, 2016).

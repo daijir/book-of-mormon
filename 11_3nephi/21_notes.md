@@ -26,6 +26,8 @@ Nephi as record keeper, and Mormon as compiler and abridger, recognized this cha
 
 ---
 
+---
+
 ### The Chiastic Climax of the Covenant Sermon
 
 In the overall chiastic structure of Jesus' Covenant Sermon across 3 Nephi 20:10–22:17 (identified by Victor L. Ludlow), 3 Nephi 21 constitutes the central turning point and apex:
@@ -48,6 +50,8 @@ In the overall chiastic structure of Jesus' Covenant Sermon across 3 Nephi 20:10
 
 ---
 
+---
+
 ### 3 Nephi 21:8–11 — The Father's Servant Who Is "Marred"
 
 At the very center of this discourse (3 Nephi 21:10), Jesus quotes Isaiah 52:14 concerning the Lord's servant who shall be "marred" more than any man, yet through whom the Lord will work "a great and a marvelous work" (21:9):
@@ -55,6 +59,8 @@ At the very center of this discourse (3 Nephi 21:10), Jesus quotes Isaiah 52:14 
 > “For in that day, for my sake shall the Father work a work, which shall be a great and a marvelous work among them ... yet he shall be healed, for their wisdom shall not hurt him.” (3 Nephi 21:9–10)
 
 This prophetic portrait anticipates both the Savior’s own suffering and triumph, and the latter-day prophetic instrument through whom the records would be translated and published despite severe opposition.
+
+---
 
 ---
 
@@ -66,6 +72,8 @@ Jesus continues quoting from Micah 5:8–15:
 
 ---
 
+---
+
 ### 3 Nephi 21:22–29 — Assisting in the Building of the New Jerusalem
 
 Jesus outlines the glorious destiny of those who repent and heed the Book of Mormon:
@@ -73,5 +81,9 @@ Jesus outlines the glorious destiny of those who repent and heed the Book of Mor
 2. **Building the Holy City**: They will assist the remnant of Jacob to build a city to be called the **New Jerusalem** (21:23; see also 3 Nephi 20:22).
 3. **The Gathering of All Remnants**: The work of the Father will commence among all the dispersed of His people throughout the earth, bringing them home to the land of their inheritance (21:26–28).
 
-#### Further Reading-Book of Mormon Central, “Why Is the Book of Mormon the Great Sign of the Father’s Work? (3 Nephi 21:1–7),” *KnoWhy* 208 (October 13, 2016).
+####
+
+#### Further Reading
+
+- Book of Mormon Central, “Why Is the Book of Mormon the Great Sign of the Father’s Work? (3 Nephi 21:1–7),” *KnoWhy* 208 (October 13, 2016).
 - Victor L. Ludlow, “The Father’s Covenant People Sermon: 3 Nephi 20:10–23:5,” in *Third Nephi: An Incomparable Scripture*, ed. Andrew C. Skinner and Gaye Strathearn (Salt Lake City and Provo, UT: Deseret Book and Neal A. Maxwell Institute, 2012), 147–174.
