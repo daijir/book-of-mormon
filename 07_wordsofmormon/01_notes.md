@@ -1,6 +1,6 @@
 # John W. Welch Notes: Words of Mormon 1
 
-- [📖 View Scripture Text: 01.txt](file:///C:/Users/dazhi/code/book-of-mormon/07_wordsofmormon/01.txt)
+- [📖 本文を読む (01.md)](01.md)
 - **Source**: [Scripture Central — Enos-Words of Mormon](https://scripturecentral.org/archive/books/book-chapter/enos-words-mormon)
 
 ## Table of Contents

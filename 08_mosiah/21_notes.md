@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 21
 
-- [📖 View Scripture Text: 21.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/21.txt)
+- [📖 本文を読む (21.md)](21.md)
 - **Source**: [Scripture Central — Mosiah 18-24](https://scripturecentral.org/archive/books/book-chapter/mosiah-18-24)
 
 ## Table of Contents

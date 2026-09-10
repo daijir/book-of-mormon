@@ -1,6 +1,6 @@
 # John W. Welch Notes: Ether 4
 
-- [📖 View Scripture Text: 04.txt](file:///C:/Users/dazhi/code/book-of-mormon/14_ether/04.txt)
+- [📖 本文を読む (04.md)](04.md)
 - **Source**: [Scripture Central — Ether 1-5](https://scripturecentral.org/archive/books/book-chapter/ether-1-5)
 
 ## Table of Contents

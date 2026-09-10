@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 9
 
-- [📖 View Scripture Text: 09.txt](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/09.txt)
+- [📖 本文を読む (09.md)](09.md)
 - **Source**: [Scripture Central — 2 Nephi 6-10](https://scripturecentral.org/archive/books/book-chapter/2-nephi-6-10)
 
 ## Table of Contents

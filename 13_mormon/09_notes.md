@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mormon 9
 
-- [📖 View Scripture Text: 09.txt](file:///C:/Users/dazhi/code/book-of-mormon/13_mormon/09.txt)
+- [📖 本文を読む (09.md)](09.md)
 - **Source**: [Scripture Central — Mormon 7-9](https://scripturecentral.org/archive/books/book-chapter/mormon-7-9)
 
 ## Table of Contents

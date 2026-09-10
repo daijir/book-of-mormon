@@ -1,6 +1,6 @@
 # John W. Welch Notes: Helaman 8
 
-- [📖 View Scripture Text: 08.txt](file:///C:/Users/dazhi/code/book-of-mormon/10_helaman/08.txt)
+- [📖 本文を読む (08.md)](08.md)
 - **Source**: [Scripture Central — Helaman 7-12](https://scripturecentral.org/archive/books/book-chapter/helaman-7-12)
 
 ## Table of Contents

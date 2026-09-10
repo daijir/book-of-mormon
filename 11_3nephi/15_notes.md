@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 15
 
-- [📖 View Scripture Text: 15.txt](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/15.txt)
+- [📖 本文を読む (15.md)](15.md)
 - **Source**: [Scripture Central — 3 Nephi 12-16](https://scripturecentral.org/archive/books/book-chapter/3-nephi-12-16)
 
 ## Table of Contents

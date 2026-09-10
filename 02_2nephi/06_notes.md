@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 6
 
-- [📖 View Scripture Text: 06.txt](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/06.txt)
+- [📖 本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — 2 Nephi 6-10](https://scripturecentral.org/archive/books/book-chapter/2-nephi-6-10)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 8
 
-- [📖 View Scripture Text: 08.txt](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/08.txt)
+- [📖 本文を読む (08.md)](08.md)
 - **Source**: [Scripture Central — 3 Nephi 8-11](https://scripturecentral.org/archive/books/book-chapter/3-nephi-8-11)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Ether 12
 
-- [📖 View Scripture Text: 12.txt](file:///C:/Users/dazhi/code/book-of-mormon/14_ether/12.txt)
+- [📖 本文を読む (12.md)](12.md)
 - **Source**: [Scripture Central — Ether 12-15](https://scripturecentral.org/archive/books/book-chapter/ether-12-15)
 
 ## Table of Contents

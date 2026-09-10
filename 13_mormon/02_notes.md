@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mormon 2
 
-- [📖 View Scripture Text: 02.txt](file:///C:/Users/dazhi/code/book-of-mormon/13_mormon/02.txt)
+- [📖 本文を読む (02.md)](02.md)
 - **Source**: [Scripture Central — Mormon 1-6](https://scripturecentral.org/archive/books/book-chapter/mormon-1-6)
 
 ## Table of Contents

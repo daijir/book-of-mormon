@@ -1,6 +1,6 @@
 # John W. Welch Notes: Moroni 6
 
-- [📖 View Scripture Text: 06.txt](file:///C:/Users/dazhi/code/book-of-mormon/15_moroni/06.txt)
+- [📖 本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — Moroni 1-6](https://scripturecentral.org/archive/books/book-chapter/moroni-1-6)
 
 ## Table of Contents

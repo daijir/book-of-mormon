@@ -1,6 +1,6 @@
 # John W. Welch Notes: Ether 15
 
-- [📖 View Scripture Text: 15.txt](file:///C:/Users/dazhi/code/book-of-mormon/14_ether/15.txt)
+- [📖 本文を読む (15.md)](15.md)
 - **Source**: [Scripture Central — Ether 12-15](https://scripturecentral.org/archive/books/book-chapter/ether-12-15)
 
 ## Table of Contents

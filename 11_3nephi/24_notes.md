@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 24
 
-- [📖 View Scripture Text: 24.txt](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/24.txt)
+- [📖 本文を読む (24.md)](24.md)
 - **Source**: [Scripture Central — 3 Nephi 20-26](https://scripturecentral.org/archive/books/book-chapter/3-nephi-20-26)
 - **Companion Chapter**: [3 Nephi 25 Notes](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/25_notes.md) (Malachi 4 & Elijah)
 

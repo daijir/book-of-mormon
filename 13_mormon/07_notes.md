@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mormon 7
 
-- [📖 View Scripture Text: 07.txt](file:///C:/Users/dazhi/code/book-of-mormon/13_mormon/07.txt)
+- [📖 本文を読む (07.md)](07.md)
 - **Source**: [Scripture Central — Mormon 7-9](https://scripturecentral.org/archive/books/book-chapter/mormon-7-9)
 
 ## Table of Contents

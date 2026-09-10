@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 54
 
-- [📖 View Scripture Text: 54.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/54.txt)
+- [📖 本文を読む (54.md)](54.md)
 - **Source**: [Scripture Central — Alma 53-63](https://scripturecentral.org/archive/books/book-chapter/alma-53-63)
 
 ## Table of Contents

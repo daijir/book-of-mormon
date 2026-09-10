@@ -1,6 +1,6 @@
 # John W. Welch Notes: Helaman 16
 
-- [📖 View Scripture Text: 16.txt](file:///C:/Users/dazhi/code/book-of-mormon/10_helaman/16.txt)
+- [📖 本文を読む (16.md)](16.md)
 - **Source**: [Scripture Central — Helaman 13-16](https://scripturecentral.org/archive/books/book-chapter/helaman-13-16)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Jacob 6
 
-- [📖 View Scripture Text: 06.txt](file:///C:/Users/dazhi/code/book-of-mormon/03_jacob/06.txt)
+- [📖 本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — Jacob 5-7](https://scripturecentral.org/archive/books/book-chapter/jacob-5-7)
 
 ## Table of Contents

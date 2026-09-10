@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 22
 
-- [📖 View Scripture Text: 22.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/22.txt)
+- [📖 本文を読む (22.md)](22.md)
 - **Source**: [Scripture Central — Alma 17-22](https://scripturecentral.org/archive/books/book-chapter/alma-17-22)
 
 ## Table of Contents

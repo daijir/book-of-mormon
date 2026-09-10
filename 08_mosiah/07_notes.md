@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 7
 
-- [📖 View Scripture Text: 07.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/07.txt)
+- [📖 本文を読む (07.md)](07.md)
 - **Source**: [Scripture Central — Mosiah 7-10](https://scripturecentral.org/archive/books/book-chapter/mosiah-7-10)
 
 ## Table of Contents

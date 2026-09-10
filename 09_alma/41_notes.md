@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 41
 
-- [📖 View Scripture Text: 41.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/41.txt)
+- [📖 本文を読む (41.md)](41.md)
 - **Source**: [Scripture Central — Alma 39-42](https://scripturecentral.org/archive/books/book-chapter/alma-39-42)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 32
 
-- [📖 View Scripture Text: 32.txt](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/32.txt)
+- [📖 本文を読む (32.md)](32.md)
 - **Source**: [Scripture Central — 2 Nephi 31-33](https://scripturecentral.org/archive/books/book-chapter/2-nephi-31-33)
 
 ## Table of Contents

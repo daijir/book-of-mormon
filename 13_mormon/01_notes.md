@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mormon 1
 
-- [📖 View Scripture Text: 01.txt](file:///C:/Users/dazhi/code/book-of-mormon/13_mormon/01.txt)
+- [📖 本文を読む (01.md)](01.md)
 - **Source**: [Scripture Central — Mormon 1-6](https://scripturecentral.org/archive/books/book-chapter/mormon-1-6)
 
 ## Table of Contents

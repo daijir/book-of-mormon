@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 7
 
-- [📖 View Scripture Text: 07.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/07.txt)
+- [📖 本文を読む (07.md)](07.md)
 - **Source**: [Scripture Central — Alma 5-7](https://scripturecentral.org/archive/books/book-chapter/alma-5-7)
 
 ## Table of Contents

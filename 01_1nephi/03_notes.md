@@ -1,6 +1,6 @@
 # John W. Welch Notes: 1 Nephi 3
 
-- [📖 View Scripture Text: 03.txt](file:///C:/Users/dazhi/code/book-of-mormon/01_1nephi/03.txt)
+- [📖 本文を読む (03.md)](03.md)
 - **Source**: [Scripture Central — 1 Nephi 1-7](https://scripturecentral.org/archive/books/book-chapter/1-nephi-1-7)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 34
 
-- [📖 View Scripture Text: 34.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/34.txt)
+- [📖 本文を読む (34.md)](34.md)
 - **Source**: [Scripture Central — Alma 32-35](https://scripturecentral.org/archive/books/book-chapter/alma-32-35)
 
 ## Table of Contents

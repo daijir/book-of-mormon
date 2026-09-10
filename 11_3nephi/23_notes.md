@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 23
 
-- [📖 View Scripture Text: 23.txt](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/23.txt)
+- [📖 本文を読む (23.md)](23.md)
 - **Source**: [Scripture Central — 3 Nephi 20-26](https://scripturecentral.org/archive/books/book-chapter/3-nephi-20-26)
 
 ## Table of Contents

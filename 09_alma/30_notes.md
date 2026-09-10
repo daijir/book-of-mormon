@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 30
 
-- [📖 View Scripture Text: 30.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/30.txt)
+- [📖 本文を読む (30.md)](30.md)
 - **Source**: [Scripture Central — Alma 30-31](https://scripturecentral.org/archive/books/book-chapter/alma-30-31)
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 # John W. Welch Notes: 2 Nephi 12
 
-- [📖 View Scripture Text: 12.txt](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/12.txt)
+- [📖 本文を読む (12.md)](12.md)
 - **Source**: [Scripture Central — 2 Nephi 11-25](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)
 - **Companion Study**: [2 Nephi 11 Notes](file:///C:/Users/dazhi/code/book-of-mormon/02_2nephi/11_notes.md) (The Nephite Prophetic View)
 

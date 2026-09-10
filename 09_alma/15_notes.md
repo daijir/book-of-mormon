@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 15
 
-- [📖 View Scripture Text: 15.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/15.txt)
+- [📖 本文を読む (15.md)](15.md)
 - **Source**: [Scripture Central — Alma 13-16](https://scripturecentral.org/archive/books/book-chapter/alma-13-16)
 
 ## Table of Contents

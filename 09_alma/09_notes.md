@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 9
 
-- [📖 View Scripture Text: 09.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/09.txt)
+- [📖 本文を読む (09.md)](09.md)
 - **Source**: [Scripture Central — Alma 8-12](https://scripturecentral.org/archive/books/book-chapter/alma-8-12)
 
 ## Table of Contents

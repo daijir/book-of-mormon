@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 3
 
-- [📖 View Scripture Text: 03.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/03.txt)
+- [📖 本文を読む (03.md)](03.md)
 - **Source**: [Scripture Central — Mosiah 1-3](https://scripturecentral.org/archive/books/book-chapter/mosiah-1-3)
 
 ## Table of Contents

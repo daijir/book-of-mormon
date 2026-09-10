@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 3
 
-- [📖 View Scripture Text: 03.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/03.txt)
+- [📖 本文を読む (03.md)](03.md)
 - **Source**: [Scripture Central — Mosiah 29 - Alma 4](https://scripturecentral.org/archive/books/book-chapter/mosiah-29-alma-4)
 
 ## Table of Contents

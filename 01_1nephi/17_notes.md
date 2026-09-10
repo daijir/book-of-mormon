@@ -1,6 +1,6 @@
 # John W. Welch Notes: 1 Nephi 17
 
-- [📖 View Scripture Text: 17.txt](file:///C:/Users/dazhi/code/book-of-mormon/01_1nephi/17.txt)
+- [📖 本文を読む (17.md)](17.md)
 - **Source**: [Scripture Central — 1 Nephi 16-22](https://scripturecentral.org/archive/books/book-chapter/1-nephi-16-22)
 
 ## Table of Contents

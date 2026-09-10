@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 29
 
-- [📖 View Scripture Text: 29.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/29.txt)
+- [📖 本文を読む (29.md)](29.md)
 - **Source**: [Scripture Central — Mosiah 29 - Alma 4](https://scripturecentral.org/archive/books/book-chapter/mosiah-29-alma-4)
 
 ## Table of Contents

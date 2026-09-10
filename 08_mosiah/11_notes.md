@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 11
 
-- [📖 View Scripture Text: 11.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/11.txt)
+- [📖 本文を読む (11.md)](11.md)
 - **Source**: [Scripture Central — Mosiah 11-17](https://scripturecentral.org/archive/books/book-chapter/mosiah-11-17)
 
 ## Table of Contents

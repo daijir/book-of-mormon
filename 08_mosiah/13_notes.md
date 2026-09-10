@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 13
 
-- [📖 View Scripture Text: 13.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/13.txt)
+- [📖 本文を読む (13.md)](13.md)
 - **Source**: [Scripture Central — Mosiah 11-17](https://scripturecentral.org/archive/books/book-chapter/mosiah-11-17)
 - **Companion Study**: [Mosiah 12 Notes](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/12_notes.md) | [Mosiah 14 Notes](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/14_notes.md) | [Mosiah 17 Notes](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/17_notes.md) (Abinadi and Pentecost Thematic Parallels)
 

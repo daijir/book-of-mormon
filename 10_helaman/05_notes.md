@@ -1,6 +1,6 @@
 # John W. Welch Notes: Helaman 5
 
-- [📖 View Scripture Text: 05.txt](file:///C:/Users/dazhi/code/book-of-mormon/10_helaman/05.txt)
+- [📖 本文を読む (05.md)](05.md)
 - **Source**: [Scripture Central — Helaman 1-6](https://scripturecentral.org/archive/books/book-chapter/helaman-1-6)
 
 ## Table of Contents

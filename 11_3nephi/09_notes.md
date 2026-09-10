@@ -1,6 +1,6 @@
 # John W. Welch Notes: 3 Nephi 9
 
-- [📖 View Scripture Text: 09.txt](file:///C:/Users/dazhi/code/book-of-mormon/11_3nephi/09.txt)
+- [📖 本文を読む (09.md)](09.md)
 - **Source**: [Scripture Central — 3 Nephi 8-11](https://scripturecentral.org/archive/books/book-chapter/3-nephi-8-11)
 
 ## Table of Contents

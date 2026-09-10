@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 27
 
-- [📖 View Scripture Text: 27.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/27.txt)
+- [📖 本文を読む (27.md)](27.md)
 - **Source**: [Scripture Central — Alma 23-29](https://scripturecentral.org/archive/books/book-chapter/alma-23-29)
 
 ## Table of Contents

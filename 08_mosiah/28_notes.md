@@ -1,6 +1,6 @@
 # John W. Welch Notes: Mosiah 28
 
-- [📖 View Scripture Text: 28.txt](file:///C:/Users/dazhi/code/book-of-mormon/08_mosiah/28.txt)
+- [📖 本文を読む (28.md)](28.md)
 - **Source**: [Scripture Central — Mosiah 25-28](https://scripturecentral.org/archive/books/book-chapter/mosiah-25-28)
 
 ## Table of Contents

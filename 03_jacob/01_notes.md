@@ -1,6 +1,6 @@
 # John W. Welch Notes: Jacob 1
 
-- [📖 View Scripture Text: 01.txt](file:///C:/Users/dazhi/code/book-of-mormon/03_jacob/01.txt)
+- [📖 本文を読む (01.md)](01.md)
 - **Source**: [Scripture Central — Jacob 1-4](https://scripturecentral.org/archive/books/book-chapter/jacob-1-4)
 
 ## Table of Contents

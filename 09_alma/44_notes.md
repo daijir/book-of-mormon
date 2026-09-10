@@ -1,6 +1,6 @@
 # John W. Welch Notes: Alma 44
 
-- [📖 View Scripture Text: 44.txt](file:///C:/Users/dazhi/code/book-of-mormon/09_alma/44.txt)
+- [📖 本文を読む (44.md)](44.md)
 - **Source**: [Scripture Central — Alma 43-52](https://scripturecentral.org/archive/books/book-chapter/alma-43-52)
 
 ## Table of Contents

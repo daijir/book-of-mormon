@@ -1,6 +1,6 @@
 # John W. Welch Notes: Jacob 7
 
-- [📖 View Scripture Text: 07.txt](file:///C:/Users/dazhi/code/book-of-mormon/03_jacob/07.txt)
+- [📖 本文を読む (07.md)](07.md)
 - **Source**: [Scripture Central — Jacob 5-7](https://scripturecentral.org/archive/books/book-chapter/jacob-5-7)
 
 ## Table of Contents
