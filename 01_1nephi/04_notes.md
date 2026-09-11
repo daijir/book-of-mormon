@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [1 Nephi 4:1–3 — Let Us Be Faithful](#1-nephi-413--let-us-be-faithful)
-  - [1 Nephi 4:5–18 — Nephi Enters Jerusalem Alone, Stumbles onto Laban, and Slays Him](#1-nephi-4518--nephi-enters-jerusalem-alone-stumbles-onto-laban-and-slays-him)
+- [1 Nephi 4:5–18 — Nephi Enters Jerusalem Alone, Stumbles onto Laban, and Slays Him](#1-nephi-4518--nephi-enters-jerusalem-alone-stumbles-onto-laban-and-slays-him)
 - [1 Nephi 4:9 — What Did Laban’s Sword Look Like?](#1-nephi-49--what-did-labans-sword-look-like)
 - [1 Nephi 4:15–16 — Why Did Nephi Need these Plates?](#1-nephi-41516--why-did-nephi-need-these-plates)
 - [1 Nephi 4:18 — Was Nephi Justified in Killing Laban?](#1-nephi-418--was-nephi-justified-in-killing-laban)
@@ -15,7 +15,7 @@
 - [1 Nephi 4:33–36 — Nephi Swears an Oath to Zoram](#1-nephi-43336--nephi-swears-an-oath-to-zoram)
 - [1 Nephi 4:37–38 — Nephi and the Group Flee into the Wilderness](#1-nephi-43738--nephi-and-the-group-flee-into-the-wilderness)
 - [1 Nephi 4 — Chiastic Structure of 1 Nephi 4](#1-nephi-4--chiastic-structure-of-1-nephi-4)
-  - [What Can We Learn from Nephi’s Example in These Chapters?](#what-can-we-learn-from-nephis-example-in-these-chapters)
+- [What Can We Learn from Nephi’s Example in These Chapters?](#what-can-we-learn-from-nephis-example-in-these-chapters)
 
 ---
 
@@ -27,7 +27,9 @@ And interestingly, whom does Nephi think of as the grand example of obedience an
 
 And I love what he said to Laman and Lemuel. “Now behold, ye know that that is true” (4:3). You know that happened. “You also know that an angel has spoken to you. Wherefore can ye doubt? Let us go up. The Lord is able to deliver us, even as our fathers, and to destroy Laban” (4:3). Little does he know that shortly that’s going to be fulfilled in a way that he did not anticipate.
 
-#### 1 Nephi 4:5–18 — Nephi Enters Jerusalem Alone, Stumbles onto Laban, and Slays Him
+---
+
+### 1 Nephi 4:5–18 — Nephi Enters Jerusalem Alone, Stumbles onto Laban, and Slays Him
 
 As the three brothers stayed outside the walls, Nephi crept alone into the city, at night, going back towards the house of Laban (4:5). Perhaps Moses was again on Nephi’s mind and should be on the reader’s mind here, not only in Nephi’s immediate outburst of confidence as the armies of Pharaoh had been justifiably killed in the Sea, but also as Moses himself had not been punished for earlier having killed a brutal Egyptian overlord (Exodus 2:12). By mentioning Moses, Nephi’s story is already hinting that someone might likewise justifiably die in the unfolding of Nephi’s account.
 
@@ -184,7 +186,9 @@ All of these reasons explain why chiasmus works so well here. Nephi used chiasmu
 
 Jonathan Burnside, a biblical scholar, has said, “The use of chiasmus is important in showing completion when divine intervention is involved because God never does anything that is imperfect or incomplete. This literary form completes it.” We have here, particularly, more than in any other story, repeated instances of divine intervention.
 
-#### What Can We Learn from Nephi’s Example in These Chapters?
+---
+
+### What Can We Learn from Nephi’s Example in These Chapters?
 
 There are many lessons that we can learn from this foundational story. It’s very difficult to read the whole Book of Mormon and everything that happens afterwards without the story of Laban in the background. It tells us the importance of records, of language, of revelation, of obeying the word of the Lord, of following the Spirit, of doing whatever needs to be done to promote the building of the Kingdom, that God will provide, lessons about making oaths and promises.
 

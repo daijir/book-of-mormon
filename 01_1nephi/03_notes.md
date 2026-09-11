@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+- [How Does Nephi Set the Stage for his Account of the Slaying of Laban?](#how-does-nephi-set-the-stage-for-his-account-of-the-slaying-of-laban)
 - [1 Nephi 3:2 — Why Did Lehi’s Sons Have to Return to Jerusalem?](#1-nephi-32--why-did-lehis-sons-have-to-return-to-jerusalem)
 - [1 Nephi 3:3 — Who Was Laban?](#1-nephi-33--who-was-laban)
 - [1 Nephi 3:3 — What Was on the Brass Plates and Why Were They in Laban’s Possession?](#1-nephi-33--what-was-on-the-brass-plates-and-why-were-they-in-labans-possession)
@@ -26,6 +27,7 @@ As the fourth son in this family, Nephi can also be identified with biblical cha
 
 Nephi’s account had quickly turned its attent ion to Lehi’s domestic situation. When Laman and Lemuel rejected the idea that the great city of Jerusalem could be destroyed, Lehi spoke to them with power, shaking them to the core, and silencing them (2:13 -14). Their rejection of Lehi’s patriarchal authority stands in stark contrast to Nephi’s believing “all the words” of Lehi. Nephi’s goodness is then rewarded, and he was promised that if he will keep God’s commandments he will prosper and be led to a land of promise (1 Nephi 2:20). The crucial need to keep God’s commandments will surface again in one of Nephi’s culminating ruminations before slaying Laban, when he remembers that his people “could not keep the commandments” unless they have the plates on which the law was written (4:15-16).
 
+---
 
 ### 1 Nephi 3:2 — Why Did Lehi’s Sons Have to Return to Jerusalem?
 

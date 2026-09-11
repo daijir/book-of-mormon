@@ -139,7 +139,7 @@ Looking at words and phrases, the number of times each appears certainly does no
 
 #### Word Frequency Patterns
 
-##### 1. Doublets (27 pairs appearing 2 times)
+**1. Doublets (27 pairs appearing 2 times)**
 At least 27 words or phrases appear twice, as doublets, in this text. These most often appear in synonymous or antithetical parallelisms, adding contrasts and drawing attention to nuances:
 
 | Frequency | Expression / Parallel Pair | References | Poetic / Structural Feature |
@@ -172,7 +172,7 @@ At least 27 words or phrases appear twice, as doublets, in this text. These most
 | **2x** | may God grant / may God grant | 29:17, 17 | High Priestly benediction |
 | **2x** | my words / I have spoken | 29:17, 17 | Solemn closing affirmation |
 
-##### 2. Triads (4 words appearing 3 times)
+**2. Triads (4 words appearing 3 times)**
 Only four words appear three times in this text, giving triadic solidarity to the central rejoicing of Alma, not only over deliverance from physical bondage but also from spiritual sin:
 - **Repentance** (29:1, 2, 9)
 - **Earth** (29:1, 2, 7)
@@ -180,7 +180,7 @@ Only four words appear three times in this text, giving triadic solidarity to th
 - **Same God** (29:12, 12, 13)
 - *(Note: Other triads, such as the God of Abraham / God of Isaac / God of Jacob, also appear in 29:11).*
 
-##### 3. Quatrains (7 terms appearing 4 times)
+**3. Quatrains (7 terms appearing 4 times)**
 Seven terms appear four times. Alma may have cast these fours in honor of his four friends, the four sons of Mosiah, his brethren:
 - **Good and evil / good from evil / good and evil / good or evil** (29:5, 5, 5, 5)
 - **Do I remember / do I remember / I also remember the captivity / I have always remembered the captivity** (29:10, 10, 11, 12)
@@ -190,7 +190,7 @@ Seven terms appear four times. Alma may have cast these fours in honor of his fo
 - **Success** (29:13, 14, 14, 16 — 2x the success of my brethren + 2x my success)
 - **Grant** (29:4, 8, 17, 17)
 
-##### 4. Quintets (Appearing 5 times)
+**4. Quintets (Appearing 5 times)**
 The phrase **“according to”** appears five times, emphasizing divine order and human agency:
 - *according to their desire* (29:4)
 - *according to their wills* (29:4)
@@ -198,12 +198,12 @@ The phrase **“according to”** appears five times, emphasizing divine order a
 - *according to that which is just and true* (29:8)
 - *according to my words* (29:17)
 
-##### 5. Sextets (2 words appearing 6 times)
+**5. Sextets (2 words appearing 6 times)**
 Two words appear six times, centering on how human desires intersect with God's universal scope:
 - **Desires / desireth** (29:4, 4, 5, 5, 6, 7 — *my desires / their desire / his desires / he desireth / I desire / I desire*)
 - **ALL** (29:2, 5, 7, 8, 8, 17)
 
-##### 6. Septets: Joy and Holiness to the Seventh Power (4 terms appearing 7 times)
+**6. Septets: Joy and Holiness to the Seventh Power (4 terms appearing 7 times)**
 Four key words are given the sacred status of appearing exactly seven times, emphasizing completeness of knowledge, righteous joy, and covenant holiness:
 1. **Know** (7x: 5x in “I know” and 2x in he that “knoweth”)
 2. **JOY** (7x: 29:5, 9, 10, 13, 14, 14, 16)

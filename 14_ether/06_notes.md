@@ -1,8 +1,4 @@
-import os
-
-path = r"c:\Users\dazhi\code\book-of-mormon\14_ether\06_notes.md"
-
-content = """# John W. Welch Notes: Ether 6
+# John W. Welch Notes: Ether 6
 
 - [本文を読む (06.md)](06.md)
 - **Source**: [Scripture Central — Ether 6-11](https://scripturecentral.org/archive/books/book-chapter/ether-6-11)
@@ -161,9 +157,3 @@ What do these expressed concerns about having a king have in common? How accurat
 Ironically, the people then chose the firstborn of the brother of Jared, but he refused (6:25). Might that imply that the people hoped to unify the group by selecting the son of the brother who did not want kingship? They may not have been surprised when he followed the wise counsel of his father and refused to become king. But they may have been more surprised when all the other sons of the brother of Jared, and of Pagag, and even of Jared also refused, except for Jared’s son, Orihah.
 
 Orihah was a good king and served the people well: “Orihah did walk humbly before the Lord, and did remember how great things the Lord had done for his father, and also taught his people how great things the Lord had done for their fathers” (6:30). But that happy situation would not last long.
-"""
-
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content.strip() + "\n")
-
-print("Updated 14_ether/06_notes.md successfully!")

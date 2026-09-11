@@ -19,9 +19,9 @@
 - [1 Nephi 1:6–7 — Lehi’s First Visions](#1-nephi-167--lehis-first-visions)
 - [1 Nephi 1:8 — Lehi’s Call to Preach](#1-nephi-18--lehis-call-to-preach)
 - [1 Nephi 1:13–14 — Redemption despite Affliction](#1-nephi-11314--redemption-despite-affliction)
-  - [1 Nephi 1:8, 14–15 — Grace in the Destruction: “Singing and Praising God”](#1-nephi-18-1415--grace-in-the-destruction-singing-and-praising-god)
+- [1 Nephi 1:8, 14–15 — Grace in the Destruction: “Singing and Praising God”](#1-nephi-18-1415--grace-in-the-destruction-singing-and-praising-god)
 - [1 Nephi 1:18 — Lehi Prophesies to Jerusalem Concerning its Destruction](#1-nephi-118--lehi-prophesies-to-jerusalem-concerning-its-destruction)
-  - [1 Nephi 1:20 — The Tender Mercies of the Lord](#1-nephi-120--the-tender-mercies-of-the-lord)
+- [1 Nephi 1:20 — The Tender Mercies of the Lord](#1-nephi-120--the-tender-mercies-of-the-lord)
 
 ---
 
@@ -187,7 +187,9 @@ While in this vision, Lehi sees the abominations of Jerusalem and that the city 
 
 You would think Lehi would have been traumatized and perhaps horrified at the destruction the Lord was announcing against Lehi's people. But no, Lehi's response was that of reverence and worship. This becomes a theme throughout the Book of Mormon, especially throughout 1 and 2 Nephi. Lehi's son, Nephi, recorded his father's experience through this frame of mind decades later. Nephi, by that point, had seen many afflictions, had himself been shown visions of the future destruction of his own people, and had lost many family members to death and wickedness. Still, always for Nephi, the glory of God was the central focus. Especially in times of trial, Nephi, like Lehi, could see the power of redemption transcending above the affliction.
 
-#### 1 Nephi 1:8, 14–15 — Grace in the Destruction: “Singing and Praising God”
+---
+
+### 1 Nephi 1:8, 14–15 — Grace in the Destruction: “Singing and Praising God”
 
 Lehi saw the destruction and woe that would come upon his people if they did not repent. He also saw angels singing praises to their God. At the end of his vision, Lehi was overwhelmed with gratitude and reverence for the goodness of God. How? Where is the goodness in destruction? The key thing here, in the end, is that God is merciful because He will not allow those who come to Him to perish.
 
@@ -216,7 +218,9 @@ In this world setting, Lehi went out among the people, preaching repentance. How
 
 - Satterfield, Bruce. “The Divine Justification for the Babylonian Destruction of Jerusalem.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 561–594. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
-#### 1 Nephi 1:20 — The Tender Mercies of the Lord
+---
+
+### 1 Nephi 1:20 — The Tender Mercies of the Lord
 
 As Nephi concludes this first section in 1 Nephi, he announces that he will “show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance.”
 
