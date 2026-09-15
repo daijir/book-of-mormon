@@ -67,6 +67,8 @@
 ## 参考資料(References)
 
 - **[John W. Welch Notes](https://scripturecentral.org/archive/books/book-chapter/2-nephi-11-25)**:
-  ジョン・W・ウェルチ教授のモルモン書の注解資料。
+  ジョン・W・ウェルチ教授のモルモン書の注解資料。交差配列法の発見者として知られ、ヘブル的文学構造、古代法制度、歴史的背景を踏まえた多角的な聖文分析を提供する。
+- **[Book of Mormon Minute — Brant A. Gardner](https://scripturecentral.org/archive/books/book-chapter/1-nephi-1)**:
+  ブラント・A・ガードナーによるモルモン書の各節ごとの詳細な歴史的・文献学的解説シリーズ。古代中近東の文化的背景、文学的修辞技法、ヘブライ語・エジプト語の言語学的分析を中心に、テキストの深層を掘り下げる。
 - **[The Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm)**:
   末日聖徒イエス・キリスト教会 公式聖典オンライン版。
