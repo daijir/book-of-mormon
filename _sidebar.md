@@ -4,6 +4,7 @@
 * **特別トピック**
   * [回復を祝う](00_special_topics/01_celebrating_the_restoration_notes.md)
   * [イースターの考察](00_special_topics/02_easter_reflections_notes.md)
+  * [タイトルページの構造分析](00_special_topics/03_title_page_structure.md)
 
 * **第1ニーファイ (1 Nephi)**
   * [第1章 本文と個人の記録](01_1nephi/01.md)
