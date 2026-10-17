@@ -1,6 +1,6 @@
 # John W. Welch Notes: Ether 6
 
-- [本文を読む (06.md)](06.md)
+
 - **Source**: [Scripture Central — Ether 6-11](https://scripturecentral.org/archive/books/book-chapter/ether-6-11)
 
 ## Table of Contents
