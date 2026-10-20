@@ -4,16 +4,17 @@
 
 ## 目次
 
-- [1 ニーファイ 5:1–2 — サライア、荒れ野で不平を言う](#1-nephi-512--sariah-complains-in-the-wilderness)
-- [1 ニーファイ 5:4–6 — リーハイ、サライアを慰めるために証を述べる](#1-nephi-546--lehi-bears-his-testimony-to-comfort-sariah)
-- [1 ニーファイ 5:8 — 息子たちが戻り、サライアは喜ぶ](#1-nephi-58--sariah-rejoices-as-her-sons-return)
+- [第一ニーファイ 5:1–2 — サライア、荒れ野で不平を言う](#1-nephi-512--sariah-complains-in-the-wilderness)
+- [第一ニーファイ 5:4–6 — リーハイ、サライアを慰めるために証を述べる](#1-nephi-546--lehi-bears-his-testimony-to-comfort-sariah)
+- [第一ニーファイ 5:8 — 息子たちが戻り、サライアは喜ぶ](#1-nephi-58--sariah-rejoices-as-her-sons-return)
   - [サライアの歌](#the-song-of-sariah)
-- [1 ニーファイ 5:10–22 — 真鍮の版](#1-nephi-51022--the-brass-plates)
+- [第一ニーファイ 5:10–22 — 真鍮の版](#1-nephi-51022--the-brass-plates)
 
 ---
 
 <a id="1-nephi-512--sariah-complains-in-the-wilderness"></a>
-### 1 ニーファイ 5:1–2 — サライア、荒れ野で不平を言う
+
+### 第一ニーファイ 5:1–2 — サライア、荒れ野で不平を言う
 
 わたしはサライアを本当にすばらしい人だと思います。ユタへ向かった現代の開拓者たちは勇気をもって旅をしましたが、荒れ野で丸八年間も過ごしたわけではありません。サライアにとって、どれほど大変なことだったでしょう。
 
@@ -25,39 +26,42 @@
 
 #### さらに読む
 
-- Book of Mormon Central, “Were Any Ancient Israelite Women Named Sariah? (1 Nephi 5:1),” *KnoWhy* 8 (January 11, 2016).
+- Book of Mormon Central, “Were Any Ancient Israelite Women Named Sariah? (1 Nephi 5:1),” _KnoWhy_ 8 (January 11, 2016).
 
 ---
 
 <a id="1-nephi-546--lehi-bears-his-testimony-to-comfort-sariah"></a>
-### 1 ニーファイ 5:4–6 — リーハイ、サライアを慰めるために証を述べる
+
+### 第一ニーファイ 5:4–6 — リーハイ、サライアを慰めるために証を述べる
 
 聖霊は「慰め主」と呼ばれます。あなたがビショップなど、信頼を寄せられる立場にあり、困難な状況に直面して苦しみ、慰めを必要としている人が来たとしましょう。その人は、同情を示してもらうこと以上に、証を聞き、聖霊を感じたいと願っているのです。
 
 ---
 
 <a id="1-nephi-58--sariah-rejoices-as-her-sons-return"></a>
-### 1 ニーファイ 5:8 — 息子たちが戻り、サライアは喜ぶ
+
+### 第一ニーファイ 5:8 — 息子たちが戻り、サライアは喜ぶ
 
 サライアがリーハイに語った言葉には、リーハイがレーマンとレムエルに述べた勧告と同じ詩的な効果があります。「おお、あなたがこの谷のように、固く、確かで、揺るぎない者となってくれればよいのに」「おお、あなたがこの川のようになってくれればよいのに。」元の言語でサライアの詩がどのような形だったかは、想像するしかありません。
 
 <a id="the-song-of-sariah"></a>
+
 #### サライアの歌
 
 > 「今こそ確かに、主がわたしの夫に荒れ野へ逃れるよう命じられたと分かりました。」
 >
-> *間。*
+> _間。_
 >
 > 「まことに、今こそ確かに、主が息子たちを守られたと分かりました。」
 >
-> *(「まことに、分かった」「確かに分かった」で始まる、すてきな対句です。)*
+> _(「まことに、分かった」「確かに分かった」で始まる、すてきな対句です。)_
 >
 > 「そのうえ、主は息子たちをラバンの手から救い出されました。」
 >
-> *間。*
+> _間。_
 >
 > 「また、主が命じられたことを成し遂げられる力を、息子たちにお与えになりました。」
-> *(もちろん、「わたしは行って、主が命じられたことを行います」というニーファイ自身の言葉を響かせています。)*
+> _(もちろん、「わたしは行って、主が命じられたことを行います」というニーファイ自身の言葉を響かせています。)_
 
 これは美しい四部構成の短い詩です。「主が夫に命じられたと知る」ことから始まり、「主が命じられたことを成し遂げる力を息子たちに与えられたと知る」ことで終わります。これを「サライアの歌」と呼ぶことができるでしょう。
 
@@ -66,7 +70,8 @@
 ---
 
 <a id="1-nephi-51022--the-brass-plates"></a>
-### 1 ニーファイ 5:10–22 — 真鍮の版
+
+### 第一ニーファイ 5:10–22 — 真鍮の版
 
 真鍮の版に何が記されていたか、正確には分かりません。聖書には記されていない預言者、たとえばゼノス、ゼノク、ナホム、エジアスからの引用が含まれていたことは分かっています。彼らはイエス・キリストの来臨と贖罪の使命について、また創造と堕落の性質、神会の性質など、救いの計画の重要な要素について、明瞭かつ具体的に証していました。
 
@@ -76,5 +81,5 @@
 
 #### さらに読む
 
-- Book of Mormon Central, “What Parts of the Old Testament Were on the Plates of Brass? (1 Nephi 5:10),” *KnoWhy* 410 (February 22, 2018).
-- Robert L. Millet, “The Plates of Brass: A Witness of Christ,” *Ensign* 18, no. 1 (1988): 26–29.
+- Book of Mormon Central, “What Parts of the Old Testament Were on the Plates of Brass? (1 Nephi 5:10),” _KnoWhy_ 410 (February 22, 2018).
+- Robert L. Millet, “The Plates of Brass: A Witness of Christ,” _Ensign_ 18, no. 1 (1988): 26–29.

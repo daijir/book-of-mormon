@@ -16,8 +16,6 @@
 
 To fully understand the impact of these passages, one must be acquainted with how the Book of Mormon was translated by Joseph Smith. At what point in the translation process were the Small Plates of Nephi translated? At the end, the very end. After Joseph Smith completed the translation of the rest of the Book of Mormon, he found these plates (the Small Plates of Nephi) and translated them.
 
-*(Reference: Figure 4 — This chart depicts how after the 116 pages were lost, Joseph Smith translated from Mosiah to Moroni before returning to translate the Small Plates. Image by Book of Mormon Central.)*
-
 #### The Mosiah-First Translation Sequence
 
 Put yourself in the position of Joseph Smith. The first 116 pages of the Book of Mormon were lost and Joseph was devastated that he allowed that to happen. For a period of time, his gift to translate was taken away from him. Finally, Joseph was forgiven, but he was instructed to not go back and retranslate the 116 pages that had been lost.

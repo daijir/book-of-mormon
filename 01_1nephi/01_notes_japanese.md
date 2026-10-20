@@ -1,78 +1,83 @@
 # ジョン・W・ウェルチの注解：ニーファイ第一書 1章
 
-
 - **出典**: [Scripture Central — 1 Nephi 1-7](https://scripturecentral.org/archive/books/book-chapter/1-nephi-1-7)
 
 ## 目次
 
-- [1 ニーファイ 1:1 — ニーファイの個人的なコロフォン](#1-nephi-11--nephis-personal-colophon)
+- [第一ニーファイ 1:1 — ニーファイの個人的なコロフォン](#1-nephi-11--nephis-personal-colophon)
   - [父から受けた学び](#the-learning-of-my-father)
   - [リーハイと息子たちは何歳だったか](#how-old-were-lehi-and-his-sons)
   - [ニーファイはなぜ両親を「善い」と呼んだのか](#why-did-nephi-call-his-parents-goodly)
   - [ニーファイが第一ニーファイ書を書いたのはいつか](#when-did-nephi-write-1-nephi)
-- [1 ニーファイ 1:2 — エジプト人の言葉](#1-nephi-12--language-of-the-egyptians)
-- [1 ニーファイ 1:4 — エルサレムにいた多くの預言者](#1-nephi-14--many-prophets-in-jerusalem)
+- [第一ニーファイ 1:2 — エジプト人の言葉](#1-nephi-12--language-of-the-egyptians)
+- [第一ニーファイ 1:4 — エルサレムにいた多くの預言者](#1-nephi-14--many-prophets-in-jerusalem)
   - [リーハイはウリヤやエレミヤの裁判を目撃したか](#might-lehi-have-been-present-at-urijahs-or-jeremiahs-trials)
   - [バビロニアの支配とユダヤ人の反乱](#babylonian-rule-and-jewish-rebellion)
-- [1 ニーファイ 1:4 — エルサレムはどのような意味で「偉大な」都だったか](#1-nephi-14--in-what-ways-was-jerusalem-a-great-city)
-- [1 ニーファイ 1:5 — リーハイの執り成しの祈り](#1-nephi-15--lehis-intercessory-prayer)
-- [1 ニーファイ 1:6–7 — リーハイが最初に見た示現](#1-nephi-167--lehis-first-visions)
-- [1 ニーファイ 1:8 — リーハイの預言者としての召し](#1-nephi-18--lehis-call-to-preach)
-- [1 ニーファイ 1:13–14 — 苦難の中にある贖い](#1-nephi-11314--redemption-despite-affliction)
-- [1 ニーファイ 1:8, 14–15 — 滅びの中にある恵み：「神を歌い、ほめたたえる」](#1-nephi-18-1415--grace-in-the-destruction-singing-and-praising-god)
-- [1 ニーファイ 1:18 — リーハイ、エルサレムの滅亡を預言する](#1-nephi-118--lehi-prophesies-to-jerusalem-concerning-its-destruction)
-- [1 ニーファイ 1:20 — 主の深い憐れみ](#1-nephi-120--the-tender-mercies-of-the-lord)
+- [第一ニーファイ 1:4 — エルサレムはどのような意味で「偉大な」都だったか](#1-nephi-14--in-what-ways-was-jerusalem-a-great-city)
+- [第一ニーファイ 1:5 — リーハイの執り成しの祈り](#1-nephi-15--lehis-intercessory-prayer)
+- [第一ニーファイ 1:6–7 — リーハイが最初に見た示現](#1-nephi-167--lehis-first-visions)
+- [第一ニーファイ 1:8 — リーハイの預言者としての召し](#1-nephi-18--lehis-call-to-preach)
+- [第一ニーファイ 1:13–14 — 苦難の中にある贖い](#1-nephi-11314--redemption-despite-affliction)
+- [第一ニーファイ 1:8, 14–15 — 滅びの中にある恵み：「神を歌い、ほめたたえる」](#1-nephi-18-1415--grace-in-the-destruction-singing-and-praising-god)
+- [第一ニーファイ 1:18 — リーハイ、エルサレムの滅亡を預言する](#1-nephi-118--lehi-prophesies-to-jerusalem-concerning-its-destruction)
+- [第一ニーファイ 1:20 — 主の深い憐れみ](#1-nephi-120--the-tender-mercies-of-the-lord)
 
 ---
 
 <a id="1-nephi-11--nephis-personal-colophon"></a>
-### 1 ニーファイ 1:1 — ニーファイの個人的なコロフォン
+
+### 第一ニーファイ 1:1 — ニーファイの個人的なコロフォン
 
 ニーファイは第一ニーファイ書でしばしば一人称で語ります。「わたし」という代名詞は、第一章だけで16回、第三・四章の真鍮版入手の記録では64回、また第十一章から第十四章にわたる大いなる示現の記録では実に147回使われています。この書で「わたしニーファイ」と述べる箇所は60回を超えます。ニーファイ個人の声と証に耳を傾けてみましょう。
 
-古代の人々は、法廷でも記録を残す際にも、さまざまな理由から目撃者の証言を重んじました。古代の著者、とりわけエジプトの著者は、コロフォンと呼ばれる記述を文書の冒頭や末尾に置くことがよくありました。これは著者が誰であるかを確認するための記述で、「これを書いたのはわたしである。わたしはこれらのことを見た。わたしの記録は真実であり、ここにそれを証明する」といった内容を一人称で述べるものです。
+古代の人々は、法廷でも記録を残す際にも、さまざまな理由から当事者(eye-witness)の証言を重んじました。古代の、とりわけエジプトの記録者は、コロフォンと呼ばれる記述を文書の冒頭や末尾に置くことがよくありました。これは著者が誰であるかを確認するための記述で、「これを書いたのはわたしである。わたしはこれらのことを見た。わたしの記録は真実であり、ここにそれを証明する」といった内容を一人称で述べるものです。
 
-モルモン書を読むとき、各書が「わたしニーファイ」や「わたしヤコブ」で始まることに注目してください。この型は「わたしエノス」「わたしモルモン」などにも続きます。モルモン書の証言の連なりは最後まで続きます。モロナイは最後の言葉で、これらの記録を受け取ったら神に尋ねなさい、神は自分が偽らなかったことを示される、と述べます。そして裁きの座で会うとき、自分が真実を語ったことを知るだろうと証します（モロナイ 10:4–5, 27, 34）。これらは信頼に足る、個人的で、切実な証です。
+モルモン書を読むとき、各書が「わたしニーファイ」や「わたしヤコブ」で始まることに注目してみましょう。この構文は「わたしエノス」「わたしモルモン」などにも続きます。モルモン書の証言の連なりは最後まで続きます。モロナイは最後の言葉で、これらの記録を受け取ったら神に尋ねなさい、神は自分が偽らなかったことを示される、と述べます。そして裁きの座で会うとき、自分が真実を語ったことを知るだろうと証してます（モロナイ 10:4–5, 27, 34）。これらは信頼に足る、個人的で、切実な証です。
 
-- Book of Mormon Central, “Why Does Nephi Begin by Saying ‘I, Nephi . . .’? (1 Nephi 1:1),” *KnoWhy* 476 (October 16, 2018).
-- Book of Mormon Central, “Why Did Book of Mormon Authors Use Colophons? (1 Nephi 1:3),” *KnoWhy* 443 (June 21, 2018).
+- Book of Mormon Central, “Why Does Nephi Begin by Saying ‘I, Nephi . . .’? (1 Nephi 1:1),” _KnoWhy_ 476 (October 16, 2018).
+- Book of Mormon Central, “Why Did Book of Mormon Authors Use Colophons? (1 Nephi 1:3),” _KnoWhy_ 443 (June 21, 2018).
 
 <a id="the-learning-of-my-father"></a>
+
 #### 父から受けた学び
 
-ニーファイは聖文をよく知っていました。イザヤ書を理解し、効果的に用いています。ラバンを殺す話では、とりわけ出エジプト記 21:13–14 などの聖文への言及や暗示が多く見られます。ニーファイが聖文を暗示する表現を書いたとき、読者は彼が意図的にそのつながりを示したと考えることができます。
+ニーファイは聖文を熟知してました。イザヤ書を理解し、効果的に用いています。ラバンを殺す話では、出エジプト記 21:13–14 などの聖文への言及や暗示が多く見られます。ニーファイが聖文を暗示する表現を書いたとき、読者は彼が意図的に聖文間の関連性を示したと考えることができます。
 
 父リーハイと同じく、ニーファイは記録を残す人であると同時に、記録を読む人でもありました。真鍮版を手に入れることが、ニーファイにとって民の宗教的・法的・倫理的な基盤を築くうえでなぜそれほど重要だったのかは、このことから分かります。
 
-- Book of Mormon Central, “Why Is It Good to Seek Both Spiritual and Secular Learning? (1 Nephi 1:1),” *KnoWhy* 324 (June 9, 2017).
+- Book of Mormon Central, “Why Is It Good to Seek Both Spiritual and Secular Learning? (1 Nephi 1:1),” _KnoWhy_ 324 (June 9, 2017).
 
 <a id="how-old-were-lehi-and-his-sons"></a>
+
 #### リーハイと息子たちは何歳だったか
 
-リーハイが生まれたのはいつでしょうか。リーハイが紀元前600年にエルサレムを去ったことは分かっています。子供たちは何歳だったのでしょうか。確かなことは分かりませんが、エルサレムを去ったとき、ニーファイは「体格が大きく」、それでいて「非常に若かった」と記されています（1 ニーファイ 2:16）。リーハイが示現を受けた当時、ニーファイは16歳か17歳だったのかもしれません。レーマンとレムエルは22歳から24歳ほど、サムは20歳前後だったと考えるのが妥当でしょう。姉妹たちもいたようです。ニーファイとレーマン、レムエルが対立した後、姉妹たちはほかの人々とともにニーファイについて行きました（2 ニーファイ 5:6）。そのため、ニーファイは五番目、あるいは六番目の子供だった可能性があります。
+リーハイが生まれたのはいつでしょうか。リーハイが紀元前600年にエルサレムを去ったことは分かっています。子供たちは何歳だったのでしょうか。確かなことは分かりませんが、エルサレムを去ったとき、ニーファイは「体格が大きく」、それでいて「非常に若かった」と記されています（第一ニーファイ 2:16）。リーハイが示現を受けた当時、ニーファイは16歳か17歳だったのかもしれません。レーマンとレムエルは22歳から24歳ほど、サムは20歳前後だったと考えるのが妥当でしょう。姉妹たちもいたようです。ニーファイとレーマン、レムエルが対立した後、姉妹たちはほかの人々とともにニーファイについて行きました（第二ニーファイ 5:6）。そのため、ニーファイは五番目、あるいは六番目の子供だった可能性があります。
 
 リーハイは結婚したとき何歳だったでしょうか。古代イスラエルの男性は通常、25歳ごろまで結婚しませんでした。当時は若者として自立する必要があり、一般に20歳ごろには兵役を務め、その後、生計を立てて家庭を築きました。自分の家を持つ必要はありませんでしたが、そうでなければ妻の家族と暮らすことになります。リーハイが家族を持つまでには数年かかったかもしれません。リーハイが25歳で結婚し、第一ニーファイ書の冒頭でレーマンが22歳から24歳だったなら、一行がエルサレムを去ったとき、リーハイは50歳ほどだったことになります。つまり、紀元前650～655年ごろに生まれた計算です。
 
 <a id="why-did-nephi-call-his-parents-goodly"></a>
+
 #### ニーファイはなぜ両親を「善い」と呼んだのか
 
-英語の *goodly*、またその背後にあるニーファイが用いたヘブライ語は、両親の寛大さや優秀さ、品位だけでなく、「名誉ある」「公正な」「魅力的な」という意味も持ち得ます。つまり両親は社会的地位が高く、世間から立派な人物と見られていたのでしょう。実際、リーハイは相続した土地を持っていたため、支配階級の一員だった可能性があります。エルサレムの人々がリーハイの証を軽んじる理由はなかったのです。
+英語の _goodly_、またその背後にあるニーファイが用いたヘブライ語は、両親の寛大さや優秀さ、品位だけでなく、「名誉ある」「公正な」「魅力的な」という意味も持ち得ます。つまり両親は社会的地位が高く、世間から立派な人物と見られていたのでしょう。実際、リーハイは相続した土地を持っていたため、支配階級の一員だった可能性があります。エルサレムの人々がリーハイの証を軽んじる理由はなかったのです。
 
-- Book of Mormon Central, “What Is So Good about Nephi’s Name? (1 Nephi 1:1),” *KnoWhy* 445 (June 28, 2018).
+- Book of Mormon Central, “What Is So Good about Nephi’s Name? (1 Nephi 1:1),” _KnoWhy_ 445 (June 28, 2018).
 
 <a id="when-did-nephi-write-1-nephi"></a>
+
 #### ニーファイが第一ニーファイ書を書いたのはいつか
 
-ニーファイがこの記録を書いたのは、第一ニーファイ書の出来事から約30年後、リーハイが亡くなり、レーマンとレムエルがニーファイを拒んだ後でした。ニーファイはニーファイの地に移ってから（2 ニーファイ 5章）、自分自身の記録を書きました。レーマンとレムエルから離れ、和解を試みましたが、うまくいきませんでした。そこでニーファイは、ニーファイ人の国がどのような歴史と原則の上に築かれたのかを子孫に伝えるため、この物語を書く必要がありました。リーハイとサライアが亡くなった後のことです。ニーファイとその民は神殿を建て、ニーファイは王となることに同意していました。そのころ主は、リーハイの書とニーファイの大版に加えて、別の記録を作るようニーファイに命じられました。
+ニーファイがこの記録を書いたのは、第一ニーファイ書の出来事から約30年後、リーハイが亡くなり、レーマンとレムエルがニーファイを拒んだ後でした。ニーファイはニーファイの地に移ってから（第二ニーファイ 5章）、自分自身の記録を書きました。レーマンとレムエルから離れ、和解を試みましたが、うまくいきませんでした。そこでニーファイは、ニーファイ人の国がどのような歴史と原則の上に築かれたのかを子孫に伝えるため、この物語を書く必要がありました。リーハイとサライアが亡くなった後のことです。ニーファイとその民は神殿を建て、ニーファイは王となることに同意していました。そのころ主は、リーハイの書とニーファイの大版に加えて、別の記録を作るようニーファイに命じられました。
 
-したがって、ニーファイが両親を「善い」と記した言葉には、レーマンとレムエルに関わる含みもあったかもしれません。ニーファイは、新しい世に着いた後に彼らに何が起こったかを知っていました。この言葉を書くとき、レーマンとレムエルのことを念頭に置いていた可能性があります。家族がもっと良い結末を迎え、二人が亡き両親をもっと敬ってくれていたらと願ったことでしょう。ニーファイは、両親が立派な人々だったことを皆に知ってほしかったのです。家族に起きた問題の責任は、両親にありませんでした。
+したがって、ニーファイが両親を「善い」と記した言葉には、レーマンとレムエルに関わる含みもあったかもしれません。ニーファイは、新大陸に着いた後に彼らに何が起こったかを知っていました。この言葉を書くとき、レーマンとレムエルのことを念頭に置いていた可能性があります。家族がもっと良い結末を迎え、二人が亡き両親をもっと敬ってくれていたらと願ったことでしょう。ニーファイは、両親が立派な人々だったことを皆に知ってほしかったのです。家族に起きた問題の責任は、両親にありませんでした。
 
-- Welch, John W. “When Did Nephi Write the Small Plates.” In *Pressing Forward with the Book of Mormon: The FARMS Updates of the 1990s*, edited by John W. Welch and Melvin J. Thorne, 75–77. Provo, UT: FARMS, 1999.
+- Welch, John W. “When Did Nephi Write the Small Plates.” In _Pressing Forward with the Book of Mormon: The FARMS Updates of the 1990s_, edited by John W. Welch and Melvin J. Thorne, 75–77. Provo, UT: FARMS, 1999.
 
 ---
 
 <a id="1-nephi-12--language-of-the-egyptians"></a>
-### 1 ニーファイ 1:2 — エジプト人の言葉
+
+### 第一ニーファイ 1:2 — エジプト人の言葉
 
 ニーファイが「エジプト人の言葉」によって何を意味したのか、正確には分かりません。しかし、この話題については多くの研究があります。イスラエルにエジプト文化の影響があったことを示す考古学的証拠は数多くあります。エルサレムは、エジプトとメソポタミアという二つの大河流域の境界地域でした。ネブカドネザルが勢力を南へ広げようとすることもあれば、エジプトが北へ進出することもありました。エルサレムの人々は常に両方向に気を配る必要がありました。戦略上、またほかの理由からも、イスラエル人が両大国と接触し、交易や同盟を結んでいたことが分かっています。
 
@@ -92,30 +97,32 @@
 
 こうしたことはリーハイの世界の一部でした。リーハイは書記であり、真鍮版を読むことができ、自分自身の「リーハイの書」も書きました。また、末の息子であるニーファイは、畑仕事や軍事訓練ではなく、言語を学び、記録を書き、聖文を読むことに時間を費やしたのでしょう。
 
-- Book of Mormon Central, “Did Ancient Israelites Write in Egyptian? (1 Nephi 1:2),” *KnoWhy* 4 (January 5, 2016).
-- Pike, Dana M. “Israelite Inscriptions from the Time of Jeremiah and Lehi.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 193–244. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
-- Welch, John W. “The Trial of Jeremiah: A Legal Legacy from Lehi’s Jerusalem.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 337–356. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Book of Mormon Central, “Did Ancient Israelites Write in Egyptian? (1 Nephi 1:2),” _KnoWhy_ 4 (January 5, 2016).
+- Pike, Dana M. “Israelite Inscriptions from the Time of Jeremiah and Lehi.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 193–244. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Welch, John W. “The Trial of Jeremiah: A Legal Legacy from Lehi’s Jerusalem.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 337–356. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 ---
 
 <a id="1-nephi-14--many-prophets-in-jerusalem"></a>
-### 1 ニーファイ 1:4 — エルサレムにいた多くの預言者
+
+### 第一ニーファイ 1:4 — エルサレムにいた多くの預言者
 
 著者は本を書くとき、主題を冒頭で明確に示そうとします。第一ニーファイ第一章は、この書の基礎となる章です。ここでは、主が預言者を通して御自分の民に語られるという根本的な教義が示されています。ニーファイにとって、この教義はまず理解されるべきものでした。
 
 ゼデキヤ王の治世の初め、悔い改めるよう民に告げる預言者が大勢現れたとニーファイは記しています。複数の預言者が同じ時期に召され、預言者として働いていました。リーハイは、荒れ野でただ一人叫ぶバプテスマのヨハネのような存在ではありませんでした。この時代の預言者は誰だったのでしょうか。モルモン書にはゼノス、ゼノク、ナホムの名が挙げられています。彼らがいつ生きたのかは正確には分かりませんが、この時代だった可能性もあります。聖書辞典の「年代記」を見ると、ナホムは紀元前642年ごろに預言し、紀元前640年には女預言者フルダが教えを説いていたことが分かります。ヨシヤ王の治世第13年、紀元前627年にエレミヤが預言を始めました。それはヨシヤが申命記を発見し、イスラエルの礼拝のあり方を大きく変えたころでした（エレミヤ 1:1）。
 
-ヨシヤの改革を歓迎した人もいました。しかし、文明や社会に大きな改革が起きれば、喜ぶ人も怒る人も出てきます。ヨシヤは従来の犠牲の制度を変えたため、いわば多くの人の仕事を奪いました。そのため、この改革は一部の人々には歓迎されませんでした。ヨシヤの改革に反対し、誤った運営を批判する預言者もいました。その一人がゼパニヤです。また、紀元前609年にはウリヤが預言しました。この時代の中心的な預言者はエレミヤであり、同じころ、エレミヤとほぼ同年代のリーハイもいました。ニーファイはエレミヤについて特に記しています（1 ニーファイ 5:13; 7:14）。
+ヨシヤの改革を歓迎した人もいました。しかし、文明や社会に大きな改革が起きれば、喜ぶ人も怒る人も出てきます。ヨシヤは従来の犠牲の制度を変えたため、いわば多くの人の仕事を奪いました。そのため、この改革は一部の人々には歓迎されませんでした。ヨシヤの改革に反対し、誤った運営を批判する預言者もいました。その一人がゼパニヤです。また、紀元前609年にはウリヤが預言しました。この時代の中心的な預言者はエレミヤであり、同じころ、エレミヤとほぼ同年代のリーハイもいました。ニーファイはエレミヤについて特に記しています（第一ニーファイ 5:13; 7:14）。
 
 オバデヤが活動したのは紀元前605年ごろです。紀元前606年には預言者ダニエルが捕囚としてバビロンに連れて行かれました。ダニエルの年齢を考えると、ニーファイとダニエルが同年代で、互いを知っていた可能性もあります。紀元前598年ごろ、ハバククが預言を始めました。レーマンとレムエルと同時代だったと思われるエゼキエルは、紀元前598年にバビロンへ連れて行かれ、そこで預言を始めました。それはリーハイがエルサレムを去ったころです。エゼキエルは、ヨセフの子孫であるリーハイの家族が荒れ野へ出て行ったことを知っていた可能性があります。荒れ野へ去った預言者はリーハイだけではありません。『ゾシムスの物語』には、ラカブに従って荒れ野へ行った人々の伝承が記されています。
 
 リーハイの時代には、実際に多くの預言者がいました。わたしたちの時代にも、正確には15人の預言者がいます。預言者と使徒はともに働き、神の子供たちを導いています。数が多いことには力があるでしょうか。とりわけ重要な時には、あります。主は多くの預言者を送られるのでしょうか。彼ら全員に耳を傾けるなら、学ぶことができます。リーハイの時代には、今日のような調整委員会も、聖文を整え教義を明確にする仕組みもありませんでした。それでも、多くの預言者が同じことを告げているなら、耳を傾けるべきです。主はイスラエルに、エルサレムの民に、十分な警告をお与えになりました。「悔い改めなければ、滅ぼされる」と。リーハイは、同じメッセージを街頭で伝えた多くの預言者の一人でした。ここから学べるのは、預言者に耳を傾けることだけではありません。主はわたしたちをお見捨てにならないということも学べます。
 
-- Book of Mormon Central, “Who Were the ‘Many Prophets’ in Jerusalem During Lehi’s Time? (1 Nephi 1:4),” *KnoWhy* 441 (June 14, 2018).
-- Seely, David Rolph, and Jo Ann H. Seely. “Lehi and Jeremiah: Prophets, Priests, and Patriarchs.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 357–380. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
-- Seely, David Rolph. “Sacred History, Covenants, and the Messiah: The Religious Background of the World of Lehi.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 381–420. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Book of Mormon Central, “Who Were the ‘Many Prophets’ in Jerusalem During Lehi’s Time? (1 Nephi 1:4),” _KnoWhy_ 441 (June 14, 2018).
+- Seely, David Rolph, and Jo Ann H. Seely. “Lehi and Jeremiah: Prophets, Priests, and Patriarchs.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 357–380. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Seely, David Rolph. “Sacred History, Covenants, and the Messiah: The Religious Background of the World of Lehi.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 381–420. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 <a id="might-lehi-have-been-present-at-urijahs-or-jeremiahs-trials"></a>
+
 #### リーハイはウリヤやエレミヤの裁判を目撃したか
 
 ウリヤはエジプトから引き渡され、公衆の面前で処刑され、埋葬さえ許されませんでした。リーハイはその場にいたかもしれません。悔い改めないエルサレムの指導者たちを批判したこの預言者の殺害は、支配者に逆らうほかの預言者たちにとって、厳しい警告となったことでしょう。
@@ -124,9 +131,10 @@
 
 主がリーハイに、ウリヤやエレミヤが伝えていたのとほぼ同じ預言の警告を告げるよう召されたとき、リーハイは身が凍る思いをしたことでしょう。それでも勇敢に召しに応じ、ほどなく命を狙われて逃げることになりました。
 
-- Welch, John W. “The Trial of Jeremiah: A Legal Legacy from Lehi’s Jerusalem.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 337–356. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Welch, John W. “The Trial of Jeremiah: A Legal Legacy from Lehi’s Jerusalem.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 337–356. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 <a id="babylonian-rule-and-jewish-rebellion"></a>
+
 #### バビロニアの支配とユダヤ人の反乱
 
 リーハイが教えを説いていたころ、エルサレムはすでに征服され、バビロンは最初の捕囚者たちを連れ去っていました。エルサレムに残された人々は、従順でいるなら属国として存続し、税を納めてバビロニアの支配者に従うなら、従来の生活を続けることが許されていました。しかし、エルサレムの長老や支配者、貴族たちは、「このようなことは受け入れられない。異国の支配者に従うつもりはない」と反発しました。そして反乱を扇動し始めました。
@@ -137,35 +145,38 @@
 
 王の戴冠式には、多くの預言者が現れることがよくありました。王は通常、自分にとって都合のよい預言を望みます。次の預言をする機会まで生き延びたい預言者なら、王を称賛する言葉を述べるでしょう。戴冠式のときに悪いことを預言すれば、王を脅かす者として敵意を招きます。王や政権の正統性、成功を疑うことは、冒瀆や反逆と見なされる場合もありました。しかし、偽りの預言をすれば、神にどう向き合えばよいでしょうか。預言者にとって、非常に困難な時代でした。
 
-- Schade, Aaron P. “The Kingdom of Judah: Politics, Prophets, and Scribes in the Late Preexilic Period.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 299–336. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Schade, Aaron P. “The Kingdom of Judah: Politics, Prophets, and Scribes in the Late Preexilic Period.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 299–336. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 ---
 
 <a id="1-nephi-14--in-what-ways-was-jerusalem-a-great-city"></a>
-### 1 ニーファイ 1:4 — エルサレムはどのような意味で「偉大な」都だったか
+
+### 第一ニーファイ 1:4 — エルサレムはどのような意味で「偉大な」都だったか
 
 偉大な都エルサレムが滅ぼされるという考えは、想像を絶するものでした。リーハイの時代、エルサレム全体の人口は約1万人だったと推定されています。大半の人は都に住むのではなく、周辺の村々で農業を営んでいました。
 
 エルサレムが「偉大」だったのは、人口が多かったからというより、聖なる都であり、神殿があったからです。申命記 12章で何度も言及される聖なる場所であり、神の住まわれる所でした。さまざまな理由から、神の聖なる場所が滅ぼされるという考えは冒瀆的で、ばかげており、あり得ないことに思われたのです。
 
-- Seely, David Rolph, and Fred E. Woods. “How Could Jerusalem, ‘That Great City,’ Be Destroyed?” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 595–610. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Seely, David Rolph, and Fred E. Woods. “How Could Jerusalem, ‘That Great City,’ Be Destroyed?” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 595–610. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 ---
 
 <a id="1-nephi-15--lehis-intercessory-prayer"></a>
-### 1 ニーファイ 1:5 — リーハイの執り成しの祈り
+
+### 第一ニーファイ 1:5 — リーハイの執り成しの祈り
 
 エルサレムがいかに大切で、滅びるはずがないと思われていたかを踏まえても、民の大半はすでに悪の道に傾いていました。預言者の警告に前向きに応じた人はほとんどいませんでした。しかし、リーハイは警告を軽んじませんでした。信じたのです。望みが薄くても、彼は信頼しました。
 
 まずリーハイは出て行き、民のために祈りました。この祈りは執り成しの祈りと呼ばれ、当時のイスラエル人の礼拝で広く行われていました。預言者たちは民のために祈り、神がともにいて祝福してくださるよう願いました。祈りには、義にかなって従う者への祝福の願いと、不従順や悪に対する呪いの言葉が含まれていました。悪人に呪いを宣言するときでさえ、預言者たちは民のために祈り、民が立ち返って悔い改めることを望んでいたのです（申命記 11:26–28; 29:18–28参照）。
 
-- Book of Mormon Central, “How Did God Call His Prophets in Ancient Times? (1 Nephi 15:8),” *KnoWhy* 17 (January 22, 2016).
-- Welch, John W. “The Calling of Lehi as a Prophet in the World of Jerusalem.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 421–448. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Book of Mormon Central, “How Did God Call His Prophets in Ancient Times? (1 Nephi 15:8),” _KnoWhy_ 17 (January 22, 2016).
+- Welch, John W. “The Calling of Lehi as a Prophet in the World of Jerusalem.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 421–448. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 ---
 
 <a id="1-nephi-167--lehis-first-visions"></a>
-### 1 ニーファイ 1:6–7 — リーハイが最初に見た示現
+
+### 第一ニーファイ 1:6–7 — リーハイが最初に見た示現
 
 リーハイがエルサレムと家族のために熱心に祈っていると、火の柱が現れました。それをきっかけにリーハイは天上の会議の示現を見て、書物を与えられました。火の柱は重要な象徴です。イスラエルの出エジプトでは、昼は雲の柱、夜は火の柱が民を導きました。聖文には、その柱が岩の上に来てとどまったと記されています。リーハイの住む地域には、とりわけ重要な岩がありました。神殿が建てられた岩です。
 
@@ -173,7 +184,7 @@
 
 火の柱には何か意味があるはずです。ほかの聖文ではどこに火の柱が出てくるでしょうか。モーセは燃える柴を見ました。主は夜、火の柱によってイスラエルの子らを導かれました。リーハイの示現で、主は火の象徴を通して、「リーハイよ、あなたはモーセのように祈り、民のために嘆願した。しかし、もう遅い」と告げておられたのかもしれません。リーハイが「岩」の上に降りてくるのを見た火の柱は、神殿の丘の原初の岩の上に建てられた神殿に臨む、神の裁きの焼き尽くす力を象徴していた可能性があります。リーハイは圧倒されましたが、主は「わたしはあなたとともにいる。モーセと同じように、火の柱に導かれて荒れ野へ出て行きなさい」と約束されました。
 
-リーハイは家に戻り、御霊と見たことに圧倒されて寝床に身を投げ出しました。そのように意識を失いかけている間に、二つ目の示現を受けます。天が開き、「神が御座に座し、数えきれないほどの天使の群れが神を歌い、ほめたたえている」のを見たと述べています（1 ニーファイ 1:8）。これは玉座の顕現と呼ばれます。このような示現では、預言者は天上の会議に招き入れられます。神の会議は通常、神の裁きを宣告する場です。そこでリーハイは書物を見せられました。その巻物には何が書かれていたでしょうか。エルサレムの運命です。「災いあれ、災いあれ、エルサレムよ。わたしはあなたの忌まわしい行いを見たからである」と読みました。
+リーハイは家に戻り、御霊と見たことに圧倒されて寝床に身を投げ出しました。そのように意識を失いかけている間に、二つ目の示現を受けます。天が開き、「神が御座に座し、数えきれないほどの天使の群れが神を歌い、ほめたたえている」のを見たと述べています（第一ニーファイ 1:8）。これは玉座の顕現と呼ばれます。このような示現では、預言者は天上の会議に招き入れられます。神の会議は通常、神の裁きを宣告する場です。そこでリーハイは書物を見せられました。その巻物には何が書かれていたでしょうか。エルサレムの運命です。「災いあれ、災いあれ、エルサレムよ。わたしはあなたの忌まわしい行いを見たからである」と読みました。
 
 預言者が示現を見て休み、その後さらに大きな示現を見るという型が、聖文にあることに気づくでしょうか。ジョセフ・スミスとモロナイが思い浮かびます。モロナイは何度も戻ってきて、同じことを繰り返し告げました。同じようにモーセも大きな霊的顕現を受け、多くを見聞きした後、力を取り戻すまで数時間かかりました。そして「このために、人は無に等しいと知った」と語っています（モーセ 1:10）。その後、さらに神の示現を経験し、地球全体を見て、その一つ一つに至るまで眺めました。このような壮大な示現から、リーハイもまた、主の業に召された偉大な予見者の伝統に連なる人だったことが分かります。
 
@@ -182,40 +193,44 @@
 ---
 
 <a id="1-nephi-18--lehis-call-to-preach"></a>
-### 1 ニーファイ 1:8 — リーハイの預言者としての召し
 
-ニーファイは第一章で、自分の記録の目的を明確に述べています。それはキリストの教義を教えることです。またこの章でニーファイは、リーハイがメシヤの来臨について知る示現を記録しています。リーハイはメシヤを繰り返しそう呼びます（1 ニーファイ 1:19; 10:4, 5, 7, 9–11, 14, 17）。さらに、十二使徒についても記されています。十二使徒は何をしたでしょうか。メシヤについて行きました。ニーファイによれば、「十二人は地の面に下って行き、最初の者が来て父の前に立った」のです。十二使徒は全地に遣わされました。今日、十二使徒定員会は何をしているでしょうか。世界中の業を監督しています。しかし、その一人はリーハイのもとへ下って来て、直接語りかけました。これは小さな出来事ではありません。
+### 第一ニーファイ 1:8 — リーハイの預言者としての召し
+
+ニーファイは第一章で、自分の記録の目的を明確に述べています。それはキリストの教義を教えることです。またこの章でニーファイは、リーハイがメシヤの来臨について知る示現を記録しています。リーハイはメシヤを繰り返しそう呼びます（第一ニーファイ 1:19; 10:4, 5, 7, 9–11, 14, 17）。さらに、十二使徒についても記されています。十二使徒は何をしたでしょうか。メシヤについて行きました。ニーファイによれば、「十二人は地の面に下って行き、最初の者が来て父の前に立った」のです。十二使徒は全地に遣わされました。今日、十二使徒定員会は何をしているでしょうか。世界中の業を監督しています。しかし、その一人はリーハイのもとへ下って来て、直接語りかけました。これは小さな出来事ではありません。
 
 ここで、前置詞の一つに注目する必要があります。リーハイは、「神が御座に座しておられ、その周りを数えきれないほどの天使の群れが取り囲み、神を歌い、ほめたたえているのを見たと思った」と記しています。「天使の群れに囲まれている」という表現です。「～とともに囲まれる」ことと「～によって取り囲まれる」ことには、どのような違いがあるでしょうか。神が天使たちとともにおられることを示しているのかもしれず、重要な違いがあります。普通なら「～によって取り囲まれる」と言うところを、リーハイは「数えきれない天使の群れとともに」と表現しています。「ともに」には「によって」以上の意味があるのかもしれません。この小さく珍しい語の選び方は、神がどのようなお方かを描き出します。神は御自分を誇示するために天使たちに囲まれているのではありません。一人一人の救いに深く関わる方として、彼らとともにおられるのです。これは美しい啓示だと思います。
 
 次に、真昼の太陽よりも輝かしいこの御方、すなわち主イエス・キリストが降りて来られました。何をされたでしょうか。リーハイに書物をお渡しになりました。その書物はどのような意味を持つのでしょうか。モルモン書にはどのような意義があるでしょうか。世界の主要な宗教が始まった経緯を見ると、どれも書物から始まっています。教義と宗教を確立するうえで、書物は欠かせません。地上にも天にも書物があります。リーハイの示現が示すように、天の定めは書物で宣言され、わたしたちの行いは命の書に記され、神から与えられた言葉によって裁かれます（モーサヤ 3:24; モロナイ 10:27）。
 
-- Welch, John W. “The Calling of Lehi as a Prophet in the World of Jerusalem.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 421–448. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Welch, John W. “The Calling of Lehi as a Prophet in the World of Jerusalem.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 421–448. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 ---
 
 <a id="1-nephi-11314--redemption-despite-affliction"></a>
-### 1 ニーファイ 1:13–14 — 苦難の中にある贖い
 
-この示現の中でリーハイは、エルサレムの忌まわしい行いと、都およびその住民が滅ぼされて捕囚となることを見ました。すべての破壊を見た後、彼は主にこう叫びました。「おお、全能の主なる神よ、あなたの業は偉大であり、驚くべきものです。あなたの御座は天高く、あなたの力と慈しみと憐れみは地のすべての住民に及んでいます。あなたは憐れみ深い御方ですから、あなたのもとに来る者が滅びるのをお許しになりません」（1 ニーファイ 1:14）。
+### 第一ニーファイ 1:13–14 — 苦難の中にある贖い
+
+この示現の中でリーハイは、エルサレムの忌まわしい行いと、都およびその住民が滅ぼされて捕囚となることを見ました。すべての破壊を見た後、彼は主にこう叫びました。「おお、全能の主なる神よ、あなたの業は偉大であり、驚くべきものです。あなたの御座は天高く、あなたの力と慈しみと憐れみは地のすべての住民に及んでいます。あなたは憐れみ深い御方ですから、あなたのもとに来る者が滅びるのをお許しになりません」（第一ニーファイ 1:14）。
 
 主が民に宣告した滅びを目にして、リーハイは衝撃を受け、恐れおののいたと思うかもしれません。しかし、彼の反応は畏敬と礼拝でした。このテーマはモルモン書全体、特に第一・第二ニーファイ書に繰り返し現れます。何十年も後に、息子ニーファイは父の経験をこの心構えから記録しました。そのころのニーファイ自身も多くの苦難を経験し、自分の民が将来滅びる示現を見て、家族の多くを死や悪によって失っていました。それでもニーファイにとって、常に中心にあったのは神の栄光でした。試練の時にも、ニーファイは父リーハイと同じように、苦難を超える贖いの力を見ることができました。
 
 ---
 
 <a id="1-nephi-18-1415--grace-in-the-destruction-singing-and-praising-god"></a>
-### 1 ニーファイ 1:8, 14–15 — 滅びの中にある恵み：「神を歌い、ほめたたえる」
+
+### 第一ニーファイ 1:8, 14–15 — 滅びの中にある恵み：「神を歌い、ほめたたえる」
 
 リーハイは、民が悔い改めなければ彼らに臨む滅びと災いを見ました。また、天使たちが神を賛美して歌うのも見ました。示現の終わりに、リーハイは神の善良さに感謝し、畏敬の念に満たされました。滅びの中に、どのように神の善良さを見いだせるのでしょうか。最後に重要なのは、神が憐れみ深く、神のもとに来る者を滅びるままにはされないということです。
 
 リーハイは、従順を拒むエルサレムの住民や指導者たちに臨む災いと、その結果だけを見たのではありません。悔い改めて悪から離れる人々に与えられる大いなる約束も見ました。滅びと恐ろしい出来事を見た後、彼は「あなたの業は偉大であり、驚くべきものです」と叫びました。まず彼は主のなさることを全面的に受け入れました。「あなたの御座は天高く、あなたの力と慈しみと憐れみは地のすべての住民に及んでいます。」この後のリーハイの関心は、憐れみにあったようです。示現の中で彼の霊が見たのは、神の憐れみだったのです。
 
-- Book of Mormon Central, “What Is It to Speak with the Tongue of Angels? (2 Nephi 32:2),” *KnoWhy* 60 (March 23, 2016).
+- Book of Mormon Central, “What Is It to Speak with the Tongue of Angels? (2 Nephi 32:2),” _KnoWhy_ 60 (March 23, 2016).
 
 ---
 
 <a id="1-nephi-118--lehi-prophesies-to-jerusalem-concerning-its-destruction"></a>
-### 1 ニーファイ 1:18 — リーハイ、エルサレムの滅亡を預言する
+
+### 第一ニーファイ 1:18 — リーハイ、エルサレムの滅亡を預言する
 
 リーハイが預言を始めた紀元前605年、アッシリア人はエジプトを征服していました。エジプトまで勢力を広げたことで、彼らは兵力を広範囲に分散させすぎたのかもしれません。東側の側面が手薄になったところへ、バビロンが進出し、支配権を握ろうとしました。この状況によって、バビロンは南のエルサレムへ進軍する足場を得ました。リーハイをはじめ多くの預言者が「次はわたしたちだ」と警告したのは、もっともなことです。エルサレムの陥落は一般に紀元前597年ごろと考えられています。
 
@@ -232,15 +247,16 @@
 
 このような状況の中、リーハイは民の間へ出て行き、悔い改めを説きました。人々はどう応じたでしょうか。怒りです。ユダヤ人たちは、リーハイが「すべては順調だ」と言わず、「エルサレムは滅ぼされる。わたしはそれを見た。あなたがたは悪い民だ」と告げたため、激怒しました。エレミヤのときと同じように、人々はリーハイに憤り、彼の命が危険にさらされるほどでした。
 
-- Satterfield, Bruce. “The Divine Justification for the Babylonian Destruction of Jerusalem.” In *Glimpses of Lehi’s Jerusalem*, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 561–594. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
+- Satterfield, Bruce. “The Divine Justification for the Babylonian Destruction of Jerusalem.” In _Glimpses of Lehi’s Jerusalem_, edited by John W. Welch, David Rolph Seely and Jo Ann H. Seely, 561–594. Provo, UT: Foundation for Ancient Research and Mormon Studies, 2004.
 
 ---
 
 <a id="1-nephi-120--the-tender-mercies-of-the-lord"></a>
-### 1 ニーファイ 1:20 — 主の深い憐れみ
+
+### 第一ニーファイ 1:20 — 主の深い憐れみ
 
 第一ニーファイ書の最初の部分を締めくくるにあたり、ニーファイは、信仰のゆえに主が選ばれたすべての人に主の深い憐れみが及び、その人々を救い出す力によって強くしてくださることを示す、と述べています。
 
 神の憐れみはニーファイにとって大切な主題であり、モルモン書の最後の章まで続きます。モロナイは、神が憐れみ深くあられたことを覚えるのが、心と魂を備え、聖霊の力によって霊感と啓示を受けるための大切な一歩だと教えています（モロナイ 10:3–4）。
 
-- Book of Mormon Central, “How Can We Be Delivered through the Lord’s Tender Mercies? (1 Nephi 1:20),” *KnoWhy* 447 (July 5, 2018).
+- Book of Mormon Central, “How Can We Be Delivered through the Lord’s Tender Mercies? (1 Nephi 1:20),” _KnoWhy_ 447 (July 5, 2018).

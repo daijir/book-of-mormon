@@ -6,7 +6,7 @@
   - [イースターの考察](00_special_topics/02_easter_reflections_notes.md)
   - [タイトルページの構造分析](00_special_topics/03_title_page_structure.md)
 
-- **第1ニーファイ (1 Nephi)**
+- **第一ニーファイ (1 Nephi)**
   - [第1章 注解の和訳](01_1nephi/01.md)
   - [第1章 John W Welch Notes](01_1nephi/01_notes.md)
   - [第2章 注解の和訳](01_1nephi/02.md)
@@ -52,7 +52,7 @@
   - [第22章 注解の和訳](01_1nephi/22.md)
   - [第22章 John W Welch Notes](01_1nephi/22_notes.md)
 
-- **第2ニーファイ (2 Nephi)**
+- **第二ニーファイ (2 Nephi)**
   - [第1章 注解の和訳](02_2nephi/01.md)
   - [第1章 John W Welch Notes](02_2nephi/01_notes.md)
   - [第2章 注解の和訳](02_2nephi/02.md)

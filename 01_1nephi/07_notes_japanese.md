@@ -4,19 +4,21 @@
 
 ## 目次
 
-- [1 ニーファイ 7:1–5 — リーハイの息子たち、イシマエルとその家族を迎えに戻る](#1-nephi-715--lehis-sons-return-to-get-ishmael-and-his-family)
+- [第一ニーファイ 7:1–5 — リーハイの息子たち、イシマエルとその家族を迎えに戻る](#1-nephi-715--lehis-sons-return-to-get-ishmael-and-his-family)
   - [レーマンとレムエル、イシマエルの息子たちは戻ることができたか](#could-laman-and-lemuel-and-the-sons-of-ishmael-have-ever-gone-back)
   - [なぜイシマエルの家族が選ばれたのか](#why-was-ishmaels-family-chosen)
-- [1 ニーファイ 7:6–16 — 荒れ野での反抗とニーファイの嘆願](#1-nephi-7616--rebellion-in-the-wilderness-and-nephis-plea)
+- [第一ニーファイ 7:6–16 — 荒れ野での反抗とニーファイの嘆願](#1-nephi-7616--rebellion-in-the-wilderness-and-nephis-plea)
   - [彼らに選択の余地はあったのか](#did-they-have-a-choice)
-- [1 ニーファイ 7:22 — イシマエルの家族とともに無事戻った後の犠牲の意味](#1-nephi-722--the-meaning-behind-the-sacrifice-offered-upon-the-safe-return-of-lehis-sons-with-ishmaels-family)
+- [第一ニーファイ 7:22 — イシマエルの家族とともに無事戻った後の犠牲の意味](#1-nephi-722--the-meaning-behind-the-sacrifice-offered-upon-the-safe-return-of-lehis-sons-with-ishmaels-family)
 
 ---
 
 <a id="1-nephi-715--lehis-sons-return-to-get-ishmael-and-his-family"></a>
-### 1 ニーファイ 7:1–5 — リーハイの息子たち、イシマエルとその家族を迎えに戻る
+
+### 第一ニーファイ 7:1–5 — リーハイの息子たち、イシマエルとその家族を迎えに戻る
 
 <a id="could-laman-and-lemuel-and-the-sons-of-ishmael-have-ever-gone-back"></a>
+
 #### レーマンとレムエル、イシマエルの息子たちは戻ることができたか
 
 第七章の章見出しには、ニーファイと兄たちが「エルサレムに戻る」とあります。しかし、ニーファイ自身は「エルサレムの地」に戻ったと具体的に記しています。都そのものに入るのは、賢明でないばかりか、危険だったでしょう。
@@ -24,6 +26,7 @@
 イシマエルもリーハイと同じく、エルサレムの市街地に住んでいたとは考えにくいでしょう。では「エルサレムの地」とは何でしょうか。エルサレムの城壁をはるかに越えて広がる、ユダ族全体の地域を指していたのかもしれません。
 
 <a id="why-was-ishmaels-family-chosen"></a>
+
 #### なぜイシマエルの家族が選ばれたのか
 
 なぜイシマエルの家族が、荒れ野でリーハイの家族に加わるよう選ばれたのでしょうか。リーハイの文化では、人々はいつ結婚したのでしょうか。
@@ -35,15 +38,17 @@
 ---
 
 <a id="1-nephi-7616--rebellion-in-the-wilderness-and-nephis-plea"></a>
-### 1 ニーファイ 7:6–16 — 荒れ野での反抗とニーファイの嘆願
+
+### 第一ニーファイ 7:6–16 — 荒れ野での反抗とニーファイの嘆願
 
 レーマンとレムエル、そしてイシマエルの息子たちは、エルサレムの地を遠く離れる前から、後にしてきた生活に戻りたがりました。
 
 ニーファイは彼らにこう問いかけました。「どうして忘れてしまえるのですか。あれほど多くを見て経験したのに、まだ信仰がないのですか。」そして、最後にこう言いました。
 
-> 「さて見よ、あなたがたに言う。もしあなたがたがエルサレムに戻るなら、あなたがたも彼らとともに滅びるであろう。さて、もし選ぶことができると思うなら、その地へ上って行きなさい。そして、わたしがあなたがたに話す言葉を覚えておきなさい。あなたがたが行くなら、あなたがたも滅びるであろう。主の御霊がわたしにそう語るよう強く促しておられるからである。」（1 ニーファイ 7:15）
+> 「さて見よ、あなたがたに言う。もしあなたがたがエルサレムに戻るなら、あなたがたも彼らとともに滅びるであろう。さて、もし選ぶことができると思うなら、その地へ上って行きなさい。そして、わたしがあなたがたに話す言葉を覚えておきなさい。あなたがたが行くなら、あなたがたも滅びるであろう。主の御霊がわたしにそう語るよう強く促しておられるからである。」（第一ニーファイ 7:15）
 
 <a id="did-they-have-a-choice"></a>
+
 #### 彼らに選択の余地はあったのか
 
 彼らに選択の余地はあったのでしょうか。イシマエルの領地に戻ったとしても――おそらくイシマエルの息子たちが戻りたがった場所でしょう――あまり安全ではなかったでしょう。エルサレムはますます危険になっていました。
@@ -53,7 +58,8 @@
 ---
 
 <a id="1-nephi-722--the-meaning-behind-the-sacrifice-offered-upon-the-safe-return-of-lehis-sons-with-ishmaels-family"></a>
-### 1 ニーファイ 7:22 — イシマエルの家族とともに無事戻った後の犠牲の意味
+
+### 第一ニーファイ 7:22 — イシマエルの家族とともに無事戻った後の犠牲の意味
 
 一行は宿営地に戻るたびに犠牲をささげ、リーハイと家族はイスラエルの神に感謝しました。彼らがまず行ったのは、自分たちを守ってくださった神を認めることでした。
 
@@ -68,4 +74,4 @@
 
 #### さらに読む
 
-- Book of Mormon Central, “How Could Lehi Offer Sacrifices Outside of Jerusalem? (1 Nephi 7:22),” *KnoWhy* 9 (January 12, 2016).
+- Book of Mormon Central, “How Could Lehi Offer Sacrifices Outside of Jerusalem? (1 Nephi 7:22),” _KnoWhy_ 9 (January 12, 2016).

@@ -56,8 +56,6 @@ In Lehi’s case, the Spirit “bade” him to follow. Lehi realized that there 
 
 Remember that the texture of the relationship between God and Lehi was very warm. Even though there would be undesirable consequences if Lehi didn’t follow the bidding of the Lord, His gentle commands were all grounded in a loving relationship. After all, the tree that the Spirit is bidding Lehi to approach is a representation of the Love of God.
 
-*(Illustration reference: Figure 1 — Tree of Life by Hannah Butler)*
-
 #### Further Reading
 
 - Book of Mormon Central, “Why Were Lehi and Nephi Guided by Angelic Escorts in Their Visions? (1 Nephi 11:11),” *KnoWhy* 492 (December 11, 2018).
@@ -85,8 +83,6 @@ Here in the Psalms, we find one of the strongest early representations of what c
 
 Lehi’s dream, which also emphasizes this theme of divergent paths, can be seen as a spiritual fountainhead that influences later Book of Mormon thought. In succession, prophets such as Jacob, Abinadi, Alma the Elder and the Younger, and Mormon, draw heavily upon the imagery of living waters, which as Nephi explains (1 Nephi 11:25), is connected to the symbolism of the Tree of Life. (See Mack C. Stirling, “The Way of Life and the Way of Death in the Book of Mormon,” *Journal of Book of Mormon Studies* 6, no. 2 [1997]: 180–186). Lehi emphasized how blessed people are who will keep the law and the commandments, following the straight and narrow path to eternal life.
 
-*(Reference: Figure 2 — John W. Welch and Greg Welch, "The Ways of Life and Death: The Visionary Perception of Lehi and Nephi," Provo, UT: FARMS, 1999)*
-
 Seeing in his dream a complex scene of a tree planted in a garden next to a river, Lehi would have been reminded of powerful images coming from several religious and cultural directions.
 
 #### Alma 32 and the Seed of Faith
@@ -98,8 +94,6 @@ You must plant the seed of a basic belief in Christ—that He will be the Son of
 Thus, the message of Alma 32, which is talking all about faith and the seed of faith, builds upon Lehi’s dream of the Tree of Life. Alma’s message involves going forward with keeping the commandments, doing God’s bidding, and being diligent in cultivating, caring for, and protecting this tender plant of faith so that you yourself will become, in effect, a Tree of eternal Life in the garden of God’s paradisiacal glory.
 
 Thus, the symbolic meaning of the great cosmic tree has migrated from being a national symbol in Zenos’s allegory in Jacob 5, to becoming a symbol of choice here in Lehi’s dream as he and his family face an either-or choice, and finally to being a representation of inward fruitful righteousness and personal testimony in Alma 32. The image of the tree of life bears a lot of weight and yields fruit in many ways.
-
-*(Reference: Figure 3 — John W. Welch and Greg Welch, "Three Trees in the Book of Mormon," in Charting the Book of Mormon, Provo, UT: Book of Mormon Central, 1999)*
 
 #### Further Reading
 
