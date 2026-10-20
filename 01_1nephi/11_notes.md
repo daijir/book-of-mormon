@@ -27,8 +27,6 @@ Nephi’s vision, which stands at the center of the book of 1 Nephi, is four cha
 
 Nephi introduced these four stages in 1 Nephi 11–14. This same sequence will be repeated by Nephi in 1 Nephi 19–22.
 
-*(Reference: Figure 1 — John W. Welch and Greg Welch, “Four Stages of the Nephite Prophetic View,” in Charting the Book of Mormon [Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999].)*
-
 Indeed, Nephi will again use this same prophetic worldview as the underlying structure behind his teachings in 2 Nephi 25–30, and it will become the foundational framework within which Jacob, Abinadi, and several other Nephite writers will subsequently see the future of their world. I call this “the Nephite prophetic worldview.”
 
 Knowing this framework can help all readers in many ways. For example, it helps readers get through the Isaiah chapters in the Book of Mormon, understanding why the Nephite writers used the particular chapters from Isaiah that they did.
@@ -61,8 +59,6 @@ At least twenty-five elements in Lehi’s vision will show up in Nephi’s visio
 - Lehi sees that **Laman and Lemuel will not come to partake** of the fruit; Nephi similarly sees that people reject Christ.
 - Lehi sees **numberless concourses of people**, while Nephi sees multitudes like the sands of the sea.
 
-*(Reference: Figure 2 — John W. Welch and Greg Welch, “A Comparison of Lehi’s Dream and Nephi’s Vision,” in Charting the Book of Mormon [Provo, UT: Foundation for Ancient Research and Mormon Studies, 1999].)*
-
 While reading the Book of Mormon, one is always looking for ways to know that it is true. One of the ways that we can know that this text is true is by noticing and appreciating the overall complexity of Nephi’s account. His vision works beautifully as an interpretive, deeper understanding of what Lehi saw, giving us confidence that there are two witnesses of this great story, justifying that we should be commandment keepers who hold steadfastly to the iron rod.
 
 ---
@@ -78,8 +74,6 @@ How could Nephi accomplish the task of correctly ruling over his elder brothers 
 Nephi puts his account of this vision at the very center of his first book written on his small plates. There are twenty-two chapters in 1 Nephi, and the entire book appears to have been arranged as a chiasm, where elements in the first part of the book are reversed and then repeated in the second part (See Figure 3).
 
 #### Chiastic Structure of 1 Nephi
-
-*(Reference: Figure 3 — Chiastic Structure of 1 Nephi. John W. Welch and Greg Welch.)*
 
 - **A** Lehi prophesies warnings of destruction to the Jews and foresees the mercy of God (Chapter 1)
   - **B** Lehi’s group departs from Jerusalem (2:2–15)
