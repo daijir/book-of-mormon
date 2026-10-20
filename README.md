@@ -45,7 +45,7 @@
 ---
 
 ### 4. 精緻な古代の構造とキリストへの証 — ジョン・W・ウェルチ
-> **「モルモン書は、深遠で、豊かで、複雑性に満ちています。真剣な探求者がテキストを深く調べ、その文学的構造、古代の法律制度のニュアンス、ヘブル詩の技巧、そして何よりもイエス・キリストの力強い証を味わうとき、この書物が神の賜物と力によってもたらされたものであるという確信は揺るぎないものとなります。モルモン書は、深く掘り下げる者に無限の報いを与えてくれるのです。」**
+> **「モルモン書は、豊かで、複雑で、深淵な書物です。さらに深く、その文学的構造、古代の法律制度のニュアンス、ヘブル詩の技巧、そして何よりもイエス・キリストの力強い証を味わうとき、この書物が神の賜物と力によってもたらされたものであるという確信は揺るぎないものとなります。モルモン書は、深く掘り下げる者に無限の報いを与えてくれるのです。」**
 >
 > *"The Book of Mormon is rich, complex, and profound. The more you study it—its intricate structures, ancient legal nuances, and powerful testimonies of Christ—the more you discover that it could only have come forth by the gift and power of God. It endlessly rewards the serious and prayerful student."*
 >
