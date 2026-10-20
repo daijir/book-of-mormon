@@ -1,6 +1,6 @@
-### モルモン書個人研究
+### John W Welch Notesの原文と和訳
 
-このリポジトリは、John W. Welch Notesの原文と和訳を各章ごとにまとめたものです。
+このレポジトリはJohn W Welch氏(BYU法学名誉教授、FARMS創設者)が2006年から2018年にかけて、ユタ州プロボ・エッジモントステークで教えた聖文クラスの内容を元に作成されたJohn W Welch Notesの原文と和訳をまとめたものです。
 
 > ### Webサイト版のご案内
 > 
@@ -44,8 +44,8 @@
 
 ---
 
-### 4. 精緻な古代の構造とキリストへの証 — ジョン・W・ウェルチ
-> **「モルモン書は、豊かで、複雑で、深淵な書物です。さらに深く、その文学的構造、古代の法律制度のニュアンス、ヘブル詩の技巧、そして何よりもイエス・キリストの力強い証を味わうとき、この書物が神の賜物と力によってもたらされたものであるという確信は揺るぎないものとなります。モルモン書は、深く掘り下げる者に無限の報いを与えてくれるのです。」**
+### 4. 精緻な構造とキリストへの証 — ジョン・W・ウェルチ
+> **「モルモン書は豊かで、複雑で、深遠な書物です。その緻密な構造、古代の法制度に見られる細やかなニュアンス、そしてキリストへの力強い証しをさらに深く学ぶほど、この書物が神の賜物と力によってもたらされたものであるという確信が深まります。真剣に祈りながら学ぶ人に、尽きることのない実りをもたらしてくれる書物です。」**
 >
 > *"The Book of Mormon is rich, complex, and profound. The more you study it—its intricate structures, ancient legal nuances, and powerful testimonies of Christ—the more you discover that it could only have come forth by the gift and power of God. It endlessly rewards the serious and prayerful student."*
 >
