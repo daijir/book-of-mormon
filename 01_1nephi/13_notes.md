@@ -94,15 +94,15 @@ He explained to this seminar that it tells a story about a man named Zosimus who
 
 Then, a man walks up to him and says, “Zosimus, what are you doing here? How did you get here?”
 
-Zosimus answers, “I prayed and the Lord brought me here.”
+  Zosimus answers, “I prayed and the Lord brought me here.”
 
-The man says, “Well, then it must be okay for me to tell you a little bit about who we are. We left Jerusalem at the time it was about to be destroyed by the Babylonians. The Lord brought us over here to this part of the world where we have preserved the way of righteousness. We have been keeping our records, and we have been told that someday these records will go back to Jerusalem. If you have been brought here by the Lord, then I can show these to you.”
+  The man says, “Well, then it must be okay for me to tell you a little bit about who we are. We left Jerusalem at the time it was about to be destroyed by the Babylonians. The Lord brought us over here to this part of the world where we have preserved the way of righteousness. We have been keeping our records, and we have been told that someday these records will go back to Jerusalem. If you have been brought here by the Lord, then I can show these to you.”
 
-The text then has about six or seven paragraphs of what was read and what Zosimus was taught. Zosimus is exuberant and joyous that he now has accomplished his mission. He is then taken back across the ocean and he goes back to Jerusalem. Zosimus’ dream finishes with him building a monument of covenant where he takes the texts and the things that he has learned.
+  The text then has about six or seven paragraphs of what was read and what Zosimus was taught. Zosimus is exuberant and joyous that he now has accomplished his mission. He is then taken back across the ocean and he goes back to Jerusalem. Zosimus’ dream finishes with him building a monument of covenant where he takes the texts and the things that he has learned.
 
-Now you can just imagine: there I was in Charlesworth’s class as he was talking about this recently discovered record from around the time of Christ. Later, he said, “Jack, I thought you were levitating.”
+  Now you can just imagine: there I was in Charlesworth’s class as he was talking about this recently discovered record from around the time of Christ. Later, he said, “Jack, I thought you were levitating.”
 
-I replied, “Well, this may sound strange to you, but it sounded very familiar to me.”
+  I replied, “Well, this may sound strange to you, but it sounded very familiar to me.”
 
 I quickly mentioned just a few of the ways the Narrative of Zosimus seemed to be a cousin to 1 Nephi. There were many striking similarities. I was assigned to come back the next class period with a more extensive comparison, which was easy to do. I had mentioned the Book of Mormon on several occasions before in this class which had always been received with mocking and scorn. But when I finished, the class was silent and Charlesworth said, “Well class, as you are thinking about what to make of the Narrative of Zosimus, you might want to think about what to make of the Book of Mormon.”
 
