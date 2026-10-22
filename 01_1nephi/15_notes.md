@@ -19,8 +19,6 @@ At the opening of 1 Nephi 15, after Nephi returned from having his vision, he fo
 
 Nephi was exhausted. He had just seen the destruction of his people, and was overwhelmed at the great Plan of Redemption that he had just witnessed. And now he returned to see his brothers arguing.
 
-*(Reference: Figure 5 — The Apocalypse of Saint John the Evangelist on the Island of Patmos by Jan Matsys, 1563. Image via Wikimedia Commons.)*
-
 Remember what he asked them? “Have ye inquired of the Lord?” (v. 8). And what was their response? “We have not; for the Lord maketh no such thing known unto us” (v. 9).
 
 This answer probably left Nephi utterly flabbergasted. How could they possibly not understand that they could ask the Lord and receive the information they needed? Of course the Lord would talk to Laman and Lemuel! But they were not obedient. They were hard-hearted, quick to anger, and filled with doubt. Their wickedness was like a degenerative disease that became worse and worse until there was nothing but emptiness and cynicism left in their hearts. But Nephi saw that this could have been a turning point for them, so he encouraged them to pray and learn for themselves.
