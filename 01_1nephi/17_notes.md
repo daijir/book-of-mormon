@@ -29,7 +29,7 @@ But more than that, the idea of eating raw meat must have been even more shockin
 
 I think what Nephi learned from their survival was not how self-sufficient they had become—Are we not clever? Look how we were able to get all the way down the coast of the Red Sea! I was able to fix my bow! No, he gave full credit to the Lord. Look at the things the Lord has done for us:
 
-> “So great were the blessings of the Lord upon us.” (1 Nephi 17:3)
+> “So great were the blessings of the Lord upon us.” (1 Nephi 17:2)
 
 #### Further Reading
 
